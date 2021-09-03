@@ -725,24 +725,12 @@
             "name": "Others"
           },
           {
-            "id": 12613,
-            "name": "Dry Stretch"
-          },
-          {
             "id": 12664,
             "name": "DRY-EX"
           },
           {
             "id": 12715,
             "name": "Easy Care Shirt"
-          },
-          {
-            "id": 12621,
-            "name": "Easy"
-          },
-          {
-            "id": 12643,
-            "name": "Easy"
           },
           {
             "id": 16037,
@@ -757,12 +745,20 @@
             "name": "Parka"
           },
           {
+            "id": 11735,
+            "name": "Others"
+          },
+          {
             "id": 11750,
             "name": "Others"
           },
           {
             "id": 11711,
             "name": "Others"
+          },
+          {
+            "id": 13116,
+            "name": "+ J"
           },
           {
             "id": 12623,
@@ -875,6 +871,10 @@
           {
             "id": 12597,
             "name": "Chino"
+          },
+          {
+            "id": 12724,
+            "name": "Cardigans"
           },
           {
             "id": 12478,
