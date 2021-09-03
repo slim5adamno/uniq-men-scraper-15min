@@ -24,11 +24,6 @@
           "name": "GRAY"
         },
         {
-          "code": "COL04",
-          "displayCode": "04",
-          "name": "GRAY"
-        },
-        {
           "code": "COL05",
           "displayCode": "05",
           "name": "GRAY"
@@ -189,11 +184,6 @@
           "name": "DARK GREEN"
         },
         {
-          "code": "COL59",
-          "displayCode": "59",
-          "name": "DARK GREEN"
-        },
-        {
           "code": "COL61",
           "displayCode": "61",
           "name": "BLUE"
@@ -247,18 +237,6 @@
           "id": 12
         },
         {
-          "code": "preSales",
-          "name": "App only Exclusive",
-          "rank": 8,
-          "id": 5
-        },
-        {
-          "code": "comingSoon",
-          "name": "Coming Soon",
-          "rank": 11,
-          "id": 13
-        },
-        {
           "code": "onlineOnly",
           "name": "Online Only",
           "rank": 12,
@@ -292,7 +270,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 121
+          "count": 120
         },
         {
           "from": 1000,
@@ -318,58 +296,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 156,
+          "accumulated": 155,
           "count": 118
         },
         {
           "rating": 0.5,
-          "accumulated": 38,
+          "accumulated": 37,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 38,
+          "accumulated": 37,
           "count": 4
         },
         {
           "rating": 1.5,
-          "accumulated": 34,
+          "accumulated": 33,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 34,
+          "accumulated": 33,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 33,
+          "accumulated": 32,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 33,
+          "accumulated": 32,
           "count": 5
         },
         {
           "rating": 3.5,
-          "accumulated": 28,
+          "accumulated": 27,
           "count": 4
         },
         {
           "rating": 4,
-          "accumulated": 24,
+          "accumulated": 23,
           "count": 8
         },
         {
           "rating": 4.5,
-          "accumulated": 16,
+          "accumulated": 15,
           "count": 2
         },
         {
           "rating": 5,
-          "accumulated": 14,
-          "count": 14
+          "accumulated": 13,
+          "count": 13
         }
       ],
       "sizes": [
@@ -546,10 +524,6 @@
             "name": "SPORT UTILITY WEAR"
           },
           {
-            "id": 11683,
-            "name": "AIRism"
-          },
-          {
             "id": 11684,
             "name": "HEATTECH"
           },
@@ -664,10 +638,6 @@
             "name": "Shorts"
           },
           {
-            "id": 11756,
-            "name": "Tops"
-          },
-          {
             "id": 11769,
             "name": "HEATTECH Regular Warm"
           },
@@ -718,10 +688,6 @@
             "name": "Innerwear"
           },
           {
-            "id": 12486,
-            "name": "AIRism"
-          },
-          {
             "id": 12612,
             "name": "DRY-EX"
           },
@@ -750,10 +716,6 @@
             "name": "Pique"
           },
           {
-            "id": 12491,
-            "name": "Jersey"
-          },
-          {
             "id": 12669,
             "name": "Parka"
           },
@@ -764,6 +726,10 @@
           {
             "id": 11711,
             "name": "Others"
+          },
+          {
+            "id": 13116,
+            "name": "+ J"
           },
           {
             "id": 12623,
@@ -788,10 +754,6 @@
           {
             "id": 12650,
             "name": "Belts"
-          },
-          {
-            "id": 12693,
-            "name": "Polo Shirts"
           },
           {
             "id": 12110,
@@ -850,6 +812,10 @@
             "name": "Ultra Light Down"
           },
           {
+            "id": 12720,
+            "name": "Ultra Light Jacket"
+          },
+          {
             "id": 12476,
             "name": "Easy Care"
           },
@@ -880,6 +846,10 @@
           {
             "id": 12478,
             "name": "Hoodies"
+          },
+          {
+            "id": 12724,
+            "name": "Cardigans"
           },
           {
             "id": 12484,
@@ -2658,7 +2628,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -12157,7 +12127,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -12372,7 +12342,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -12593,7 +12563,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -12817,7 +12787,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -13038,7 +13008,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -13291,7 +13261,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -13529,7 +13499,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -13858,6 +13828,48 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL42",
+            "displayCode": "42",
+            "name": "YELLOW",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "Body: 100% Cotton/ Rib: 71% Cotton, 29% Polyester",
@@ -14021,9 +14033,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL42",
+            "displayCode": "42",
+            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14041,7 +14053,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06161930",
+          "l2Id": "06161966",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14276,7 +14288,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -14500,7 +14512,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -14727,7 +14739,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -15669,6 +15681,20 @@
             }
           },
           {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL68",
             "displayCode": "68",
             "name": "BLUE",
@@ -16570,7 +16596,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -16794,7 +16820,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -17018,7 +17044,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -17239,7 +17265,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -17463,7 +17489,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -17690,7 +17716,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -17917,7 +17943,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -18144,7 +18170,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -18371,7 +18397,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -18598,7 +18624,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -18825,7 +18851,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 100,
           "count": 0,
           "items": []
         },
@@ -19089,7 +19115,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -19321,7 +19347,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -19536,7 +19562,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -19754,7 +19780,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -19975,7 +20001,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -20196,7 +20222,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -20414,7 +20440,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -20635,7 +20661,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -21060,7 +21086,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -21482,7 +21508,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -21693,7 +21719,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -21913,7 +21939,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -22127,7 +22153,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -22338,7 +22364,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -22549,7 +22575,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -22757,7 +22783,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -22965,7 +22991,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -23176,7 +23202,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -23387,7 +23413,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -23598,7 +23624,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -23809,7 +23835,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -24011,7 +24037,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -24271,7 +24297,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -24546,7 +24572,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -24766,7 +24792,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -27357,6 +27383,20 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "100% Polyester",
@@ -27447,9 +27487,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -27467,7 +27507,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05352772",
+          "l2Id": "05352781",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -27932,278 +27972,6 @@
         },
         "shortDescription": "Andy Warhol’s compilation of masterpieces, “From A to B and Back Again.” A UT collection based on his immortal works.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/426803_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle"
-      },
-      {
-        "careInstruction": "-",
-        "colors": [
-          {
-            "code": "COL62",
-            "displayCode": "62",
-            "name": "BLUE",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "73% Cotton, 27% Polyester",
-        "designDetail": "",
-        "freeInformation": "",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/item/goods_00_425770.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/425770/item/ingoods_09_425770.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/item/goods_32_425770.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/item/goods_56_425770.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/item/goods_62_425770.jpg",
-              "colorCode": "62"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/item/goods_69_425770.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/chip/goods_00_425770_chip.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/chip/goods_09_425770_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/chip/goods_32_425770_chip.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/chip/goods_56_425770_chip.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/chip/goods_62_425770_chip.jpg",
-              "colorCode": "62"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/chip/goods_69_425770_chip.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/sub/goods_425770_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/sub/goods_425770_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/sub/goods_425770_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/sub/goods_425770_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425770/sub/goods_425770_sub21.jpg"
-            }
-          ]
-        },
-        "l1Id": "425770",
-        "longDescription": "- Easy-to-move in jersey material adds AIRism comfort.<br>- This season’s updates were designed to redefine the shoulders and chest area for an easy to wear silhouette. <br>- With minimal stitching around the collar and body for a cleaner look.",
-        "name": "MEN AIRism Jersey Short Sleeve Polo Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E425770-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 3,
-          "fit": 3.6666666666666665,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 3
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL62",
-            "displayCode": "62",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "limitedOffer",
-                "id": 10,
-                "name": "Limited Offer",
-                "detail": "Limited Offer Until Sep 9"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "App only Exclusive",
-                "detail": "App only Exclusive"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "05243690",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 100,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Soft jersey material and AIRism for comfort. With a style that opens in the front, it can be mixed and matched with different looks.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/425770_size.html",
         "sizeInformation": "",
         "sizes": [
           {
@@ -29677,7 +29445,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -29875,7 +29643,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -30982,6 +30750,34 @@
             }
           },
           {
+            "code": "COL55",
+            "displayCode": "55",
+            "name": "GREEN",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -31693,7 +31489,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -31935,7 +31731,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -34502,7 +34298,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -34745,7 +34541,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -35441,7 +35237,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -36662,7 +36458,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -36901,7 +36697,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 55,
           "count": 0,
           "items": []
         },
@@ -36957,8 +36753,8 @@
       }
     ],
     "pagination": {
-      "count": 156,
-      "total": 156,
+      "count": 155,
+      "total": 155,
       "offset": 1000
     }
   }
