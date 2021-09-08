@@ -628,32 +628,32 @@
             "name": "DRY-EX"
           },
           {
-            "id": 11743,
-            "name": "Others"
+            "id": 12716,
+            "name": "Polo T-Shirts"
           },
           {
             "id": 12667,
             "name": "UV Protection"
           },
           {
-            "id": 12716,
-            "name": "Polo T-Shirts"
-          },
-          {
-            "id": 12705,
-            "name": "Innerwear"
+            "id": 11743,
+            "name": "Others"
           },
           {
             "id": 12486,
             "name": "AIRism"
           },
           {
+            "id": 12705,
+            "name": "Innerwear"
+          },
+          {
             "id": 12612,
             "name": "DRY-EX"
           },
           {
-            "id": 12664,
-            "name": "DRY-EX"
+            "id": 11730,
+            "name": "Others"
           },
           {
             "id": 16035,
@@ -664,16 +664,16 @@
             "name": "Easy Care Shirt"
           },
           {
-            "id": 11730,
-            "name": "Others"
-          },
-          {
-            "id": 16037,
-            "name": "UNIQLO +"
+            "id": 12664,
+            "name": "DRY-EX"
           },
           {
             "id": 12489,
             "name": "Pique"
+          },
+          {
+            "id": 16037,
+            "name": "UNIQLO +"
           },
           {
             "id": 12669,
@@ -700,6 +700,18 @@
             "name": "Others"
           },
           {
+            "id": 12673,
+            "name": "DRY-EX"
+          },
+          {
+            "id": 12111,
+            "name": "Extra Fine Cotton"
+          },
+          {
+            "id": 12650,
+            "name": "Belts"
+          },
+          {
             "id": 12076,
             "name": "Ultra Light"
           },
@@ -708,32 +720,20 @@
             "name": "Polo Shirts"
           },
           {
-            "id": 12111,
-            "name": "Extra Fine Cotton"
-          },
-          {
-            "id": 12673,
-            "name": "DRY-EX"
-          },
-          {
-            "id": 12650,
-            "name": "Belts"
+            "id": 12074,
+            "name": "Tailored"
           },
           {
             "id": 12675,
             "name": "Polo T-Shirts"
           },
           {
-            "id": 12110,
-            "name": "Broadcloth"
-          },
-          {
             "id": 12652,
             "name": "Sunglasses"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
+            "id": 12110,
+            "name": "Broadcloth"
           },
           {
             "id": 11782,
@@ -776,6 +776,10 @@
             "name": "Ultra Light Jacket"
           },
           {
+            "id": 12476,
+            "name": "Easy Care"
+          },
+          {
             "id": 12679,
             "name": "Ultra Stretch"
           },
@@ -784,16 +788,12 @@
             "name": "Others"
           },
           {
-            "id": 12476,
-            "name": "Easy Care"
+            "id": 16038,
+            "name": "UNIQLO +"
           },
           {
             "id": 11742,
             "name": "Others"
-          },
-          {
-            "id": 16038,
-            "name": "UNIQLO +"
           },
           {
             "id": 11695,
@@ -804,12 +804,12 @@
             "name": "DRY-EX"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 12724,
             "name": "Cardigans"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12478,
