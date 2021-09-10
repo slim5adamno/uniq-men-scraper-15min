@@ -9982,65 +9982,9 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "isDummy": false,
             "states": [
               "display",
@@ -10226,9 +10170,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10246,7 +10190,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05077806",
+          "l2Id": "05077725",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -23494,20 +23438,6 @@
             }
           },
           {
-            "code": "COL51",
-            "displayCode": "51",
-            "name": "GREEN",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -23591,19 +23521,13 @@
         "longDescription": "- We’ve added AIRism comfort features to casual pique material.<br>- This season’s updates feature a streamlined, lean silhouette that redefines the shoulders and chest. <br>- The stitching is removed from the collar and placket ends, and the hem and sleeves with side slits are single-stitched for a cleaner look.",
         "name": "MEN AIRism Pique Short Sleeve Polo Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E424217-000",
@@ -23637,27 +23561,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL51",
-            "displayCode": "51",
-            "name": "GREEN",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05135148",
+          "l2Id": "05135130",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30314,20 +30231,6 @@
             "code": "COL08",
             "displayCode": "08",
             "name": "DARK GRAY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
             "isDummy": false,
             "states": [
               "display",
