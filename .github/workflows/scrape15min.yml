@@ -18,6 +18,6 @@ jobs:
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
-        timestamp=$(date -u)
+        timestamp=$(date -v+5H -v+30M "+%a %h %d %r")
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
