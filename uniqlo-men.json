@@ -617,12 +617,12 @@
         ],
         "subcategories": [
           {
-            "id": 12487,
-            "name": "DRY-EX"
-          },
-          {
             "id": 12066,
             "name": "Trench"
+          },
+          {
+            "id": 12487,
+            "name": "DRY-EX"
           },
           {
             "id": 12667,
@@ -637,10 +637,6 @@
             "name": "AIRism"
           },
           {
-            "id": 12612,
-            "name": "DRY-EX"
-          },
-          {
             "id": 12650,
             "name": "Belts"
           },
@@ -649,11 +645,7 @@
             "name": "Innerwear"
           },
           {
-            "id": 12715,
-            "name": "Easy Care Shirt"
-          },
-          {
-            "id": 12664,
+            "id": 12612,
             "name": "DRY-EX"
           },
           {
@@ -661,8 +653,16 @@
             "name": "UNIQLO +"
           },
           {
+            "id": 12715,
+            "name": "Easy Care Shirt"
+          },
+          {
             "id": 11730,
             "name": "Others"
+          },
+          {
+            "id": 12664,
+            "name": "DRY-EX"
           },
           {
             "id": 16037,
@@ -701,14 +701,6 @@
             "name": "Bed Sheet"
           },
           {
-            "id": 12673,
-            "name": "DRY-EX"
-          },
-          {
-            "id": 12693,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 12076,
             "name": "Ultra Light"
           },
@@ -721,16 +713,24 @@
             "name": "Others"
           },
           {
-            "id": 12110,
-            "name": "Broadcloth"
+            "id": 12673,
+            "name": "DRY-EX"
+          },
+          {
+            "id": 12693,
+            "name": "Polo Shirts"
+          },
+          {
+            "id": 12074,
+            "name": "Tailored"
           },
           {
             "id": 12675,
             "name": "Polo T-Shirts"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
+            "id": 12110,
+            "name": "Broadcloth"
           },
           {
             "id": 11782,
@@ -765,12 +765,12 @@
             "name": "Brief"
           },
           {
-            "id": 11783,
-            "name": "Others"
-          },
-          {
             "id": 12476,
             "name": "Easy Care"
+          },
+          {
+            "id": 11783,
+            "name": "Others"
           },
           {
             "id": 12679,
@@ -793,12 +793,12 @@
             "name": "DRY-EX"
           },
           {
-            "id": 12724,
-            "name": "Cardigans"
-          },
-          {
             "id": 12597,
             "name": "Chino"
+          },
+          {
+            "id": 12724,
+            "name": "Cardigans"
           },
           {
             "id": 12478,
@@ -841,12 +841,12 @@
             "name": "Pocketable Parkas"
           },
           {
-            "id": 16034,
-            "name": "UNIQLO +"
-          },
-          {
             "id": 11699,
             "name": "Others"
+          },
+          {
+            "id": 16034,
+            "name": "UNIQLO +"
           },
           {
             "id": 12499,
@@ -28321,7 +28321,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05085071",
+          "l2Id": "05085067",
           "salesStartDate": "",
           "salesEndDate": ""
         },
