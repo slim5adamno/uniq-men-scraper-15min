@@ -233,7 +233,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 78
+          "count": 77
         },
         {
           "from": 1000,
@@ -259,8 +259,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 105,
-          "count": 81
+          "accumulated": 104,
+          "count": 80
         },
         {
           "rating": 0.5,
@@ -5716,155 +5716,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/431794/item/goods_00_431794.jpg",
-              "colorCode": "00"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/431794/chip/goods_00_431794_chip.jpg",
-              "colorCode": "00"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/431794/sub/goods_431794_sub8.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/431794/sub/goods_431794_sub11.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/431794/sub/goods_431794_sub12.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/431794/sub/ingoods_431794_sub27.jpg"
-            }
-          ]
-        },
-        "l1Id": "431794",
-        "longDescription": "TOKYO UT<br><br>A collaboration between UT and four Japanese artists active in Japan and overseas, centered on the keyword “TOKYO.” This collection expresses the individual sensibilities of artists Meguru Yamaguchi, Kosuke Kawamura, FACE Oka, and YOSHIROTTEN.<br><br>YOSHIROTTEN<br><br>YOSHIROTTEN is a graphic artist and art director, based in Tokyo. He works across a wide spectrum of fields, including graphics, moving images, 3D works, installations and music. In 2018, after holding solo shows in London and Berlin, he mounted a massive exhibition of his works, titled “FUTURE NATURE” in Tokyo.<br><br>&copy;YOSHIROTTEN",
-        "name": "Tokyo UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
-          }
-        },
-        "productId": "E431794-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "05535738",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 100,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "New “TOKYO” tees featuring designs from four up-and-coming Japanese artists",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/431794_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle"
-      },
-      {
-        "careInstruction": "-",
-        "colors": [
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -8515,7 +8366,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 4,
           "count": 0,
           "items": []
         },
@@ -8709,7 +8560,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 4,
           "count": 0,
           "items": []
         },
@@ -8867,7 +8718,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 100,
           "count": 0,
           "items": []
         },
@@ -10192,7 +10043,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 4,
           "count": 0,
           "items": []
         },
@@ -10402,7 +10253,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 4,
           "count": 0,
           "items": []
         },
@@ -19390,8 +19241,8 @@
       }
     ],
     "pagination": {
-      "count": 105,
-      "total": 105,
+      "count": 104,
+      "total": 104,
       "offset": 1000
     }
   }
