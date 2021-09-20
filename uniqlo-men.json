@@ -535,20 +535,20 @@
             "name": "Belts"
           },
           {
-            "id": 12664,
-            "name": "DRY-EX"
-          },
-          {
-            "id": 11730,
-            "name": "Others"
-          },
-          {
             "id": 12715,
             "name": "Easy Care Shirt"
           },
           {
             "id": 16035,
             "name": "UNIQLO +"
+          },
+          {
+            "id": 12664,
+            "name": "DRY-EX"
+          },
+          {
+            "id": 11730,
+            "name": "Others"
           },
           {
             "id": 16037,
@@ -559,11 +559,11 @@
             "name": "Parka"
           },
           {
-            "id": 11735,
+            "id": 11750,
             "name": "Others"
           },
           {
-            "id": 11750,
+            "id": 11735,
             "name": "Others"
           },
           {
@@ -591,24 +591,24 @@
             "name": "Others"
           },
           {
-            "id": 12076,
-            "name": "Ultra Light"
+            "id": 12675,
+            "name": "Polo T-Shirts"
           },
           {
             "id": 12111,
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 12675,
-            "name": "Polo T-Shirts"
-          },
-          {
-            "id": 12110,
-            "name": "Broadcloth"
+            "id": 12076,
+            "name": "Ultra Light"
           },
           {
             "id": 12074,
             "name": "Tailored"
+          },
+          {
+            "id": 12110,
+            "name": "Broadcloth"
           },
           {
             "id": 11751,
@@ -627,16 +627,16 @@
             "name": "Ultra Light Jacket"
           },
           {
-            "id": 12476,
-            "name": "Easy Care"
-          },
-          {
             "id": 12091,
             "name": "Ultra Light Down"
           },
           {
             "id": 11783,
             "name": "Others"
+          },
+          {
+            "id": 12476,
+            "name": "Easy Care"
           },
           {
             "id": 11742,
