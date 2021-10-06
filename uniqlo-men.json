@@ -7245,9 +7245,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL04",
-            "displayCode": "04",
-            "name": "GRAY",
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7265,7 +7265,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06448710",
+          "l2Id": "06448726",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9918,7 +9918,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E425770-000",
@@ -9952,9 +9952,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL62",
-            "displayCode": "62",
-            "name": "BLUE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9963,16 +9963,23 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Oct 7"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "App only Exclusive",
+                "detail": "App only Exclusive"
+              }
+            ]
           },
           "isFavorite": false,
-          "l2Id": "05243690",
+          "l2Id": "05243699",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11108,9 +11115,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11128,7 +11135,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05366898",
+          "l2Id": "05366862",
           "salesStartDate": "",
           "salesEndDate": ""
         },
