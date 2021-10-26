@@ -9435,9 +9435,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL33",
-            "displayCode": "33",
-            "name": "KHAKI",
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9462,7 +9462,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06559957",
+          "l2Id": "06559973",
           "salesStartDate": "",
           "salesEndDate": ""
         },
