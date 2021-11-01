@@ -373,10 +373,6 @@
         ],
         "categories": [
           {
-            "id": 11687,
-            "name": "Blazers"
-          },
-          {
             "id": 11690,
             "name": "Jackets"
           },
@@ -459,7 +455,7 @@
         ],
         "subcategories": [
           {
-            "id": 11711,
+            "id": 11735,
             "name": "Others"
           },
           {
@@ -467,7 +463,7 @@
             "name": "Others"
           },
           {
-            "id": 11735,
+            "id": 11711,
             "name": "Others"
           },
           {
@@ -496,10 +492,6 @@
           },
           {
             "id": 11708,
-            "name": "Others"
-          },
-          {
-            "id": 11694,
             "name": "Others"
           },
           {
@@ -7675,9 +7667,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7702,7 +7694,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06559914",
+          "l2Id": "06559941",
           "salesStartDate": "",
           "salesEndDate": ""
         },
