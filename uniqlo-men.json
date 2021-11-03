@@ -464,11 +464,11 @@
         ],
         "subcategories": [
           {
-            "id": 11711,
+            "id": 11741,
             "name": "Others"
           },
           {
-            "id": 11741,
+            "id": 11711,
             "name": "Others"
           },
           {
@@ -516,12 +516,12 @@
             "name": "Others"
           },
           {
-            "id": 12721,
-            "name": "Merino"
-          },
-          {
             "id": 12478,
             "name": "Hoodies"
+          },
+          {
+            "id": 12721,
+            "name": "Merino"
           },
           {
             "id": 12479,
@@ -580,12 +580,12 @@
             "name": "Haruki Murakami/ Murakami Radio"
           },
           {
-            "id": 11768,
-            "name": "Others"
-          },
-          {
             "id": 17161,
             "name": "Roy Lichtenstein"
+          },
+          {
+            "id": 11768,
+            "name": "Others"
           },
           {
             "id": 12566,
