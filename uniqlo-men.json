@@ -511,12 +511,12 @@
             "name": "Others"
           },
           {
-            "id": 12478,
-            "name": "Hoodies"
-          },
-          {
             "id": 12721,
             "name": "Merino"
+          },
+          {
+            "id": 12478,
+            "name": "Hoodies"
           },
           {
             "id": 12479,
@@ -10114,15 +10114,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
