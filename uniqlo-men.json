@@ -190,7 +190,7 @@
         {
           "from": 300,
           "to": 500,
-          "count": 1
+          "count": 0
         },
         {
           "from": 500,
@@ -221,8 +221,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 43,
-          "count": 31
+          "accumulated": 42,
+          "count": 30
         },
         {
           "rating": 0.5,
@@ -615,10 +615,6 @@
             "name": "Others"
           },
           {
-            "id": 17161,
-            "name": "Roy Lichtenstein"
-          },
-          {
             "id": 12882,
             "name": "The Brands - Gibson guitars"
           },
@@ -630,158 +626,6 @@
       }
     },
     "items": [
-      {
-        "careInstruction": "-",
-        "colors": [
-          {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440920/item/goods_00_440920.jpg",
-              "colorCode": "00"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440920/chip/goods_00_440920_chip.jpg",
-              "colorCode": "00"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440920/sub/goods_440920_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440920/sub/goods_440920_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440920/sub/goods_440920_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440920/sub/ingoods_440920_sub27.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440920/sub/ingoods_440920_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "440920",
-        "longDescription": "Roy Lichtenstein<br><br>Roy Lichtenstein was a forerunner and main figure in the pop art movement of the 1960’s. He established his vivid style by utilizing simple black outlines, bright primary colors found in ads and comics, and halftone dots used in newsprint. He is remembered fondly for depicting not only characters from comics, but also creating new works in his own style in dialogue with great historic artists like Picasso, Matisse, and Monet, among others.<br><br>&copy; 2020 Estate of Roy Lichtenstein. All rights reserved.<br>Roy Lichtenstein&trade;",
-        "name": "MEN Roy Lichtenstein UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
-          }
-        },
-        "productId": "E440920-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "06271238",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 43,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "UT brings you the art of Roy Lichtenstein, icon of pop art.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/440920_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle"
-      },
       {
         "careInstruction": "-",
         "colors": [
@@ -919,7 +763,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -1077,7 +921,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -1222,7 +1066,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -1361,7 +1205,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -1515,7 +1359,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -1663,7 +1507,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -1802,7 +1646,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -2000,7 +1844,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -2189,7 +2033,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -2384,7 +2228,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -2611,7 +2455,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -2788,7 +2632,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -2973,7 +2817,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -3195,7 +3039,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -3382,7 +3226,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -3610,7 +3454,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -3821,7 +3665,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -4034,7 +3878,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -4215,7 +4059,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -4457,7 +4301,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -4662,7 +4506,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -4847,7 +4691,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -5082,7 +4926,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -5329,7 +5173,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -5572,7 +5416,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -5735,7 +5579,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -5880,7 +5724,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -6018,7 +5862,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -6171,7 +6015,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -6336,7 +6180,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -6501,7 +6345,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -6513,15 +6357,6 @@
             "code": "INS028",
             "displayCode": "028",
             "name": "28inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS029",
-            "displayCode": "029",
-            "name": "29inch",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -6662,7 +6497,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -6843,7 +6678,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -7042,7 +6877,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -7279,7 +7114,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -7502,7 +7337,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -7774,7 +7609,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -8011,7 +7846,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -8246,7 +8081,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -8453,7 +8288,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -8693,7 +8528,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -8966,7 +8801,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 43,
+          "total": 42,
           "count": 0,
           "items": []
         },
@@ -9016,8 +8851,8 @@
       }
     ],
     "pagination": {
-      "count": 43,
-      "total": 43,
+      "count": 42,
+      "total": 42,
       "offset": 1000
     }
   }
