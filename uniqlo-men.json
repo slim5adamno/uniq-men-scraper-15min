@@ -781,19 +781,13 @@
         "longDescription": "- Fluffy, soft, and warm with 100% cotton lining material.<br>- Updates for this season include changing the width of the body, collar, and sleeves to make it suitable for wearing alone. <br>- The cuffs have been redesigned so that they are easy to roll up. <br>- Features a simple design that is great for all occasions.",
         "name": "MEN Soft Touch Crew Neck Long Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "190.0000"
           }
         },
         "productId": "E419496-000",
@@ -827,34 +821,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
-              }
-            ]
+            "priceFlags": [],
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05484908",
+          "l2Id": "05484827",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -1005,19 +985,13 @@
         "longDescription": "- Includes bio-warming, insulating, anti-microbial, anti-static, moisture-wicking, moisturizing, breathability, and self-deodorizing features.<br>- Stretchable material offers a soft texture and won’t lose its shape.<br>- Updates for this season include being made from a dense, high-gauge fabric for a premium feel. <br>- Revised for a wider neckline to make it easy to use as a layer.  <br>- The neckline and cuffs feature two-needle stitches so it does not look like innerwear.",
         "name": "MEN HEATTECH Crew Neck T-Shirt (Regular Warm) Thermal",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E429014-000",
@@ -1051,34 +1025,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
-              }
-            ]
+            "priceFlags": [],
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05443700",
+          "l2Id": "05443652",
           "salesStartDate": "",
           "salesEndDate": ""
         },
