@@ -8510,9 +8510,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL39",
-            "displayCode": "39",
-            "name": "DARK BROWN",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8537,7 +8537,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06455814",
+          "l2Id": "06455802",
           "salesStartDate": "",
           "salesEndDate": ""
         },
