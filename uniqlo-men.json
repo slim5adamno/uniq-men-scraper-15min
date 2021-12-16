@@ -2079,19 +2079,13 @@
         "longDescription": "- Made from fluffy, soft, light, and warm fleece.<br>- Sizes around the shoulders and chest were adjusted for greater comfort. <br>- The interlining was changed to match the outer material and the height of the neckline was also adjusted for an improved, crisper collar.<br>- The design is streamlined, with discrete stitching and an exposed zipper. <br>- Three-needle stitching reduces skin-contact with the seams for added comfort. <br>- Uses only micro fleece for the palm-side of the pocket bag to reduce thickness while maintaining warmth.<br>- Binder design for the pocket openings reduces stretch. <br>- The cuffs have been made with binders, so they keep wind out and are easy to roll up.",
         "name": "MEN Fleece Long Sleeve Full-Zip Jacket",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E419504-000",
@@ -2125,23 +2119,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "limitedStore",
@@ -2152,7 +2139,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05543653",
+          "l2Id": "05543734",
           "salesStartDate": "",
           "salesEndDate": ""
         },
