@@ -1016,19 +1016,13 @@
         "longDescription": "- The inner and outer materials have been changed for improved breathability. <br>- Can be fine-tuned for a more comfortable fit. <br>- Size indicator makes it easy to find yours. <br><br>High-performance 3-tier structure. <br>First layer of AIRism Mesh is smooth and highly breathable. <br>Second layer cuts up to 99% of particles such as bacteria and pollen. <br>Third layer uses the same AIRism Mesh as the first layer for improved breathability.",
         "name": "AIRism Face Mask (Pack of 3)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "590.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E437784-000",
@@ -1062,27 +1056,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05938390",
+          "l2Id": "05938393",
           "salesStartDate": "",
           "salesEndDate": ""
         },
