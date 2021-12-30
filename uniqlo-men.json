@@ -572,17 +572,9 @@
           {
             "id": 11778,
             "name": "Pants"
-          },
-          {
-            "id": 11780,
-            "name": "Sweaters & Cardigans"
           }
         ],
         "subcategories": [
-          {
-            "id": 12107,
-            "name": "Lambswool"
-          },
           {
             "id": 14071,
             "name": "UNIQLO and JW ANDERSON"
@@ -702,10 +694,6 @@
           {
             "id": 11708,
             "name": "Others"
-          },
-          {
-            "id": 12723,
-            "name": "Lambswool"
           },
           {
             "id": 13136,
@@ -11645,7 +11633,7 @@
         "composition": "100% Cashmere",
         "designDetail": "",
         "freeInformation": "",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -11720,7 +11708,7 @@
         },
         "l1Id": "446730",
         "longDescription": "- New LifeWear that combines UNIQLO’s focus on design, fit, fabric, and functionality with JW ANDERSON’s focus on traditional British apparel into innovative designs. <br>- Luxurious 100% cashmere provides unparalleled softness and warmth. <br>- This scarf in fine cashmere will add a pop of color to your look. <br>- Embroidered JWA logo.",
-        "name": "MEN Cashmere Scarf",
+        "name": "Cashmere Scarf",
         "prices": {
           "base": {
             "currency": {
@@ -11818,7 +11806,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Dry Clean"
       },
       {
