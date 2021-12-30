@@ -716,10 +716,6 @@
             "name": "Ultra Light Down Vest"
           },
           {
-            "id": 13119,
-            "name": "+ J"
-          },
-          {
             "id": 11711,
             "name": "Others"
           },
@@ -738,10 +734,6 @@
           {
             "id": 11767,
             "name": "Others"
-          },
-          {
-            "id": 13122,
-            "name": "+ J"
           },
           {
             "id": 13130,
@@ -12390,15 +12382,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL58",
             "displayCode": "58",
             "name": "DARK GREEN",
@@ -12582,15 +12565,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
