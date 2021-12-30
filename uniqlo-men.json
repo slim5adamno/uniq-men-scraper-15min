@@ -567,12 +567,12 @@
         ],
         "subcategories": [
           {
-            "id": 11781,
-            "name": "Others"
-          },
-          {
             "id": 12656,
             "name": "Scarves"
+          },
+          {
+            "id": 11781,
+            "name": "Others"
           },
           {
             "id": 21288,
@@ -583,24 +583,24 @@
             "name": "Others"
           },
           {
-            "id": 11735,
-            "name": "Others"
-          },
-          {
             "id": 20443,
             "name": "Fleece"
+          },
+          {
+            "id": 11735,
+            "name": "Others"
           },
           {
             "id": 11750,
             "name": "Others"
           },
           {
-            "id": 11743,
-            "name": "Others"
-          },
-          {
             "id": 12574,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 11743,
+            "name": "Others"
           },
           {
             "id": 12718,
@@ -647,12 +647,12 @@
             "name": "Skinny Fit"
           },
           {
-            "id": 12111,
-            "name": "Extra Fine Cotton"
-          },
-          {
             "id": 12582,
             "name": "Slim Fit"
+          },
+          {
+            "id": 12111,
+            "name": "Extra Fine Cotton"
           },
           {
             "id": 11752,
