@@ -576,6 +576,10 @@
         ],
         "subcategories": [
           {
+            "id": 21287,
+            "name": "Ultra Light Down Vest"
+          },
+          {
             "id": 12656,
             "name": "Scarves"
           },
@@ -584,23 +588,15 @@
             "name": "Others"
           },
           {
-            "id": 21287,
-            "name": "Ultra Light Down Vest"
-          },
-          {
             "id": 21288,
             "name": "Other Ultra Light Down"
-          },
-          {
-            "id": 11699,
-            "name": "Others"
           },
           {
             "id": 20442,
             "name": "Down"
           },
           {
-            "id": 11735,
+            "id": 11699,
             "name": "Others"
           },
           {
@@ -608,7 +604,15 @@
             "name": "Fleece"
           },
           {
+            "id": 11735,
+            "name": "Others"
+          },
+          {
             "id": 11750,
+            "name": "Others"
+          },
+          {
+            "id": 11743,
             "name": "Others"
           },
           {
@@ -616,27 +620,19 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 11743,
-            "name": "Others"
-          },
-          {
             "id": 20391,
             "name": "Sponge"
-          },
-          {
-            "id": 11763,
-            "name": "Others"
           },
           {
             "id": 12718,
             "name": "Smart Ankle Pants"
           },
           {
-            "id": 11782,
+            "id": 11763,
             "name": "Others"
           },
           {
-            "id": 11696,
+            "id": 11782,
             "name": "Others"
           },
           {
@@ -644,11 +640,15 @@
             "name": "Others"
           },
           {
-            "id": 12580,
+            "id": 11696,
             "name": "Others"
           },
           {
             "id": 11710,
+            "name": "Others"
+          },
+          {
+            "id": 12580,
             "name": "Others"
           },
           {
@@ -712,12 +712,12 @@
             "name": "Fleece"
           },
           {
-            "id": 12095,
-            "name": "Down"
-          },
-          {
             "id": 11767,
             "name": "Others"
+          },
+          {
+            "id": 12095,
+            "name": "Down"
           },
           {
             "id": 12512,
@@ -12115,9 +12115,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12142,7 +12142,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06670375",
+          "l2Id": "06670384",
           "salesStartDate": "",
           "salesEndDate": ""
         },
