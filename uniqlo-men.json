@@ -588,12 +588,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 11781,
-            "name": "Others"
-          },
-          {
             "id": 12656,
             "name": "Scarves"
+          },
+          {
+            "id": 11781,
+            "name": "Others"
           },
           {
             "id": 21288,
@@ -640,11 +640,11 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 11751,
+            "id": 11696,
             "name": "Others"
           },
           {
-            "id": 11696,
+            "id": 11751,
             "name": "Others"
           },
           {
@@ -656,35 +656,35 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 12580,
-            "name": "Others"
-          },
-          {
             "id": 11710,
             "name": "Others"
           },
           {
-            "id": 13116,
-            "name": "+ J"
-          },
-          {
-            "id": 12582,
-            "name": "Slim Fit"
+            "id": 12580,
+            "name": "Others"
           },
           {
             "id": 12110,
             "name": "Broadcloth"
           },
           {
-            "id": 12583,
-            "name": "Straight Fit"
+            "id": 12582,
+            "name": "Slim Fit"
           },
           {
             "id": 12111,
             "name": "Extra Fine Cotton"
           },
           {
+            "id": 12583,
+            "name": "Straight Fit"
+          },
+          {
             "id": 13125,
+            "name": "+ J"
+          },
+          {
+            "id": 13116,
             "name": "+ J"
           },
           {
