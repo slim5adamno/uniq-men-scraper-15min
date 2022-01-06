@@ -580,10 +580,6 @@
         ],
         "subcategories": [
           {
-            "id": 12105,
-            "name": "Merino"
-          },
-          {
             "id": 12715,
             "name": "Easy Care Shirt"
           },
@@ -714,10 +710,6 @@
           {
             "id": 12476,
             "name": "Easy Care"
-          },
-          {
-            "id": 12721,
-            "name": "Merino"
           },
           {
             "id": 12595,
@@ -4108,9 +4100,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -4128,7 +4120,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06341850",
+          "l2Id": "06341859",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -5184,9 +5176,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5204,7 +5196,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05184533",
+          "l2Id": "05184506",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8847,9 +8839,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8867,7 +8859,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06702553",
+          "l2Id": "06702562",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -10285,9 +10277,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10312,7 +10304,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06345440",
+          "l2Id": "06345467",
           "salesStartDate": "",
           "salesEndDate": ""
         },
