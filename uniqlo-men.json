@@ -593,12 +593,12 @@
             "name": "Scarves"
           },
           {
-            "id": 21431,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 11699,
             "name": "Others"
+          },
+          {
+            "id": 21431,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 11735,
@@ -645,11 +645,11 @@
             "name": "+ J"
           },
           {
-            "id": 12591,
+            "id": 11693,
             "name": "Others"
           },
           {
-            "id": 11693,
+            "id": 12591,
             "name": "Others"
           },
           {
@@ -665,12 +665,12 @@
             "name": "Others"
           },
           {
-            "id": 13136,
-            "name": "+ J"
-          },
-          {
             "id": 11694,
             "name": "Others"
+          },
+          {
+            "id": 13136,
+            "name": "+ J"
           },
           {
             "id": 12607,
