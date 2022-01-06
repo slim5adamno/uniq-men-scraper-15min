@@ -1152,19 +1152,13 @@
         "longDescription": "- A silo compact spinning method is used to reduce fluff and enhance smoothness. <br>- Available in a variety of colors that complement the characteristics of the fabric. <br>- Sleek size designed for comfort.",
         "name": "MEN Supima Cotton Crew Neck Short Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E441598-000",
@@ -1198,27 +1192,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL26",
-            "displayCode": "26",
-            "name": "ORANGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06420100",
+          "l2Id": "06420119",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -1905,9 +1892,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1925,7 +1912,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06347091",
+          "l2Id": "06347073",
           "salesStartDate": "",
           "salesEndDate": ""
         },
