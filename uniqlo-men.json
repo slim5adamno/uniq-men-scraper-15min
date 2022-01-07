@@ -6062,9 +6062,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL33",
+            "displayCode": "33",
+            "name": "KHAKI",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6095,7 +6095,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06731321",
+          "l2Id": "06731396",
           "salesStartDate": "",
           "salesEndDate": ""
         },
