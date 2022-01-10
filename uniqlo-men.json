@@ -783,7 +783,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "590.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E428685-000",
@@ -817,9 +817,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -834,10 +834,17 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
-          "l2Id": "05922899",
+          "l2Id": "06464436",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3708,9 +3715,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL33",
-            "displayCode": "33",
-            "name": "KHAKI",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3741,7 +3748,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06731396",
+          "l2Id": "06731321",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -5541,9 +5548,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5561,7 +5568,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06702580",
+          "l2Id": "06702589",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12772,9 +12779,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12799,7 +12806,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06670600",
+          "l2Id": "06670576",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -13291,9 +13298,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13318,7 +13325,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06670510",
+          "l2Id": "06670503",
           "salesStartDate": "",
           "salesEndDate": ""
         },
