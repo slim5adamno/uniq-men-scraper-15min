@@ -529,10 +529,6 @@
             "name": "Homeware"
           },
           {
-            "id": 11745,
-            "name": "Outerwear"
-          },
-          {
             "id": 11746,
             "name": "Tops"
           },
@@ -583,10 +579,6 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 20443,
-            "name": "Fleece"
-          },
-          {
             "id": 11735,
             "name": "Others"
           },
@@ -607,10 +599,6 @@
             "name": "Smart Ankle Pants"
           },
           {
-            "id": 20391,
-            "name": "Sponge"
-          },
-          {
             "id": 11763,
             "name": "Others"
           },
@@ -624,6 +612,10 @@
           },
           {
             "id": 11751,
+            "name": "Others"
+          },
+          {
+            "id": 11696,
             "name": "Others"
           },
           {
@@ -9435,9 +9427,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL47",
+            "displayCode": "47",
+            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9455,7 +9447,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06346542",
+          "l2Id": "06346569",
           "salesStartDate": "",
           "salesEndDate": ""
         },
