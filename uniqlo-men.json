@@ -547,10 +547,6 @@
           {
             "id": 11778,
             "name": "Pants"
-          },
-          {
-            "id": 11780,
-            "name": "Sweaters & Cardigans"
           }
         ],
         "subcategories": [
@@ -561,10 +557,6 @@
           {
             "id": 11781,
             "name": "Others"
-          },
-          {
-            "id": 12108,
-            "name": "Cardigans"
           },
           {
             "id": 12656,
@@ -581,10 +573,6 @@
           {
             "id": 11735,
             "name": "Others"
-          },
-          {
-            "id": 12478,
-            "name": "Hoodies"
           },
           {
             "id": 12574,
@@ -645,10 +633,6 @@
           {
             "id": 11708,
             "name": "Others"
-          },
-          {
-            "id": 12724,
-            "name": "Cardigans"
           },
           {
             "id": 11709,
@@ -6143,15 +6127,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/447065_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
