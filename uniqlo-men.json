@@ -269,17 +269,17 @@
         {
           "rating": 0,
           "accumulated": 75,
-          "count": 36
+          "count": 35
         },
         {
           "rating": 0.5,
-          "accumulated": 39,
+          "accumulated": 40,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 39,
-          "count": 4
+          "accumulated": 40,
+          "count": 5
         },
         {
           "rating": 1.5,
