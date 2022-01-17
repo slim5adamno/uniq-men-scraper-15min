@@ -9623,9 +9623,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL47",
-            "displayCode": "47",
-            "name": "YELLOW",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9643,7 +9643,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06346570",
+          "l2Id": "06346588",
           "salesStartDate": "",
           "salesEndDate": ""
         },
