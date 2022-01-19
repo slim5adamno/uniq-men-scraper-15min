@@ -3729,13 +3729,13 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 3,
+          "average": 4.5,
+          "count": 4,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 0,
             "five": 3
           }
