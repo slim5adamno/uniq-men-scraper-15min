@@ -566,12 +566,12 @@
             "name": "Fleece"
           },
           {
-            "id": 12650,
-            "name": "Belts"
-          },
-          {
             "id": 12716,
             "name": "Polo T-Shirts"
+          },
+          {
+            "id": 12650,
+            "name": "Belts"
           },
           {
             "id": 12670,
@@ -590,12 +590,12 @@
             "name": "Scarves"
           },
           {
-            "id": 21431,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 11699,
             "name": "Others"
+          },
+          {
+            "id": 21431,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 11735,
@@ -606,12 +606,12 @@
             "name": "Others"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 11743,
             "name": "Others"
+          },
+          {
+            "id": 12574,
+            "name": "Ankle Pants"
           },
           {
             "id": 12718,
@@ -630,19 +630,19 @@
             "name": "Others"
           },
           {
-            "id": 11751,
-            "name": "Others"
-          },
-          {
             "id": 11696,
             "name": "Others"
           },
           {
-            "id": 11710,
+            "id": 11751,
             "name": "Others"
           },
           {
             "id": 12580,
+            "name": "Others"
+          },
+          {
+            "id": 11710,
             "name": "Others"
           },
           {
@@ -686,12 +686,12 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
-            "name": "Others"
-          },
-          {
             "id": 12488,
             "name": "Dry Pique"
+          },
+          {
+            "id": 12611,
+            "name": "Others"
           },
           {
             "id": 12489,
@@ -706,20 +706,20 @@
             "name": "Others"
           },
           {
-            "id": 12512,
-            "name": "Long Sleeve T-Shirts"
-          },
-          {
             "id": 12098,
             "name": "Blocktech"
           },
           {
-            "id": 12099,
-            "name": "Reversible"
+            "id": 12512,
+            "name": "Long Sleeve T-Shirts"
           },
           {
             "id": 12501,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12099,
+            "name": "Reversible"
           },
           {
             "id": 11697,
