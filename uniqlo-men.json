@@ -547,16 +547,20 @@
             "name": "Others"
           },
           {
-            "id": 12649,
-            "name": "Masks"
-          },
-          {
             "id": 12674,
             "name": "Ultra Stretch"
           },
           {
+            "id": 12649,
+            "name": "Masks"
+          },
+          {
             "id": 12636,
             "name": "Regular Warm"
+          },
+          {
+            "id": 11763,
+            "name": "Others"
           },
           {
             "id": 12650,
@@ -565,10 +569,6 @@
           {
             "id": 12718,
             "name": "Smart Ankle Pants"
-          },
-          {
-            "id": 11763,
-            "name": "Others"
           },
           {
             "id": 11782,
@@ -591,20 +591,20 @@
             "name": "Others"
           },
           {
-            "id": 12628,
-            "name": "HEATTECH"
-          },
-          {
             "id": 12478,
             "name": "Hoodies"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
+            "id": 12628,
+            "name": "HEATTECH"
           },
           {
             "id": 11743,
             "name": "Others"
+          },
+          {
+            "id": 12574,
+            "name": "Ankle Pants"
           },
           {
             "id": 12572,
@@ -615,11 +615,11 @@
             "name": "Pullover"
           },
           {
-            "id": 12580,
+            "id": 11710,
             "name": "Others"
           },
           {
-            "id": 11710,
+            "id": 12580,
             "name": "Others"
           },
           {
@@ -631,11 +631,11 @@
             "name": "+ J"
           },
           {
-            "id": 11693,
+            "id": 12591,
             "name": "Others"
           },
           {
-            "id": 12591,
+            "id": 11693,
             "name": "Others"
           },
           {
@@ -655,11 +655,11 @@
             "name": "+ J"
           },
           {
-            "id": 11694,
+            "id": 12607,
             "name": "Others"
           },
           {
-            "id": 12607,
+            "id": 11694,
             "name": "Others"
           },
           {
