@@ -9906,9 +9906,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9923,17 +9923,10 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06353246",
+          "l2Id": "06354317",
           "salesStartDate": "",
           "salesEndDate": ""
         },
