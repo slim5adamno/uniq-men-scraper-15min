@@ -540,24 +540,16 @@
             "name": "Tops"
           },
           {
-            "id": 12670,
-            "name": "Blocktech"
-          },
-          {
             "id": 11781,
             "name": "Others"
-          },
-          {
-            "id": 12649,
-            "name": "Masks"
           },
           {
             "id": 12636,
             "name": "Regular Warm"
           },
           {
-            "id": 12718,
-            "name": "Smart Ankle Pants"
+            "id": 12649,
+            "name": "Masks"
           },
           {
             "id": 12650,
@@ -568,16 +560,20 @@
             "name": "Others"
           },
           {
+            "id": 12670,
+            "name": "Blocktech"
+          },
+          {
+            "id": 12718,
+            "name": "Smart Ankle Pants"
+          },
+          {
             "id": 11782,
             "name": "Others"
           },
           {
             "id": 21288,
             "name": "Other Ultra Light Down"
-          },
-          {
-            "id": 11751,
-            "name": "Others"
           },
           {
             "id": 11735,
@@ -604,11 +600,15 @@
             "name": "Smart"
           },
           {
-            "id": 11710,
+            "id": 11751,
             "name": "Others"
           },
           {
             "id": 12580,
+            "name": "Others"
+          },
+          {
+            "id": 11710,
             "name": "Others"
           },
           {
@@ -640,11 +640,11 @@
             "name": "+ J"
           },
           {
-            "id": 12607,
+            "id": 11694,
             "name": "Others"
           },
           {
-            "id": 11694,
+            "id": 12607,
             "name": "Others"
           },
           {
