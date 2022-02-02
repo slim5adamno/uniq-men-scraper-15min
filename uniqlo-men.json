@@ -544,28 +544,28 @@
             "name": "Others"
           },
           {
-            "id": 12636,
-            "name": "Regular Warm"
-          },
-          {
             "id": 12649,
             "name": "Masks"
           },
           {
-            "id": 12650,
-            "name": "Belts"
+            "id": 12636,
+            "name": "Regular Warm"
           },
           {
             "id": 11763,
             "name": "Others"
           },
           {
-            "id": 12670,
-            "name": "Blocktech"
-          },
-          {
             "id": 12718,
             "name": "Smart Ankle Pants"
+          },
+          {
+            "id": 12650,
+            "name": "Belts"
+          },
+          {
+            "id": 12670,
+            "name": "Blocktech"
           },
           {
             "id": 11782,
@@ -588,12 +588,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 11743,
             "name": "Others"
+          },
+          {
+            "id": 12574,
+            "name": "Ankle Pants"
           },
           {
             "id": 12572,
@@ -604,11 +604,11 @@
             "name": "Others"
           },
           {
-            "id": 12580,
+            "id": 11710,
             "name": "Others"
           },
           {
-            "id": 11710,
+            "id": 12580,
             "name": "Others"
           },
           {
@@ -640,11 +640,11 @@
             "name": "+ J"
           },
           {
-            "id": 11694,
+            "id": 12607,
             "name": "Others"
           },
           {
-            "id": 12607,
+            "id": 11694,
             "name": "Others"
           },
           {
