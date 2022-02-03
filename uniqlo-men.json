@@ -536,12 +536,12 @@
             "name": "Tops"
           },
           {
-            "id": 12642,
-            "name": "Jersey"
-          },
-          {
             "id": 12636,
             "name": "Regular Warm"
+          },
+          {
+            "id": 12642,
+            "name": "Jersey"
           },
           {
             "id": 12670,
@@ -572,12 +572,12 @@
             "name": "Others"
           },
           {
-            "id": 12095,
-            "name": "Down"
-          },
-          {
             "id": 12574,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 12095,
+            "name": "Down"
           },
           {
             "id": 12718,
@@ -604,11 +604,11 @@
             "name": "Sweat Pants"
           },
           {
-            "id": 12580,
+            "id": 11710,
             "name": "Others"
           },
           {
-            "id": 11710,
+            "id": 12580,
             "name": "Others"
           },
           {
@@ -660,12 +660,12 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
-            "name": "Others"
-          },
-          {
             "id": 12650,
             "name": "Belts"
+          },
+          {
+            "id": 12611,
+            "name": "Others"
           },
           {
             "id": 11711,
