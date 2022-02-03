@@ -4891,9 +4891,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -4911,7 +4911,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "04493200",
+          "l2Id": "04493238",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11311,9 +11311,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11338,7 +11338,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06670617",
+          "l2Id": "06670633",
           "salesStartDate": "",
           "salesEndDate": ""
         },
