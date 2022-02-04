@@ -491,7 +491,7 @@
           },
           {
             "id": 11721,
-            "name": "Undershirts"
+            "name": "Inner Tops"
           },
           {
             "id": 22330,
@@ -524,32 +524,28 @@
         ],
         "subcategories": [
           {
-            "id": 22400,
-            "name": "Sweaters & Cardigans"
-          },
-          {
             "id": 22408,
             "name": "Jeans"
-          },
-          {
-            "id": 22416,
-            "name": "HEATTECH"
-          },
-          {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
-            "id": 22428,
-            "name": "AIRism Masks"
           },
           {
             "id": 22389,
             "name": "Coats"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
+            "id": 22428,
+            "name": "AIRism Masks"
+          },
+          {
+            "id": 22400,
+            "name": "Sweaters & Cardigans"
+          },
+          {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
+          },
+          {
+            "id": 22416,
+            "name": "HEATTECH"
           },
           {
             "id": 22401,
@@ -560,12 +556,16 @@
             "name": "Tops"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
-            "id": 22410,
-            "name": "Easy Pants"
+            "id": 22391,
+            "name": "Jackets"
+          },
+          {
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 23627,
@@ -573,27 +573,19 @@
           },
           {
             "id": 22418,
-            "name": "Undershirts"
+            "name": "Inner Tops"
           },
           {
-            "id": 23635,
-            "name": "Bottoms"
+            "id": 22410,
+            "name": "Easy Pants"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
-            "id": 23629,
-            "name": "Bottoms"
           },
           {
             "id": 22412,
@@ -604,12 +596,20 @@
             "name": "Polo Shirts"
           },
           {
-            "id": 22433,
-            "name": "Belts & Ties"
+            "id": 22393,
+            "name": "Others"
+          },
+          {
+            "id": 23629,
+            "name": "Bottoms"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 22433,
+            "name": "Belts & Ties"
           },
           {
             "id": 22406,
@@ -624,12 +624,12 @@
             "name": "Bedding Goods"
           },
           {
-            "id": 12636,
-            "name": "Regular Warm"
-          },
-          {
             "id": 23599,
             "name": "AIRism Mask"
+          },
+          {
+            "id": 12636,
+            "name": "Regular Warm"
           },
           {
             "id": 12642,
