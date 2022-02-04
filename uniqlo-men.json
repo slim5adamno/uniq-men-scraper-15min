@@ -2826,14 +2826,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06350414",
@@ -3231,14 +3224,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06350486",
@@ -3428,14 +3414,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06350454",
@@ -4614,7 +4593,14 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "06345441",
@@ -5258,7 +5244,14 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "06804637",
@@ -7555,7 +7548,14 @@
           },
           "flags": {
             "priceFlags": [],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "06730947",
@@ -8016,14 +8016,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06351080",
@@ -9056,7 +9049,14 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "06353282",
@@ -9225,7 +9225,14 @@
           },
           "flags": {
             "priceFlags": [],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "06730972",
