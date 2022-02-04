@@ -502,6 +502,10 @@
             "name": "Loungewear & Pajamas"
           },
           {
+            "id": 23466,
+            "name": "Home Accessories"
+          },
+          {
             "id": 22331,
             "name": "Accessories Collections"
           },
@@ -524,48 +528,44 @@
         ],
         "subcategories": [
           {
-            "id": 22400,
-            "name": "Sweaters & Cardigans"
+            "id": 22416,
+            "name": "HEATTECH"
           },
           {
             "id": 22428,
             "name": "AIRism Masks"
           },
           {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
-            "id": 22416,
-            "name": "HEATTECH"
-          },
-          {
-            "id": 22389,
-            "name": "Coats"
-          },
-          {
-            "id": 23633,
-            "name": "Outerwear"
+            "id": 22400,
+            "name": "Sweaters & Cardigans"
           },
           {
             "id": 22408,
             "name": "Jeans"
           },
           {
-            "id": 22401,
-            "name": "Sweat Collections"
+            "id": 23633,
+            "name": "Outerwear"
           },
           {
-            "id": 23634,
-            "name": "Tops"
+            "id": 22389,
+            "name": "Coats"
+          },
+          {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 22390,
             "name": "Hoodies"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
+            "id": 23634,
+            "name": "Tops"
+          },
+          {
+            "id": 22401,
+            "name": "Sweat Collections"
           },
           {
             "id": 22410,
@@ -580,32 +580,36 @@
             "name": "Jackets"
           },
           {
+            "id": 23627,
+            "name": "Tops"
+          },
+          {
             "id": 23635,
             "name": "Bottoms"
           },
           {
-            "id": 23627,
-            "name": "Tops"
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 23629,
             "name": "Bottoms"
           },
           {
+            "id": 22404,
+            "name": "Polo Shirts"
+          },
+          {
             "id": 22412,
             "name": "Trouser"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22405,
@@ -652,11 +656,11 @@
             "name": "+ J"
           },
           {
-            "id": 11693,
+            "id": 12591,
             "name": "Others"
           },
           {
-            "id": 12591,
+            "id": 11693,
             "name": "Others"
           },
           {
@@ -720,16 +724,20 @@
             "name": "Others"
           },
           {
+            "id": 23593,
+            "name": "Bath Towel"
+          },
+          {
             "id": 12609,
             "name": "Smart"
           },
           {
-            "id": 12611,
-            "name": "Others"
-          },
-          {
             "id": 12650,
             "name": "Belts"
+          },
+          {
+            "id": 12611,
+            "name": "Others"
           },
           {
             "id": 11711,
