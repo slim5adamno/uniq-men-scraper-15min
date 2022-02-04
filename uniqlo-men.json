@@ -524,12 +524,8 @@
         ],
         "subcategories": [
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
-            "id": 22389,
-            "name": "Coats"
+            "id": 22416,
+            "name": "HEATTECH"
           },
           {
             "id": 22428,
@@ -540,40 +536,28 @@
             "name": "Sweaters & Cardigans"
           },
           {
+            "id": 22389,
+            "name": "Coats"
+          },
+          {
             "id": 22424,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22416,
-            "name": "HEATTECH"
-          },
-          {
-            "id": 22401,
-            "name": "Sweat Collections"
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 23634,
             "name": "Tops"
           },
           {
+            "id": 22401,
+            "name": "Sweat Collections"
+          },
+          {
             "id": 22390,
             "name": "Hoodies"
-          },
-          {
-            "id": 22391,
-            "name": "Jackets"
-          },
-          {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
-          },
-          {
-            "id": 22418,
-            "name": "Inner Tops"
           },
           {
             "id": 22410,
@@ -584,16 +568,32 @@
             "name": "T-shirts"
           },
           {
+            "id": 23635,
+            "name": "Bottoms"
+          },
+          {
+            "id": 22391,
+            "name": "Jackets"
+          },
+          {
+            "id": 23627,
+            "name": "Tops"
+          },
+          {
+            "id": 22418,
+            "name": "Inner Tops"
+          },
+          {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22412,
-            "name": "Trouser"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
+          },
+          {
+            "id": 22412,
+            "name": "Trouser"
           },
           {
             "id": 22393,
@@ -720,12 +720,12 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
-            "name": "Others"
-          },
-          {
             "id": 12650,
             "name": "Belts"
+          },
+          {
+            "id": 12611,
+            "name": "Others"
           },
           {
             "id": 11711,
