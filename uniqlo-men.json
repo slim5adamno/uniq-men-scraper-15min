@@ -527,19 +527,15 @@
             "name": "Bottoms"
           },
           {
-            "id": 22427,
-            "name": "Others"
+            "id": 22389,
+            "name": "Coats"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22389,
-            "name": "Coats"
-          },
-          {
-            "id": 22393,
+            "id": 22427,
             "name": "Others"
           },
           {
@@ -547,11 +543,15 @@
             "name": "Casual Shirts"
           },
           {
+            "id": 22393,
+            "name": "Others"
+          },
+          {
             "id": 22433,
             "name": "Belts & Ties"
           },
           {
-            "id": 22415,
+            "id": 22407,
             "name": "Others"
           },
           {
@@ -559,7 +559,7 @@
             "name": "Others"
           },
           {
-            "id": 22407,
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -591,11 +591,11 @@
             "name": "+ J"
           },
           {
-            "id": 11693,
+            "id": 12591,
             "name": "Others"
           },
           {
-            "id": 12591,
+            "id": 11693,
             "name": "Others"
           },
           {
@@ -631,11 +631,11 @@
             "name": "Others"
           },
           {
-            "id": 12607,
+            "id": 11694,
             "name": "Others"
           },
           {
-            "id": 11694,
+            "id": 12607,
             "name": "Others"
           },
           {
@@ -663,16 +663,16 @@
             "name": "Smart"
           },
           {
-            "id": 23595,
-            "name": "Others"
+            "id": 12650,
+            "name": "Belts"
           },
           {
             "id": 12611,
             "name": "Others"
           },
           {
-            "id": 12650,
-            "name": "Belts"
+            "id": 23595,
+            "name": "Others"
           },
           {
             "id": 11741,
