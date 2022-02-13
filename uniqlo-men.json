@@ -578,6 +578,10 @@
         ],
         "subcategories": [
           {
+            "id": 22400,
+            "name": "Sweaters & Cardigans"
+          },
+          {
             "id": 22424,
             "name": "Loungewear & Pajamas"
           },
@@ -590,8 +594,8 @@
             "name": "Jackets"
           },
           {
-            "id": 22400,
-            "name": "Sweaters & Cardigans"
+            "id": 22401,
+            "name": "Sweat Collections"
           },
           {
             "id": 22390,
@@ -602,27 +606,27 @@
             "name": "Tops"
           },
           {
-            "id": 22401,
-            "name": "Sweat Collections"
-          },
-          {
             "id": 23635,
             "name": "Bottoms"
-          },
-          {
-            "id": 22411,
-            "name": "Ankle Pants"
           },
           {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
+            "id": 22427,
+            "name": "Others"
+          },
+          {
             "id": 22389,
             "name": "Coats"
           },
           {
-            "id": 22427,
+            "id": 22411,
+            "name": "Ankle Pants"
+          },
+          {
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -630,12 +634,12 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 22433,
             "name": "Belts & Ties"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 23632,
@@ -643,10 +647,6 @@
           },
           {
             "id": 22407,
-            "name": "Others"
-          },
-          {
-            "id": 22415,
             "name": "Others"
           },
           {
@@ -766,12 +766,12 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
-            "name": "Others"
-          },
-          {
             "id": 12650,
             "name": "Belts"
+          },
+          {
+            "id": 12611,
+            "name": "Others"
           },
           {
             "id": 23595,
@@ -786,12 +786,12 @@
             "name": "Others"
           },
           {
-            "id": 12114,
-            "name": "Flannel"
-          },
-          {
             "id": 20391,
             "name": "Sponge"
+          },
+          {
+            "id": 12114,
+            "name": "Flannel"
           },
           {
             "id": 11696,
