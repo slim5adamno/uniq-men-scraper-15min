@@ -13,7 +13,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl --user-agent "Mozilla 5.0/ " "https://www.uniqlo.com/in/api/commerce/v3/en/products?path=9672&flagCodes=discount&sort=2&limit=1000&offset=0" | jq . > uniqlo-men.json
-        cat uniqlo-men.json | jq '.result.items | .[] | select (.prices.promo.value != null) | {sizes:.sizes,price:(.prices.promo.value)|tonumber,basePrice:.prices.base.value|tonumber,discount:((((.prices.base.value|tonumber) - (.prices.promo.value|tonumber))/(.prices.base.value|tonumber) * 100|round)), link:"https://www.uniqlo.com/in/en/products/\(.productId)",name:.name} |  select (.discount > 40)' | jq -s 'sort_by(.discount) | reverse | .[]' | jq '{name:.name,price:.price,basePrice:.basePrice,discount:.discount,link:.link,sizes:.sizes|.[]|select(.name == "S" or .name == "M" or .name == "73cm" or .name == "76cm" or .name == "29inch" or .name == "30inch")}' > uniq-new.json
+        cat uniqlo-men.json | jq '.result.items | .[] | select (.prices.promo.value != null) | {sizes:.sizes,price:(.prices.promo.value)|tonumber,basePrice:.prices.base.value|tonumber,discount:((((.prices.base.value|tonumber) - (.prices.promo.value|tonumber))/(.prices.base.value|tonumber) * 100|round)), link:"https://www.uniqlo.com/in/en/products/\(.productId)",name:.name} |  select (.discount > 40)' | jq -s 'sort_by(.price) | reverse | .[]' | jq '{name:.name,price:.price,basePrice:.basePrice,discount:.discount,link:.link,sizes:.sizes|.[]|select(.name == "S" or .name == "M" or .name == "73cm" or .name == "76cm" or .name == "29inch" or .name == "30inch")}' > uniq-new.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
