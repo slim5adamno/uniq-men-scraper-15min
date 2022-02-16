@@ -545,12 +545,16 @@
             "name": "Loungewear & Pajamas"
           },
           {
+            "id": 22391,
+            "name": "Jackets"
+          },
+          {
             "id": 23633,
             "name": "Outerwear"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 22401,
@@ -561,14 +565,6 @@
             "name": "Tops"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
             "id": 22411,
             "name": "Ankle Pants"
           },
@@ -577,12 +573,12 @@
             "name": "Others"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 22389,
             "name": "Coats"
+          },
+          {
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 22405,
@@ -597,15 +593,11 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 23632,
+            "id": 22415,
             "name": "Others"
           },
           {
             "id": 22407,
-            "name": "Others"
-          },
-          {
-            "id": 22415,
             "name": "Others"
           },
           {
@@ -617,7 +609,15 @@
             "name": "Bedding Goods"
           },
           {
+            "id": 23635,
+            "name": "Bottoms"
+          },
+          {
             "id": 22439,
+            "name": "Others"
+          },
+          {
+            "id": 23632,
             "name": "Others"
           },
           {
@@ -641,11 +641,11 @@
             "name": "+ J"
           },
           {
-            "id": 11693,
+            "id": 12591,
             "name": "Others"
           },
           {
-            "id": 12591,
+            "id": 11693,
             "name": "Others"
           },
           {
@@ -721,28 +721,28 @@
             "name": "Bath Towel"
           },
           {
-            "id": 12609,
-            "name": "Smart"
-          },
-          {
             "id": 12486,
             "name": "AIRism"
           },
           {
-            "id": 12650,
-            "name": "Belts"
+            "id": 12609,
+            "name": "Smart"
           },
           {
             "id": 12611,
             "name": "Others"
           },
           {
+            "id": 12488,
+            "name": "Dry Pique"
+          },
+          {
             "id": 23595,
             "name": "Others"
           },
           {
-            "id": 12488,
-            "name": "Dry Pique"
+            "id": 12650,
+            "name": "Belts"
           },
           {
             "id": 12489,
