@@ -309,22 +309,6 @@
   "discount": 46,
   "link": "https://www.uniqlo.com/in/en/products/E445767-001",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Down Oversized Parka",
-  "price": 7990,
-  "basePrice": 14900,
-  "discount": 46,
-  "link": "https://www.uniqlo.com/in/en/products/E445767-001",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
