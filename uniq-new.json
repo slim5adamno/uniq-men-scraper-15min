@@ -383,22 +383,6 @@
   }
 }
 {
-  "name": "MEN Wool Blended Oversized Pea Coat",
-  "price": 12900,
-  "basePrice": 24900,
-  "discount": 48,
-  "link": "https://www.uniqlo.com/in/en/products/E445769-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Wool Blended Chesterfield Coat",
   "price": 12900,
   "basePrice": 27900,
