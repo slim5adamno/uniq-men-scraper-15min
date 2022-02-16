@@ -261,22 +261,6 @@
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E446357-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Padded Oversized Single Breasted Coat",
-  "price": 5990,
-  "basePrice": 14900,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E446357-000",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
