@@ -553,16 +553,20 @@
             "name": "Outerwear"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
+            "id": 23634,
+            "name": "Tops"
           },
           {
             "id": 22401,
             "name": "Sweat Collections"
           },
           {
-            "id": 23634,
-            "name": "Tops"
+            "id": 22390,
+            "name": "Hoodies"
+          },
+          {
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 22411,
@@ -577,10 +581,6 @@
             "name": "Coats"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 22405,
             "name": "Casual Shirts"
           },
@@ -593,11 +593,11 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 22415,
+            "id": 22407,
             "name": "Others"
           },
           {
-            "id": 22407,
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -641,11 +641,11 @@
             "name": "+ J"
           },
           {
-            "id": 12591,
+            "id": 11693,
             "name": "Others"
           },
           {
-            "id": 11693,
+            "id": 12591,
             "name": "Others"
           },
           {
@@ -653,12 +653,12 @@
             "name": "Others"
           },
           {
-            "id": 12096,
-            "name": "Fleece"
-          },
-          {
             "id": 12478,
             "name": "Hoodies"
+          },
+          {
+            "id": 12096,
+            "name": "Fleece"
           },
           {
             "id": 12095,
@@ -693,11 +693,11 @@
             "name": "Others"
           },
           {
-            "id": 12607,
+            "id": 11694,
             "name": "Others"
           },
           {
-            "id": 11694,
+            "id": 12607,
             "name": "Others"
           },
           {
