@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "MEN Extra Fine Cotton Broadcloth Striped Long Sleeve Shirt (Button Down Collar)",
-  "price": 590,
-  "basePrice": 1990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E425096-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Ultra Stretch Dry Sweatshirt",
   "price": 990,
   "basePrice": 2490,
