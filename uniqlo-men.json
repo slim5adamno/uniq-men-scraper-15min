@@ -12920,9 +12920,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
+            "code": "COL17",
+            "displayCode": "17",
+            "name": "RED",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12940,7 +12940,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06319594",
+          "l2Id": "06319612",
           "salesStartDate": "",
           "salesEndDate": ""
         },
