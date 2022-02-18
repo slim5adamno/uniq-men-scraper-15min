@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "MEN Reversible Parka",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E425084-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Easy Work Trousers",
   "price": 1990,
   "basePrice": 4990,
