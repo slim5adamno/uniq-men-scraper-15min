@@ -427,6 +427,10 @@
             "name": "Jackets"
           },
           {
+            "id": 11689,
+            "name": "Fleece"
+          },
+          {
             "id": 22327,
             "name": "Tops Collections"
           },
@@ -694,6 +698,10 @@
           },
           {
             "id": 11741,
+            "name": "Others"
+          },
+          {
+            "id": 11696,
             "name": "Others"
           },
           {
