@@ -262,12 +262,12 @@
         {
           "rating": 2,
           "accumulated": 43,
-          "count": 2
+          "count": 3
         },
         {
           "rating": 2.5,
-          "accumulated": 41,
-          "count": 2
+          "accumulated": 40,
+          "count": 1
         },
         {
           "rating": 3,
