@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "MEN Easy Work Trousers",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E446519-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Wool Blend Tuck Trousers",
   "price": 1990,
   "basePrice": 5990,
