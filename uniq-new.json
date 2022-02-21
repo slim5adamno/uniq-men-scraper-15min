@@ -15,6 +15,54 @@
   }
 }
 {
+  "name": "MEN Oversized Rugger Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E447064-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Stretch Flannel Easy Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E442486-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Stretch Flannel Easy Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E442486-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Ultra Stretch Dry Sweatshirt",
   "price": 990,
   "basePrice": 2490,
@@ -24,6 +72,230 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Stretch Flannel Easy Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E442310-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Stretch Flannel Easy Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E442310-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Stretch Flannel Easy Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E442308-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441782-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441781-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441781-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441778-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441778-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441775-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441775-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Pile Lined Fleece Easy Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E441197-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Flannel Pajamas (Long Sleeve)",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E439602-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Knit Fleece Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E439598-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Knit Fleece Ankle Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E439598-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -95,6 +367,38 @@
   }
 }
 {
+  "name": "MEN Oversized Shirt Blouson",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E446428-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Oversized Shirt Blouson",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E446428-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Wool Blend Tuck Trousers",
   "price": 1990,
   "basePrice": 5990,
@@ -128,9 +432,9 @@
 }
 {
   "name": "MEN Wool Trousers",
-  "price": 2990,
+  "price": 1990,
   "basePrice": 7990,
-  "discount": 63,
+  "discount": 75,
   "link": "https://www.uniqlo.com/in/en/products/E445848-000",
   "sizes": {
     "code": "CMD073",
@@ -144,9 +448,9 @@
 }
 {
   "name": "MEN Wool Trousers",
-  "price": 2990,
+  "price": 1990,
   "basePrice": 7990,
-  "discount": 63,
+  "discount": 75,
   "link": "https://www.uniqlo.com/in/en/products/E445848-000",
   "sizes": {
     "code": "CMD076",
@@ -155,6 +459,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "MEN Padded Coach Jacket",
+  "price": 2990,
+  "basePrice": 5990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446918-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
@@ -176,9 +496,9 @@
 }
 {
   "name": "MEN Padded Oversized Single Breasted Coat",
-  "price": 5990,
+  "price": 4990,
   "basePrice": 14900,
-  "discount": 60,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E446357-000",
   "sizes": {
     "code": "SMA003",
@@ -192,9 +512,9 @@
 }
 {
   "name": "MEN Wool Jacket (Set Up)",
-  "price": 7990,
+  "price": 5990,
   "basePrice": 17900,
-  "discount": 55,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E445770-000",
   "sizes": {
     "code": "SMA003",
@@ -239,6 +559,38 @@
   }
 }
 {
+  "name": "MEN Wool Oversized Duffle Coat",
+  "price": 12900,
+  "basePrice": 27900,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Wool Oversized Duffle Coat",
+  "price": 12900,
+  "basePrice": 27900,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Wool Blended Oversized Pea Coat",
   "price": 12900,
   "basePrice": 24900,
@@ -292,38 +644,6 @@
   "basePrice": 27900,
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E445768-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Wool Oversized Duffle Coat",
-  "price": 15900,
-  "basePrice": 27900,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Wool Oversized Duffle Coat",
-  "price": 15900,
-  "basePrice": 27900,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
