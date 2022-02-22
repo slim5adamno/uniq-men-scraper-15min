@@ -1,20 +1,4 @@
 {
-  "name": "MEN Dry Pique Short Sleeve Polo Shirt",
-  "price": 590,
-  "basePrice": 1490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E433038-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Oversized Rugger Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -287,6 +271,22 @@
   }
 }
 {
+  "name": "MEN Souffle Yarn Mock Neck Long Sleeve Sweater",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E438793-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Supima Cotton Oversized Stand Collar Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -324,6 +324,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E446430-001",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Supima Cotton Oversized Stand Collar Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446430-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
