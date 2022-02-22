@@ -255,22 +255,6 @@
   }
 }
 {
-  "name": "MEN Flannel Pajamas (Long Sleeve)",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E439602-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Knit Fleece Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
