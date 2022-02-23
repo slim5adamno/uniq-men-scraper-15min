@@ -415,22 +415,6 @@
   }
 }
 {
-  "name": "MEN Hybrid Down Oversized MA-1 Jacket",
-  "price": 3990,
-  "basePrice": 8990,
-  "discount": 56,
-  "link": "https://www.uniqlo.com/in/en/products/E445765-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Padded Oversized Single Breasted Coat",
   "price": 4990,
   "basePrice": 14900,
