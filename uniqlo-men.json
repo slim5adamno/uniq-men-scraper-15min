@@ -1913,15 +1913,15 @@
           }
         ],
         "rating": {
-          "average": 3.4,
-          "count": 5,
-          "fit": 3.2,
+          "average": 3.6666666666666665,
+          "count": 6,
+          "fit": 3.1666666666666665,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
