@@ -335,22 +335,6 @@
   }
 }
 {
-  "name": "MEN Padded Oversized Single Breasted Coat",
-  "price": 4990,
-  "basePrice": 14900,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E446357-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Wool Jacket (Set Up)",
   "price": 5990,
   "basePrice": 17900,
