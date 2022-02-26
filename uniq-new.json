@@ -335,22 +335,6 @@
   }
 }
 {
-  "name": "MEN Wool Jacket (Set Up)",
-  "price": 5990,
-  "basePrice": 17900,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E445770-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Down Oversized Coat",
   "price": 9990,
   "basePrice": 17900,
