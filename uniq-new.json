@@ -335,22 +335,6 @@
   }
 }
 {
-  "name": "MEN Down Oversized Coat",
-  "price": 9990,
-  "basePrice": 17900,
-  "discount": 44,
-  "link": "https://www.uniqlo.com/in/en/products/E446356-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Wool Oversized Duffle Coat",
   "price": 12900,
   "basePrice": 27900,
