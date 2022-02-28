@@ -1582,14 +1582,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -3077,14 +3077,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 12,
-          "fit": 3.25,
+          "count": 13,
+          "fit": 3.230769230769231,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -8767,14 +8767,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 9,
+          "count": 10,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
@@ -10024,11 +10024,11 @@
           }
         ],
         "rating": {
-          "average": 2,
-          "count": 1,
-          "fit": 5,
+          "average": 1.5,
+          "count": 2,
+          "fit": 3,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 1,
             "three": 0,
             "four": 0,
