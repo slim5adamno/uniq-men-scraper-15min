@@ -1,4 +1,36 @@
 {
+  "name": "MEN Supima Cotton Oversized Stand Collar Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E447748-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Supima Cotton Oversized Stand Collar Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446430-001",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Stretch Flannel Easy Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
@@ -127,15 +159,111 @@
   }
 }
 {
-  "name": "MEN Supima Cotton Oversized Stand Collar Shirt",
-  "price": 1490,
-  "basePrice": 2990,
+  "name": "MEN Fluffy Yarn Fleece Full-Zip Jacket",
+  "price": 990,
+  "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E447748-000",
+  "link": "https://www.uniqlo.com/in/en/products/E440593-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism Pique Polo Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E438314-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism Pique Polo Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E438314-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Extra Fine Cotton Broadcloth Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E427304-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Extra Fine Cotton Broadcloth Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E427304-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism Jersey Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E425775-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Extra Fine Cotton Broadcloth Long Sleeve Shirt (Printed/Button Down Collar)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E421178-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -159,18 +287,18 @@
   }
 }
 {
-  "name": "MEN Supima Cotton Oversized Stand Collar Shirt",
+  "name": "MEN Wool Blend Tuck Trousers",
   "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E446430-001",
+  "basePrice": 5990,
+  "discount": 75,
+  "link": "https://www.uniqlo.com/in/en/products/E445851-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
     "display": {
       "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
@@ -203,22 +331,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Wool Blend Tuck Trousers",
-  "price": 1990,
-  "basePrice": 5990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E445851-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
@@ -255,11 +367,11 @@
   }
 }
 {
-  "name": "MEN Wool Oversized Duffle Coat",
-  "price": 12900,
+  "name": "MEN Wool Blended Chesterfield Coat",
+  "price": 9990,
   "basePrice": 27900,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
+  "discount": 64,
+  "link": "https://www.uniqlo.com/in/en/products/E445768-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -271,11 +383,11 @@
   }
 }
 {
-  "name": "MEN Wool Oversized Duffle Coat",
-  "price": 12900,
+  "name": "MEN Wool Blended Chesterfield Coat",
+  "price": 9990,
   "basePrice": 27900,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
+  "discount": 64,
+  "link": "https://www.uniqlo.com/in/en/products/E445768-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -287,11 +399,11 @@
   }
 }
 {
-  "name": "MEN Wool Blended Chesterfield Coat",
+  "name": "MEN Wool Oversized Duffle Coat",
   "price": 12900,
   "basePrice": 27900,
   "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E445768-000",
+  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -303,11 +415,11 @@
   }
 }
 {
-  "name": "MEN Wool Blended Chesterfield Coat",
+  "name": "MEN Wool Oversized Duffle Coat",
   "price": 12900,
   "basePrice": 27900,
   "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E445768-000",
+  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
