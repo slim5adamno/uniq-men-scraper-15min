@@ -1,20 +1,4 @@
 {
-  "name": "MEN Stretch Fleece Long Sleeve",
-  "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E441086-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Stretch Flannel Easy Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
