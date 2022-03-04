@@ -127,6 +127,22 @@
   }
 }
 {
+  "name": "MEN Fluffy Yarn Fleece Full-Zip Jacket",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E440593-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Knit Fleece Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
@@ -267,6 +283,38 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "MEN Wool Blended Oversized Shirt Jacket",
+  "price": 3990,
+  "basePrice": 9990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E446359-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Down Oversized Parka",
+  "price": 7990,
+  "basePrice": 14900,
+  "discount": 46,
+  "link": "https://www.uniqlo.com/in/en/products/E445767-001",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
