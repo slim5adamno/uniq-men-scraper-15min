@@ -31,38 +31,6 @@
   }
 }
 {
-  "name": "Keith Haring UT(Short Sleeve Graphic T-Shirt)",
-  "price": 390,
-  "basePrice": 1290,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E440872-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Keith Haring UT(Short Sleeve Graphic T-Shirt)",
-  "price": 390,
-  "basePrice": 1290,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E440872-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Stretch Flannel Easy Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
