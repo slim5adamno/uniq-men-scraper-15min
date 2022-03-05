@@ -255,22 +255,6 @@
   }
 }
 {
-  "name": "MEN Wool Blended Oversized Shirt Jacket",
-  "price": 3990,
-  "basePrice": 9990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E446359-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Down Oversized Parka",
   "price": 7990,
   "basePrice": 14900,
