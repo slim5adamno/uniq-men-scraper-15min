@@ -1,20 +1,4 @@
 {
-  "name": "MEN +J Selvedge Slim Fit Straight Jeans",
-  "price": 190,
-  "basePrice": 4990,
-  "discount": 96,
-  "link": "https://www.uniqlo.com/in/en/products/E439677-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "MEN Stretch Flannel Easy Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
