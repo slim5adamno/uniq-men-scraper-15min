@@ -476,12 +476,12 @@
         ],
         "subcategories": [
           {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
             "id": 22389,
             "name": "Coats"
+          },
+          {
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 22427,
@@ -500,11 +500,11 @@
             "name": "Others"
           },
           {
-            "id": 22407,
+            "id": 22423,
             "name": "Others"
           },
           {
-            "id": 22423,
+            "id": 22407,
             "name": "Others"
           },
           {
@@ -556,11 +556,11 @@
             "name": "Others"
           },
           {
-            "id": 11694,
+            "id": 12607,
             "name": "Others"
           },
           {
-            "id": 12607,
+            "id": 11694,
             "name": "Others"
           },
           {
