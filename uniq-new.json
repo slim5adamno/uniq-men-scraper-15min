@@ -1,20 +1,4 @@
 {
-  "name": "MEN Supima Cotton Regular Fit Long Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E447747-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Stretch Flannel Easy Ankle Trousers",
   "price": 990,
   "basePrice": 1990,
@@ -203,22 +187,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "MEN Down Oversized Parka",
-  "price": 5990,
-  "basePrice": 14900,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E445767-001",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
