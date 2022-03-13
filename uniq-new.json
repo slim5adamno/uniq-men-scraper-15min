@@ -63,6 +63,22 @@
   }
 }
 {
+  "name": "MEN Extra Fine Cotton Broadcloth Long Sleeve Shirt (Printed/Button Down Collar)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E421178-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Wool Blend Tuck Trousers",
   "price": 1490,
   "basePrice": 5990,
@@ -139,6 +155,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "MEN Padded Oversized Single Breasted Coat",
+  "price": 4990,
+  "basePrice": 14900,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446357-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
