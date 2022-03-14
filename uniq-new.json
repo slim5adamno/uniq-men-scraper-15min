@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "MEN Premium Lambswool Crew Neck Long Sleeve Sweater",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E438789-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN AIRism Jersey Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
