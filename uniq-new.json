@@ -175,6 +175,22 @@
   }
 }
 {
+  "name": "MEN Light Down Jacket",
+  "price": 3990,
+  "basePrice": 7990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E445766-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Wool Jacket (Set Up)",
   "price": 4990,
   "basePrice": 17900,
