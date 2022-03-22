@@ -592,28 +592,24 @@
             "name": "Ultra Light"
           },
           {
-            "id": 27338,
-            "name": "Uniqlo U"
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 26172,
             "name": "Shorts"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
-            "id": 22431,
-            "name": "Bags"
+            "id": 27338,
+            "name": "Uniqlo U"
           },
           {
             "id": 22404,
             "name": "Polo Shirts"
+          },
+          {
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 22389,
@@ -632,6 +628,10 @@
             "name": "Tops"
           },
           {
+            "id": 22431,
+            "name": "Bags"
+          },
+          {
             "id": 22391,
             "name": "Jackets"
           },
@@ -644,12 +644,12 @@
             "name": "Ultra Light Jackets"
           },
           {
-            "id": 22423,
-            "name": "Others"
-          },
-          {
             "id": 22412,
             "name": "Trouser"
+          },
+          {
+            "id": 22423,
+            "name": "Others"
           },
           {
             "id": 22401,
@@ -658,14 +658,6 @@
           {
             "id": 22414,
             "name": "Shorts"
-          },
-          {
-            "id": 22415,
-            "name": "Others"
-          },
-          {
-            "id": 22437,
-            "name": "Bedding Goods"
           },
           {
             "id": 22393,
@@ -680,6 +672,14 @@
             "name": "Others"
           },
           {
+            "id": 22415,
+            "name": "Others"
+          },
+          {
+            "id": 22437,
+            "name": "Bedding Goods"
+          },
+          {
             "id": 22439,
             "name": "Others"
           },
@@ -688,12 +688,12 @@
             "name": "AIRism Mask"
           },
           {
-            "id": 11729,
-            "name": "Others"
-          },
-          {
             "id": 12501,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 11729,
+            "name": "Others"
           },
           {
             "id": 12614,
@@ -740,12 +740,12 @@
             "name": "AIRism"
           },
           {
-            "id": 11727,
-            "name": "Others"
-          },
-          {
             "id": 20094,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 11727,
+            "name": "Others"
           },
           {
             "id": 11711,
@@ -772,11 +772,11 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 12607,
+            "id": 11708,
             "name": "Others"
           },
           {
-            "id": 11708,
+            "id": 12607,
             "name": "Others"
           },
           {
@@ -788,20 +788,20 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 11741,
-            "name": "Others"
-          },
-          {
             "id": 12580,
             "name": "Others"
           },
           {
-            "id": 12609,
-            "name": "Smart"
+            "id": 11741,
+            "name": "Others"
           },
           {
             "id": 13127,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12609,
+            "name": "Smart"
           },
           {
             "id": 12611,
