@@ -588,6 +588,10 @@
         ],
         "subcategories": [
           {
+            "id": 27338,
+            "name": "Uniqlo U"
+          },
+          {
             "id": 26169,
             "name": "Ultra Light"
           },
@@ -596,20 +600,8 @@
             "name": "T-shirts"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
-          },
-          {
-            "id": 27338,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
-          },
-          {
-            "id": 23635,
-            "name": "Bottoms"
           },
           {
             "id": 22389,
@@ -620,28 +612,32 @@
             "name": "Chinos"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
-            "id": 23634,
-            "name": "Tops"
+            "id": 26172,
+            "name": "Shorts"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22431,
             "name": "Bags"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 23634,
+            "name": "Tops"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22392,
-            "name": "Ultra Light Jackets"
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 22412,
@@ -652,6 +648,10 @@
             "name": "Others"
           },
           {
+            "id": 22392,
+            "name": "Ultra Light Jackets"
+          },
+          {
             "id": 22401,
             "name": "Sweat Collections"
           },
@@ -660,19 +660,19 @@
             "name": "Shorts"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 22407,
             "name": "Others"
           },
           {
-            "id": 25851,
+            "id": 22415,
             "name": "Others"
           },
           {
-            "id": 22415,
+            "id": 22393,
+            "name": "Others"
+          },
+          {
+            "id": 25851,
             "name": "Others"
           },
           {
@@ -748,12 +748,12 @@
             "name": "Others"
           },
           {
-            "id": 11711,
-            "name": "Others"
-          },
-          {
             "id": 23272,
             "name": "Relaxed"
+          },
+          {
+            "id": 11711,
+            "name": "Others"
           },
           {
             "id": 12591,
@@ -788,11 +788,11 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 12580,
+            "id": 11741,
             "name": "Others"
           },
           {
-            "id": 11741,
+            "id": 12580,
             "name": "Others"
           },
           {
@@ -804,11 +804,11 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
+            "id": 11696,
             "name": "Others"
           },
           {
-            "id": 11696,
+            "id": 12611,
             "name": "Others"
           },
           {
