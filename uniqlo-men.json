@@ -1083,19 +1083,13 @@
         "longDescription": "- The Paris design team, led by Christophe Lemaire, created a new collection of LifeWear using innovative fabrics and modern designs.<br>- Part of a collection of progressive essentials created in our Paris atelier by artistic director Christophe Lemaire and a team of international designers, dedicated to exploring the untapped potential of new fabrics. <br>- High quality and great value. <br>- One of our top rated styles, season after season. <br>- New colors to elevate your style.",
         "name": "MEN Crew Neck Short Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E441600-000",
@@ -1129,23 +1123,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -1156,7 +1143,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06367295",
+          "l2Id": "06367268",
           "salesStartDate": "",
           "salesEndDate": ""
         },
