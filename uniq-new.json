@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "MEN Wool Trousers",
-  "price": 1990,
-  "basePrice": 7990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E445848-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "MEN Wool Oversized Duffle Coat",
   "price": 9990,
   "basePrice": 27900,
