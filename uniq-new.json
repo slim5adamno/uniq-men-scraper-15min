@@ -318,19 +318,3 @@
     }
   }
 }
-{
-  "name": "MEN Wool Blended Chesterfield Coat",
-  "price": 7990,
-  "basePrice": 27900,
-  "discount": 71,
-  "link": "https://www.uniqlo.com/in/en/products/E445768-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
