@@ -95,6 +95,38 @@
   }
 }
 {
+  "name": "EZY Jeans",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E428685-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "EZY Jeans",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E428685-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Wool Blend Tuck Trousers",
   "price": 1490,
   "basePrice": 5990,
@@ -164,6 +196,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E446903-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN KANDO Jacket",
+  "price": 1490,
+  "basePrice": 4990,
+  "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E425042-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -280,6 +328,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Wool Blended Oversized Pea Coat",
+  "price": 7990,
+  "basePrice": 24900,
+  "discount": 68,
+  "link": "https://www.uniqlo.com/in/en/products/E445769-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
