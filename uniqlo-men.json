@@ -585,10 +585,6 @@
         ],
         "subcategories": [
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 27338,
             "name": "Uniqlo U"
           },
@@ -625,10 +621,6 @@
             "name": "Others"
           },
           {
-            "id": 22401,
-            "name": "Sweat Collections"
-          },
-          {
             "id": 22414,
             "name": "Shorts"
           },
@@ -663,10 +655,6 @@
           {
             "id": 23599,
             "name": "AIRism Mask"
-          },
-          {
-            "id": 24342,
-            "name": "Oversized"
           },
           {
             "id": 13137,
@@ -773,16 +761,8 @@
             "name": "Others"
           },
           {
-            "id": 12479,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 11710,
             "name": "Others"
-          },
-          {
-            "id": 27572,
-            "name": "UNIQLO and JW ANDERSON"
           }
         ]
       }
