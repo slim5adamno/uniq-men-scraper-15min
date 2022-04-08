@@ -1,4 +1,36 @@
 {
+  "name": "MEN Selvedge Regular Fit Straight Jeans",
+  "price": 190,
+  "basePrice": 2990,
+  "discount": 94,
+  "link": "https://www.uniqlo.com/in/en/products/E431840-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "MEN Selvedge Regular Fit Straight Jeans",
+  "price": 190,
+  "basePrice": 2990,
+  "discount": 94,
+  "link": "https://www.uniqlo.com/in/en/products/E431840-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 290,
   "basePrice": 590,
