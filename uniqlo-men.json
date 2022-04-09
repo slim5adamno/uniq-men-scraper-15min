@@ -260,7 +260,7 @@
         {
           "from": 0,
           "to": 300,
-          "count": 2
+          "count": 1
         },
         {
           "from": 300,
@@ -296,48 +296,48 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 66,
+          "accumulated": 65,
           "count": 41
         },
         {
           "rating": 0.5,
-          "accumulated": 25,
+          "accumulated": 24,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 25,
+          "accumulated": 24,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 25,
+          "accumulated": 24,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 25,
+          "accumulated": 24,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 25,
+          "accumulated": 24,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 25,
+          "accumulated": 24,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 22,
+          "accumulated": 21,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 22,
-          "count": 4
+          "accumulated": 21,
+          "count": 3
         },
         {
           "rating": 4.5,
@@ -372,11 +372,6 @@
           "name": "85cm"
         },
         {
-          "code": "INS028",
-          "displayCode": "028",
-          "name": "28inch"
-        },
-        {
           "code": "INS029",
           "displayCode": "029",
           "name": "29inch"
@@ -400,21 +395,6 @@
           "code": "INS033",
           "displayCode": "033",
           "name": "33inch"
-        },
-        {
-          "code": "INS034",
-          "displayCode": "034",
-          "name": "34inch"
-        },
-        {
-          "code": "INS035",
-          "displayCode": "035",
-          "name": "35inch"
-        },
-        {
-          "code": "INS036",
-          "displayCode": "036",
-          "name": "36inch"
         },
         {
           "code": "SIZ999",
@@ -597,10 +577,6 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
             "id": 22389,
             "name": "Coats"
           },
@@ -663,10 +639,6 @@
           {
             "id": 11697,
             "name": "Others"
-          },
-          {
-            "id": 12583,
-            "name": "Straight Fit"
           },
           {
             "id": 11711,
@@ -14844,8 +14816,8 @@
     ],
     "pagination": {
       "count": 65,
-      "total": 66,
-      "offset": 1001
+      "total": 65,
+      "offset": 1000
     }
   }
 }
