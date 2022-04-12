@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "MEN AIRism Fly Front Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E435813-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Oversized Shirt Blouson",
   "price": 1490,
   "basePrice": 4990,
