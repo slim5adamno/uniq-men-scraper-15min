@@ -63,6 +63,22 @@
   }
 }
 {
+  "name": "MEN AIRism Jersey Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E425775-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Oversized Shirt Blouson",
   "price": 1490,
   "basePrice": 4990,
@@ -388,6 +404,22 @@
   "basePrice": 8990,
   "discount": 56,
   "link": "https://www.uniqlo.com/in/en/products/E447333-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Wool Oversized Duffle Coat",
+  "price": 7990,
+  "basePrice": 27900,
+  "discount": 71,
+  "link": "https://www.uniqlo.com/in/en/products/E446358-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
