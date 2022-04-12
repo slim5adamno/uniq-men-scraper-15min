@@ -563,10 +563,6 @@
         ],
         "subcategories": [
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 27338,
             "name": "Uniqlo U"
           },
@@ -589,10 +585,6 @@
           {
             "id": 22405,
             "name": "Casual Shirts"
-          },
-          {
-            "id": 22431,
-            "name": "Bags"
           },
           {
             "id": 22411,
@@ -647,24 +639,12 @@
             "name": "Others"
           },
           {
-            "id": 13222,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 12623,
             "name": "Others"
           },
           {
-            "id": 13129,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 11713,
             "name": "Others"
-          },
-          {
-            "id": 23603,
-            "name": "Tote Bags"
           },
           {
             "id": 23611,
@@ -8982,9 +8962,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9002,7 +8982,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06763413",
+          "l2Id": "06763412",
           "salesStartDate": "",
           "salesEndDate": ""
         },
