@@ -143,6 +143,22 @@
   }
 }
 {
+  "name": "MEN Wide Fit Tapered Trousers",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447264-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Indigo Sweat Cardigan",
   "price": 1490,
   "basePrice": 2990,
