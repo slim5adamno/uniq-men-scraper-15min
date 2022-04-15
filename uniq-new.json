@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "MEN Single Breasted Coat",
-  "price": 3990,
-  "basePrice": 8990,
-  "discount": 56,
-  "link": "https://www.uniqlo.com/in/en/products/E448957-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Trench Coat",
   "price": 3990,
   "basePrice": 8990,
