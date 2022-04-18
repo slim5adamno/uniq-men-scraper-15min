@@ -15,6 +15,214 @@
   }
 }
 {
+  "name": "MEN Oversized Shirt Blouson",
+  "price": 990,
+  "basePrice": 4990,
+  "discount": 80,
+  "link": "https://www.uniqlo.com/in/en/products/E446428-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Indigo Sweat Cardigan",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446905-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Indigo Sweat Cardigan",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446905-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Indigo Sweatshirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446903-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Indigo Sweatshirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446903-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Moma Art Icons Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446649-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Moma Art Icons Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446648-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Moma Art Icons Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446647-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Moma Art Icons Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446647-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446220-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446220-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446218-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446218-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Oversized Knitted Half Sleeve T-Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -24,6 +232,38 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN 3D Knit Crew Neck Long Sleeve Sweater",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E445587-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN 3D Knit Crew Neck Long Sleeve Sweater",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E445587-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -47,11 +287,27 @@
   }
 }
 {
-  "name": "MEN Oversized Shirt Blouson",
+  "name": "MEN Sweat Shirt",
   "price": 1490,
-  "basePrice": 4990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E446428-000",
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449456-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Sweat Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449456-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -143,11 +399,11 @@
   }
 }
 {
-  "name": "Indigo Sweat Cardigan",
+  "name": "MEN Oversized Striped Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E446905-000",
+  "link": "https://www.uniqlo.com/in/en/products/E446994-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -159,11 +415,11 @@
   }
 }
 {
-  "name": "Indigo Sweat Cardigan",
+  "name": "MEN Oversized Striped Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E446905-000",
+  "link": "https://www.uniqlo.com/in/en/products/E446994-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -175,11 +431,11 @@
   }
 }
 {
-  "name": "Indigo Sweatshirt",
+  "name": "MEN Oversized Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E446903-000",
+  "link": "https://www.uniqlo.com/in/en/products/E444640-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -191,43 +447,11 @@
   }
 }
 {
-  "name": "Indigo Sweatshirt",
+  "name": "MEN Oversized Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E446903-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN 3D Knit Crew Neck Long Sleeve Sweater",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E445587-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN 3D Knit Crew Neck Long Sleeve Sweater",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E445587-000",
+  "link": "https://www.uniqlo.com/in/en/products/E444640-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -260,6 +484,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E449254-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "MEN Shoe Cut Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448121-000",
   "sizes": {
     "code": "INS030",
     "displayCode": "030",
@@ -324,6 +564,70 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E445041-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Oversized Hooded Jacket",
+  "price": 2990,
+  "basePrice": 5990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448025-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Oversized Hooded Jacket",
+  "price": 2990,
+  "basePrice": 5990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448025-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN U Tailored Jacket",
+  "price": 2990,
+  "basePrice": 5990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447338-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN U Tailored Jacket",
+  "price": 2990,
+  "basePrice": 5990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447338-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
