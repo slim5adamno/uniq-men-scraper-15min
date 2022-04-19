@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "MEN Moma Art Icons Long Sleeve Sweatshirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E446647-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
   "price": 990,
   "basePrice": 1990,
