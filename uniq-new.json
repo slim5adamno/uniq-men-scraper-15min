@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "MEN French Rib Trousers",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E447529-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Indigo Sweatshirt",
   "price": 990,
   "basePrice": 2990,
