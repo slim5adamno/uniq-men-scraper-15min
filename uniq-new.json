@@ -559,22 +559,6 @@
   }
 }
 {
-  "name": "MEN Over Shirt Jacket (Denim)",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E448956-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Shoe Cut Jeans",
   "price": 1990,
   "basePrice": 3990,
