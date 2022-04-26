@@ -588,28 +588,12 @@
         ],
         "subcategories": [
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 22424,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
-            "id": 22418,
-            "name": "Inner Tops"
-          },
-          {
             "id": 23635,
             "name": "Bottoms"
-          },
-          {
-            "id": 27571,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 22405,
@@ -624,24 +608,20 @@
             "name": "Others"
           },
           {
-            "id": 22411,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 22391,
             "name": "Jackets"
           },
           {
+            "id": 22411,
+            "name": "Ankle Pants"
+          },
+          {
+            "id": 22423,
+            "name": "Others"
+          },
+          {
             "id": 22414,
             "name": "Shorts"
-          },
-          {
-            "id": 26177,
-            "name": "Tank Tops"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
           },
           {
             "id": 22415,
@@ -649,6 +629,10 @@
           },
           {
             "id": 22407,
+            "name": "Others"
+          },
+          {
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -700,10 +684,6 @@
             "name": "Others"
           },
           {
-            "id": 13129,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 11713,
             "name": "Others"
           },
@@ -720,16 +700,12 @@
             "name": "Others"
           },
           {
-            "id": 12629,
-            "name": "Vests"
-          },
-          {
             "id": 12079,
             "name": "Denim"
           },
           {
-            "id": 14070,
-            "name": "UNIQLO and JW ANDERSON"
+            "id": 11727,
+            "name": "Others"
           },
           {
             "id": 11711,
@@ -784,11 +760,11 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
+            "id": 11696,
             "name": "Others"
           },
           {
-            "id": 11696,
+            "id": 12611,
             "name": "Others"
           },
           {
@@ -12107,15 +12083,15 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
