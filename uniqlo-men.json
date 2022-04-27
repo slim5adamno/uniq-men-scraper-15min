@@ -596,12 +596,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 22427,
             "name": "Others"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22391,
@@ -624,11 +624,11 @@
             "name": "Others"
           },
           {
-            "id": 22407,
+            "id": 22393,
             "name": "Others"
           },
           {
-            "id": 22393,
+            "id": 22407,
             "name": "Others"
           },
           {
@@ -664,12 +664,12 @@
             "name": "Others"
           },
           {
-            "id": 13115,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12617,
             "name": "Relax"
+          },
+          {
+            "id": 13115,
+            "name": "Uniqlo U"
           },
           {
             "id": 13139,
@@ -736,11 +736,11 @@
             "name": "Bath Towel"
           },
           {
-            "id": 11741,
+            "id": 12580,
             "name": "Others"
           },
           {
-            "id": 12580,
+            "id": 11741,
             "name": "Others"
           },
           {
@@ -979,15 +979,6 @@
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
