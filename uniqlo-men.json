@@ -3797,15 +3797,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Polyester",
@@ -3942,15 +3933,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/423985_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
@@ -4792,6 +4774,12 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449254/sub/goods_449254_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/449254/sub/ingoods_449254_sub29.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/449254/sub/ingoods_449254_sub30.jpg"
             }
           ]
         },
@@ -4881,7 +4869,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "Regular fit jeans with a comfortable fit. Tapered leg for a sleek look.",
+        "shortDescription": "Regular fit jeans with a comfortable fit. Tapered leg for a sleek look. Items bought with alternation service are not applicable for exchange or return.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/449254_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -10820,6 +10808,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448661/sub/ingoods_448661_sub29.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448661/sub/ingoods_448661_sub30.jpg"
             }
           ]
         },
@@ -10909,7 +10900,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "These sleek ankle-length pants are lightweight, elegant, and comfortable.",
+        "shortDescription": "These sleek ankle-length pants are lightweight, elegant, and comfortable. Items bought with alternation service are not applicable for exchange or return.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/448661_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -11043,6 +11034,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448486/sub/ingoods_448486_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448486/sub/ingoods_448486_sub30.jpg"
             }
           ]
         },
@@ -11119,7 +11113,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "Easy to wear, the sleek silhouette and ankle length make these look light and elegant.",
+        "shortDescription": "Easy to wear, the sleek silhouette and ankle length make these look light and elegant. Items bought with alternation service are not applicable for exchange or return.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/448486_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -11288,6 +11282,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/448121/sub/goods_448121_sub25.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448121/sub/ingoods_448121_sub29.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448121/sub/ingoods_448121_sub30.jpg"
@@ -13792,6 +13789,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444598/sub/ingoods_444598_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444598/sub/ingoods_444598_sub30.jpg"
             }
           ]
         },
@@ -13868,7 +13868,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "Sophisticated yet comfortable. Versatile pants for any occasion.",
+        "shortDescription": "Sophisticated yet comfortable. Versatile pants for any occasion. Items bought with alternation service are not applicable for exchange or return.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/444598_size.html",
         "sizeInformation": "",
         "sizes": [
