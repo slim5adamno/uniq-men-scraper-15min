@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "MEN Oversized Shirt Blouson",
-  "price": 990,
-  "basePrice": 4990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E446428-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Phrases Of Marvel Long Sleeve Sweat Pullover Hoodie",
   "price": 990,
   "basePrice": 2490,
