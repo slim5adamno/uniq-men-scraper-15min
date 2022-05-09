@@ -163,22 +163,6 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E427315-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Extra Fine Cotton Broadcloth Printed Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E427314-000",
   "sizes": {
     "code": "SMA003",
@@ -283,22 +267,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Shoe Cut Jeans",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448121-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
