@@ -63,11 +63,11 @@
   }
 }
 {
-  "name": "MEN Extra Fine Cotton Twill Oversized Long Sleeve Shirt",
+  "name": "MEN Oversized Striped Half Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E448384-000",
+  "link": "https://www.uniqlo.com/in/en/products/E447766-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -79,15 +79,15 @@
   }
 }
 {
-  "name": "MEN Oversized Striped Half Sleeve Shirt",
+  "name": "MEN Striped Crew Neck Short Sleeve T-Shirt",
   "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447766-000",
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447582-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -191,6 +191,38 @@
   }
 }
 {
+  "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446218-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Knitted Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E445590-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN AIRism mesh V neck Short Sleeve set",
   "price": 990,
   "basePrice": 1990,
@@ -207,6 +239,22 @@
   }
 }
 {
+  "name": "MEN Regular Fit Jeans",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E449254-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "MEN Cotton Linen Striped Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -228,22 +276,6 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E447769-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Oversized Cotton Parka",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447358-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
