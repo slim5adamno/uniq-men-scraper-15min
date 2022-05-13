@@ -207,22 +207,6 @@
   }
 }
 {
-  "name": "MEN Regular Fit Jeans",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E449254-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "MEN Cotton Linen Striped Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
