@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "MEN Phrases Of Marvel Long Sleeve Sweat Pullover Hoodie",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E448757-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Extra Fine Cotton Twill Oversized Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -120,22 +104,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Phrases Of Marvel Long Sleeve Sweat Pullover Hoodie",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447419-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
