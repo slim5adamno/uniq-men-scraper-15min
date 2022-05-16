@@ -557,15 +557,15 @@
             "name": "Ankle Pants"
           },
           {
+            "id": 22415,
+            "name": "Others"
+          },
+          {
             "id": 22407,
             "name": "Others"
           },
           {
             "id": 22393,
-            "name": "Others"
-          },
-          {
-            "id": 22415,
             "name": "Others"
           },
           {
@@ -661,11 +661,11 @@
             "name": "Shoes"
           },
           {
-            "id": 11741,
+            "id": 12580,
             "name": "Others"
           },
           {
-            "id": 12580,
+            "id": 11741,
             "name": "Others"
           },
           {
@@ -3609,15 +3609,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/446903_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
