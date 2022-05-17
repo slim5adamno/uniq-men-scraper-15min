@@ -1,20 +1,4 @@
 {
-  "name": "MEN Oversized Knitted Half Sleeve T-Shirt",
-  "price": 190,
-  "basePrice": 2490,
-  "discount": 92,
-  "link": "https://www.uniqlo.com/in/en/products/E445589-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 190,
   "basePrice": 590,
