@@ -318,19 +318,3 @@
     }
   }
 }
-{
-  "name": "MEN Trench Coat",
-  "price": 2990,
-  "basePrice": 8990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E447333-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
