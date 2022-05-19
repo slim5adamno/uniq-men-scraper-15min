@@ -255,22 +255,6 @@
   }
 }
 {
-  "name": "MEN Oversized Hooded Jacket",
-  "price": 1990,
-  "basePrice": 5990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E448025-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN U Tailored Jacket",
   "price": 1990,
   "basePrice": 5990,
