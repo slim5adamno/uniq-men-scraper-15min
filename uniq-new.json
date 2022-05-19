@@ -191,22 +191,6 @@
   }
 }
 {
-  "name": "Indigo Sweatshirt",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E446903-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Knitted Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -260,22 +244,6 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E447764-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN U Tailored Jacket",
-  "price": 1990,
-  "basePrice": 5990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E447338-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
