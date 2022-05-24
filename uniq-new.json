@@ -63,6 +63,22 @@
   }
 }
 {
+  "name": "MEN Phrases Of Marvel Long Sleeve Sweat Pullover Hoodie",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448758-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Roll-Up Shorts",
   "price": 990,
   "basePrice": 2490,
@@ -191,6 +207,22 @@
   }
 }
 {
+  "name": "MEN Oversized Striped Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E446994-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Indigo Dye Crew Neck Short Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -260,6 +292,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E422970-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Cotton Linen Striped Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447769-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
