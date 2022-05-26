@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "MEN Selvedge Slim Fit Straight Jeans",
-  "price": 990,
-  "basePrice": 4990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E446518-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "MEN Striped Short Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
