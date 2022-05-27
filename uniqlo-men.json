@@ -513,24 +513,24 @@
             "name": "Limited Offer"
           },
           {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22402,
             "name": "T-shirts"
+          },
+          {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 22409,
-            "name": "Chinos"
-          },
-          {
             "id": 23635,
             "name": "Bottoms"
+          },
+          {
+            "id": 22409,
+            "name": "Chinos"
           },
           {
             "id": 22427,
@@ -645,19 +645,19 @@
             "name": "Others"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 23593,
             "name": "Bath Towel"
           },
           {
-            "id": 12580,
-            "name": "Others"
+            "id": 12574,
+            "name": "Ankle Pants"
           },
           {
             "id": 11741,
+            "name": "Others"
+          },
+          {
+            "id": 12580,
             "name": "Others"
           },
           {
