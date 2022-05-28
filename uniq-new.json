@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "MEN Monochrome Mickey Long Sleeve Sweatshirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E446218-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Striped Short Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
