@@ -548,11 +548,11 @@
             "name": "Shorts"
           },
           {
-            "id": 22415,
+            "id": 25851,
             "name": "Others"
           },
           {
-            "id": 25851,
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -568,12 +568,12 @@
             "name": "Limited Offer"
           },
           {
-            "id": 23599,
-            "name": "AIRism Mask"
-          },
-          {
             "id": 12616,
             "name": "Chino"
+          },
+          {
+            "id": 23599,
+            "name": "AIRism Mask"
           },
           {
             "id": 11735,
