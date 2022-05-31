@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "MEN Oversized Striped Half Sleeve Shirt",
+  "price": 590,
+  "basePrice": 2490,
+  "discount": 76,
+  "link": "https://www.uniqlo.com/in/en/products/E447766-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Checked Work Short Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -175,6 +191,38 @@
   }
 }
 {
+  "name": "Indigo Dye Crew Neck Short Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446907-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Indigo Dye Crew Neck Short Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446907-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Chambray Oversized Short Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -260,6 +308,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E422970-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN U Tailored Jacket",
+  "price": 1490,
+  "basePrice": 5990,
+  "discount": 75,
+  "link": "https://www.uniqlo.com/in/en/products/E447338-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
