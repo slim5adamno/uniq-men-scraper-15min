@@ -317,12 +317,12 @@
         {
           "rating": 4,
           "accumulated": 20,
-          "count": 5
+          "count": 6
         },
         {
           "rating": 4.5,
-          "accumulated": 15,
-          "count": 6
+          "accumulated": 14,
+          "count": 5
         },
         {
           "rating": 5,
