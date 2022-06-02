@@ -541,12 +541,12 @@
         ],
         "subcategories": [
           {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
             "id": 22409,
             "name": "Chinos"
+          },
+          {
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 22427,
@@ -573,10 +573,6 @@
             "name": "Ultra Light Pants"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 22414,
             "name": "Shorts"
           },
@@ -586,6 +582,10 @@
           },
           {
             "id": 25851,
+            "name": "Others"
+          },
+          {
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -601,12 +601,12 @@
             "name": "Others"
           },
           {
-            "id": 23599,
-            "name": "AIRism Mask"
-          },
-          {
             "id": 12616,
             "name": "Chino"
+          },
+          {
+            "id": 23599,
+            "name": "AIRism Mask"
           },
           {
             "id": 11735,
@@ -673,11 +673,11 @@
             "name": "Smart"
           },
           {
-            "id": 12611,
+            "id": 11696,
             "name": "Others"
           },
           {
-            "id": 11696,
+            "id": 12611,
             "name": "Others"
           },
           {
