@@ -15,38 +15,6 @@
   }
 }
 {
-  "name": "Keith Haring UT(Short Sleeve Graphic T-Shirt)",
-  "price": 390,
-  "basePrice": 1290,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E440873-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Keith Haring UT(Short Sleeve Graphic T-Shirt)",
-  "price": 390,
-  "basePrice": 1290,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E440873-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Knitted Short Sleeve Polo Shirt",
   "price": 590,
   "basePrice": 2490,
