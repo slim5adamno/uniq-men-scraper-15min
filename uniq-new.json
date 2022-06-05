@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "MEN Knitted Short Sleeve Polo Shirt",
-  "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E445590-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Checked Work Short Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
