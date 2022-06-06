@@ -15,6 +15,118 @@
   }
 }
 {
+  "name": "Magnum Photos UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E445611-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E435087-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E435087-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN DRY-EX Designed Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E424214-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN DRY-EX Designed Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E424214-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN DRY-EX Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E422970-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN DRY-EX Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E422970-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN Checked Work Short Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -127,11 +239,11 @@
   }
 }
 {
-  "name": "MEN DRY-EX Designed Short Sleeve Polo Shirt",
+  "name": "MEN AIRism Cotton Set (Short Sleeve)",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E424214-000",
+  "link": "https://www.uniqlo.com/in/en/products/E442206-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -143,11 +255,11 @@
   }
 }
 {
-  "name": "MEN DRY-EX Designed Short Sleeve Polo Shirt",
+  "name": "MEN AIRism Cotton Set (Short Sleeve)",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E424214-000",
+  "link": "https://www.uniqlo.com/in/en/products/E442206-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -159,11 +271,11 @@
   }
 }
 {
-  "name": "MEN DRY-EX Short Sleeve Polo Shirt",
+  "name": "MEN AIRism Cotton Set (Short Sleeve)",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E422970-000",
+  "link": "https://www.uniqlo.com/in/en/products/E438335-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -175,11 +287,123 @@
   }
 }
 {
-  "name": "MEN DRY-EX Short Sleeve Polo Shirt",
+  "name": "MEN AIRism Cotton Set (Short Sleeve)",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E422970-000",
+  "link": "https://www.uniqlo.com/in/en/products/E438335-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Linen Blended Half Trousers",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E434852-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism UV Protection Full-Zip Hoodie",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism UV Protection Full-Zip Hoodie",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Chino Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E425143-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Chino Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E425143-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism UV Cut Full-Zip Hoodie",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E422986-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN AIRism UV Cut Full-Zip Hoodie",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E422986-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
