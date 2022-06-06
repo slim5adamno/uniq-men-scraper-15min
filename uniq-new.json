@@ -133,22 +133,6 @@
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E444644-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Chambray Oversized Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E444644-000",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
