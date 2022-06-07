@@ -6216,15 +6216,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -9302,11 +9293,11 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": 3,
+          "count": 2,
+          "fit": 4,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
