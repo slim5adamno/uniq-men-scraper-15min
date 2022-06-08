@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "MEN French Rib Cardigan",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E447641-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Phrases Of Marvel Long Sleeve Sweat Pullover Hoodie",
   "price": 990,
   "basePrice": 2490,
@@ -180,22 +164,6 @@
   "basePrice": 2490,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447361-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN U Tailored Jacket",
-  "price": 990,
-  "basePrice": 5990,
-  "discount": 83,
-  "link": "https://www.uniqlo.com/in/en/products/E447338-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
