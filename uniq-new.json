@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "MEN U Tailored Jacket",
-  "price": 990,
-  "basePrice": 5990,
-  "discount": 83,
-  "link": "https://www.uniqlo.com/in/en/products/E447338-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Oversized 3/4 Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
