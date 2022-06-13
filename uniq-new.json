@@ -1,4 +1,52 @@
 {
+  "name": "MEN Roll-Up Shorts",
+  "price": 590,
+  "basePrice": 2490,
+  "discount": 76,
+  "link": "https://www.uniqlo.com/in/en/products/E447361-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Roll-Up Shorts",
+  "price": 590,
+  "basePrice": 2490,
+  "discount": 76,
+  "link": "https://www.uniqlo.com/in/en/products/E447361-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Oversized Striped Long Sleeve Shirt",
+  "price": 590,
+  "basePrice": 2990,
+  "discount": 80,
+  "link": "https://www.uniqlo.com/in/en/products/E446994-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
   "price": 590,
   "basePrice": 1290,
@@ -95,38 +143,6 @@
   }
 }
 {
-  "name": "MEN Roll-Up Shorts",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447361-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MEN Roll-Up Shorts",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447361-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MEN Oversized 3/4 Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -159,11 +175,11 @@
   }
 }
 {
-  "name": "MEN Oversized Striped Long Sleeve Shirt",
+  "name": "MEN Oversized Striped Short Sleeve Shirt",
   "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E446994-000",
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E447099-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -336,9 +352,9 @@
 }
 {
   "name": "MEN Oversized Colour Block Blouson",
-  "price": 2990,
+  "price": 1990,
   "basePrice": 5990,
-  "discount": 50,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E447359-000",
   "sizes": {
     "code": "SMA003",
