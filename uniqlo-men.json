@@ -590,12 +590,12 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
-          },
-          {
             "id": 23635,
             "name": "Bottoms"
+          },
+          {
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 22427,
@@ -634,7 +634,11 @@
             "name": "Others"
           },
           {
-            "id": 25851,
+            "id": 22393,
+            "name": "Others"
+          },
+          {
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -642,11 +646,7 @@
             "name": "Socks"
           },
           {
-            "id": 22415,
-            "name": "Others"
-          },
-          {
-            "id": 22393,
+            "id": 25851,
             "name": "Others"
           },
           {
@@ -718,12 +718,12 @@
             "name": "Sunglasses"
           },
           {
-            "id": 11736,
-            "name": "Others"
-          },
-          {
             "id": 23613,
             "name": "Sports Glasses"
+          },
+          {
+            "id": 11736,
+            "name": "Others"
           },
           {
             "id": 12592,
