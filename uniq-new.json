@@ -318,19 +318,3 @@
     }
   }
 }
-{
-  "name": "MEN Oversized Colour Block Blouson",
-  "price": 1990,
-  "basePrice": 5990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E447359-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
