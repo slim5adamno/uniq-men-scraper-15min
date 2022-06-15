@@ -217,11 +217,6 @@
           "code": "COL69",
           "displayCode": "69",
           "name": "NAVY"
-        },
-        {
-          "code": "COL83",
-          "displayCode": "83",
-          "name": "83"
         }
       ],
       "flags": [
@@ -280,7 +275,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 32
+          "count": 31
         },
         {
           "from": 1000,
@@ -306,38 +301,38 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 71,
+          "accumulated": 70,
           "count": 37
         },
         {
           "rating": 0.5,
-          "accumulated": 34,
+          "accumulated": 33,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 34,
+          "accumulated": 33,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 33,
+          "accumulated": 32,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 33,
+          "accumulated": 32,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 33,
+          "accumulated": 32,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 33,
-          "count": 6
+          "accumulated": 32,
+          "count": 5
         },
         {
           "rating": 3.5,
@@ -809,10 +804,6 @@
             "name": "Others"
           },
           {
-            "id": 23612,
-            "name": "Sunglasses"
-          },
-          {
             "id": 29305,
             "name": "UNIQLO and MARNI"
           },
@@ -1041,7 +1032,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -1248,7 +1239,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -1425,7 +1416,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -1464,15 +1455,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1687,7 +1669,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -1850,7 +1832,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -2173,7 +2155,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -2396,7 +2378,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -2578,168 +2560,13 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
         "shortDescription": "Eye-friendly sunglasses that block blue light and UV rays. Sports style designed to stay in place when you move.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/447027_size.html",
         "sizeInformation": "Lens: 53mm, Bridge: 19mm, Temple: 143mm",
-        "sizes": [
-          {
-            "code": "SIZ999",
-            "displayCode": "999",
-            "name": "No Control",
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "-"
-      },
-      {
-        "careInstruction": "-",
-        "colors": [
-          {
-            "code": "COL83",
-            "displayCode": "83",
-            "name": "83",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Lens: Plastic (Coating)/ Frame: Nickel Alloy (Plated)",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/item/goods_80_447018.jpg",
-              "colorCode": "80"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/item/goods_81_447018.jpg",
-              "colorCode": "81"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/item/goods_83_447018.jpg",
-              "colorCode": "83"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/chip/goods_80_447018_chip.jpg",
-              "colorCode": "80"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/chip/goods_81_447018_chip.jpg",
-              "colorCode": "81"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/chip/goods_83_447018_chip.jpg",
-              "colorCode": "83"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/sub/goods_447018_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/sub/goods_447018_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447018/sub/goods_447018_sub19.jpg"
-            }
-          ]
-        },
-        "l1Id": "447018",
-        "longDescription": "- Protects your eyes from blue light fatigue caused by PCs and smartphones. <br>- Stylish metal frame design.",
-        "name": "Round Frame Metal UV Protection Sunglasses",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E447018-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 3,
-          "count": 1,
-          "fit": 4,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL83",
-            "displayCode": "83",
-            "name": "83",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "06766874",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 69,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Eye-friendly sunglasses that block blue light and UV rays. Metal frame design.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/447018_size.html",
-        "sizeInformation": "Lens: 49mm, Bridge: 20mm, Temple: 142mm",
         "sizes": [
           {
             "code": "SIZ999",
@@ -2938,7 +2765,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -3122,7 +2949,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -3278,7 +3105,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -3503,7 +3330,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -3667,7 +3494,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -3891,7 +3718,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -4103,7 +3930,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -4290,7 +4117,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -4445,7 +4272,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -4605,7 +4432,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -4778,7 +4605,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -4929,7 +4756,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -5089,7 +4916,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -5261,7 +5088,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -5430,7 +5257,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -5636,7 +5463,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -5870,7 +5697,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -6071,7 +5898,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -6249,7 +6076,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -6429,7 +6256,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -6616,7 +6443,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -6840,7 +6667,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -7192,7 +7019,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -7452,7 +7279,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -7663,7 +7490,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -7836,7 +7663,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -8067,7 +7894,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -8292,7 +8119,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -8531,7 +8358,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -8780,7 +8607,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -9006,7 +8833,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -9326,7 +9153,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -9601,7 +9428,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -9828,7 +9655,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -10057,7 +9884,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -10257,7 +10084,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -10473,7 +10300,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -10701,7 +10528,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -10917,7 +10744,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -11152,7 +10979,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -11383,7 +11210,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -11603,7 +11430,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -11826,7 +11653,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -12121,7 +11948,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -12343,7 +12170,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -12551,7 +12378,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -12828,7 +12655,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -13071,7 +12898,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -13307,7 +13134,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -13528,7 +13355,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -13737,7 +13564,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -13928,7 +13755,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -14171,7 +13998,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -14400,7 +14227,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -14635,7 +14462,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -14854,7 +14681,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -15106,7 +14933,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -15331,7 +15158,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -15557,7 +15384,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -15768,7 +15595,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -15988,7 +15815,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -16217,7 +16044,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 68,
           "count": 0,
           "items": []
         },
@@ -16258,8 +16085,8 @@
       }
     ],
     "pagination": {
-      "count": 71,
-      "total": 71,
+      "count": 70,
+      "total": 70,
       "offset": 1000
     }
   }
