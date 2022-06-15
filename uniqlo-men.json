@@ -12056,8 +12056,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL65",
-            "displayCode": "65",
+            "code": "COL68",
+            "displayCode": "68",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -12083,7 +12083,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06743010",
+          "l2Id": "06743001",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -13595,19 +13595,13 @@
         "longDescription": "- Supple, smooth pinpoint Oxford fabric made from high-quality fine count yarn. <br>- Specially processed to add shape-retaining properties without sacrificing the natural feel of 100% cotton. <br>- Manufactured under strict control, from fabric production to sewing. <br>- The fabric is kept refrigerated until the sewing process to ensure its shape-retaining properties. <br>- This non-iron shirt is made with a special shape-retaining, wrinkle-resistant dipping finish and sewing process to achieve the ultimate easy care business shirt. Note: Light ironing may be required depending on washing conditions. · Collar height and shape designed to look good with a necktie. <br>- Balanced chest pocket designed for practicality, just the right size for an ID card or passport. <br>- Shoulders designed with curved angles for easy movement. <br>- Slender cut showcases the elegant drape of the fabric. <br>- Basic regular collar. <br>- The glossy, elegant pinpoint Oxford fabric goes well with all neckties and suits. ",
         "name": "MEN Super Non Iron Regular Fit Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E427163-000",
@@ -13639,14 +13633,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -13657,7 +13644,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05111059",
+          "l2Id": "06763478",
           "salesStartDate": "",
           "salesEndDate": ""
         },
