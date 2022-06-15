@@ -629,16 +629,16 @@
             "name": "AIRism"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 23635,
@@ -657,12 +657,12 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 22410,
             "name": "Easy Pants"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 23634,
@@ -689,15 +689,15 @@
             "name": "Ultra Light Pants"
           },
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 22414,
             "name": "Shorts"
           },
           {
-            "id": 22415,
+            "id": 22407,
+            "name": "Others"
+          },
+          {
+            "id": 25851,
             "name": "Others"
           },
           {
@@ -705,7 +705,7 @@
             "name": "Socks"
           },
           {
-            "id": 25851,
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -773,12 +773,12 @@
             "name": "Others"
           },
           {
-            "id": 29299,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 24346,
             "name": "Short Socks"
+          },
+          {
+            "id": 29299,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 12625,
@@ -797,15 +797,19 @@
             "name": "AIRism"
           },
           {
-            "id": 12589,
-            "name": "Tapered"
-          },
-          {
             "id": 11711,
             "name": "Others"
           },
           {
+            "id": 12589,
+            "name": "Tapered"
+          },
+          {
             "id": 11694,
+            "name": "Others"
+          },
+          {
+            "id": 11736,
             "name": "Others"
           },
           {
@@ -815,10 +819,6 @@
           {
             "id": 23613,
             "name": "Sports Glasses"
-          },
-          {
-            "id": 11736,
-            "name": "Others"
           },
           {
             "id": 12592,
@@ -857,12 +857,12 @@
             "name": "Denim"
           },
           {
-            "id": 28179,
-            "name": "Wide"
-          },
-          {
             "id": 11696,
             "name": "Others"
+          },
+          {
+            "id": 28179,
+            "name": "Wide"
           },
           {
             "id": 12611,
@@ -1822,12 +1822,20 @@
               "colorCode": "17"
             },
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/423527/chip/goods_22_423527_chip.jpg",
+              "colorCode": "22"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/423527/chip/goods_30_423527_chip.jpg",
               "colorCode": "30"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/423527/chip/goods_31_423527_chip.jpg",
               "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/423527/chip/goods_54_423527_chip.jpg",
+              "colorCode": "54"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/423527/chip/goods_57_423527_chip.jpg",
