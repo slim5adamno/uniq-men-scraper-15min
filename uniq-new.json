@@ -1,4 +1,20 @@
 {
+  "name": "AIRism Face Mask (Pack of 3)",
+  "price": 190,
+  "basePrice": 590,
+  "discount": 68,
+  "link": "https://www.uniqlo.com/in/en/products/E437784-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
   "price": 590,
   "basePrice": 1290,
