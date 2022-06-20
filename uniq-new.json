@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "MEN Striped Short Sleeve T-Shirt",
+  "price": 590,
+  "basePrice": 1990,
+  "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E449458-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MEN DRY-EX Crew Neck Short Sleeve T-Shirt",
   "price": 590,
   "basePrice": 1290,
@@ -63,11 +79,11 @@
   }
 }
 {
-  "name": "MEN Striped Short Sleeve T-Shirt",
+  "name": "MEN Climbing Shorts",
   "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E449458-000",
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E447266-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -79,15 +95,31 @@
   }
 }
 {
-  "name": "MEN Climbing Shorts",
+  "name": "MEN Dry-EX Shorts",
   "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447266-000",
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E445175-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MEN Dry-EX Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E445175-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
