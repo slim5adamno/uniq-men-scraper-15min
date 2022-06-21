@@ -645,10 +645,6 @@
             "name": "AIRism"
           },
           {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 29297,
             "name": "UNIQLO and MARNI"
           },
@@ -657,12 +653,8 @@
             "name": "T-shirts"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
-            "id": 22418,
-            "name": "Inner Tops"
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 27338,
@@ -673,8 +665,20 @@
             "name": "Outerwear"
           },
           {
+            "id": 22408,
+            "name": "Jeans"
+          },
+          {
+            "id": 22418,
+            "name": "Inner Tops"
+          },
+          {
             "id": 23635,
             "name": "Bottoms"
+          },
+          {
+            "id": 29303,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22427,
@@ -685,12 +689,12 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 29303,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22410,
             "name": "Easy Pants"
+          },
+          {
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 22411,
@@ -699,10 +703,6 @@
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
-          },
-          {
-            "id": 22391,
-            "name": "Jackets"
           },
           {
             "id": 22392,
@@ -721,20 +721,20 @@
             "name": "Others"
           },
           {
-            "id": 22415,
-            "name": "Others"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 25851,
             "name": "Others"
           },
           {
             "id": 24736,
             "name": "Socks"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 29300,
@@ -753,12 +753,12 @@
             "name": "AIRism Mask"
           },
           {
-            "id": 29257,
-            "name": "Cotton"
-          },
-          {
             "id": 12620,
             "name": "Denim"
+          },
+          {
+            "id": 29257,
+            "name": "Cotton"
           },
           {
             "id": 12643,
@@ -797,12 +797,12 @@
             "name": "Others"
           },
           {
-            "id": 29017,
-            "name": "Marvel Studios The Infinity Saga"
-          },
-          {
             "id": 23569,
             "name": "Shorts"
+          },
+          {
+            "id": 29017,
+            "name": "Marvel Studios The Infinity Saga"
           },
           {
             "id": 23611,
@@ -825,24 +825,24 @@
             "name": "Others"
           },
           {
-            "id": 24346,
-            "name": "Short Socks"
-          },
-          {
             "id": 29299,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 24346,
+            "name": "Short Socks"
           },
           {
             "id": 12076,
             "name": "Ultra Light"
           },
           {
-            "id": 12625,
-            "name": "Crew Neck"
-          },
-          {
             "id": 12074,
             "name": "Tailored"
+          },
+          {
+            "id": 12625,
+            "name": "Crew Neck"
           },
           {
             "id": 12585,
@@ -8863,9 +8863,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
+            "code": "COL15",
+            "displayCode": "15",
+            "name": "RED",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8890,7 +8890,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06971958",
+          "l2Id": "06969884",
           "salesStartDate": "",
           "salesEndDate": ""
         },
