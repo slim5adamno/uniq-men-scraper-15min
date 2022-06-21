@@ -555,6 +555,10 @@
             "name": "Casual Shirts"
           },
           {
+            "id": 11701,
+            "name": "Formal Shirts"
+          },
+          {
             "id": 11692,
             "name": "Sweaters & Cardigans"
           },
@@ -641,6 +645,10 @@
         ],
         "subcategories": [
           {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
+          },
+          {
             "id": 22417,
             "name": "AIRism"
           },
@@ -649,28 +657,20 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 27338,
             "name": "Uniqlo U"
           },
           {
-            "id": 23633,
-            "name": "Outerwear"
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 22408,
             "name": "Jeans"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
+            "id": 23633,
+            "name": "Outerwear"
           },
           {
             "id": 23635,
@@ -685,24 +685,20 @@
             "name": "Others"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 22410,
             "name": "Easy Pants"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 22392,
@@ -713,23 +709,15 @@
             "name": "Trouser"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 22407,
             "name": "Others"
           },
           {
+            "id": 22414,
+            "name": "Shorts"
+          },
+          {
             "id": 25851,
-            "name": "Others"
-          },
-          {
-            "id": 24736,
-            "name": "Socks"
-          },
-          {
-            "id": 22415,
             "name": "Others"
           },
           {
@@ -737,8 +725,12 @@
             "name": "Others"
           },
           {
-            "id": 29300,
-            "name": "UNIQLO and MARNI"
+            "id": 22415,
+            "name": "Others"
+          },
+          {
+            "id": 24736,
+            "name": "Socks"
           },
           {
             "id": 22439,
@@ -773,16 +765,8 @@
             "name": "AIRism"
           },
           {
-            "id": 29301,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 11735,
             "name": "Others"
-          },
-          {
-            "id": 13222,
-            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 29304,
@@ -801,16 +785,8 @@
             "name": "Shorts"
           },
           {
-            "id": 29017,
-            "name": "Marvel Studios The Infinity Saga"
-          },
-          {
             "id": 23611,
             "name": "Others"
-          },
-          {
-            "id": 27895,
-            "name": "Jujutsu Kaisen: Zero"
           },
           {
             "id": 29298,
@@ -821,16 +797,24 @@
             "name": "Others"
           },
           {
+            "id": 29017,
+            "name": "Marvel Studios The Infinity Saga"
+          },
+          {
+            "id": 27895,
+            "name": "Jujutsu Kaisen: Zero"
+          },
+          {
             "id": 13774,
             "name": "Others"
           },
           {
-            "id": 29299,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 24346,
             "name": "Short Socks"
+          },
+          {
+            "id": 29299,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 12076,
@@ -853,12 +837,12 @@
             "name": "AIRism"
           },
           {
-            "id": 12589,
-            "name": "Tapered"
-          },
-          {
             "id": 11711,
             "name": "Others"
+          },
+          {
+            "id": 12589,
+            "name": "Tapered"
           },
           {
             "id": 11694,
@@ -869,16 +853,12 @@
             "name": "UNIQLO × Theory"
           },
           {
-            "id": 11736,
-            "name": "Others"
-          },
-          {
             "id": 29305,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 12115,
-            "name": "Short Sleeve"
+            "id": 11736,
+            "name": "Others"
           },
           {
             "id": 12592,
@@ -891,6 +871,10 @@
           {
             "id": 12574,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 11709,
+            "name": "Others"
           },
           {
             "id": 12580,
