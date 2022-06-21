@@ -1312,6 +1312,15 @@
         "careInstruction": "-",
         "colors": [
           {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL67",
             "displayCode": "67",
             "name": "BLUE",
@@ -1439,9 +1448,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1466,7 +1475,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06926576",
+          "l2Id": "06926567",
           "salesStartDate": "",
           "salesEndDate": ""
         },
