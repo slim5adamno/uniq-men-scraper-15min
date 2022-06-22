@@ -645,12 +645,12 @@
         ],
         "subcategories": [
           {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22417,
             "name": "AIRism"
+          },
+          {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 29297,
@@ -661,16 +661,16 @@
             "name": "Uniqlo U"
           },
           {
+            "id": 23633,
+            "name": "Outerwear"
+          },
+          {
             "id": 22418,
             "name": "Inner Tops"
           },
           {
             "id": 22408,
             "name": "Jeans"
-          },
-          {
-            "id": 23633,
-            "name": "Outerwear"
           },
           {
             "id": 23635,
@@ -717,8 +717,8 @@
             "name": "Shorts"
           },
           {
-            "id": 25851,
-            "name": "Others"
+            "id": 24736,
+            "name": "Socks"
           },
           {
             "id": 22393,
@@ -729,8 +729,8 @@
             "name": "Others"
           },
           {
-            "id": 24736,
-            "name": "Socks"
+            "id": 25851,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -821,12 +821,12 @@
             "name": "Ultra Light"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
-          },
-          {
             "id": 12625,
             "name": "Crew Neck"
+          },
+          {
+            "id": 12074,
+            "name": "Tailored"
           },
           {
             "id": 12585,
@@ -853,12 +853,12 @@
             "name": "UNIQLO × Theory"
           },
           {
-            "id": 29305,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 11736,
             "name": "Others"
+          },
+          {
+            "id": 29305,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 12592,
