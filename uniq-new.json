@@ -1,20 +1,4 @@
 {
-  "name": "Magnum Photos UT (Short Sleeve Graphic T-Shirt)",
-  "price": 190,
-  "basePrice": 1290,
-  "discount": 85,
-  "link": "https://www.uniqlo.com/in/en/products/E445607-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 190,
   "basePrice": 590,
