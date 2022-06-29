@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "Checked Work Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E451147-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Cotton Linen Striped Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2990,
@@ -148,22 +132,6 @@
   "basePrice": 2490,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447266-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oversized Striped Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447099-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
