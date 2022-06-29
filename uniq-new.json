@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "Roll-Up Shorts",
+  "price": 590,
+  "basePrice": 2490,
+  "discount": 76,
+  "link": "https://www.uniqlo.com/in/en/products/E447361-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Oversized Striped Long Sleeve Shirt",
   "price": 590,
   "basePrice": 2990,
@@ -101,6 +117,22 @@
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E447769-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Linen Striped Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E447769-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -116,6 +148,22 @@
   "basePrice": 2490,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447266-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Striped Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E447099-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
