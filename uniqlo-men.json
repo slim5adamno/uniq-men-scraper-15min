@@ -639,20 +639,16 @@
             "name": "Jackets"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22412,
-            "name": "Trouser"
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
+            "id": 22412,
+            "name": "Trouser"
           },
           {
             "id": 22407,
@@ -663,7 +659,15 @@
             "name": "UNIQLO and MARNI"
           },
           {
+            "id": 22414,
+            "name": "Shorts"
+          },
+          {
             "id": 22415,
+            "name": "Others"
+          },
+          {
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -673,10 +677,6 @@
           {
             "id": 24736,
             "name": "Socks"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
           },
           {
             "id": 22439,
@@ -771,12 +771,12 @@
             "name": "Others"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 12653,
             "name": "Caps, Hats & Beanies"
+          },
+          {
+            "id": 12574,
+            "name": "Ankle Pants"
           },
           {
             "id": 11709,
@@ -7122,15 +7122,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL15",
-            "displayCode": "15",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL54",
             "displayCode": "54",
             "name": "GREEN",
@@ -7330,15 +7321,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/449634_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
