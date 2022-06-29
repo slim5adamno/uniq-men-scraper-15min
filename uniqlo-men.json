@@ -2685,14 +2685,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06885205",
@@ -2843,14 +2836,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06885163",
@@ -3001,14 +2987,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06885141",
@@ -3840,14 +3819,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06885128",
@@ -4070,14 +4042,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "06736797",
@@ -8362,12 +8327,6 @@
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "onlineOnly",
-                "id": 8,
-                "name": "Online Only",
-                "detail": "Online Only"
               }
             ]
           },
