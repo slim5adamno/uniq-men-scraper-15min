@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "Oversized Striped Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447099-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry-EX Shorts",
   "price": 990,
   "basePrice": 1990,
