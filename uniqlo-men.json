@@ -952,19 +952,13 @@
         "longDescription": "- With deodorization features. <br>- Pile cushioned soles for a comfortable fit. <br>- Half length pairs well with boots or casual shoes. <br>- Relaxed fit with elastic ribbing at the opening. <br>- Perfect for outdoor activities or loungewear.",
         "name": "Sinker Pile Half Socks",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "190.0000"
           }
         },
         "productId": "E447724-000",
@@ -987,27 +981,20 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06752778",
+          "l2Id": "07031326",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -1501,19 +1488,13 @@
         "longDescription": "- With deodorizing feature. <br>- Made with high-quality Supima® cotton for a smooth feel. <br>- Versatile wide ribbed design. <br>- A good fit that stays put. <br>- Basic regular length.",
         "name": "Supima Cotton Wide Ribbed Socks",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "190.0000"
           }
         },
         "productId": "E441898-000",
@@ -1547,27 +1528,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06352786",
+          "l2Id": "06726923",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7239,15 +7213,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -8169,19 +8134,13 @@
         "longDescription": "- Relaxed tapered cut in a sleek ankle length. <br>- Elastic waistband with a drawstring for size adjustment.<br>- Newly updated with a relaxed fit that’s not too wide at the leg. <br>- Perfect for loungewear or for going out.",
         "name": "Cotton Relaxed Ankle Pants",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E439601-000",
@@ -8215,23 +8174,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL37",
-            "displayCode": "37",
-            "name": "BROWN",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -8242,7 +8194,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06350212",
+          "l2Id": "06350204",
           "salesStartDate": "",
           "salesEndDate": ""
         },
