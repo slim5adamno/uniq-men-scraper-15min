@@ -614,20 +614,12 @@
             "name": "Others"
           },
           {
-            "id": 23634,
-            "name": "Tops"
-          },
-          {
             "id": 22391,
             "name": "Jackets"
           },
           {
             "id": 22406,
             "name": "Formal Shirts"
-          },
-          {
-            "id": 26165,
-            "name": "Long Sleeve Shirt"
           },
           {
             "id": 22411,
@@ -642,10 +634,6 @@
             "name": "Trouser"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 29297,
             "name": "UNIQLO and MARNI"
           },
@@ -654,12 +642,8 @@
             "name": "Others"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
-            "id": 22415,
-            "name": "Others"
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 25851,
@@ -668,6 +652,14 @@
           {
             "id": 24736,
             "name": "Socks"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -794,6 +786,10 @@
             "name": "Easy Care"
           },
           {
+            "id": 11709,
+            "name": "Others"
+          },
+          {
             "id": 12580,
             "name": "Others"
           },
@@ -802,12 +798,12 @@
             "name": "Smart"
           },
           {
-            "id": 11696,
-            "name": "Others"
-          },
-          {
             "id": 29429,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 11696,
+            "name": "Others"
           },
           {
             "id": 12611,
