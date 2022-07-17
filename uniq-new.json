@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "DRY-EX Designed Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E424214-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry-EX Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -116,6 +132,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E438335-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism UV Protection Full-Zip Hoodie",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
