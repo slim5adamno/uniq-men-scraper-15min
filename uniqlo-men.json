@@ -901,15 +901,15 @@
           }
         ],
         "rating": {
-          "average": 4.571428571428571,
-          "count": 77,
-          "fit": 3.0779220779220777,
+          "average": 4.576923076923077,
+          "count": 78,
+          "fit": 3.0641025641025643,
           "rateCount": {
             "one": 4,
             "two": 3,
             "three": 1,
             "four": 6,
-            "five": 63
+            "five": 64
           }
         },
         "representative": {
@@ -6592,15 +6592,6 @@
       {
         "careInstruction": "-",
         "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL04",
             "displayCode": "04",
