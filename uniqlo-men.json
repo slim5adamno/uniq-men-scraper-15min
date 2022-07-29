@@ -310,17 +310,17 @@
         {
           "rating": 3,
           "accumulated": 32,
-          "count": 2
+          "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 30,
+          "accumulated": 31,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 27,
-          "count": 4
+          "accumulated": 28,
+          "count": 5
         },
         {
           "rating": 4.5,
@@ -597,43 +597,43 @@
         ],
         "subcategories": [
           {
-            "id": 23635,
-            "name": "Bottoms"
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 29303,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
-            "id": 22411,
-            "name": "Ankle Pants"
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22412,
-            "name": "Trouser"
+            "id": 22411,
+            "name": "Ankle Pants"
           },
           {
-            "id": 29297,
-            "name": "UNIQLO and MARNI"
+            "id": 22412,
+            "name": "Trouser"
           },
           {
             "id": 22414,
             "name": "Shorts"
           },
           {
-            "id": 31562,
-            "name": "Fleece"
+            "id": 29297,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 25851,
+            "name": "Others"
+          },
+          {
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -641,8 +641,8 @@
             "name": "Others"
           },
           {
-            "id": 22415,
-            "name": "Others"
+            "id": 31562,
+            "name": "Fleece"
           },
           {
             "id": 22407,
@@ -749,11 +749,11 @@
             "name": "Others"
           },
           {
-            "id": 11741,
+            "id": 12580,
             "name": "Others"
           },
           {
-            "id": 12580,
+            "id": 11741,
             "name": "Others"
           },
           {
@@ -761,12 +761,12 @@
             "name": "Smart"
           },
           {
-            "id": 11696,
-            "name": "Others"
-          },
-          {
             "id": 29429,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 11696,
+            "name": "Others"
           },
           {
             "id": 12611,
