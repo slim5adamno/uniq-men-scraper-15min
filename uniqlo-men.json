@@ -601,20 +601,20 @@
             "name": "Others"
           },
           {
-            "id": 29303,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 23635,
             "name": "Bottoms"
           },
           {
-            "id": 22411,
-            "name": "Ankle Pants"
+            "id": 29303,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22411,
+            "name": "Ankle Pants"
           },
           {
             "id": 22412,
@@ -629,7 +629,7 @@
             "name": "Shorts"
           },
           {
-            "id": 22415,
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -637,7 +637,7 @@
             "name": "Others"
           },
           {
-            "id": 22393,
+            "id": 22415,
             "name": "Others"
           },
           {
@@ -749,11 +749,11 @@
             "name": "Others"
           },
           {
-            "id": 11741,
+            "id": 12580,
             "name": "Others"
           },
           {
-            "id": 12580,
+            "id": 11741,
             "name": "Others"
           },
           {
@@ -761,12 +761,12 @@
             "name": "Smart"
           },
           {
-            "id": 11696,
-            "name": "Others"
-          },
-          {
             "id": 29429,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 11696,
+            "name": "Others"
           },
           {
             "id": 12611,
