@@ -280,57 +280,57 @@
         {
           "rating": 0,
           "accumulated": 81,
-          "count": 44
+          "count": 43
         },
         {
           "rating": 0.5,
-          "accumulated": 37,
+          "accumulated": 38,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 37,
+          "accumulated": 38,
           "count": 3
         },
         {
           "rating": 1.5,
-          "accumulated": 34,
+          "accumulated": 35,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 34,
+          "accumulated": 35,
           "count": 2
         },
         {
           "rating": 2.5,
-          "accumulated": 32,
+          "accumulated": 33,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 32,
+          "accumulated": 33,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 31,
+          "accumulated": 32,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 28,
+          "accumulated": 29,
           "count": 5
         },
         {
           "rating": 4.5,
-          "accumulated": 23,
+          "accumulated": 24,
           "count": 6
         },
         {
           "rating": 5,
-          "accumulated": 17,
-          "count": 17
+          "accumulated": 18,
+          "count": 18
         }
       ],
       "sizes": [
@@ -465,12 +465,12 @@
             "name": "LOUNGEWEAR"
           },
           {
-            "id": 11681,
-            "name": "ACCESSORIES"
-          },
-          {
             "id": 11682,
             "name": "SPORT UTILITY WEAR"
+          },
+          {
+            "id": 11681,
+            "name": "ACCESSORIES"
           },
           {
             "id": 11685,
@@ -571,6 +571,10 @@
             "name": "Room Shoes"
           },
           {
+            "id": 23472,
+            "name": "Sport Utility Wear"
+          },
+          {
             "id": 22331,
             "name": "Accessories Collections"
           },
@@ -587,10 +591,6 @@
             "name": "Others"
           },
           {
-            "id": 23472,
-            "name": "Sport Utility Wear"
-          },
-          {
             "id": 23473,
             "name": "Comfort Work Wear"
           }
@@ -601,48 +601,48 @@
             "name": "Others"
           },
           {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
             "id": 29303,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
           },
           {
-            "id": 22412,
-            "name": "Trouser"
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 29297,
-            "name": "UNIQLO and MARNI"
+            "id": 22412,
+            "name": "Trouser"
           },
           {
             "id": 22414,
             "name": "Shorts"
           },
           {
-            "id": 22393,
-            "name": "Others"
+            "id": 29297,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 25851,
             "name": "Others"
           },
           {
+            "id": 31562,
+            "name": "Fleece"
+          },
+          {
             "id": 22415,
             "name": "Others"
           },
           {
-            "id": 31562,
-            "name": "Fleece"
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22407,
@@ -761,12 +761,12 @@
             "name": "Smart"
           },
           {
-            "id": 29429,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 11696,
             "name": "Others"
+          },
+          {
+            "id": 29429,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 12611,
