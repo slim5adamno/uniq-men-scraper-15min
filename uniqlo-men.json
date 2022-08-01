@@ -517,10 +517,6 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 31751,
-            "name": "Fleece T-shirt"
-          },
-          {
             "id": 22328,
             "name": "Bottoms Collections"
           },
@@ -599,12 +595,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
             "id": 29303,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 22411,
@@ -740,10 +736,6 @@
           },
           {
             "id": 31603,
-            "name": "Sale"
-          },
-          {
-            "id": 31763,
             "name": "Sale"
           }
         ]
