@@ -629,16 +629,16 @@
         ],
         "subcategories": [
           {
-            "id": 23635,
-            "name": "Bottoms"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 23635,
+            "name": "Bottoms"
           },
           {
             "id": 22427,
@@ -745,11 +745,11 @@
             "name": "Sale"
           },
           {
-            "id": 31365,
+            "id": 31111,
             "name": "Sale"
           },
           {
-            "id": 31111,
+            "id": 31365,
             "name": "Sale"
           },
           {
@@ -17603,7 +17603,7 @@
         "composition": "Shell: 83% Polyester, 17% Cotton/ [Lining] Body: 100% Polyester/ Hood: 83% Polyester, 17% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -17807,7 +17807,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Hand wash cold"
       },
       {
