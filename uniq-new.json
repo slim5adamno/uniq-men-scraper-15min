@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "MARNI 2WAY Utility Shorts",
-  "price": 790,
-  "basePrice": 2490,
-  "discount": 68,
-  "link": "https://www.uniqlo.com/in/en/products/E449565-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MARNI Wide Fit Boxy Shorts",
   "price": 790,
   "basePrice": 2490,
@@ -404,22 +388,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E448364-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Ultra Light Relaxed Shorts",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E447096-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
