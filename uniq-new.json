@@ -15,6 +15,70 @@
   }
 }
 {
+  "name": "Easy shorts",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E440347-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Easy shorts",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E440347-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Easy Shorts (Printed)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E438450-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Easy Shorts (Denim)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E434988-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Stretch Easy Shorts",
   "price": 590,
   "basePrice": 1290,
@@ -120,6 +184,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Slim Fit Shorts Print",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448490-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -271,11 +351,75 @@
   }
 }
 {
-  "name": "Stretch Slim Fit Shorts Print",
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448490-000",
+  "link": "https://www.uniqlo.com/in/en/products/E449470-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449469-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449468-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449468-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448415-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -443,6 +587,70 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Regular Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E433328-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Slim Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447650-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Slim Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447650-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Extra Stretch Skinny Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E425296-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
