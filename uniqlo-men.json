@@ -538,10 +538,6 @@
             "name": "Loungewear Collections"
           },
           {
-            "id": 11733,
-            "name": "Loungewear Sets"
-          },
-          {
             "id": 33610,
             "name": "Loungewear Bottoms"
           },
@@ -571,10 +567,6 @@
           }
         ],
         "subcategories": [
-          {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
           {
             "id": 22427,
             "name": "Others"
@@ -609,14 +601,6 @@
           },
           {
             "id": 31571,
-            "name": "Sale"
-          },
-          {
-            "id": 12643,
-            "name": "Easy"
-          },
-          {
-            "id": 30905,
             "name": "Sale"
           },
           {
@@ -658,10 +642,6 @@
           {
             "id": 31364,
             "name": "Sale"
-          },
-          {
-            "id": 12575,
-            "name": "EZY"
           },
           {
             "id": 31567,
