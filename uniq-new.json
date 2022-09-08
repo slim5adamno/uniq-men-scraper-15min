@@ -47,22 +47,6 @@
   }
 }
 {
-  "name": "Easy Shorts (Denim)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E434988-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry Stretch Easy Shorts",
   "price": 590,
   "basePrice": 1290,
