@@ -271,22 +271,6 @@
   }
 }
 {
-  "name": "MARNI Relaxed Wide Fit Trousers Plaid",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E449561-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Chino Shorts",
   "price": 990,
   "basePrice": 2490,
