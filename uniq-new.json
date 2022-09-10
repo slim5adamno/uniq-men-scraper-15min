@@ -511,22 +511,6 @@
   }
 }
 {
-  "name": "Slim Fit Jeans",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E447650-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Extra Stretch Skinny Fit Jeans",
   "price": 1490,
   "basePrice": 2990,
