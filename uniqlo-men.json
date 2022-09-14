@@ -597,10 +597,6 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 26168,
             "name": "Sweater"
           },
@@ -633,8 +629,8 @@
             "name": "Sale"
           },
           {
-            "id": 23552,
-            "name": "Washable"
+            "id": 31568,
+            "name": "Sale"
           },
           {
             "id": 31256,
@@ -721,24 +717,12 @@
             "name": "Sale"
           },
           {
-            "id": 30172,
-            "name": "New York weekend trip"
-          },
-          {
             "id": 29280,
             "name": "Peanuts Sunday Specials"
           },
           {
             "id": 31802,
             "name": "Sale"
-          },
-          {
-            "id": 22208,
-            "name": "MoMA Art Icons"
-          },
-          {
-            "id": 30695,
-            "name": "Museums of The World Collection"
           },
           {
             "id": 30696,
@@ -7954,7 +7938,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -8119,7 +8103,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
@@ -8138,7 +8122,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -8318,7 +8302,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
@@ -9453,7 +9437,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -9627,7 +9611,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
