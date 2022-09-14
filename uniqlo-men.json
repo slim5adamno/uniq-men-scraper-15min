@@ -589,12 +589,12 @@
             "name": "Others"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22423,
             "name": "Others"
+          },
+          {
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22400,
@@ -23150,9 +23150,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23177,7 +23177,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06971721",
+          "l2Id": "06971748",
           "salesStartDate": "",
           "salesEndDate": ""
         },
