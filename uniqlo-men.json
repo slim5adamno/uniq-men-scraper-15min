@@ -579,10 +579,6 @@
             "name": "Underwear"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
@@ -699,28 +695,8 @@
             "name": "Sale"
           },
           {
-            "id": 30483,
-            "name": "Disney Dearest Friends"
-          },
-          {
-            "id": 30479,
-            "name": "Saul Leiter"
-          },
-          {
-            "id": 30173,
-            "name": "SPY x FAMILY"
-          },
-          {
             "id": 31802,
             "name": "Sale"
-          },
-          {
-            "id": 31396,
-            "name": "UNIVERSITY LOGO"
-          },
-          {
-            "id": 31969,
-            "name": "Andy Warhol Kyoto"
           },
           {
             "id": 31564,
@@ -4567,15 +4543,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/449083_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
@@ -8914,7 +8881,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -9052,7 +9019,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold"
       },
       {
@@ -10706,7 +10673,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -10857,18 +10824,9 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold"
       },
       {
@@ -14050,7 +14008,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -14224,7 +14182,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
@@ -14243,7 +14201,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -14411,7 +14369,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
@@ -14430,7 +14388,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -14607,7 +14565,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
@@ -14626,7 +14584,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -14794,7 +14752,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
