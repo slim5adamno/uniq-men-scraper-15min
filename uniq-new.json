@@ -1,8 +1,8 @@
 {
   "name": "AIRism Face Mask (Pack of 3)",
-  "price": 190,
+  "price": 100,
   "basePrice": 590,
-  "discount": 68,
+  "discount": 83,
   "link": "https://www.uniqlo.com/in/en/products/E437784-000",
   "sizes": {
     "code": "SMA003",
@@ -144,14 +144,78 @@
 }
 {
   "name": "DRY-EX Short Sleeve Polo Shirt",
-  "price": 790,
+  "price": 590,
   "basePrice": 1990,
-  "discount": 60,
+  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E422962-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Non Iron Jersey Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448394-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Non Iron Jersey Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448393-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism UV Protection Full-Zip Hoodie",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism UV Protection Full-Zip Hoodie",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -191,38 +255,6 @@
   }
 }
 {
-  "name": "Dry Non Iron Jersey Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448394-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Dry Non Iron Jersey Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448393-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Fine Cotton Broadcloth Long Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -232,6 +264,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Easy Relaxed Ankle Pants",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E445033-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -255,34 +303,18 @@
   }
 }
 {
-  "name": "AIRism UV Protection Full-Zip Hoodie",
-  "price": 990,
-  "basePrice": 1990,
+  "name": "Ultra Light Trousers (Houndstooth Pattern)",
+  "price": 1490,
+  "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
+  "link": "https://www.uniqlo.com/in/en/products/E448483-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
     "display": {
       "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism UV Protection Full-Zip Hoodie",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E433049-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
