@@ -8745,15 +8745,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -19630,15 +19621,6 @@
             "code": "INS035",
             "displayCode": "035",
             "name": "35inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS036",
-            "displayCode": "036",
-            "name": "36inch",
             "display": {
               "showFlag": true,
               "chipType": 1
