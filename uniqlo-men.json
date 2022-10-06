@@ -15915,9 +15915,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL27",
-            "displayCode": "27",
-            "name": "ORANGE",
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15935,7 +15935,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07094449",
+          "l2Id": "07094458",
           "salesStartDate": "",
           "salesEndDate": ""
         },
