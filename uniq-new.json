@@ -415,22 +415,6 @@
   }
 }
 {
-  "name": "MEN Smart Ankle Trousers",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E434844-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Ultra Light Trousers (Houndstooth Pattern)",
   "price": 1490,
   "basePrice": 2990,
