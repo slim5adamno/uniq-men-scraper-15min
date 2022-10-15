@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "The Brands Guitar UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E453305-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Gundam UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
