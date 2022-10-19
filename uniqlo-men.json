@@ -665,10 +665,6 @@
             "name": "T-shirts"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
           },
@@ -754,6 +750,10 @@
           },
           {
             "id": 31568,
+            "name": "Sale"
+          },
+          {
+            "id": 31256,
             "name": "Sale"
           },
           {
@@ -845,16 +845,8 @@
             "name": "Packaged Dry"
           },
           {
-            "id": 12082,
-            "name": "Blouson"
-          },
-          {
             "id": 12488,
             "name": "Dry Pique"
-          },
-          {
-            "id": 20094,
-            "name": "Uniqlo U"
           },
           {
             "id": 31565,
@@ -20234,9 +20226,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20261,7 +20253,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07264144",
+          "l2Id": "07264136",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21536,9 +21528,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL34",
-            "displayCode": "34",
-            "name": "BROWN",
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21563,7 +21555,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07129494",
+          "l2Id": "07129486",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -24269,7 +24261,7 @@
         "composition": "Shell: 100% Cotton/ Body Lining: 100% Cotton/ Sleeve Lining: 65% Polyester, 35% Cotton/ Inner Layer: Pocket: 100% Cotton/ Placket Front: Pocket Lining: Upper Body: Pocket Lining: 65% Polyester, 35% Cotton/ Lower Body: Pocket Lining: 100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -24470,7 +24462,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not Dry Clean"
       },
       {
@@ -24507,7 +24499,7 @@
         "composition": "Shell: 100% Cotton/ Filling: 100% Polyester/ Hood Lining: 100% Cotton/ Body Lining: 100% Polyester/ Sleeve Lining: 65% Polyester, 35% Cotton/ Pocket Lining: Outer Layer: 100% Polyester/ Pocket Lining: Inner Layer: 100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -24716,7 +24708,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not Dry Clean"
       },
       {
@@ -24753,7 +24745,7 @@
         "composition": "100% Polyamide",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -24971,7 +24963,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not Dry Clean"
       },
       {
