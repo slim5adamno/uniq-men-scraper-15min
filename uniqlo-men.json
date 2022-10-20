@@ -327,52 +327,52 @@
         {
           "rating": 0,
           "accumulated": 123,
-          "count": 69
+          "count": 68
         },
         {
           "rating": 0.5,
-          "accumulated": 54,
+          "accumulated": 55,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 54,
+          "accumulated": 55,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 53,
+          "accumulated": 54,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 52,
+          "accumulated": 53,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 52,
+          "accumulated": 53,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 52,
+          "accumulated": 53,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 46,
+          "accumulated": 47,
           "count": 8
         },
         {
           "rating": 4.5,
-          "accumulated": 38,
-          "count": 13
+          "accumulated": 39,
+          "count": 14
         },
         {
           "rating": 5,
@@ -679,12 +679,12 @@
         ],
         "subcategories": [
           {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 22415,
@@ -735,11 +735,11 @@
             "name": "Sale"
           },
           {
-            "id": 33618,
+            "id": 31585,
             "name": "Sale"
           },
           {
-            "id": 31585,
+            "id": 33618,
             "name": "Sale"
           },
           {
