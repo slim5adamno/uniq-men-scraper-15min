@@ -47,22 +47,6 @@
   }
 }
 {
-  "name": "MARNI 2WAY Utility Shorts",
-  "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E451305-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MARNI Wide Fit Boxy Shorts",
   "price": 590,
   "basePrice": 2490,
@@ -72,22 +56,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MARNI Wide Fit Boxy Shorts",
-  "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E449643-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -296,22 +264,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Dry-EX Shorts",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E445175-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
