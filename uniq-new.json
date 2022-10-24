@@ -15,6 +15,166 @@
   }
 }
 {
+  "name": "MARNI 2WAY Utility Shorts",
+  "price": 390,
+  "basePrice": 2490,
+  "discount": 84,
+  "link": "https://www.uniqlo.com/in/en/products/E451305-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MARNI Wide Fit Boxy Shorts",
+  "price": 390,
+  "basePrice": 2490,
+  "discount": 84,
+  "link": "https://www.uniqlo.com/in/en/products/E449643-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MARNI Wide Fit Boxy Shorts",
+  "price": 390,
+  "basePrice": 2490,
+  "discount": 84,
+  "link": "https://www.uniqlo.com/in/en/products/E449563-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MARNI Wide Fit Boxy Shorts",
+  "price": 390,
+  "basePrice": 2490,
+  "discount": 84,
+  "link": "https://www.uniqlo.com/in/en/products/E449563-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E453489-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E453489-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E453486-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E453486-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E452783-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E452783-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Gundam UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
@@ -47,11 +207,11 @@
   }
 }
 {
-  "name": "MARNI 2WAY Utility Shorts",
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E451305-000",
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E451211-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -63,11 +223,27 @@
   }
 }
 {
-  "name": "MARNI Wide Fit Boxy Shorts",
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E449643-000",
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E451211-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E451209-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -79,11 +255,27 @@
   }
 }
 {
-  "name": "MARNI Wide Fit Boxy Shorts",
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E449563-000",
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E451209-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E447186-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -95,11 +287,75 @@
   }
 }
 {
-  "name": "MARNI Wide Fit Boxy Shorts",
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
-  "basePrice": 2490,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E449563-000",
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E447186-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E447181-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E447181-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E445606-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E445606-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -128,9 +384,9 @@
 }
 {
   "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
+  "price": 790,
   "basePrice": 1990,
-  "discount": 50,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E452814-000",
   "sizes": {
     "code": "SMA004",
@@ -144,10 +400,90 @@
 }
 {
   "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
+  "price": 790,
   "basePrice": 1990,
-  "discount": 50,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E452813-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448416-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448414-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448413-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448413-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E447007-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -191,82 +527,34 @@
   }
 }
 {
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
+  "name": "Slim Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448416-000",
+  "link": "https://www.uniqlo.com/in/en/products/E450243-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
     "display": {
       "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
 {
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
+  "name": "Slim Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448414-000",
+  "link": "https://www.uniqlo.com/in/en/products/E450243-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
     "display": {
       "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448413-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448413-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E447007-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
@@ -280,6 +568,38 @@
     "code": "CMD073",
     "displayCode": "073",
     "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Extra Stretch Skinny Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447647-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Extra Stretch Skinny Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447647-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
     "display": {
       "showFlag": true,
       "chipType": 1
