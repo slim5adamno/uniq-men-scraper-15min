@@ -339,6 +339,22 @@
   "price": 790,
   "basePrice": 1990,
   "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E452815-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E452813-000",
   "sizes": {
     "code": "SMA003",
@@ -387,7 +403,55 @@
   "price": 790,
   "basePrice": 1990,
   "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448414-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E448413-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448413-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E447007-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -405,9 +469,9 @@
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447007-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
