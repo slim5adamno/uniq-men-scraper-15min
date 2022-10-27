@@ -680,6 +680,10 @@
         ],
         "subcategories": [
           {
+            "id": 23628,
+            "name": "Parka"
+          },
+          {
             "id": 22391,
             "name": "Jackets"
           },
@@ -688,16 +692,12 @@
             "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 23628,
-            "name": "Parka"
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
-          },
-          {
-            "id": 22390,
-            "name": "Hoodies"
           },
           {
             "id": 26171,
@@ -708,24 +708,24 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
-            "id": 22414,
-            "name": "Shorts"
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22400,
             "name": "Sweaters"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 27338,
@@ -752,12 +752,12 @@
             "name": "Others"
           },
           {
-            "id": 22439,
-            "name": "Others"
-          },
-          {
             "id": 26292,
             "name": "Coming Soon"
+          },
+          {
+            "id": 22439,
+            "name": "Others"
           },
           {
             "id": 22428,
@@ -824,12 +824,12 @@
             "name": "Flannel"
           },
           {
-            "id": 20441,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 30906,
             "name": "Sale"
+          },
+          {
+            "id": 20441,
+            "name": "Long Sleeve"
           },
           {
             "id": 13124,
