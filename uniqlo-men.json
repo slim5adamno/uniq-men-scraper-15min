@@ -690,6 +690,10 @@
         ],
         "subcategories": [
           {
+            "id": 22391,
+            "name": "Jackets"
+          },
+          {
             "id": 23628,
             "name": "Parka"
           },
@@ -698,8 +702,12 @@
             "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22390,
+            "name": "Hoodies"
+          },
+          {
+            "id": 26171,
+            "name": "Sweat"
           },
           {
             "id": 23634,
@@ -710,24 +718,12 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 26171,
-            "name": "Sweat"
-          },
-          {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
             "id": 22406,
             "name": "Formal Shirts"
           },
           {
             "id": 22433,
             "name": "Belts & Ties"
-          },
-          {
-            "id": 22423,
-            "name": "Others"
           },
           {
             "id": 22403,
@@ -742,12 +738,16 @@
             "name": "Tops"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
+            "id": 22423,
+            "name": "Others"
           },
           {
             "id": 22400,
             "name": "Sweaters"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 27338,
@@ -23065,15 +23065,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -24506,6 +24497,15 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
