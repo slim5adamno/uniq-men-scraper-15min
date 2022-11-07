@@ -255,13 +255,6 @@
           "lazy": false
         },
         {
-          "code": "newSKU",
-          "name": "New Color",
-          "rank": 10,
-          "id": 7,
-          "lazy": false
-        },
-        {
           "code": "onlineOnly",
           "name": "Online Only",
           "rank": 12,
@@ -18069,12 +18062,6 @@
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
               }
             ]
           },
