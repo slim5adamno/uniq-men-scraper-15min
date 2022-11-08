@@ -707,10 +707,6 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22406,
             "name": "Formal Shirts"
           },
@@ -755,10 +751,6 @@
             "name": "Others"
           },
           {
-            "id": 31561,
-            "name": "Cardigans"
-          },
-          {
             "id": 22393,
             "name": "Others"
           },
@@ -801,14 +793,6 @@
           {
             "id": 12101,
             "name": "Mountain"
-          },
-          {
-            "id": 12108,
-            "name": "Cardigans"
-          },
-          {
-            "id": 23570,
-            "name": "Uniqlo U"
           },
           {
             "id": 31362,
@@ -863,15 +847,7 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 13124,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 13135,
             "name": "Uniqlo U"
           },
           {
@@ -13099,7 +13075,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
