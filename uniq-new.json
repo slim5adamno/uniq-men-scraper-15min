@@ -687,22 +687,6 @@
   }
 }
 {
-  "name": "Ultra Light Trousers (Houndstooth Pattern)",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448483-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Extra Stretch Skinny Fit Jeans",
   "price": 1490,
   "basePrice": 2990,
