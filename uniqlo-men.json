@@ -671,10 +671,6 @@
         ],
         "subcategories": [
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 23628,
             "name": "Parka"
           },
@@ -867,15 +863,15 @@
             "name": "Sale"
           },
           {
-            "id": 12512,
-            "name": "Long Sleeve T-Shirts"
-          },
-          {
             "id": 31366,
             "name": "Sale"
           },
           {
             "id": 31572,
+            "name": "Sale"
+          },
+          {
+            "id": 31563,
             "name": "Sale"
           },
           {
