@@ -17175,15 +17175,6 @@
               "showFlag": true,
               "chipType": 1
             }
-          },
-          {
-            "code": "INS036",
-            "displayCode": "036",
-            "name": "36inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
           }
         ],
         "unisexFlag": 0,
@@ -23543,15 +23534,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
