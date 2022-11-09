@@ -677,24 +677,12 @@
             "name": "Parka"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22391,
             "name": "Jackets"
           },
           {
             "id": 22390,
             "name": "Hoodies"
-          },
-          {
-            "id": 26171,
-            "name": "Sweat"
-          },
-          {
-            "id": 22405,
-            "name": "Casual Shirts"
           },
           {
             "id": 23634,
@@ -707,10 +695,6 @@
           {
             "id": 22406,
             "name": "Formal Shirts"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
           },
           {
             "id": 22427,
@@ -765,10 +749,6 @@
             "name": "Others"
           },
           {
-            "id": 26292,
-            "name": "Coming Soon"
-          },
-          {
             "id": 22428,
             "name": "AIRism Masks"
           },
@@ -805,10 +785,6 @@
             "name": "Sale"
           },
           {
-            "id": 12479,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 12588,
             "name": "Extra Stretch"
           },
@@ -821,28 +797,12 @@
             "name": "Sale"
           },
           {
-            "id": 20095,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31569,
             "name": "Sale"
           },
           {
             "id": 31363,
             "name": "Sale"
-          },
-          {
-            "id": 12114,
-            "name": "Flannel"
-          },
-          {
-            "id": 20441,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 13124,
-            "name": "Uniqlo U"
           },
           {
             "id": 31566,
@@ -915,10 +875,6 @@
           {
             "id": 25859,
             "name": "Mickey Stands"
-          },
-          {
-            "id": 34317,
-            "name": "The Philosophy of Andy Warhol"
           },
           {
             "id": 13774,
@@ -24061,9 +24017,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -24088,7 +24044,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07187780",
+          "l2Id": "07187773",
           "salesStartDate": "",
           "salesEndDate": ""
         },
