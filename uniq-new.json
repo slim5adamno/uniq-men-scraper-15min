@@ -159,6 +159,22 @@
   }
 }
 {
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E452783-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Gundam UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
@@ -232,6 +248,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E447181-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -616,6 +648,22 @@
     "code": "INS030",
     "displayCode": "030",
     "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Slim Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450243-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
     "display": {
       "showFlag": true,
       "chipType": 1
