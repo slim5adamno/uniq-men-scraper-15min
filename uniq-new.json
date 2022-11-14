@@ -403,22 +403,6 @@
   "price": 790,
   "basePrice": 1990,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E448413-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447007-000",
   "sizes": {
     "code": "SMA003",
@@ -712,22 +696,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "UNIQLO U Garment Dye Long Sleeve Sweatshirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452189-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
