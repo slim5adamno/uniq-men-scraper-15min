@@ -239,11 +239,6 @@
           "name": "PURPLE"
         },
         {
-          "code": "COL77",
-          "displayCode": "77",
-          "name": "PURPLE"
-        },
-        {
           "code": "COL81",
           "displayCode": "81",
           "name": "81"
@@ -305,7 +300,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 48
+          "count": 47
         },
         {
           "from": 2000,
@@ -326,8 +321,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 135,
-          "count": 78
+          "accumulated": 134,
+          "count": 77
         },
         {
           "rating": 0.5,
@@ -690,40 +685,40 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
-          },
-          {
             "id": 23628,
             "name": "Parka"
+          },
+          {
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 22390,
             "name": "Hoodies"
           },
           {
-            "id": 22416,
-            "name": "HEATTECH"
+            "id": 22433,
+            "name": "Belts & Ties"
           },
           {
             "id": 26165,
             "name": "Long Sleeve Shirt"
           },
           {
-            "id": 22433,
-            "name": "Belts & Ties"
+            "id": 22416,
+            "name": "HEATTECH"
           },
           {
             "id": 22406,
             "name": "Formal Shirts"
           },
           {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
             "id": 22389,
             "name": "Coats"
+          },
+          {
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 22408,
@@ -770,12 +765,12 @@
             "name": "AIRism Mask"
           },
           {
-            "id": 12637,
-            "name": "Extra Warm"
-          },
-          {
             "id": 31571,
             "name": "Sale"
+          },
+          {
+            "id": 12637,
+            "name": "Extra Warm"
           },
           {
             "id": 12101,
@@ -1946,7 +1941,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -4974,7 +4969,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -5170,7 +5165,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -5336,7 +5331,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -5523,7 +5518,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -5683,7 +5678,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -5879,7 +5874,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -6066,7 +6061,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -6259,7 +6254,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -6455,7 +6450,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -6624,7 +6619,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -6811,7 +6806,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -7007,7 +7002,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -7203,7 +7198,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -7399,7 +7394,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -7586,7 +7581,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -7785,7 +7780,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -7957,7 +7952,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -8129,7 +8124,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -8316,7 +8311,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -8512,7 +8507,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -11177,7 +11172,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -11415,7 +11410,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -14585,172 +14580,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL77",
-            "displayCode": "77",
-            "name": "PURPLE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Body: 100% Cotton/ Rib: 78% Cotton, 22% Polyester",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457489/item/ingoods_77_457489.jpg",
-              "colorCode": "77"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/chip/goods_77_457489_chip.jpg",
-              "colorCode": "77"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457489/sub/ingoods_457489_sub1.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457489/sub/ingoods_457489_sub7.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457489/sub/ingoods_457489_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub15.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub21.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457489/sub/goods_457489_sub27.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457489/sub/ingoods_457489_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "457489",
-        "longDescription": "The Philosophy of Andy Warhol<br><br>Pop Art icon, Andy Warhol left many inspiring quotes about life and art that still resonate around the world today. “The Philosophy of Andy Warhol” Collection features famous quotes by this visionary artist that embody Warhol's legacy.<br><br>Andy Warhol<br><br>As the preeminent American artist of the 20th Century, Andy Warhol challenged the world to see art differently. This product is produced under a license from The Andy Warhol Foundation for the Visual Arts, Inc., a New York not-for-profit corporation which promotes the visual arts.<br><br>©/®/™ The Andy Warhol Foundation for the Visual Arts, Inc.<br>Image courtesy of McGaw Graphics",
-        "name": "Warhol Philosophy Long Sleeve Sweatshirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E457489-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL77",
-            "displayCode": "77",
-            "name": "PURPLE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "07322540",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 35,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Numerous quotes by pop art icon Andy Warhol are now available in UT.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/457489_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, Do not Dry Clean"
-      },
-      {
-        "careInstruction": "-",
-        "colors": [
-          {
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
@@ -14889,7 +14718,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -15094,7 +14923,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -15299,7 +15128,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -15542,7 +15371,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -16629,7 +16458,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -20610,7 +20439,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -20783,7 +20612,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -20964,7 +20793,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -21163,7 +20992,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -21365,7 +21194,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -25210,7 +25039,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -28188,8 +28017,8 @@
       }
     ],
     "pagination": {
-      "count": 135,
-      "total": 135,
+      "count": 134,
+      "total": 134,
       "offset": 1000
     }
   }
