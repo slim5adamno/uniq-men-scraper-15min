@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "MARNI 2WAY Utility Shorts",
+  "price": 390,
+  "basePrice": 2490,
+  "discount": 84,
+  "link": "https://www.uniqlo.com/in/en/products/E451305-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 390,
   "basePrice": 790,
@@ -116,6 +132,22 @@
   "basePrice": 1290,
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E453486-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E451211-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
