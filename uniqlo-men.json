@@ -521,10 +521,6 @@
             "name": "LOUNGEWEAR"
           },
           {
-            "id": 11682,
-            "name": "SPORT UTILITY WEAR"
-          },
-          {
             "id": 11681,
             "name": "ACCESSORIES"
           },
@@ -623,10 +619,6 @@
             "name": "Loungewear Bottoms"
           },
           {
-            "id": 23472,
-            "name": "Sport Utility Wear"
-          },
-          {
             "id": 22331,
             "name": "Accessories Collections"
           },
@@ -649,16 +641,8 @@
         ],
         "subcategories": [
           {
-            "id": 23628,
-            "name": "Parka"
-          },
-          {
             "id": 22420,
             "name": "Underwear"
-          },
-          {
-            "id": 22390,
-            "name": "Hoodies"
           },
           {
             "id": 22433,
@@ -711,10 +695,6 @@
           {
             "id": 31571,
             "name": "Sale"
-          },
-          {
-            "id": 12101,
-            "name": "Mountain"
           },
           {
             "id": 31362,
