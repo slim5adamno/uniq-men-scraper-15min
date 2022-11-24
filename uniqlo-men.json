@@ -649,16 +649,12 @@
         ],
         "subcategories": [
           {
-            "id": 22420,
-            "name": "Underwear"
-          },
-          {
             "id": 23628,
             "name": "Parka"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22420,
+            "name": "Underwear"
           },
           {
             "id": 22390,
@@ -669,28 +665,24 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 27338,
-            "name": "Uniqlo U"
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 22414,
             "name": "Shorts"
           },
           {
-            "id": 24736,
-            "name": "Socks"
-          },
-          {
             "id": 22415,
             "name": "Others"
+          },
+          {
+            "id": 24736,
+            "name": "Socks"
           },
           {
             "id": 22393,
@@ -785,16 +777,8 @@
             "name": "Sale"
           },
           {
-            "id": 20094,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31565,
             "name": "Sale"
-          },
-          {
-            "id": 11694,
-            "name": "Others"
           },
           {
             "id": 31257,
