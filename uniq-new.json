@@ -83,6 +83,22 @@
   "price": 590,
   "basePrice": 1290,
   "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E453489-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E453486-000",
   "sizes": {
     "code": "SMA003",
