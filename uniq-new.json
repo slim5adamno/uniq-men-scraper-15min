@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "MARNI 2WAY Utility Shorts",
+  "price": 390,
+  "basePrice": 2490,
+  "discount": 84,
+  "link": "https://www.uniqlo.com/in/en/products/E449565-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 390,
   "basePrice": 790,
