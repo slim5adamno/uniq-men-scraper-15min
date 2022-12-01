@@ -355,22 +355,6 @@
   "price": 590,
   "basePrice": 1290,
   "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E456995-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E456993-000",
   "sizes": {
     "code": "SMA003",
@@ -756,22 +740,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E452343-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MARNI Relaxed Wide Fit Trousers Plaid",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E449561-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
