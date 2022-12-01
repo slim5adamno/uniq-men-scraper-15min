@@ -654,20 +654,20 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 22423,
-            "name": "Others"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
           {
-            "id": 22415,
+            "id": 22423,
             "name": "Others"
           },
           {
             "id": 24736,
             "name": "Socks"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 22393,
@@ -734,11 +734,11 @@
             "name": "Sale"
           },
           {
-            "id": 31573,
+            "id": 31111,
             "name": "Sale"
           },
           {
-            "id": 31111,
+            "id": 31573,
             "name": "Sale"
           },
           {
@@ -9016,15 +9016,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
