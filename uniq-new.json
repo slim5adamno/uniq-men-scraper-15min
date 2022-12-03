@@ -179,6 +179,22 @@
   "price": 590,
   "basePrice": 1290,
   "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E457006-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E457001-000",
   "sizes": {
     "code": "SMA003",
@@ -260,6 +276,38 @@
   "basePrice": 1290,
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E456995-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E456994-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E456993-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -388,22 +436,6 @@
   "basePrice": 1290,
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E451456-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E451209-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -683,6 +715,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455369-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
