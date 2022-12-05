@@ -479,6 +479,22 @@
   }
 }
 {
+  "name": "UNIQLO U Oversized Work Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 3990,
+  "discount": 75,
+  "link": "https://www.uniqlo.com/in/en/products/E452246-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "MARNI Relaxed Wide Fit Trousers Plaid",
   "price": 990,
   "basePrice": 2990,
@@ -488,22 +504,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "UNIQLO U Oversized Work Long Sleeve Shirt",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E452246-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -555,6 +555,86 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Selvedge Regular Fit Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452533-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Selvedge Regular Fit Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452533-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Regular Fit Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452154-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Pocketable Long Coat",
+  "price": 3990,
+  "basePrice": 7990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449893-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "UNIQLO U Pocketable Long Coat",
+  "price": 3990,
+  "basePrice": 7990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449893-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
