@@ -10014,7 +10014,7 @@
         "washingInformation": "Machine wash cold, Dry Clean"
       },
       {
-        "careInstruction": "-",
+        "careInstruction": "<br>",
         "colors": [
           {
             "code": "COL32",
@@ -18441,7 +18441,7 @@
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
-        "careInstruction": "-",
+        "careInstruction": "<br>",
         "colors": [
           {
             "code": "COL03",
