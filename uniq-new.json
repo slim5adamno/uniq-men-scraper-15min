@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "Moma Art Icons UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E446638-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
@@ -452,22 +436,6 @@
   "basePrice": 2990,
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E449561-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "JWA Track Jacket",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452608-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
