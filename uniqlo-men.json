@@ -637,8 +637,8 @@
             "name": "Belts & Ties"
           },
           {
-            "id": 22423,
-            "name": "Others"
+            "id": 23627,
+            "name": "Tops"
           },
           {
             "id": 22405,
@@ -649,12 +649,8 @@
             "name": "Others"
           },
           {
-            "id": 23627,
-            "name": "Tops"
-          },
-          {
-            "id": 26168,
-            "name": "Sweater"
+            "id": 22423,
+            "name": "Others"
           },
           {
             "id": 22415,
@@ -665,6 +661,10 @@
             "name": "Socks"
           },
           {
+            "id": 26168,
+            "name": "Sweater"
+          },
+          {
             "id": 22393,
             "name": "Others"
           },
@@ -673,12 +673,12 @@
             "name": "Sale"
           },
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 26167,
             "name": "Coming Soon"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -745,11 +745,11 @@
             "name": "Sale"
           },
           {
-            "id": 31111,
+            "id": 31573,
             "name": "Sale"
           },
           {
-            "id": 31573,
+            "id": 31111,
             "name": "Sale"
           },
           {
