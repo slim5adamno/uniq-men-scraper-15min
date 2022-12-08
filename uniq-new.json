@@ -19,22 +19,6 @@
   "price": 290,
   "basePrice": 490,
   "discount": 41,
-  "link": "https://www.uniqlo.com/in/en/products/E448870-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Supima Cotton Striped Boxer Briefs (Low Rise)",
-  "price": 290,
-  "basePrice": 490,
-  "discount": 41,
   "link": "https://www.uniqlo.com/in/en/products/E448869-000",
   "sizes": {
     "code": "SMA004",
@@ -488,22 +472,6 @@
     "code": "INS029",
     "displayCode": "029",
     "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Extra Stretch Jeans",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452519-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
     "display": {
       "showFlag": true,
       "chipType": 1
