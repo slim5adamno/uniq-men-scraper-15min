@@ -131,11 +131,11 @@
   "price": 590,
   "basePrice": 1290,
   "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E457000-000",
+  "link": "https://www.uniqlo.com/in/en/products/E457001-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -147,7 +147,7 @@
   "price": 590,
   "basePrice": 1290,
   "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E456997-000",
+  "link": "https://www.uniqlo.com/in/en/products/E457000-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -293,6 +293,22 @@
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E447186-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E447186-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -392,22 +408,6 @@
     "code": "INS029",
     "displayCode": "029",
     "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "UNIQLO U Regular Fit Jeans",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452154-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
     "display": {
       "showFlag": true,
       "chipType": 1
