@@ -175,22 +175,6 @@
   }
 }
 {
-  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E456995-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Marvel UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
@@ -351,22 +335,6 @@
   }
 }
 {
-  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E445606-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Printed Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -399,43 +367,11 @@
   }
 }
 {
-  "name": "Dry Pique Tipping Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455677-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455660-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MARNI Relaxed Wide Fit Trousers Plaid",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E449561-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -475,22 +411,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "UNIQLO U Pocketable Long Coat",
-  "price": 3990,
-  "basePrice": 7990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E449893-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
