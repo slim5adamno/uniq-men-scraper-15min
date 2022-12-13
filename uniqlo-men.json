@@ -688,16 +688,16 @@
             "name": "Loungewear Sets"
           },
           {
-            "id": 23626,
-            "name": "Outer"
+            "id": 26165,
+            "name": "Long Sleeve Shirt"
           },
           {
             "id": 22430,
             "name": "Scarves & Stoles"
           },
           {
-            "id": 26165,
-            "name": "Long Sleeve Shirt"
+            "id": 23626,
+            "name": "Outer"
           },
           {
             "id": 23628,
@@ -712,24 +712,20 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 22412,
-            "name": "Trousers"
-          },
-          {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 22426,
             "name": "Home Accessories"
+          },
+          {
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 22391,
             "name": "Jackets"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 22401,
@@ -740,16 +736,20 @@
             "name": "Casual Pants"
           },
           {
-            "id": 23634,
-            "name": "Tops"
+            "id": 22390,
+            "name": "Hoodies"
+          },
+          {
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
           },
           {
-            "id": 22427,
-            "name": "Others"
+            "id": 23634,
+            "name": "Tops"
           },
           {
             "id": 22423,
@@ -760,31 +760,35 @@
             "name": "Formal Shirts"
           },
           {
-            "id": 27338,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 23629,
             "name": "Bottoms"
+          },
+          {
+            "id": 27338,
+            "name": "Uniqlo U"
           },
           {
             "id": 26168,
             "name": "Sweater"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
+            "id": 22415,
+            "name": "Others"
           },
           {
-            "id": 24736,
-            "name": "Socks"
+            "id": 22400,
+            "name": "Sweaters"
           },
           {
             "id": 26175,
             "name": "Blocktech"
           },
           {
-            "id": 22415,
+            "id": 24736,
+            "name": "Socks"
+          },
+          {
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -792,20 +796,16 @@
             "name": "Cardigans"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 31375,
             "name": "Sale"
           },
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 26167,
             "name": "Coming Soon"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -892,12 +892,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 12595,
-            "name": "Sweat Pants"
-          },
-          {
             "id": 12114,
             "name": "Flannel"
+          },
+          {
+            "id": 12595,
+            "name": "Sweat Pants"
           },
           {
             "id": 12602,
@@ -928,24 +928,24 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 13135,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31566,
             "name": "Sale"
+          },
+          {
+            "id": 13135,
+            "name": "Uniqlo U"
           },
           {
             "id": 31364,
             "name": "Sale"
           },
           {
-            "id": 23593,
-            "name": "Bath Towel"
-          },
-          {
             "id": 12574,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 23593,
+            "name": "Bath Towel"
           },
           {
             "id": 12572,
@@ -996,12 +996,12 @@
             "name": "Sale"
           },
           {
-            "id": 12490,
-            "name": "Merino"
-          },
-          {
             "id": 12097,
             "name": "Pocketable Parkas"
+          },
+          {
+            "id": 12490,
+            "name": "Merino"
           },
           {
             "id": 12100,
