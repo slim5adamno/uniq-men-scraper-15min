@@ -687,16 +687,8 @@
             "name": "Parka"
           },
           {
-            "id": 23633,
-            "name": "Outerwear"
-          },
-          {
             "id": 22426,
             "name": "Home Accessories"
-          },
-          {
-            "id": 22404,
-            "name": "Polo Shirts"
           },
           {
             "id": 22401,
@@ -743,10 +735,6 @@
             "name": "Others"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 26175,
             "name": "Blocktech"
           },
@@ -757,10 +745,6 @@
           {
             "id": 22393,
             "name": "Others"
-          },
-          {
-            "id": 31561,
-            "name": "Cardigans"
           },
           {
             "id": 31375,
@@ -807,10 +791,6 @@
             "name": "Sweat"
           },
           {
-            "id": 12105,
-            "name": "Merino"
-          },
-          {
             "id": 31258,
             "name": "Sale"
           },
@@ -819,8 +799,8 @@
             "name": "Sale"
           },
           {
-            "id": 12108,
-            "name": "Cardigans"
+            "id": 11699,
+            "name": "Others"
           },
           {
             "id": 31568,
@@ -855,20 +835,8 @@
             "name": "Sweat Pants"
           },
           {
-            "id": 12602,
-            "name": "Slim Fit"
-          },
-          {
             "id": 20441,
             "name": "Long Sleeve"
-          },
-          {
-            "id": 12598,
-            "name": "Jogger"
-          },
-          {
-            "id": 12599,
-            "name": "Cargo"
           },
           {
             "id": 13125,
@@ -933,10 +901,6 @@
           {
             "id": 12097,
             "name": "Pocketable Parkas"
-          },
-          {
-            "id": 12490,
-            "name": "Merino"
           },
           {
             "id": 12100,
