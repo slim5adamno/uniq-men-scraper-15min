@@ -613,10 +613,6 @@
             "name": "Casual Pants"
           },
           {
-            "id": 11715,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 11718,
             "name": "Trousers"
           },
@@ -661,10 +657,6 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 31559,
-            "name": "Gloves & Scarves"
-          },
-          {
             "id": 11738,
             "name": "Socks"
           },
@@ -687,10 +679,6 @@
             "name": "Long Sleeve Shirt"
           },
           {
-            "id": 22430,
-            "name": "Scarves & Stoles"
-          },
-          {
             "id": 23626,
             "name": "Outer"
           },
@@ -703,20 +691,8 @@
             "name": "Outerwear"
           },
           {
-            "id": 22411,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 22426,
             "name": "Home Accessories"
-          },
-          {
-            "id": 22412,
-            "name": "Trousers"
-          },
-          {
-            "id": 22391,
-            "name": "Jackets"
           },
           {
             "id": 22404,
@@ -757,10 +733,6 @@
           {
             "id": 23629,
             "name": "Bottoms"
-          },
-          {
-            "id": 27338,
-            "name": "Uniqlo U"
           },
           {
             "id": 26168,
@@ -843,10 +815,6 @@
             "name": "Sale"
           },
           {
-            "id": 12106,
-            "name": "Cashmere"
-          },
-          {
             "id": 31362,
             "name": "Sale"
           },
@@ -871,20 +839,12 @@
             "name": "Sale"
           },
           {
-            "id": 20095,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31569,
             "name": "Sale"
           },
           {
             "id": 31363,
             "name": "Sale"
-          },
-          {
-            "id": 31589,
-            "name": "HEATTECH"
           },
           {
             "id": 12114,
@@ -927,24 +887,12 @@
             "name": "Sale"
           },
           {
-            "id": 13135,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31364,
             "name": "Sale"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 23593,
             "name": "Bath Towel"
-          },
-          {
-            "id": 12572,
-            "name": "Smart"
           },
           {
             "id": 12661,
@@ -969,14 +917,6 @@
           {
             "id": 31573,
             "name": "Sale"
-          },
-          {
-            "id": 12609,
-            "name": "Smart"
-          },
-          {
-            "id": 20094,
-            "name": "Uniqlo U"
           },
           {
             "id": 31366,
@@ -17127,9 +17067,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17154,7 +17094,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07034337",
+          "l2Id": "07034327",
           "salesStartDate": "",
           "salesEndDate": ""
         },
