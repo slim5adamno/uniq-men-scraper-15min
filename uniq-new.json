@@ -143,6 +143,22 @@
   }
 }
 {
+  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E456995-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Marvel UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
@@ -292,6 +308,22 @@
   "basePrice": 1290,
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E447181-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Saul Leiter UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E445606-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -351,6 +383,22 @@
   }
 }
 {
+  "name": "Premium Linen Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E444641-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Stretch Jeans",
   "price": 1490,
   "basePrice": 2990,
@@ -399,6 +447,22 @@
   }
 }
 {
+  "name": "Over Shirt Jacket",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455369-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "UNIQLO U Corduroy Wide Fit Work Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -424,6 +488,22 @@
     "code": "CMD076",
     "displayCode": "076",
     "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Regular Fit Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452154-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
     "display": {
       "showFlag": true,
       "chipType": 1
@@ -488,6 +568,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "UNIQLO U Wool Blended Shirt Jacket",
+  "price": 4990,
+  "basePrice": 8990,
+  "discount": 44,
+  "link": "https://www.uniqlo.com/in/en/products/E452851-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
