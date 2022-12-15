@@ -159,6 +159,22 @@
   }
 }
 {
+  "name": "Ut Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E456994-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Marvel UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1290,
@@ -367,6 +383,22 @@
   }
 }
 {
+  "name": "UNIQLO U Flannel Oversized Checked Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E455659-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Stretch Jeans",
   "price": 1490,
   "basePrice": 2990,
@@ -404,6 +436,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E450280-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455369-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -456,6 +504,22 @@
     "code": "INS029",
     "displayCode": "029",
     "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Regular Fit Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452154-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
     "display": {
       "showFlag": true,
       "chipType": 1
