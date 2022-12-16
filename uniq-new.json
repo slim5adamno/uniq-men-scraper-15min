@@ -367,6 +367,22 @@
   }
 }
 {
+  "name": "Dry Pique Tipping Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455677-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -507,6 +523,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Hooded Zip Up Blouson",
+  "price": 3990,
+  "basePrice": 7990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452169-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
