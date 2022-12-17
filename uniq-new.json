@@ -527,22 +527,6 @@
   }
 }
 {
-  "name": "UNIQLO U Regular Fit Jeans",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452154-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "UNIQLO U Pleated Tapered Chino",
   "price": 1990,
   "basePrice": 3990,
