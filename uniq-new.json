@@ -367,38 +367,6 @@
   }
 }
 {
-  "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455660-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Dry-EX Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452343-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Stretch Jeans",
   "price": 1490,
   "basePrice": 2990,
@@ -488,22 +456,6 @@
     "code": "CMD076",
     "displayCode": "076",
     "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "UNIQLO U Regular Fit Jeans",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452154-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
     "display": {
       "showFlag": true,
       "chipType": 1
