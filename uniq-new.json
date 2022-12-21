@@ -51,6 +51,22 @@
   "price": 290,
   "basePrice": 490,
   "discount": 41,
+  "link": "https://www.uniqlo.com/in/en/products/E448870-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Supima Cotton Striped Boxer Briefs (Low Rise)",
+  "price": 290,
+  "basePrice": 490,
+  "discount": 41,
   "link": "https://www.uniqlo.com/in/en/products/E448869-000",
   "sizes": {
     "code": "SMA004",
@@ -388,6 +404,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E453565-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Premium Linen Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E444641-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
