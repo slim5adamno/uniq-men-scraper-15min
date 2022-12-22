@@ -683,10 +683,6 @@
         ],
         "subcategories": [
           {
-            "id": 29303,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 34287,
             "name": "Loungewear Sets"
           },
@@ -705,10 +701,6 @@
           {
             "id": 22424,
             "name": "Loungewear & Pajamas"
-          },
-          {
-            "id": 22412,
-            "name": "Trousers"
           },
           {
             "id": 22426,
@@ -913,14 +905,6 @@
           {
             "id": 31111,
             "name": "Sale"
-          },
-          {
-            "id": 28177,
-            "name": "Denim"
-          },
-          {
-            "id": 12609,
-            "name": "Smart"
           },
           {
             "id": 12512,
