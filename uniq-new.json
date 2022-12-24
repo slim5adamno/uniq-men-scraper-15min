@@ -63,6 +63,22 @@
   }
 }
 {
+  "name": "AIRism 3D Face Mask (Pack of 2)",
+  "price": 390,
+  "basePrice": 790,
+  "discount": 51,
+  "link": "https://www.uniqlo.com/in/en/products/E451737-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 390,
   "basePrice": 790,
