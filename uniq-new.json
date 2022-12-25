@@ -383,22 +383,6 @@
   }
 }
 {
-  "name": "UNIQLO U Selvedge Regular Fit Jeans",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452533-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "UNIQLO U Corduroy Wide Fit Work Trousers",
   "price": 1990,
   "basePrice": 3990,
