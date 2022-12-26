@@ -330,7 +330,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 65
+          "count": 64
         },
         {
           "from": 2000,
@@ -351,53 +351,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 125,
+          "accumulated": 124,
           "count": 39
         },
         {
           "rating": 0.5,
-          "accumulated": 86,
+          "accumulated": 85,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 86,
+          "accumulated": 85,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 85,
+          "accumulated": 84,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 85,
+          "accumulated": 84,
           "count": 4
         },
         {
           "rating": 2.5,
-          "accumulated": 81,
+          "accumulated": 80,
           "count": 1
         },
         {
           "rating": 3,
-          "accumulated": 80,
+          "accumulated": 79,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 76,
+          "accumulated": 75,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 15
         },
         {
           "rating": 4.5,
-          "accumulated": 60,
-          "count": 15
+          "accumulated": 59,
+          "count": 14
         },
         {
           "rating": 5,
@@ -1467,7 +1467,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -1627,7 +1627,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -3459,7 +3459,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -3622,7 +3622,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -3785,7 +3785,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -3963,7 +3963,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -5301,7 +5301,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -6396,7 +6396,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -6592,7 +6592,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -6846,7 +6846,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -7928,7 +7928,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -8112,7 +8112,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -8292,7 +8292,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -8478,7 +8478,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -8647,7 +8647,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -8808,7 +8808,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -8986,7 +8986,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -9164,7 +9164,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -9327,7 +9327,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 100,
           "count": 0,
           "items": []
         },
@@ -11638,179 +11638,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Dry Clean"
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452479/item/ingoods_65_452479.jpg",
-              "colorCode": "65"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/chip/goods_65_452479_chip.jpg",
-              "colorCode": "65"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452479/sub/ingoods_452479_sub7.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452479/sub/ingoods_452479_sub8.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452479/sub/ingoods_452479_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub11.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub12.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub21.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452479/sub/goods_452479_sub23.jpg"
-            }
-          ]
-        },
-        "l1Id": "452303",
-        "longDescription": "- Soft denim fabric is just the right thickness for wearing in any weather. <br>- Relaxed fit works well as an outer layer. <br>- Classic workwear design with three-needle stitching detail at the shoulders and sleeves, rounded double-stitched pockets, two-piece sleeves, cat eye buttons, and side gussets. <br>- Basic hickory stripes. <br>- A versatile denim shirt inspired by classic workwear.",
-        "name": "Hickory Work Long Sleeve Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E452479-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.5,
-          "count": 2,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 1
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07093169",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 100,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "This light workwear-style shirt is perfect for layering.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/452479_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
         "careInstruction": "<br>",
@@ -16605,7 +16432,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -16801,7 +16628,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -17009,7 +16836,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -17199,7 +17026,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -21578,7 +21405,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -25561,7 +25388,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -27453,8 +27280,8 @@
       }
     ],
     "pagination": {
-      "count": 125,
-      "total": 125,
+      "count": 124,
+      "total": 124,
       "offset": 1000
     }
   }
