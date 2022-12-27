@@ -335,22 +335,6 @@
   }
 }
 {
-  "name": "Slim Fit Chino Trousers",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E444593-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Uniqlo U Crew Neck Long Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -443,22 +427,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Over Shirt Jacket",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455369-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
@@ -644,22 +612,6 @@
   "basePrice": 3490,
   "discount": 43,
   "link": "https://www.uniqlo.com/in/en/products/E450087-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "JWA Padded Short Blouson",
-  "price": 2990,
-  "basePrice": 5990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452493-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
