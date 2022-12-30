@@ -667,16 +667,16 @@
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22402,
             "name": "T-shirts"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 26171,
@@ -691,20 +691,20 @@
             "name": "Casual Pants"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22420,
             "name": "Underwear"
           },
           {
-            "id": 22427,
-            "name": "Others"
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 22423,
@@ -715,12 +715,12 @@
             "name": "Jeans"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 22415,
             "name": "Others"
+          },
+          {
+            "id": 22400,
+            "name": "Sweaters"
           },
           {
             "id": 22393,
@@ -731,12 +731,12 @@
             "name": "Sale"
           },
           {
-            "id": 26167,
-            "name": "Coming Soon"
-          },
-          {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 26167,
+            "name": "Coming Soon"
           },
           {
             "id": 22439,
@@ -755,12 +755,12 @@
             "name": "AIRism Mask"
           },
           {
-            "id": 12645,
-            "name": "Pajamas"
-          },
-          {
             "id": 31571,
             "name": "Sale"
+          },
+          {
+            "id": 12645,
+            "name": "Pajamas"
           },
           {
             "id": 31258,
@@ -803,11 +803,11 @@
             "name": "Extra Stretch"
           },
           {
-            "id": 33618,
+            "id": 31259,
             "name": "Sale"
           },
           {
-            "id": 31259,
+            "id": 33618,
             "name": "Sale"
           },
           {
@@ -859,11 +859,11 @@
             "name": "Sale"
           },
           {
-            "id": 31573,
+            "id": 31111,
             "name": "Sale"
           },
           {
-            "id": 31111,
+            "id": 31573,
             "name": "Sale"
           },
           {
