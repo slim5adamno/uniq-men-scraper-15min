@@ -674,40 +674,36 @@
         ],
         "subcategories": [
           {
-            "id": 27571,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 34287,
             "name": "Loungewear Sets"
+          },
+          {
+            "id": 27571,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 29300,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 23626,
-            "name": "Outer"
-          },
-          {
             "id": 34286,
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
-            "id": 22411,
-            "name": "Ankle Pants"
+            "id": 23626,
+            "name": "Outer"
           },
           {
             "id": 22424,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22426,
-            "name": "Home Accessories"
+            "id": 22411,
+            "name": "Ankle Pants"
+          },
+          {
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22404,
@@ -718,6 +714,10 @@
             "name": "Jackets"
           },
           {
+            "id": 22426,
+            "name": "Home Accessories"
+          },
+          {
             "id": 22410,
             "name": "Casual Pants"
           },
@@ -726,12 +726,12 @@
             "name": "Others"
           },
           {
-            "id": 22423,
-            "name": "Others"
-          },
-          {
             "id": 22405,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 22423,
+            "name": "Others"
           },
           {
             "id": 27340,
@@ -750,20 +750,20 @@
             "name": "Others"
           },
           {
-            "id": 31375,
-            "name": "Sale"
-          },
-          {
             "id": 31562,
             "name": "Fleece"
           },
           {
-            "id": 26167,
-            "name": "Coming Soon"
+            "id": 31375,
+            "name": "Sale"
           },
           {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 26167,
+            "name": "Coming Soon"
           },
           {
             "id": 22439,
@@ -798,12 +798,12 @@
             "name": "Sale"
           },
           {
-            "id": 23552,
-            "name": "Washable"
-          },
-          {
             "id": 30905,
             "name": "Sale"
+          },
+          {
+            "id": 23552,
+            "name": "Washable"
           },
           {
             "id": 11699,
@@ -822,12 +822,12 @@
             "name": "Sponge"
           },
           {
-            "id": 33615,
-            "name": "Cotton Relax"
-          },
-          {
             "id": 20390,
             "name": "Fluffy Yarn"
+          },
+          {
+            "id": 33615,
+            "name": "Cotton Relax"
           },
           {
             "id": 20392,
@@ -854,12 +854,12 @@
             "name": "Flannel"
           },
           {
-            "id": 30906,
-            "name": "Sale"
-          },
-          {
             "id": 13136,
             "name": "+ J"
+          },
+          {
+            "id": 30906,
+            "name": "Sale"
           },
           {
             "id": 12592,
@@ -906,12 +906,12 @@
             "name": "Soft Touch"
           },
           {
-            "id": 12082,
-            "name": "Blouson"
-          },
-          {
             "id": 12512,
             "name": "Long Sleeve T-Shirts"
+          },
+          {
+            "id": 12082,
+            "name": "Blouson"
           },
           {
             "id": 31366,
@@ -9669,7 +9669,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E453053-000",
@@ -13989,7 +13989,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E455808-000",
@@ -14197,7 +14197,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E455807-000",
@@ -14426,7 +14426,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E452710-000",
@@ -18201,7 +18201,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E448134-000",
@@ -18680,7 +18680,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E453184-000",
@@ -18859,7 +18859,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E452537-000",
@@ -19047,7 +19047,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E452536-000",
@@ -20519,7 +20519,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E439784-000",
@@ -20988,7 +20988,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3990.0000"
+            "value": "2990.0000"
           }
         },
         "productId": "E452937-000",
@@ -21470,7 +21470,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3990.0000"
+            "value": "2990.0000"
           }
         },
         "productId": "E449614-000",
@@ -21729,7 +21729,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3990.0000"
+            "value": "2990.0000"
           }
         },
         "productId": "E444551-000",
@@ -22131,7 +22131,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "5990.0000"
+            "value": "4990.0000"
           }
         },
         "productId": "E449895-000",
@@ -22381,7 +22381,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "7990.0000"
+            "value": "5990.0000"
           }
         },
         "productId": "E452174-000",
@@ -22606,7 +22606,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "7990.0000"
+            "value": "5990.0000"
           }
         },
         "productId": "E449630-000",
@@ -22921,7 +22921,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "8990.0000"
+            "value": "7990.0000"
           }
         },
         "productId": "E451599-000",
@@ -23314,7 +23314,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "8990.0000"
+            "value": "7990.0000"
           }
         },
         "productId": "E450543-000",
