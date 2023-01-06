@@ -399,22 +399,6 @@
   }
 }
 {
-  "name": "UNIQLO U Corduroy Wide Fit Work Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452156-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Extra Stretch Sweat Set (Long Sleeve)",
   "price": 1990,
   "basePrice": 3490,
