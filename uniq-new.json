@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "Supima Cotton Striped Boxer Briefs (Low Rise)",
-  "price": 290,
-  "basePrice": 490,
-  "discount": 41,
-  "link": "https://www.uniqlo.com/in/en/products/E448869-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism 3D Face Mask (Pack of 2)",
   "price": 390,
   "basePrice": 790,
@@ -148,22 +132,6 @@
   "basePrice": 1290,
   "discount": 54,
   "link": "https://www.uniqlo.com/in/en/products/E447181-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Dry Pique Tipping Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455677-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
