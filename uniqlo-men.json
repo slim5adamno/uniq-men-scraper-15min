@@ -636,12 +636,12 @@
             "name": "Sale"
           },
           {
-            "id": 26167,
-            "name": "Coming Soon"
-          },
-          {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 26167,
+            "name": "Coming Soon"
           },
           {
             "id": 22439,
@@ -1881,15 +1881,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16949,15 +16940,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/454226_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
