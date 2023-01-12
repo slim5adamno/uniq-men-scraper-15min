@@ -332,27 +332,27 @@
         {
           "rating": 0,
           "accumulated": 102,
-          "count": 19
+          "count": 18
         },
         {
           "rating": 0.5,
-          "accumulated": 83,
+          "accumulated": 84,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 83,
+          "accumulated": 84,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 82,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 82,
-          "count": 2
+          "accumulated": 83,
+          "count": 3
         },
         {
           "rating": 2.5,
@@ -362,17 +362,17 @@
         {
           "rating": 3,
           "accumulated": 79,
-          "count": 6
+          "count": 5
         },
         {
           "rating": 3.5,
-          "accumulated": 73,
+          "accumulated": 74,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 71,
-          "count": 13
+          "accumulated": 72,
+          "count": 14
         },
         {
           "rating": 4.5,
