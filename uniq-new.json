@@ -143,6 +143,22 @@
   }
 }
 {
+  "name": "JWA Corduroy Trousers",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452518-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "HEATTECH Smart Trousers",
   "price": 1990,
   "basePrice": 3490,
@@ -267,6 +283,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Hooded Zip Up Blouson",
+  "price": 2990,
+  "basePrice": 7990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E452169-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
