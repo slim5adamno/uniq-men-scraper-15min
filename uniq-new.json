@@ -383,22 +383,6 @@
   }
 }
 {
-  "name": "Easy Care Striped Regular Fit Long Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E453106-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "JWA Flannel Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -511,43 +495,11 @@
   }
 }
 {
-  "name": "Denim Long Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E450262-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Non Iron Jersey Striped Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E448241-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Super Non Iron Regular Fit Long Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E427163-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
