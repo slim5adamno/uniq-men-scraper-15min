@@ -447,22 +447,6 @@
   }
 }
 {
-  "name": "Non Iron Jersey Striped Long Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E448241-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Easy Care Regular Fit Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
