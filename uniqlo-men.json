@@ -285,7 +285,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 24
+          "count": 23
         },
         {
           "from": 1000,
@@ -311,48 +311,48 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 77,
+          "accumulated": 76,
           "count": 8
         },
         {
           "rating": 0.5,
-          "accumulated": 69,
+          "accumulated": 68,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 69,
+          "accumulated": 68,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 68,
+          "accumulated": 67,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 68,
+          "accumulated": 67,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 67,
+          "accumulated": 66,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 67,
+          "accumulated": 66,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 63,
+          "accumulated": 62,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 60,
-          "count": 14
+          "accumulated": 59,
+          "count": 13
         },
         {
           "rating": 4.5,
@@ -375,11 +375,6 @@
           "code": "CMD076",
           "displayCode": "076",
           "name": "76cm"
-        },
-        {
-          "code": "CMD079",
-          "displayCode": "079",
-          "name": "79cm"
         },
         {
           "code": "CMD082",
@@ -619,15 +614,15 @@
             "name": "Fleece"
           },
           {
+            "id": 22427,
+            "name": "Others"
+          },
+          {
             "id": 23627,
             "name": "Tops"
           },
           {
             "id": 22423,
-            "name": "Others"
-          },
-          {
-            "id": 22427,
             "name": "Others"
           },
           {
@@ -715,11 +710,11 @@
             "name": "Tops"
           },
           {
-            "id": 31259,
+            "id": 33618,
             "name": "Sale"
           },
           {
-            "id": 33618,
+            "id": 31259,
             "name": "Sale"
           },
           {
@@ -793,10 +788,6 @@
           {
             "id": 13774,
             "name": "Others"
-          },
-          {
-            "id": 31564,
-            "name": "Sale"
           }
         ]
       }
@@ -1825,148 +1816,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
-      },
-      {
-        "careInstruction": "-",
-        "colors": [
-          {
-            "code": "COL55",
-            "displayCode": "55",
-            "name": "GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447186/item/goods_55_447186.jpg",
-              "colorCode": "55"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447186/chip/goods_55_447186_chip.jpg",
-              "colorCode": "55"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447186/sub/goods_447186_sub15.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/447186/sub/goods_447186_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/447186/sub/ingoods_447186_sub26.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/447186/sub/ingoods_447186_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "447186",
-        "longDescription": "Mickey Stands<br><br>This limited-edition collection, available only at UNIQLO, was made possible through a joint project with Disney. Mickey Mouse as envisioned by Disney's designers is expressed on each and every T-shirt. The poses may be standard, but Mickey Mouse that each of us envisions is so different. Let's Find your Mickey.<br><br>©Disney",
-        "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
-          }
-        },
-        "productId": "E447186-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4,
-          "count": 1,
-          "fit": 4,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL55",
-            "displayCode": "55",
-            "name": "GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "06710892",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 76,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Mickey Mouse's iconic standing pose, as depicted by Disney's top creators.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/447186_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold"
       },
       {
         "careInstruction": "-",
@@ -7701,6 +7550,263 @@
         "careInstruction": "-",
         "colors": [
           {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 67% Polyester, 29% Viscose, 4% Elastane ( 62% Uses Recycled Polyester Fiber )/ Pocket Lining: 65% Polyester, 35% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.<br><br>■Inseam alteration is available for this product<br>- The range of alteration available varies depending on the desired finish. Also, depending on the length of the alteration, a seam may remain after the thread is unwound. Your understanding is appreciated.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/item/ingoods_08_450280.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/item/ingoods_09_450280.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/item/ingoods_38_450280.jpg",
+              "colorCode": "38"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/item/ingoods_69_450280.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/chip/goods_08_450280_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/chip/goods_09_450280_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/chip/goods_38_450280_chip.jpg",
+              "colorCode": "38"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/chip/goods_69_450280_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/sub/ingoods_450280_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/sub/ingoods_450280_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/sub/ingoods_450280_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450280/sub/goods_450280_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/sub/ingoods_450280_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450280/sub/ingoods_450280_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "450280",
+        "longDescription": "- Wide tapered cut. <br>- Pleats create a relaxed feel and an elegant drape. <br>- Made with warm fabric. <br>- Comfortable easy-waist design. <br>- Dresses up or down.",
+        "name": "Pleated Tapered Trousers",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1490.0000"
+          }
+        },
+        "productId": "E450280-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.777777777777778,
+          "count": 18,
+          "fit": 3.3333333333333335,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 2,
+            "five": 15
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07033924",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 76,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Based on customer feedback, our new wide-fit dress pants. Versatile design that styles up or down.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/450280_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -9197,15 +9303,6 @@
             "code": "CMD073",
             "displayCode": "073",
             "name": "73cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD079",
-            "displayCode": "079",
-            "name": "79cm",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -15649,15 +15746,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: Face: 100% Polyester/ Back: 100% Polyester/ Woven: Pocket Lining: 100% Polyester",
@@ -15878,15 +15966,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17456,8 +17535,8 @@
     ],
     "pagination": {
       "count": 76,
-      "total": 77,
-      "offset": 1001
+      "total": 76,
+      "offset": 1000
     }
   }
 }
