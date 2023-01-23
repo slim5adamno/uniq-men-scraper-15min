@@ -207,22 +207,6 @@
   }
 }
 {
-  "name": "JWA Corduroy Trousers",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E452518-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
   "price": 1490,
   "basePrice": 2990,
