@@ -542,20 +542,20 @@
             "name": "Fleece"
           },
           {
-            "id": 23634,
-            "name": "Tops"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
           {
-            "id": 26164,
-            "name": "Polo"
+            "id": 23634,
+            "name": "Tops"
           },
           {
             "id": 23627,
             "name": "Tops"
+          },
+          {
+            "id": 26164,
+            "name": "Polo"
           },
           {
             "id": 22415,
@@ -638,11 +638,11 @@
             "name": "Tops"
           },
           {
-            "id": 33618,
+            "id": 31259,
             "name": "Sale"
           },
           {
-            "id": 31259,
+            "id": 33618,
             "name": "Sale"
           },
           {
