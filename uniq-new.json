@@ -79,6 +79,38 @@
   }
 }
 {
+  "name": "Uniqlo U Crew Neck Long Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E425213-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Uniqlo U Crew Neck Long Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E425213-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "JWA Flannel Checked Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -100,6 +132,22 @@
   "basePrice": 2490,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E453147-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "JWA Flannel Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E452710-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -287,22 +335,6 @@
   }
 }
 {
-  "name": "UNIQLO U Pile Lined Sweat Track Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452939-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
   "price": 1990,
   "basePrice": 3490,
@@ -347,6 +379,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Flannel Pajamas (Long Sleeve)",
+  "price": 1990,
+  "basePrice": 3490,
+  "discount": 43,
+  "link": "https://www.uniqlo.com/in/en/products/E452359-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
