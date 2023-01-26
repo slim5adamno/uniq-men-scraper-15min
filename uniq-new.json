@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "Uniqlo U Crew Neck Long Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E425213-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Fine Cotton Broadcloth Long Sleeve Shirt",
   "price": 990,
   "basePrice": 2490,
