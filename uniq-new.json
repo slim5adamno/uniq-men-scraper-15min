@@ -399,22 +399,6 @@
   }
 }
 {
-  "name": "HEATTECH Smart Slim Fit Trousers",
-  "price": 1990,
-  "basePrice": 3490,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E439784-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Ultra Light Down Hooded Coat",
   "price": 4990,
   "basePrice": 8990,
