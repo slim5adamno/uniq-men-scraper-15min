@@ -593,16 +593,16 @@
             "name": "Tops"
           },
           {
+            "id": 22415,
+            "name": "Others"
+          },
+          {
             "id": 22400,
             "name": "Sweaters"
           },
           {
             "id": 31254,
             "name": "Down Jackets & Coats"
-          },
-          {
-            "id": 22415,
-            "name": "Others"
           },
           {
             "id": 22393,
@@ -653,12 +653,12 @@
             "name": "Sale"
           },
           {
-            "id": 12104,
-            "name": "UV Protection"
-          },
-          {
             "id": 12637,
             "name": "Extra Warm"
+          },
+          {
+            "id": 12104,
+            "name": "UV Protection"
           },
           {
             "id": 23551,
