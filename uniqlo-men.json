@@ -558,36 +558,36 @@
         ],
         "subcategories": [
           {
-            "id": 22430,
-            "name": "Scarves & Stoles"
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22390,
             "name": "Hoodies"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
+            "id": 22430,
+            "name": "Scarves & Stoles"
           },
           {
             "id": 27340,
             "name": "Fleece"
           },
           {
-            "id": 22423,
-            "name": "Others"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
           {
-            "id": 22415,
+            "id": 22423,
             "name": "Others"
           },
           {
             "id": 31254,
             "name": "Down Jackets & Coats"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 25851,
@@ -598,12 +598,12 @@
             "name": "Others"
           },
           {
-            "id": 31375,
-            "name": "Sale"
-          },
-          {
             "id": 31562,
             "name": "Fleece"
+          },
+          {
+            "id": 31375,
+            "name": "Sale"
           },
           {
             "id": 22407,
