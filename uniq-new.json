@@ -319,22 +319,6 @@
   }
 }
 {
-  "name": "UNIQLO U Pile Lined Sweat Track Jacket",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E452937-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
   "price": 1990,
   "basePrice": 3490,
@@ -344,22 +328,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
-  "price": 1990,
-  "basePrice": 3490,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E452792-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -372,22 +340,6 @@
   "basePrice": 3490,
   "discount": 43,
   "link": "https://www.uniqlo.com/in/en/products/E452359-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "UNIQLO U Hooded Zip Up Blouson",
-  "price": 1990,
-  "basePrice": 7990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E452169-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
