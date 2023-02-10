@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "HEATTECH Smart Trousers",
-  "price": 1490,
-  "basePrice": 3490,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E452536-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
   "price": 1490,
   "basePrice": 2990,
