@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "HEATTECH Smart Slim Fit Trousers",
-  "price": 1490,
-  "basePrice": 3490,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E439784-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Flannel Pajamas (Long Sleeve)",
   "price": 1990,
   "basePrice": 3490,
