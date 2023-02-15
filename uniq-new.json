@@ -271,6 +271,22 @@
   }
 }
 {
+  "name": "Super Non Iron Slim Fit Long Sleeve Shirt(Semi Wide Collar)",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E427170-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
   "price": 1490,
   "basePrice": 2990,
