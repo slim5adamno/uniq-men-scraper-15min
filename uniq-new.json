@@ -435,22 +435,6 @@
   "price": 1490,
   "basePrice": 4990,
   "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E449646-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "MARNI Oversized Utility Jacket",
-  "price": 1490,
-  "basePrice": 4990,
-  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E449587-000",
   "sizes": {
     "code": "SMA004",
