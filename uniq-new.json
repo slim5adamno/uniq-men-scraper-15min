@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "Nyc Pop Icons UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E452783-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MARNI Colour Block Short Sleeve Solid T-Shirt",
   "price": 590,
   "basePrice": 1990,
@@ -315,6 +299,38 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "UNIQLO U Corduroy Wide Fit Work Trousers",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E452156-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "UNIQLO U Corduroy Wide Fit Work Trousers",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E452156-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
