@@ -255,22 +255,6 @@
   }
 }
 {
-  "name": "UNIQLO U Premium Lambswool Ribbed V Neck Sweater",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452649-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "UNIQLO U Corduroy Wide Fit Work Trousers",
   "price": 1490,
   "basePrice": 3990,
