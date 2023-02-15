@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "MARNI Oversized Utility Jacket",
-  "price": 1490,
-  "basePrice": 4990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E449587-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
   "price": 1990,
   "basePrice": 3490,
