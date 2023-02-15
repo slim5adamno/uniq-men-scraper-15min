@@ -648,12 +648,12 @@
             "name": "Others"
           },
           {
-            "id": 23631,
-            "name": "Accessories"
-          },
-          {
             "id": 22428,
             "name": "AIRism Masks"
+          },
+          {
+            "id": 23631,
+            "name": "Accessories"
           },
           {
             "id": 23632,
@@ -5584,7 +5584,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06763724",
+          "l2Id": "05111228",
           "salesStartDate": "",
           "salesEndDate": ""
         },
