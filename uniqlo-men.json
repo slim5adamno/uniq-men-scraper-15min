@@ -3758,15 +3758,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -6231,7 +6222,7 @@
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450540/item/goods_56_450540.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450540/item/ingoods_56_450540.jpg",
               "colorCode": "56"
             },
             {
@@ -6260,6 +6251,9 @@
           "sub": [
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450540/sub/ingoods_450540_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450540/sub/ingoods_450540_sub4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450540/sub/ingoods_450540_sub7.jpg"
@@ -7231,15 +7225,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/450280_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
