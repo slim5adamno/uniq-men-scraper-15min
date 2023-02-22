@@ -303,22 +303,6 @@
   }
 }
 {
-  "name": "Extra Fine Merino V Neck Long Sleeve Cardigan",
-  "price": 1490,
-  "basePrice": 3490,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E450540-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
   "price": 1490,
   "basePrice": 2990,
@@ -392,70 +376,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cashmere V Neck Long Sleeve Sweater",
-  "price": 6990,
-  "basePrice": 12900,
-  "discount": 46,
-  "link": "https://www.uniqlo.com/in/en/products/E451599-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cashmere V Neck Long Sleeve Sweater",
-  "price": 6990,
-  "basePrice": 12900,
-  "discount": 46,
-  "link": "https://www.uniqlo.com/in/en/products/E451599-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cashmere Crew Neck Long Sleeve Sweater",
-  "price": 6990,
-  "basePrice": 12900,
-  "discount": 46,
-  "link": "https://www.uniqlo.com/in/en/products/E450543-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cashmere Crew Neck Long Sleeve Sweater",
-  "price": 6990,
-  "basePrice": 12900,
-  "discount": 46,
-  "link": "https://www.uniqlo.com/in/en/products/E450543-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
