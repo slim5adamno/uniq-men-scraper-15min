@@ -3550,7 +3550,7 @@
         "composition": "65% Acrylic, 35% Wool",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -3693,7 +3693,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Hand wash cold, Dry Clean"
       },
       {
@@ -3721,7 +3721,7 @@
         "composition": "65% Acrylic, 35% Wool",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -3858,7 +3858,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Hand wash cold, Dry Clean"
       },
       {
