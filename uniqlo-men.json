@@ -716,10 +716,6 @@
             "name": "Bags"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 22405,
             "name": "Casual Shirts"
           },
@@ -832,11 +828,11 @@
             "name": "Sale"
           },
           {
-            "id": 11711,
-            "name": "Others"
+            "id": 31362,
+            "name": "Sale"
           },
           {
-            "id": 31362,
+            "id": 31565,
             "name": "Sale"
           },
           {
@@ -20381,7 +20377,7 @@
         "composition": "Shell: 84% Polyester, 16% Cotton ( 50% Uses Recycled Polyester Fiber )/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -20592,7 +20588,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not dry clean"
       },
       {
@@ -20611,7 +20607,7 @@
         "composition": "Shell: 84% Polyester, 16% Cotton ( 50% Uses Recycled Polyester Fiber )/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -20830,7 +20826,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not dry clean"
       },
       {
