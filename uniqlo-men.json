@@ -704,10 +704,6 @@
         ],
         "subcategories": [
           {
-            "id": 22391,
-            "name": "Jackets"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
           },
@@ -720,20 +716,12 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 23626,
-            "name": "Outer"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
           {
             "id": 22423,
             "name": "Others"
-          },
-          {
-            "id": 22400,
-            "name": "Sweaters"
           },
           {
             "id": 22415,
@@ -772,10 +760,6 @@
             "name": "Sale"
           },
           {
-            "id": 13121,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 23606,
             "name": "Waist Bag"
           },
@@ -792,10 +776,6 @@
             "name": "Sale"
           },
           {
-            "id": 11697,
-            "name": "Others"
-          },
-          {
             "id": 31256,
             "name": "Sale"
           },
@@ -808,16 +788,8 @@
             "name": "AIRism Mask"
           },
           {
-            "id": 23272,
-            "name": "Relaxed"
-          },
-          {
             "id": 31571,
             "name": "Sale"
-          },
-          {
-            "id": 12078,
-            "name": "Jersey"
           },
           {
             "id": 31109,
@@ -834,14 +806,6 @@
           {
             "id": 31565,
             "name": "Sale"
-          },
-          {
-            "id": 29299,
-            "name": "UNIQLO and MARNI"
-          },
-          {
-            "id": 11694,
-            "name": "Others"
           },
           {
             "id": 31257,
@@ -902,22 +866,6 @@
           {
             "id": 31255,
             "name": "Sale"
-          },
-          {
-            "id": 23552,
-            "name": "Washable"
-          },
-          {
-            "id": 13127,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 12104,
-            "name": "UV Protection"
-          },
-          {
-            "id": 12105,
-            "name": "Merino"
           },
           {
             "id": 31568,
@@ -7510,14 +7458,14 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 12,
-          "fit": 2.75,
+          "average": 4.461538461538462,
+          "count": 13,
+          "fit": 2.769230769230769,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
-            "four": 2,
+            "four": 3,
             "five": 9
           }
         },
