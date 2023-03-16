@@ -708,6 +708,10 @@
         ],
         "subcategories": [
           {
+            "id": 23627,
+            "name": "Tops"
+          },
+          {
             "id": 22390,
             "name": "Hoodies"
           },
@@ -738,10 +742,6 @@
           {
             "id": 22415,
             "name": "Others"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
           },
           {
             "id": 31254,
@@ -820,19 +820,19 @@
             "name": "Sale"
           },
           {
-            "id": 42338,
-            "name": "Sale"
-          },
-          {
             "id": 33618,
             "name": "Sale"
           },
           {
-            "id": 31565,
+            "id": 42338,
             "name": "Sale"
           },
           {
             "id": 31362,
+            "name": "Sale"
+          },
+          {
+            "id": 31565,
             "name": "Sale"
           },
           {
