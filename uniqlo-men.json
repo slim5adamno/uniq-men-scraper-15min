@@ -712,12 +712,12 @@
             "name": "Tops"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
+          },
+          {
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22431,
@@ -740,12 +740,12 @@
             "name": "Others"
           },
           {
-            "id": 31254,
-            "name": "Down Jackets & Coats"
-          },
-          {
             "id": 22415,
             "name": "Others"
+          },
+          {
+            "id": 31254,
+            "name": "Down Jackets & Coats"
           },
           {
             "id": 22393,
