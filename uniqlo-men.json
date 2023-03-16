@@ -820,11 +820,11 @@
             "name": "Sale"
           },
           {
-            "id": 33618,
+            "id": 42338,
             "name": "Sale"
           },
           {
-            "id": 42338,
+            "id": 33618,
             "name": "Sale"
           },
           {
@@ -5373,15 +5373,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
