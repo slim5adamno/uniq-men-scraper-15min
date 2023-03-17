@@ -655,22 +655,6 @@
   }
 }
 {
-  "name": "Knitted Fleece Set (Long Sleeve)",
-  "price": 1490,
-  "basePrice": 3490,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E450090-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "U Wide Fit Parachute Trousers",
   "price": 1990,
   "basePrice": 3990,
