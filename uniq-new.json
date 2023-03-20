@@ -79,6 +79,38 @@
   }
 }
 {
+  "name": "Denim Work Trousers",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Denim Work Trousers",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Washed Cotton Crew Neck Long Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -196,6 +228,54 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E451317-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Smart Ankle Trousers",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E450275-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch Skinny Fit Color Jeans",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E433331-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch Skinny Fit Color Jeans",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E433331-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -399,6 +479,38 @@
   }
 }
 {
+  "name": "Cable V Neck Knitted Vest",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456315-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cable V Neck Knitted Vest",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456315-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Oversized Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -495,34 +607,34 @@
   }
 }
 {
-  "name": "Denim Work Trousers",
+  "name": "Regular Fit Chino Trousers",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
+  "link": "https://www.uniqlo.com/in/en/products/E455483-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
     "display": {
       "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
 {
-  "name": "Denim Work Trousers",
+  "name": "Regular Fit Chino Trousers",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
+  "link": "https://www.uniqlo.com/in/en/products/E455483-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
     "display": {
       "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
@@ -575,6 +687,38 @@
   }
 }
 {
+  "name": "Middle Gauge Crew Neck Knitted Vest",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E453755-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Middle Gauge Crew Neck Knitted Vest",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E453755-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
   "price": 1490,
   "basePrice": 2990,
@@ -607,6 +751,70 @@
   }
 }
 {
+  "name": "Regular Fit Chino Trousers",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450269-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Regular Fit Chino Trousers",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450269-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Wide Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450245-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Wide Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450245-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Knitted Fleece Set (Long Sleeve)",
   "price": 1490,
   "basePrice": 3490,
@@ -616,6 +824,38 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E458182-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E458182-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -719,6 +959,70 @@
   }
 }
 {
+  "name": "Utility Jacket (Cotton Linen)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457212-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton Linen)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457212-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Parka",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456991-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Parka",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456991-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Regular Fit Jeans",
   "price": 1990,
   "basePrice": 3990,
@@ -747,6 +1051,38 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket (Jersey)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455093-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket (Jersey)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455093-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
