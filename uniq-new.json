@@ -607,22 +607,6 @@
   }
 }
 {
-  "name": "3D Knit Long Sleeve Crew Neck Sweater",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E453761-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Middle Gauge Crew Neck Knitted Vest",
   "price": 1490,
   "basePrice": 2990,
