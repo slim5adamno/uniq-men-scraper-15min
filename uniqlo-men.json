@@ -730,19 +730,19 @@
             "name": "Others"
           },
           {
-            "id": 42338,
-            "name": "Sale"
-          },
-          {
             "id": 33618,
             "name": "Sale"
           },
           {
-            "id": 31565,
+            "id": 42338,
             "name": "Sale"
           },
           {
             "id": 31362,
+            "name": "Sale"
+          },
+          {
+            "id": 31565,
             "name": "Sale"
           },
           {
@@ -754,12 +754,12 @@
             "name": "AIRism Mask"
           },
           {
-            "id": 31571,
-            "name": "Sale"
-          },
-          {
             "id": 12619,
             "name": "Slim Fit"
+          },
+          {
+            "id": 31571,
+            "name": "Sale"
           },
           {
             "id": 31802,
