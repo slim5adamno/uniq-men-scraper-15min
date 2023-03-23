@@ -85,22 +85,6 @@
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E455498-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Denim Work Trousers",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
