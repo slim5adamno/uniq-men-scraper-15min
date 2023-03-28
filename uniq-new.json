@@ -687,22 +687,6 @@
   }
 }
 {
-  "name": "U Light Weight Long Sleeve Sweatshirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E456971-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Chambray Work Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -1096,22 +1080,6 @@
     "code": "INS029",
     "displayCode": "029",
     "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "U Selvedge Regular Fit Jeans",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457592-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
     "display": {
       "showFlag": true,
       "chipType": 1
