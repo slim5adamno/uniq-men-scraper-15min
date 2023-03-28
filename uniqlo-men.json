@@ -1050,7 +1050,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1107,7 +1107,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1116,7 +1116,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1311,7 +1311,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1375,7 +1375,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1384,7 +1384,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1393,7 +1393,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1402,7 +1402,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1534,7 +1534,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1598,7 +1598,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1607,7 +1607,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1616,7 +1616,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -1625,7 +1625,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1712,7 +1712,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1769,7 +1769,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1865,7 +1865,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -1929,7 +1929,7 @@
             "name": "XS",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2011,7 +2011,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2075,7 +2075,7 @@
             "name": "XS",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2257,7 +2257,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2313,8 +2313,8 @@
             "displayCode": "999",
             "name": "No Control",
             "display": {
-              "showFlag": false,
-              "chipType": 0
+              "showFlag": true,
+              "chipType": 1
             }
           }
         ],
@@ -2454,7 +2454,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2510,8 +2510,8 @@
             "displayCode": "999",
             "name": "No Control",
             "display": {
-              "showFlag": false,
-              "chipType": 0
+              "showFlag": true,
+              "chipType": 1
             }
           }
         ],
@@ -2698,7 +2698,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2762,7 +2762,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -2771,7 +2771,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -2780,7 +2780,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -2789,7 +2789,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -2798,7 +2798,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -2989,7 +2989,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3053,7 +3053,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3174,7 +3174,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3238,7 +3238,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3247,7 +3247,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3256,7 +3256,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3265,7 +3265,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3274,7 +3274,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3283,7 +3283,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3410,7 +3410,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3474,7 +3474,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3483,7 +3483,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3492,7 +3492,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3501,7 +3501,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3510,7 +3510,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3519,7 +3519,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3640,7 +3640,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3704,7 +3704,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3713,7 +3713,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3722,7 +3722,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3731,7 +3731,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3740,7 +3740,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3861,7 +3861,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -3925,7 +3925,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3934,7 +3934,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3943,7 +3943,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3952,7 +3952,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3961,7 +3961,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -3970,7 +3970,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4116,7 +4116,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4180,7 +4180,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4189,7 +4189,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4198,7 +4198,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4207,7 +4207,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4216,7 +4216,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4350,7 +4350,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4414,7 +4414,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4537,7 +4537,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4601,7 +4601,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4610,7 +4610,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4619,7 +4619,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4628,7 +4628,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4637,7 +4637,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4646,7 +4646,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4820,7 +4820,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -4890,7 +4890,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4899,7 +4899,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -4908,7 +4908,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5030,7 +5030,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5094,7 +5094,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5103,7 +5103,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5112,7 +5112,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5121,7 +5121,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5130,7 +5130,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5247,7 +5247,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5311,7 +5311,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5320,7 +5320,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5431,7 +5431,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5501,7 +5501,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5510,7 +5510,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5519,7 +5519,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5528,7 +5528,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5668,7 +5668,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5732,7 +5732,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5741,7 +5741,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5750,7 +5750,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5759,7 +5759,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5870,7 +5870,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -5940,7 +5940,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -5949,7 +5949,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6195,7 +6195,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6259,7 +6259,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -6268,7 +6268,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -6277,7 +6277,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -6286,7 +6286,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -6295,7 +6295,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6465,7 +6465,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6535,7 +6535,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6646,7 +6646,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6709,8 +6709,8 @@
             "displayCode": "999",
             "name": "No Control",
             "display": {
-              "showFlag": false,
-              "chipType": 0
+              "showFlag": true,
+              "chipType": 1
             }
           }
         ],
@@ -6821,7 +6821,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -6884,8 +6884,8 @@
             "displayCode": "999",
             "name": "No Control",
             "display": {
-              "showFlag": false,
-              "chipType": 0
+              "showFlag": true,
+              "chipType": 1
             }
           }
         ],
@@ -7044,7 +7044,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7100,8 +7100,8 @@
             "displayCode": "999",
             "name": "No Control",
             "display": {
-              "showFlag": false,
-              "chipType": 0
+              "showFlag": true,
+              "chipType": 1
             }
           }
         ],
@@ -7233,7 +7233,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7297,7 +7297,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7306,7 +7306,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7315,7 +7315,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7441,7 +7441,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7505,7 +7505,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7514,7 +7514,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7523,7 +7523,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7532,7 +7532,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7661,7 +7661,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7725,7 +7725,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7734,7 +7734,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7743,7 +7743,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7752,7 +7752,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7895,7 +7895,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -7959,7 +7959,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -7968,7 +7968,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -8085,7 +8085,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -8296,7 +8296,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -8360,7 +8360,7 @@
             "name": "XS",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8369,7 +8369,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8378,7 +8378,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8387,7 +8387,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8396,7 +8396,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -8542,7 +8542,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -8788,7 +8788,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -8858,7 +8858,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8867,7 +8867,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8876,7 +8876,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8885,7 +8885,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8894,7 +8894,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -8903,7 +8903,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9046,7 +9046,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9110,7 +9110,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9119,7 +9119,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9128,7 +9128,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9311,7 +9311,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9375,7 +9375,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9384,7 +9384,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9393,7 +9393,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9543,7 +9543,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9607,7 +9607,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9616,7 +9616,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9751,7 +9751,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9808,7 +9808,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9817,7 +9817,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9826,7 +9826,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -9835,7 +9835,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -9944,7 +9944,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10001,7 +10001,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10010,7 +10010,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10019,7 +10019,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10028,7 +10028,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10185,7 +10185,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10249,7 +10249,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10258,7 +10258,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10267,7 +10267,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10276,7 +10276,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10285,7 +10285,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10379,7 +10379,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10443,7 +10443,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10452,7 +10452,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10461,7 +10461,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10470,7 +10470,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10564,7 +10564,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10628,7 +10628,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10637,7 +10637,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10646,7 +10646,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10655,7 +10655,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10664,7 +10664,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10790,7 +10790,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -10854,7 +10854,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10863,7 +10863,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10872,7 +10872,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -10881,7 +10881,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11027,7 +11027,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11084,7 +11084,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11093,7 +11093,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11102,7 +11102,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11111,7 +11111,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11120,7 +11120,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11229,7 +11229,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11299,7 +11299,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11308,7 +11308,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11414,7 +11414,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11484,7 +11484,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11493,7 +11493,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11502,7 +11502,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -11511,7 +11511,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11617,7 +11617,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11687,7 +11687,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11793,7 +11793,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11863,7 +11863,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -11995,7 +11995,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12059,7 +12059,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12068,7 +12068,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12077,7 +12077,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12232,7 +12232,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12453,7 +12453,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12517,7 +12517,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12526,7 +12526,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12535,7 +12535,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12544,7 +12544,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12553,7 +12553,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12650,7 +12650,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12714,7 +12714,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12723,7 +12723,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12732,7 +12732,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12741,7 +12741,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12750,7 +12750,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12844,7 +12844,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -12908,7 +12908,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12917,7 +12917,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12926,7 +12926,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -12935,7 +12935,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13123,7 +13123,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13187,7 +13187,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13196,7 +13196,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13205,7 +13205,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13214,7 +13214,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13374,7 +13374,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13431,7 +13431,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13440,7 +13440,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13449,7 +13449,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13458,7 +13458,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13604,7 +13604,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13668,7 +13668,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13677,7 +13677,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13686,7 +13686,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13695,7 +13695,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -13704,7 +13704,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13839,7 +13839,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -13903,7 +13903,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14005,7 +14005,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14069,7 +14069,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14206,7 +14206,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14270,7 +14270,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14279,7 +14279,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14288,7 +14288,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14445,7 +14445,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14509,7 +14509,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14518,7 +14518,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14527,7 +14527,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14536,7 +14536,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14545,7 +14545,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14636,7 +14636,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14700,7 +14700,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14709,7 +14709,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14718,7 +14718,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14923,7 +14923,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -14987,7 +14987,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -14996,7 +14996,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -15005,7 +15005,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -15014,7 +15014,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -15023,7 +15023,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -15032,7 +15032,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -15166,7 +15166,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -15230,7 +15230,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -15239,7 +15239,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -15491,7 +15491,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -15555,7 +15555,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -15737,7 +15737,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16038,7 +16038,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16308,7 +16308,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16372,7 +16372,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16523,7 +16523,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16593,7 +16593,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -16602,7 +16602,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -16611,7 +16611,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -16620,7 +16620,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -16629,7 +16629,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -16638,7 +16638,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16799,7 +16799,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -16863,7 +16863,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -16872,7 +16872,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17059,7 +17059,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17123,7 +17123,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17132,7 +17132,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17141,7 +17141,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17150,7 +17150,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17159,7 +17159,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17168,7 +17168,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17373,7 +17373,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17437,7 +17437,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17446,7 +17446,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17455,7 +17455,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17464,7 +17464,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17473,7 +17473,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -17482,7 +17482,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17600,7 +17600,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17815,7 +17815,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -17871,8 +17871,8 @@
             "displayCode": "999",
             "name": "No Control",
             "display": {
-              "showFlag": false,
-              "chipType": 0
+              "showFlag": true,
+              "chipType": 1
             }
           }
         ],
@@ -18001,7 +18001,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18065,7 +18065,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18074,7 +18074,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18083,7 +18083,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18257,7 +18257,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18321,7 +18321,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18330,7 +18330,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18339,7 +18339,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18348,7 +18348,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18357,7 +18357,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18366,7 +18366,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18486,7 +18486,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18550,7 +18550,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -18559,7 +18559,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18708,7 +18708,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -18917,7 +18917,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19148,7 +19148,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19212,7 +19212,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19221,7 +19221,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19375,7 +19375,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19439,7 +19439,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19448,7 +19448,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19457,7 +19457,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19466,7 +19466,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19475,7 +19475,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19655,7 +19655,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19712,7 +19712,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19721,7 +19721,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19730,7 +19730,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19739,7 +19739,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -19748,7 +19748,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19885,7 +19885,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -19949,7 +19949,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20089,7 +20089,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20153,7 +20153,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20162,7 +20162,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20171,7 +20171,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20180,7 +20180,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20349,7 +20349,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20413,7 +20413,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20422,7 +20422,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20431,7 +20431,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20440,7 +20440,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20537,7 +20537,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20601,7 +20601,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20610,7 +20610,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20619,7 +20619,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20628,7 +20628,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20637,7 +20637,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -20646,7 +20646,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -20809,7 +20809,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21083,7 +21083,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21140,7 +21140,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21149,7 +21149,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21158,7 +21158,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21167,7 +21167,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21347,7 +21347,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21411,7 +21411,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21420,7 +21420,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21429,7 +21429,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21438,7 +21438,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21447,7 +21447,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21456,7 +21456,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21638,7 +21638,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21702,7 +21702,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21711,7 +21711,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21838,7 +21838,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -21902,7 +21902,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21911,7 +21911,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21920,7 +21920,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -21929,7 +21929,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22046,7 +22046,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22110,7 +22110,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22119,7 +22119,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22128,7 +22128,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22137,7 +22137,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22146,7 +22146,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22155,7 +22155,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22270,7 +22270,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22340,7 +22340,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22349,7 +22349,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22358,7 +22358,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22367,7 +22367,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22376,7 +22376,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22385,7 +22385,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22508,7 +22508,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22578,7 +22578,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22587,7 +22587,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22596,7 +22596,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22605,7 +22605,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22614,7 +22614,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22623,7 +22623,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22778,7 +22778,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -22842,7 +22842,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22851,7 +22851,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -22860,7 +22860,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23012,7 +23012,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23082,7 +23082,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23091,7 +23091,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23100,7 +23100,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23109,7 +23109,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23118,7 +23118,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23127,7 +23127,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23267,7 +23267,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23337,7 +23337,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23346,7 +23346,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23355,7 +23355,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23364,7 +23364,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23373,7 +23373,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23382,7 +23382,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23537,7 +23537,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23601,7 +23601,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23610,7 +23610,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23619,7 +23619,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23628,7 +23628,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23637,7 +23637,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23786,7 +23786,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23850,7 +23850,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23859,7 +23859,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -23868,7 +23868,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -23988,7 +23988,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -24052,7 +24052,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -24061,7 +24061,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -24070,7 +24070,7 @@
             "name": "XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -24079,7 +24079,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -24234,7 +24234,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -24298,7 +24298,7 @@
             "name": "S",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -24307,7 +24307,7 @@
             "name": "M",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -24316,7 +24316,7 @@
             "name": "L",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -24513,7 +24513,7 @@
             ],
             "display": {
               "showFlag": false,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
@@ -24577,7 +24577,7 @@
             "name": "XXL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           },
           {
@@ -24586,7 +24586,7 @@
             "name": "3XL",
             "display": {
               "showFlag": true,
-              "chipType": 0
+              "chipType": 1
             }
           }
         ],
