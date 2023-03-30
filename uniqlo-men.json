@@ -694,12 +694,12 @@
         ],
         "subcategories": [
           {
-            "id": 22424,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
+          },
+          {
+            "id": 22424,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 22411,
@@ -810,11 +810,11 @@
             "name": "Sale"
           },
           {
-            "id": 33618,
+            "id": 42338,
             "name": "Sale"
           },
           {
-            "id": 42338,
+            "id": 33618,
             "name": "Sale"
           },
           {
@@ -830,20 +830,20 @@
             "name": "Sale"
           },
           {
-            "id": 23599,
-            "name": "AIRism Mask"
+            "id": 12619,
+            "name": "Slim Fit"
           },
           {
-            "id": 12615,
-            "name": "Jersey"
+            "id": 23599,
+            "name": "AIRism Mask"
           },
           {
             "id": 31571,
             "name": "Sale"
           },
           {
-            "id": 12619,
-            "name": "Slim Fit"
+            "id": 12615,
+            "name": "Jersey"
           },
           {
             "id": 31110,
@@ -2386,6 +2386,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "Body/ 100% Cotton, Rib/ 70% Cotton, 30% Polyester",
@@ -2590,6 +2599,15 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7673,6 +7691,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/458368_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "CMD073",
+            "displayCode": "073",
+            "name": "73cm",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
           {
             "code": "CMD076",
             "displayCode": "076",
@@ -21131,6 +21158,15 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
