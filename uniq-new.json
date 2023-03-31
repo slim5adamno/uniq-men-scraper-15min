@@ -255,6 +255,22 @@
   }
 }
 {
+  "name": "Denim Work Trousers",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Striped Long Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -399,6 +415,22 @@
   }
 }
 {
+  "name": "Easy Care Regular Fit Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E414545-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Wide Fit Easy Shorts",
   "price": 1490,
   "basePrice": 2990,
@@ -504,6 +536,22 @@
     "code": "CMD073",
     "displayCode": "073",
     "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "U Wide Fit Pleated Jersey Trousers",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E458368-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
     "display": {
       "showFlag": true,
       "chipType": 1
@@ -1029,6 +1077,22 @@
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E458182-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E458182-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -1096,6 +1160,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton Linen)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457212-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
