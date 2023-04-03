@@ -662,20 +662,12 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
           {
             "id": 22414,
             "name": "Shorts"
-          },
-          {
-            "id": 23629,
-            "name": "Bottoms"
           },
           {
             "id": 22415,
@@ -686,16 +678,8 @@
             "name": "Shorts"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22393,
             "name": "Others"
-          },
-          {
-            "id": 41242,
-            "name": "Joggers & Sweatpants"
           },
           {
             "id": 22407,
@@ -790,8 +774,8 @@
             "name": "Sale"
           },
           {
-            "id": 41246,
-            "name": "Sweat"
+            "id": 41250,
+            "name": "Sale"
           },
           {
             "id": 31258,
@@ -824,10 +808,6 @@
           {
             "id": 31255,
             "name": "Sale"
-          },
-          {
-            "id": 12595,
-            "name": "Sweat Pants"
           },
           {
             "id": 31568,
