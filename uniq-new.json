@@ -863,22 +863,6 @@
   }
 }
 {
-  "name": "U Wide Fit Parachute Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457969-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "U Selvedge Regular Fit Jeans",
   "price": 1990,
   "basePrice": 3990,
