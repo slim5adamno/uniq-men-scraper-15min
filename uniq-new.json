@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "Washed Cotton Crew Neck Long Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E455404-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Washable Cotton Long Sleeve Crew Neck Sweater",
   "price": 790,
   "basePrice": 2990,
