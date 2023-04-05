@@ -383,22 +383,6 @@
   }
 }
 {
-  "name": "Middle Gauge Long Sleeve Mock Neck Sweater",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E453762-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "3D Knit Long Sleeve Crew Neck Sweater",
   "price": 990,
   "basePrice": 2990,
