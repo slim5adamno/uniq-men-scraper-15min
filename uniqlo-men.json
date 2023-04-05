@@ -8048,9 +8048,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8075,7 +8075,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07461044",
+          "l2Id": "07461113",
           "salesStartDate": "",
           "salesEndDate": ""
         },
