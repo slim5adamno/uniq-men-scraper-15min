@@ -447,22 +447,6 @@
   }
 }
 {
-  "name": "Extra Stretch Skinny Fit Color Jeans",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E433331-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "U V Neck Long Sleeve Sweater",
   "price": 1490,
   "basePrice": 2990,
