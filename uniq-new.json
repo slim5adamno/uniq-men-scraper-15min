@@ -543,22 +543,6 @@
   }
 }
 {
-  "name": "U Light Weight Long Sleeve Sweatshirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E456971-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Cable V Neck Knitted Vest",
   "price": 1490,
   "basePrice": 2990,
