@@ -95,6 +95,22 @@
   }
 }
 {
+  "name": "Washed Cotton Crew Neck Long Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E455404-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Shinpei Ueno Long Sleeve UT",
   "price": 990,
   "basePrice": 1990,
@@ -239,6 +255,22 @@
   }
 }
 {
+  "name": "U Oversized Striped Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E459276-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Wide Fit Pleated Chino Shorts",
   "price": 990,
   "basePrice": 2990,
@@ -280,6 +312,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Striped Long Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457903-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -383,6 +431,22 @@
   }
 }
 {
+  "name": "Denim Work Trousers",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E455498-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Ny Weekend Trip Sweat Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -443,6 +507,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Wide Fit Parachute Trousers",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E457969-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
@@ -884,6 +964,38 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455883-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket (Jersey)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455093-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket (Jersey)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455093-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
