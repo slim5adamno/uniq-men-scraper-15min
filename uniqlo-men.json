@@ -9733,15 +9733,6 @@
               "showFlag": true,
               "chipType": 1
             }
-          },
-          {
-            "code": "INS031",
-            "displayCode": "031",
-            "name": "31inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
           }
         ],
         "unisexFlag": 0,
@@ -14911,15 +14902,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL65",
             "displayCode": "65",
