@@ -191,6 +191,22 @@
   }
 }
 {
+  "name": "Non Iron Jersey Striped Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448240-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Wide Fit Easy Shorts",
   "price": 990,
   "basePrice": 2990,
@@ -436,6 +452,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E451538-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Non Iron Jersey Long Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E448235-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
