@@ -308,7 +308,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 36
+          "count": 37
         },
         {
           "from": 1000,
@@ -334,48 +334,48 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 22
         },
         {
           "rating": 0.5,
-          "accumulated": 78,
+          "accumulated": 79,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 78,
+          "accumulated": 79,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 77,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 77,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 77,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 77,
+          "accumulated": 78,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 75,
+          "accumulated": 76,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 73,
-          "count": 11
+          "accumulated": 74,
+          "count": 12
         },
         {
           "rating": 4.5,
@@ -473,6 +473,16 @@
           "code": "INS036",
           "displayCode": "036",
           "name": "36inch"
+        },
+        {
+          "code": "INS038",
+          "displayCode": "038",
+          "name": "38inch"
+        },
+        {
+          "code": "INS040",
+          "displayCode": "040",
+          "name": "40inch"
         },
         {
           "code": "SIZ999",
@@ -696,6 +706,10 @@
             "name": "Others"
           },
           {
+            "id": 22408,
+            "name": "Jeans"
+          },
+          {
             "id": 22406,
             "name": "Formal Shirts"
           },
@@ -726,6 +740,10 @@
           {
             "id": 31240,
             "name": "Sale"
+          },
+          {
+            "id": 12582,
+            "name": "Slim Fit"
           },
           {
             "id": 31572,
@@ -1505,6 +1523,349 @@
           }
         ],
         "unisexFlag": 1,
+        "washingInformation": "Machine wash cold, gentle cycle"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "[07] 83% Cotton, 15% Polyester, 2% Spandex/ [Other Colors]Body/ 98% Cotton, 2% Elastane, Pocket Lining/ 65% Polyester, 35% Cotton",
+        "designDetail": "",
+        "freeInformation": "■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.<br>- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/item/ingoods_01_441741.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/item/goods_07_441741.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/item/ingoods_30_441741.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/item/ingoods_61_441741.jpg",
+              "colorCode": "61"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/item/ingoods_64_441741.jpg",
+              "colorCode": "64"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/item/goods_65_441741.jpg",
+              "colorCode": "65"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/item/ingoods_66_441741.jpg",
+              "colorCode": "66"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/item/ingoods_67_441741.jpg",
+              "colorCode": "67"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_01_441741_chip.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_07_441741_chip.jpg",
+              "colorCode": "07"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_30_441741_chip.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_61_441741_chip.jpg",
+              "colorCode": "61"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_64_441741_chip.jpg",
+              "colorCode": "64"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_65_441741_chip.jpg",
+              "colorCode": "65"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_66_441741_chip.jpg",
+              "colorCode": "66"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/chip/goods_67_441741_chip.jpg",
+              "colorCode": "67"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/sub/ingoods_441741_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/sub/ingoods_441741_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub25.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/441741/sub/goods_441741_sub26.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/sub/ingoods_441741_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/sub/ingoods_441741_sub29.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/441741/sub/ingoods_441741_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "455473",
+        "longDescription": "- Authentic denim fabric with incredible stretch. <br>- Stretch denim combines a comfortable feel with a worn-in look. <br>- Vintage look jeans with natural fading effects developed at the Jeans Innovation Center. <br>- Mid-rise for a comfortable fit. <br>- We’ve adjusted the angles of the back pockets and positioned the front pockets slightly higher. <br>- Sleek straight cut from knee to hem. <br>- Carefully designed details, such as buttons, rivets, and stitch colors that add to the vintage look. <br>- The finishing process for these jeans uses up to 99%* less water than before. *Comparison between 2017 and 2018 Men's Regular Fit Jeans. The level of water reduction varies depending on the product.<br>- Basic jeans for casual or more refined styling.",
+        "name": "Slim Fit Jeans",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "590.0000"
+          }
+        },
+        "productId": "E441741-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.375,
+          "count": 8,
+          "fit": 2.75,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 6
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06733561",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 96,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "The classic look of denim with added stretch. Sleek slim fit.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/441741_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "INS028",
+            "displayCode": "028",
+            "name": "28inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS029",
+            "displayCode": "029",
+            "name": "29inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS030",
+            "displayCode": "030",
+            "name": "30inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS031",
+            "displayCode": "031",
+            "name": "31inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS032",
+            "displayCode": "032",
+            "name": "32inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS033",
+            "displayCode": "033",
+            "name": "33inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS034",
+            "displayCode": "034",
+            "name": "34inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS035",
+            "displayCode": "035",
+            "name": "35inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS036",
+            "displayCode": "036",
+            "name": "36inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS038",
+            "displayCode": "038",
+            "name": "38inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS040",
+            "displayCode": "040",
+            "name": "40inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          }
+        ],
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle"
       },
       {
@@ -17802,9 +18163,79 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 96,
-          "count": 0,
-          "items": []
+          "total": 4,
+          "count": 4,
+          "items": [
+            {
+              "id": "1137593230",
+              "ageRange": 7,
+              "gender": {
+                "code": 1,
+                "name": "Female"
+              },
+              "comment": "The bag is perfect for daily use. It's great for college as it carries all of my essentials and looks great while doing so. It works with all of my outfits.",
+              "createDate": 1680704338,
+              "fit": 3,
+              "location": "Delhi",
+              "rate": 5,
+              "title": "Perfect everyday bag",
+              "name": null,
+              "heightRange": "161 - 165cm",
+              "weightRange": "51 - 55kg",
+              "shoeSize": "EU37",
+              "purchasedSize": "Other"
+            },
+            {
+              "id": "1137353073",
+              "ageRange": 8,
+              "gender": {
+                "code": 1,
+                "name": "Female"
+              },
+              "comment": "Such a pretty bag that goes with nearly all outfits. \nThe positives outweigh the negatives. \n\nPositive aspects:\n- makes your outfit look extremely put together \n- the bag straps are sturdy. \n- has a large inner pocket with a zipper \n\nNegatives:\n- the bag is not designed to retain its shape so carrying heavy items can alter its shape.",
+              "createDate": 1680281578,
+              "fit": 3,
+              "location": "Delhi",
+              "rate": 4,
+              "title": "Pretty but filmsy",
+              "name": "Siesie",
+              "purchasedSize": "Other"
+            },
+            {
+              "id": "1136713499",
+              "ageRange": 9,
+              "gender": {
+                "code": 0,
+                "name": "Male"
+              },
+              "comment": "Very aesthetic bag since it have good silhouette to it, but not sure about the durability(will update after a few months) so it should take good care. Due to its soft/fabric material, things inside the bag can be visible.",
+              "createDate": 1679151858,
+              "fit": 3,
+              "location": "Kerala",
+              "rate": 5,
+              "title": "Drawstring bag",
+              "name": "svish",
+              "heightRange": "176 - 180cm",
+              "weightRange": "61 - 65kg",
+              "purchasedSize": "Other"
+            },
+            {
+              "id": "1135139257",
+              "ageRange": null,
+              "gender": {
+                "code": 3,
+                "name": "Prefer not to say"
+              },
+              "comment": "Use it everyday and it looks great and carries a lot of stuff.",
+              "createDate": 1677007572,
+              "fit": 3,
+              "location": "Meghalaya",
+              "rate": 4,
+              "title": "Great every day carry",
+              "name": "Blanket",
+              "purchasedSize": "Other"
+            }
+          ]
         },
         "shortDescription": "In response to customer feedback, we’ve updated the shoulder strap to better stay in place, even when carrying heavy items.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/461841_size.html",
@@ -22960,8 +23391,8 @@
       }
     ],
     "pagination": {
-      "count": 100,
-      "total": 100,
+      "count": 101,
+      "total": 101,
       "offset": 1000
     }
   }
