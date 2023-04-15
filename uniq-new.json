@@ -79,38 +79,6 @@
   }
 }
 {
-  "name": "Slim Fit Jeans",
-  "price": 590,
-  "basePrice": 2990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E441741-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Slim Fit Jeans",
-  "price": 590,
-  "basePrice": 2990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E441741-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Washed Cotton Crew Neck Long Sleeve T-Shirt",
   "price": 790,
   "basePrice": 1990,
