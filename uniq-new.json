@@ -307,6 +307,22 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456021-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E456020-000",
   "sizes": {
     "code": "SMA003",
@@ -399,6 +415,38 @@
   }
 }
 {
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455004-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E454212-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Cotton Thermal Crew Neck T-Shirt (Extra Warm)",
   "price": 990,
   "basePrice": 1990,
@@ -436,6 +484,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E445175-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch Skinny Fit Color Jeans",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E433331-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -507,6 +571,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Painter Pants",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457928-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
