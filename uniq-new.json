@@ -239,6 +239,22 @@
   }
 }
 {
+  "name": "Striped Long Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457903-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Crew Neck 3/4 Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -495,6 +511,54 @@
   }
 }
 {
+  "name": "Painter Pants",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457928-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Selvedge Regular Fit Jeans",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E457592-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "U Selvedge Regular Fit Jeans",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E457592-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "U Knitted Short Sleeve T-Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -520,6 +584,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Light Weight Long Sleeve Sweatshirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456971-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -884,6 +964,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455883-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Over Shirt Jacket (Jersey)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455093-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
