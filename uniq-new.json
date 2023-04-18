@@ -927,22 +927,6 @@
   }
 }
 {
-  "name": "Pocketable UV Protection Parka (3D Cut)",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E459616-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Utility Jacket (Cotton)",
   "price": 1990,
   "basePrice": 4990,
@@ -1108,22 +1092,6 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455883-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Over Shirt Jacket (Jersey)",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455093-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
