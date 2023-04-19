@@ -323,6 +323,22 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456021-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E456020-000",
   "sizes": {
     "code": "SMA003",
@@ -517,44 +533,12 @@
   "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E457967-000",
   "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "U Wide Fit Pleated Chino Trousers",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E457967-000",
-  "sizes": {
     "code": "CMD076",
     "displayCode": "076",
     "name": "76cm",
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Painter Pants",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457928-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
@@ -964,22 +948,6 @@
   "basePrice": 4990,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E458182-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Coach Jacket (Graphic)",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E458104-001",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
