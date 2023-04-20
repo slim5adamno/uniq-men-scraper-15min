@@ -511,22 +511,6 @@
   }
 }
 {
-  "name": "U Selvedge Regular Fit Jeans",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E457592-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "U Knitted Short Sleeve T-Shirt",
   "price": 1490,
   "basePrice": 2990,
