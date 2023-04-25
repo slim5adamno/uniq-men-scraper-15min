@@ -399,6 +399,22 @@
   }
 }
 {
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455004-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Wide Fit Jeans",
   "price": 990,
   "basePrice": 2990,
@@ -879,43 +895,11 @@
   }
 }
 {
-  "name": "Utility Jacket (Cotton Linen)",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E457212-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Coach Jacket",
   "price": 1990,
   "basePrice": 4990,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E456986-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Stand Collar Short Blouson",
-  "price": 1990,
-  "basePrice": 4990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E453775-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
