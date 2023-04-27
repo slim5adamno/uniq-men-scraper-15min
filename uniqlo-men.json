@@ -688,14 +688,6 @@
         ],
         "subcategories": [
           {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 22405,
             "name": "Casual Shirts"
           },
@@ -768,15 +760,11 @@
             "name": "Sale"
           },
           {
-            "id": 12487,
-            "name": "DRY-EX"
-          },
-          {
-            "id": 31362,
+            "id": 31565,
             "name": "Sale"
           },
           {
-            "id": 31565,
+            "id": 31362,
             "name": "Sale"
           },
           {
