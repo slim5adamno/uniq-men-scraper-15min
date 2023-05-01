@@ -706,12 +706,12 @@
             "name": "Others"
           },
           {
-            "id": 31570,
-            "name": "Belts"
-          },
-          {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 31570,
+            "name": "Belts"
           },
           {
             "id": 22439,
@@ -762,11 +762,11 @@
             "name": "Sale"
           },
           {
-            "id": 31362,
+            "id": 31565,
             "name": "Sale"
           },
           {
-            "id": 31565,
+            "id": 31362,
             "name": "Sale"
           },
           {
@@ -806,12 +806,12 @@
             "name": "Sale"
           },
           {
-            "id": 31366,
-            "name": "Sale"
-          },
-          {
             "id": 31602,
             "name": "Others"
+          },
+          {
+            "id": 31366,
+            "name": "Sale"
           },
           {
             "id": 38799,
