@@ -543,22 +543,6 @@
   }
 }
 {
-  "name": "Extra Stretch Sweat Set (Long Sleeve)",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E455883-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Smart Ankle Trousers",
   "price": 1490,
   "basePrice": 2990,
