@@ -223,22 +223,6 @@
   }
 }
 {
-  "name": "U Wide Fit Parachute Trousers",
-  "price": 990,
-  "basePrice": 3990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E457969-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "U Crew Neck 3/4 Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -383,22 +367,6 @@
   }
 }
 {
-  "name": "Wide Fit Jeans",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E450245-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Dry-EX Printed Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -452,22 +420,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E445175-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Stretch Skinny Fit Color Jeans",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E433331-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
