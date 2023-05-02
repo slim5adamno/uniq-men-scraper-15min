@@ -9350,6 +9350,15 @@
         "sizeInformation": "",
         "sizes": [
           {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
@@ -11230,15 +11239,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14097,7 +14097,7 @@
         "composition": "51% Polyamide, 49% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
@@ -14228,7 +14228,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Hand wash cold, Do not Dry Clean"
       },
       {
@@ -14247,7 +14247,7 @@
         "composition": "65% Cotton, 35% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
@@ -14379,7 +14379,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Hand wash cold, Do not Dry Clean"
       },
       {
