@@ -335,6 +335,22 @@
   }
 }
 {
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455004-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Cotton Thermal Crew Neck T-Shirt (Extra Warm)",
   "price": 990,
   "basePrice": 1990,
@@ -549,6 +565,22 @@
   "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E455480-000",
   "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "U Regular Fit Jeans",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E455480-000",
+  "sizes": {
     "code": "INS030",
     "displayCode": "030",
     "name": "30inch",
@@ -648,6 +680,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Oversized Utility Jacket",
+  "price": 1990,
+  "basePrice": 5990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E457986-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
