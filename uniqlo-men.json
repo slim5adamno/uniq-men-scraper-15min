@@ -2504,7 +2504,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -2688,7 +2688,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -3953,7 +3953,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -4135,7 +4135,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -4365,7 +4365,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -4586,7 +4586,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -4800,7 +4800,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -5012,7 +5012,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -5618,7 +5618,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -5854,7 +5854,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -6084,7 +6084,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -6296,7 +6296,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -6514,7 +6514,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -6735,7 +6735,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -6932,7 +6932,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -7111,7 +7111,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -8133,7 +8133,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -8297,7 +8297,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 97,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -8461,7 +8461,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 97,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -13645,7 +13645,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -13796,7 +13796,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -13947,7 +13947,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -14097,7 +14097,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -14268,7 +14268,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -15165,7 +15165,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -15366,7 +15366,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -15562,7 +15562,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 97,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -18420,6 +18420,243 @@
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 55% Polyester, 41% Cotton, 4% Elastane/ Pocket Lining: Trim: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/item/goods_08_451329.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/item/goods_09_451329.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/item/goods_69_451329.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/chip/goods_08_451329_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/chip/goods_09_451329_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/chip/goods_69_451329_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451329/sub/goods_451329_sub25.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451329/sub/ingoods_451329_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "451329",
+        "longDescription": "- Stretch fabric with a warm brushed lining. <br>- Single-layer fabric with a flat surface and brushed interior. <br>- Sleek tapered cut.",
+        "name": "Stretch Fleece Easy Ankle Pants",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1490.0000"
+          }
+        },
+        "productId": "E451329-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.814814814814815,
+          "count": 27,
+          "fit": 3.074074074074074,
+          "rateCount": {
+            "one": 0,
+            "two": 1,
+            "three": 1,
+            "four": 0,
+            "five": 25
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07172908",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 97,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Warm, stretchy fleece lining for comfort. Sleek, clean silhouette.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/451329_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22421,6 +22658,272 @@
         "careInstruction": "<br>",
         "colors": [
           {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "66% Cotton, 34% Linen",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/item/goods_30_446828.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/item/goods_56_446828.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/item/goods_67_446828.jpg",
+              "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/item/goods_69_446828.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/chip/goods_30_446828_chip.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/chip/goods_56_446828_chip.jpg",
+              "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/chip/goods_67_446828_chip.jpg",
+              "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/chip/goods_69_446828_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub25.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub26.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/446828/sub/goods_446828_sub27.jpg"
+            }
+          ]
+        },
+        "l1Id": "446828",
+        "longDescription": "- Premium cotton-linen blend. <br>- Updated relaxed cut. <br>- Comfortable gathered elastic waist. <br>- Versatile drawstring that looks great inside or outside. <br>- Patch pockets on the back for a casual look. <br>- The cotton-linen blend is soft on the skin. <br>- Comfortable pants for a casual yet elegant style.",
+        "name": "Linen Blend Shorts",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1490.0000"
+          }
+        },
+        "productId": "E446828-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              },
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06744653",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 97,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Elegant, cool linen blend pants. Easy to dress up or down.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/446828_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -23954,7 +24457,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -24152,7 +24655,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -24344,7 +24847,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -24356,6 +24859,228 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL12",
+            "displayCode": "12",
+            "name": "PINK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Cotton",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/item/ingoods_12_460660.jpg",
+              "colorCode": "12"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/item/ingoods_30_460660.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/item/ingoods_62_460660.jpg",
+              "colorCode": "62"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/chip/goods_12_460660_chip.jpg",
+              "colorCode": "12"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/chip/goods_30_460660_chip.jpg",
+              "colorCode": "30"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/chip/goods_62_460660_chip.jpg",
+              "colorCode": "62"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/sub/ingoods_460660_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/sub/ingoods_460660_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/sub/ingoods_460660_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/sub/ingoods_460660_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460660/sub/goods_460660_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/sub/ingoods_460660_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460660/sub/ingoods_460660_sub29.jpg"
+            }
+          ]
+        },
+        "l1Id": "460660",
+        "longDescription": "New LifeWear that combines UNIQLO’s focus on design, fit, fabric, and functionality with JW Anderson’s focus on traditional British apparel into innovative designs.<br><br>- Made of 100% ultra-long cotton fibers with an elegant texture. <br>- Pre-washed for a perfectly soft and casual feel. <br>- Wrinkle-resistant. <br>- Modern oversized cut. <br>- Versatile button-down collar. <br>- Designed for ease of movement in the arms, with a longer hem at the back. <br>- Casual stitching. <br>- Interlined placket reduces wrinkles. <br>- Narrow single side seams create a sleek look. <br>- Uniform stitching width at the collar, front, sides, and cuffs. <br>- Multi-stripe pattern. <br>- Relaxed cut for a casual style. <br>- Perfect for layering under knitwear and outerwear, or over a T-shirt.",
+        "name": "JWA Oversized Striped Long Sleeve Shirt",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E460660-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL12",
+            "displayCode": "12",
+            "name": "PINK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07571758",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 38,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A soft and comfortable shirt made with premium cotton. The loose-fitting cut styles alone or as an outer layer.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/460660_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -24545,7 +25270,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -24770,7 +25495,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -25228,6 +25953,205 @@
         "careInstruction": "<br>",
         "colors": [
           {
+            "code": "COL41",
+            "displayCode": "41",
+            "name": "YELLOW",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL62",
+            "displayCode": "62",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 100% Polyamide ( 46% Polyamide Reclaimed From Manufacturing )/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459616/item/ingoods_41_459616.jpg",
+              "colorCode": "41"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459616/item/ingoods_62_459616.jpg",
+              "colorCode": "62"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/chip/goods_41_459616_chip.jpg",
+              "colorCode": "41"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/chip/goods_62_459616_chip.jpg",
+              "colorCode": "62"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459616/sub/ingoods_459616_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459616/sub/ingoods_459616_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459616/sub/goods_459616_sub21.jpg"
+            }
+          ]
+        },
+        "l1Id": "459616",
+        "longDescription": "- The fabric has a bouncy feel and surface texture, so it can be used for casual coordination. <br>- UV Protection technology. <br>- Pocketable design. <br>- Durable water-repellent finish. *The fabric is coated with a water-repellent agent so the effect lasts longer. The finish is not permanent. <br>- Boxy 3D cut with a relaxed fit in the body, shoulders, and sleeves. <br>- Loop on inside left side for attaching a storage bag. <br>- Accented color blocks. <br>- Easy to match with casual or light outdoor activities such as camping. *Item is not fireproof or fire-resistant. Use caution if there are flames nearby.",
+        "name": "Pocketable UV Protection Parka (3D Cut)",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "3990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E459616-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL62",
+            "displayCode": "62",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07519272",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 38,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Combines design and high functionality for both outdoor and casual use. Easy to carry around, for protection from the elements, anytime, anywhere. UPF40.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459616_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
             "code": "COL67",
             "displayCode": "67",
             "name": "BLUE",
@@ -25388,12 +26312,214 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
         "shortDescription": "UT launches a collection featuring four community clubs selected by Hypebeast.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/458104001_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Do not dry clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 84% Polyester, 16% Cotton ( 50% Uses Recycled Polyester Fiber )/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/item/ingoods_09_458104.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/item/ingoods_67_458104.jpg",
+              "colorCode": "67"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/chip/goods_09_458104_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/chip/goods_67_458104_chip.jpg",
+              "colorCode": "67"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/sub/ingoods_458104_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/sub/ingoods_458104_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/sub/ingoods_458104_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/sub/ingoods_458104_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub15.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub21.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458104/sub/goods_458104_sub22.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/sub/ingoods_458104_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458104/sub/ingoods_458104_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "458104",
+        "longDescription": "HYPEBEAST COMMUNITY CENTER<br><br>Hypebeast is a global media platform that focuses on the progression of culture. Four Hypebeast collaborators have come together to curate its own community club, with its unique concept incorporated into the apparel designs. The collection features graphics that are made exclusively for UT and a newly developed T-shirt silhouette.<br><br>Peaches<br>Peaches. One Universe is a lifestyle brand that represents the street car culture of the younger generation. Established in Los Angeles and Seoul in 2018, Peaches. One Universe Is building an ever-expanding fandom through captivating media content and engaging cultural experiences while operating its flagship store, Peaches. D8NE.<br><br>©Peaches. One Universe",
+        "name": "Coach Jacket (Graphic)",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "4990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E458104-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              },
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07351783",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 38,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "UT launches a collection featuring four community clubs selected by Hypebeast.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/458104_size.html",
         "sizeInformation": "",
         "sizes": [
           {
@@ -26447,7 +27573,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -26661,7 +27787,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -26726,6 +27852,215 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Body: 55% Polyester, 19% Acrylic, 14% Viscose, 12% Elastomultiester/ Rib: 58% Cotton, 39% Polyester, 3% Elastane/ Pocket Lining: Outer Layer: 100% Polyester/ Inner Layer: 55% Polyester, 19% Acrylic, 14% Viscose, 12% Elastomultiester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/item/goods_03_451675.jpg",
+              "colorCode": "03"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451675/item/ingoods_08_451675.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/item/goods_09_451675.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/item/goods_57_451675.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/chip/goods_03_451675_chip.jpg",
+              "colorCode": "03"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/chip/goods_08_451675_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/chip/goods_09_451675_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/chip/goods_57_451675_chip.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451675/sub/ingoods_451675_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451675/sub/ingoods_451675_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/sub/goods_451675_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/sub/goods_451675_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/sub/goods_451675_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/sub/goods_451675_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/451675/sub/goods_451675_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451675/sub/ingoods_451675_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451675/sub/ingoods_451675_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451675/sub/ingoods_451675_sub28.jpg"
+            }
+          ]
+        },
+        "l1Id": "451675",
+        "longDescription": "- Added stretch. <br>- Heat of Absorption, and HEAT RETENTION 'HEATTECH'. <br>- Ribbed binder detail on the front and back pockets. <br>- Updated relaxed cut with more room around the waist for easier movement. <br>- Adjustable waist.",
+        "name": "HEATTECH Pile Lined Sweat Pants",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2490.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E451675-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.956521739130435,
+          "count": 23,
+          "fit": 3.0434782608695654,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 22
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07084242",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 97,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Based on customer feedback, we updated these pants with more stretch for ease of movement.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/451675_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
       },
       {
         "careInstruction": "-",
@@ -27849,7 +29184,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -28323,7 +29658,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -28806,9 +30141,9 @@
       }
     ],
     "pagination": {
-      "count": 134,
+      "count": 140,
       "total": 140,
-      "offset": 1006
+      "offset": 1000
     }
   }
 }
