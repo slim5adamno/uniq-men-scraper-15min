@@ -227,6 +227,22 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E459336-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Alex Olson Long Sleeve UT",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E456398-000",
   "sizes": {
     "code": "SMA004",
@@ -315,6 +331,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Fit Jeans",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E450245-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
@@ -632,6 +664,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton Linen)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457212-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
