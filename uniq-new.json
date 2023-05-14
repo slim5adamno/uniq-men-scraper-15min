@@ -163,6 +163,22 @@
   "price": 790,
   "basePrice": 2990,
   "discount": 74,
+  "link": "https://www.uniqlo.com/in/en/products/E459297-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Wide Fit Easy Shorts",
+  "price": 790,
+  "basePrice": 2990,
+  "discount": 74,
   "link": "https://www.uniqlo.com/in/en/products/E455539-000",
   "sizes": {
     "code": "SMA003",
@@ -271,6 +287,22 @@
   }
 }
 {
+  "name": "U Crew Neck 3/4 Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456972-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Ny Weekend Trip Sweat Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -280,6 +312,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Ny Weekend Trip Sweat Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456020-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -575,6 +623,22 @@
   }
 }
 {
+  "name": "Nylon Utility Geared Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E444603-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Chino Shorts (Without Drawstring)",
   "price": 990,
   "basePrice": 1990,
@@ -644,6 +708,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E456315-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Denim Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455961-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -735,6 +815,22 @@
   }
 }
 {
+  "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E453628-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Regular Fit Chino Trousers",
   "price": 1490,
   "basePrice": 2990,
@@ -767,22 +863,6 @@
   }
 }
 {
-  "name": "Knitted Fleece Set (Long Sleeve)",
-  "price": 1490,
-  "basePrice": 3490,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E450090-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "JWA Easy Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -804,6 +884,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455481-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Utility Jacket (Cotton Linen)",
+  "price": 1990,
+  "basePrice": 4990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457212-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
