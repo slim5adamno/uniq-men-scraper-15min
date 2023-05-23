@@ -367,22 +367,6 @@
   }
 }
 {
-  "name": "U Wide Fit Pleated Chino Trousers",
-  "price": 990,
-  "basePrice": 3990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E457967-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "U Crew Neck 3/4 Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
