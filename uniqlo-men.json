@@ -753,19 +753,19 @@
             "name": "Sale"
           },
           {
-            "id": 33617,
-            "name": "Others"
-          },
-          {
             "id": 31109,
             "name": "Sale"
           },
           {
-            "id": 33618,
-            "name": "Sale"
+            "id": 33617,
+            "name": "Others"
           },
           {
             "id": 42338,
+            "name": "Sale"
+          },
+          {
+            "id": 33618,
             "name": "Sale"
           },
           {
@@ -941,12 +941,12 @@
             "name": "Hoodies"
           },
           {
-            "id": 41261,
-            "name": "Sale"
-          },
-          {
             "id": 12479,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 41261,
+            "name": "Sale"
           },
           {
             "id": 31569,
@@ -4434,14 +4434,14 @@
           }
         ],
         "rating": {
-          "average": 4.458333333333333,
-          "count": 48,
-          "fit": 2.9375,
+          "average": 4.448979591836735,
+          "count": 49,
+          "fit": 2.938775510204082,
           "rateCount": {
             "one": 2,
             "two": 1,
             "three": 4,
-            "four": 7,
+            "four": 8,
             "five": 34
           }
         },
@@ -7879,15 +7879,15 @@
           }
         ],
         "rating": {
-          "average": 4,
-          "count": 2,
-          "fit": 3,
+          "average": 4.333333333333333,
+          "count": 3,
+          "fit": 3.3333333333333335,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -28265,15 +28265,15 @@
           }
         ],
         "rating": {
-          "average": 4.111111111111111,
-          "count": 9,
-          "fit": 3.3333333333333335,
+          "average": 4.2,
+          "count": 10,
+          "fit": 3.3,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
