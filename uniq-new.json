@@ -1,4 +1,20 @@
 {
+  "name": "AIRism Face Mask (Pack of 3)",
+  "price": 100,
+  "basePrice": 590,
+  "discount": 83,
+  "link": "https://www.uniqlo.com/in/en/products/E437784-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "AIRism 3D Face Mask (Pack of 2)",
   "price": 190,
   "basePrice": 790,
@@ -56,6 +72,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Wide Fit Easy Shorts",
+  "price": 590,
+  "basePrice": 2990,
+  "discount": 80,
+  "link": "https://www.uniqlo.com/in/en/products/E455539-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -383,6 +415,22 @@
   }
 }
 {
+  "name": "Regular Fit Chino Trousers",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E450269-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Oversized Striped Crew Neck Half Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -399,15 +447,15 @@
   }
 }
 {
-  "name": "Dry-EX Short Sleeve Polo Shirt",
+  "name": "Oversized Striped Crew Neck Half Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E449091-000",
+  "link": "https://www.uniqlo.com/in/en/products/E449476-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
