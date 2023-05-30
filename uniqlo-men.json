@@ -27938,9 +27938,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -27965,7 +27965,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07172908",
+          "l2Id": "07172924",
           "salesStartDate": "",
           "salesEndDate": ""
         },
