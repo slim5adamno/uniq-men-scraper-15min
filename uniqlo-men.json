@@ -29427,19 +29427,13 @@
         "longDescription": "- Lightweight 100% cotton flannel offers endless styling options. <br>- Fine count yarn creates an elegant texture. <br>- Brushed on both sides for a soft, airy texture. <br>- Collar length designed to form an elegant S-shaped collar roll. <br>- Basic regular fit.",
         "name": "Flannel Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E450267-000",
@@ -29473,27 +29467,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07095078",
+          "l2Id": "07095006",
           "salesStartDate": "",
           "salesEndDate": ""
         },
