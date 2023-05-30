@@ -34357,9 +34357,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -34377,7 +34377,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07334974",
+          "l2Id": "07335001",
           "salesStartDate": "",
           "salesEndDate": ""
         },
