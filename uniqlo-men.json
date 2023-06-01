@@ -605,23 +605,19 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 31570,
             "name": "Belts"
           },
           {
-            "id": 22393,
-            "name": "Others"
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 26171,
             "name": "Sweat"
           },
           {
-            "id": 22415,
+            "id": 22393,
             "name": "Others"
           },
           {
@@ -629,12 +625,16 @@
             "name": "Others"
           },
           {
-            "id": 22428,
-            "name": "AIRism Masks"
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 22428,
+            "name": "AIRism Masks"
           },
           {
             "id": 31240,
@@ -693,12 +693,12 @@
             "name": "Sale"
           },
           {
-            "id": 31891,
-            "name": "Sale"
-          },
-          {
             "id": 12111,
             "name": "Extra Fine Cotton"
+          },
+          {
+            "id": 31891,
+            "name": "Sale"
           },
           {
             "id": 12110,
