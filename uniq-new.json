@@ -399,6 +399,22 @@
   }
 }
 {
+  "name": "Oversized Striped Crew Neck Half Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449849-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry-EX Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -936,6 +952,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "JWA Easy Trousers",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455481-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
