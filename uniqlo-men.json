@@ -23473,9 +23473,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23493,7 +23493,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07387918",
+          "l2Id": "07387919",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -24243,9 +24243,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -24270,7 +24270,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07462049",
+          "l2Id": "07462021",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30008,9 +30008,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL15",
+            "displayCode": "15",
+            "name": "RED",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30035,7 +30035,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07575587",
+          "l2Id": "07575579",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -32386,9 +32386,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -32413,7 +32413,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07460863",
+          "l2Id": "07460855",
           "salesStartDate": "",
           "salesEndDate": ""
         },
