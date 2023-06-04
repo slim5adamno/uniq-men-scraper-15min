@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "U Wide Fit Easy Shorts",
-  "price": 590,
-  "basePrice": 2990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E455539-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Shinpei Ueno Half Sleeve UT",
   "price": 790,
   "basePrice": 1490,
@@ -232,22 +216,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Alex Olson Long Sleeve UT",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E459336-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
