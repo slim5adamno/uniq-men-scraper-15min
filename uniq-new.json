@@ -1,20 +1,4 @@
 {
-  "name": "AIRism 3D Face Mask (Pack of 2)",
-  "price": 190,
-  "basePrice": 790,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E451737-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 190,
   "basePrice": 790,
@@ -248,22 +232,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "U Crew Neck 3/4 Sleeve T-Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E456972-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
