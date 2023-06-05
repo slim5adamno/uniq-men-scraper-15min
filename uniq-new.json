@@ -21,22 +21,6 @@
   "discount": 76,
   "link": "https://www.uniqlo.com/in/en/products/E437779-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism Face Mask (Pack of 3)",
-  "price": 190,
-  "basePrice": 790,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E437779-000",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -136,6 +120,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "JWA Active Utility Shorts",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E461406-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -277,6 +277,22 @@
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455896-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Relaxed Ankle Pants (Hickory)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455896-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -356,6 +372,38 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E448400-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Madras Checked Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448399-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Madras Checked Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448399-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -607,11 +655,75 @@
   }
 }
 {
+  "name": "Linen Blend Relaxed Trousers",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461455-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Linen Blend Relaxed Trousers",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461455-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U V Neck Long Sleeve Sweater",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E458950-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "U Knitted Short Sleeve T-Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457263-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cable V Neck Knitted Vest",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456315-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
