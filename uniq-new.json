@@ -975,22 +975,6 @@
   }
 }
 {
-  "name": "U Short Jacket",
-  "price": 1990,
-  "basePrice": 5990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E457985-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
   "price": 1990,
   "basePrice": 3990,
