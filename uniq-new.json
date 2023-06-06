@@ -463,22 +463,6 @@
   }
 }
 {
-  "name": "Regular Fit Chino Trousers",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E450269-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Oversized Striped Crew Neck Half Sleeve T-Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -920,22 +904,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "JWA Easy Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455481-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
