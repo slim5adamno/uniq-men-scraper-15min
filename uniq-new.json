@@ -335,38 +335,6 @@
   }
 }
 {
-  "name": "Extra Stretch Sweat Set (Long Sleeve)",
-  "price": 990,
-  "basePrice": 3990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E455883-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Ny Weekend Trip Sweat Shorts",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455005-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Mesh Crew Neck Set (Short Sleeve)",
   "price": 990,
   "basePrice": 1990,
@@ -900,22 +868,6 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E453628-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
-  "price": 1490,
-  "basePrice": 3490,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E452792-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
