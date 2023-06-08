@@ -31392,9 +31392,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -31412,7 +31412,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07325984",
+          "l2Id": "07325968",
           "salesStartDate": "",
           "salesEndDate": ""
         },
