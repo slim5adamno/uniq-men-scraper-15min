@@ -463,6 +463,22 @@
   }
 }
 {
+  "name": "Wide Fit Jeans",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E450245-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Madras Checked Half Placket Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
