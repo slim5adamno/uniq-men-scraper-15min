@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "Shinpei Ueno Long Sleeve UT",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E459338-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Alex Olson Long Sleeve UT",
   "price": 790,
   "basePrice": 1990,
