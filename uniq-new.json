@@ -271,6 +271,22 @@
   }
 }
 {
+  "name": "Cable V Neck Knitted Vest",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E456315-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Cotton Relaxed Ankle Pants (Hickory)",
   "price": 990,
   "basePrice": 1990,
@@ -687,6 +703,22 @@
   }
 }
 {
+  "name": "Nylon Utility Geared Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E444603-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Chino Shorts (Without Drawstring)",
   "price": 990,
   "basePrice": 1990,
@@ -788,6 +820,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E453628-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Dry Sweat Pants",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E451649-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
