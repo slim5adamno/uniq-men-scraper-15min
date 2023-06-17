@@ -127,22 +127,6 @@
   }
 }
 {
-  "name": "Alex Olson Long Sleeve UT",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E456398-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Alex Olson UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
@@ -184,6 +168,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Crew Neck 3/4 Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E456972-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -280,6 +280,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Knitted Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457264-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -788,6 +804,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455407-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "JWA Easy Trousers",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455481-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
