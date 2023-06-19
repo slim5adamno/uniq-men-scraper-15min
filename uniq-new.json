@@ -37,6 +37,22 @@
   "discount": 80,
   "link": "https://www.uniqlo.com/in/en/products/E455539-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Wide Fit Easy Shorts",
+  "price": 590,
+  "basePrice": 2990,
+  "discount": 80,
+  "link": "https://www.uniqlo.com/in/en/products/E455539-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -100,6 +116,22 @@
   "basePrice": 1490,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E457984-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Shinpei Ueno Long Sleeve UT",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E459338-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -255,6 +287,22 @@
   }
 }
 {
+  "name": "JWA Active Utility Shorts",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E455540-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Corduroy Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -271,6 +319,22 @@
   }
 }
 {
+  "name": "Corduroy Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455531-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Stretch Slim Fit Printed Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -292,6 +356,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E461575-001",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Knitted Short Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E457263-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -447,6 +527,22 @@
   }
 }
 {
+  "name": "Madras Checked Half Placket Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448400-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Madras Checked Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -468,6 +564,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E448399-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Madras Checked Half Placket Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448398-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
