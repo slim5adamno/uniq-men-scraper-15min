@@ -16,9 +16,9 @@
 }
 {
   "name": "U Wide Fit Easy Shorts",
-  "price": 590,
+  "price": 390,
   "basePrice": 2990,
-  "discount": 80,
+  "discount": 87,
   "link": "https://www.uniqlo.com/in/en/products/E459297-000",
   "sizes": {
     "code": "SMA003",
@@ -32,9 +32,9 @@
 }
 {
   "name": "U Wide Fit Easy Shorts",
-  "price": 590,
+  "price": 390,
   "basePrice": 2990,
-  "discount": 80,
+  "discount": 87,
   "link": "https://www.uniqlo.com/in/en/products/E455539-000",
   "sizes": {
     "code": "SMA003",
@@ -48,9 +48,9 @@
 }
 {
   "name": "U Wide Fit Easy Shorts",
-  "price": 590,
+  "price": 390,
   "basePrice": 2990,
-  "discount": 80,
+  "discount": 87,
   "link": "https://www.uniqlo.com/in/en/products/E455539-000",
   "sizes": {
     "code": "SMA004",
@@ -64,9 +64,9 @@
 }
 {
   "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
+  "price": 590,
   "basePrice": 1490,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E459222-000",
   "sizes": {
     "code": "SMA003",
@@ -80,9 +80,9 @@
 }
 {
   "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
+  "price": 590,
   "basePrice": 1490,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E459222-000",
   "sizes": {
     "code": "SMA004",
@@ -96,9 +96,9 @@
 }
 {
   "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
+  "price": 590,
   "basePrice": 1490,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E457984-000",
   "sizes": {
     "code": "SMA003",
@@ -112,10 +112,42 @@
 }
 {
   "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
+  "price": 590,
   "basePrice": 1490,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E457984-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "JWA Active Utility Shorts",
+  "price": 790,
+  "basePrice": 2490,
+  "discount": 68,
+  "link": "https://www.uniqlo.com/in/en/products/E455540-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "JWA Active Utility Shorts",
+  "price": 790,
+  "basePrice": 2490,
+  "discount": 68,
+  "link": "https://www.uniqlo.com/in/en/products/E455540-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -255,11 +287,11 @@
   }
 }
 {
-  "name": "JWA Active Utility Shorts",
+  "name": "JWA Short Sleeve Pocket T-Shirt",
   "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E455540-000",
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E458077-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -271,11 +303,11 @@
   }
 }
 {
-  "name": "JWA Active Utility Shorts",
+  "name": "JWA Short Sleeve Pocket T-Shirt",
   "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E455540-000",
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E458077-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -815,38 +847,6 @@
   }
 }
 {
-  "name": "JWA Short Sleeve Pocket T-Shirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E458077-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "JWA Short Sleeve Pocket T-Shirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E458077-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Dry Sweat Pants",
   "price": 1490,
   "basePrice": 2990,
@@ -872,6 +872,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism UV Protection Polo Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455389-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
