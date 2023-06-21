@@ -287,22 +287,6 @@
   }
 }
 {
-  "name": "U Wide Fit Parachute Trousers",
-  "price": 990,
-  "basePrice": 3990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E457969-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "U Knitted Short Sleeve T-Shirt",
   "price": 990,
   "basePrice": 2990,
