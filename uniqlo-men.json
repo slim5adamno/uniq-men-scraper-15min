@@ -589,16 +589,16 @@
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 27340,
             "name": "Fleece"
           },
           {
             "id": 26172,
             "name": "Shorts"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22410,
@@ -609,12 +609,12 @@
             "name": "Others"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 23628,
             "name": "Parka"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 22403,
@@ -633,16 +633,20 @@
             "name": "Belts"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22393,
             "name": "Others"
           },
           {
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
+          },
+          {
             "id": 26171,
             "name": "Sweat"
+          },
+          {
+            "id": 31562,
+            "name": "Fleece"
           },
           {
             "id": 22415,
@@ -653,16 +657,12 @@
             "name": "Others"
           },
           {
-            "id": 31562,
-            "name": "Fleece"
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 22428,
             "name": "AIRism Masks"
-          },
-          {
-            "id": 22407,
-            "name": "Others"
           },
           {
             "id": 23632,
@@ -753,12 +753,12 @@
             "name": "Denim"
           },
           {
-            "id": 12621,
-            "name": "Easy"
-          },
-          {
             "id": 12118,
             "name": "Oxford"
+          },
+          {
+            "id": 12621,
+            "name": "Easy"
           },
           {
             "id": 12115,
@@ -781,12 +781,12 @@
             "name": "Easy Care"
           },
           {
-            "id": 12475,
-            "name": "Oxford"
-          },
-          {
             "id": 41250,
             "name": "Sale"
+          },
+          {
+            "id": 12475,
+            "name": "Oxford"
           },
           {
             "id": 31258,
@@ -1709,15 +1709,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459221_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA008",
             "displayCode": "008",
