@@ -319,22 +319,6 @@
   }
 }
 {
-  "name": "AIRism Mesh Crew Neck Set (Short Sleeve)",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E453869-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Middle Gauge Crew Neck Knitted Vest",
   "price": 990,
   "basePrice": 2990,
