@@ -147,22 +147,6 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E459599-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Lakwena UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E459598-000",
   "sizes": {
     "code": "SMA004",
