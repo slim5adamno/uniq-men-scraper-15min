@@ -573,12 +573,12 @@
         ],
         "subcategories": [
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
+          },
+          {
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22433,
@@ -629,20 +629,24 @@
             "name": "Shoes & Boots"
           },
           {
-            "id": 26171,
-            "name": "Sweat"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
+            "id": 31570,
+            "name": "Belts"
           },
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 31570,
-            "name": "Belts"
+            "id": 22393,
+            "name": "Others"
+          },
+          {
+            "id": 26171,
+            "name": "Sweat"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -653,16 +657,12 @@
             "name": "Fleece"
           },
           {
-            "id": 22415,
-            "name": "Others"
+            "id": 22428,
+            "name": "AIRism Masks"
           },
           {
             "id": 22407,
             "name": "Others"
-          },
-          {
-            "id": 22428,
-            "name": "AIRism Masks"
           },
           {
             "id": 23632,
@@ -729,11 +729,11 @@
             "name": "Others"
           },
           {
-            "id": 42338,
+            "id": 33618,
             "name": "Sale"
           },
           {
-            "id": 33618,
+            "id": 42338,
             "name": "Sale"
           },
           {
@@ -781,12 +781,12 @@
             "name": "Easy Care"
           },
           {
-            "id": 41250,
-            "name": "Sale"
-          },
-          {
             "id": 12475,
             "name": "Oxford"
+          },
+          {
+            "id": 41250,
+            "name": "Sale"
           },
           {
             "id": 31258,
@@ -889,12 +889,12 @@
             "name": "Hoodies"
           },
           {
-            "id": 41261,
-            "name": "Sale"
-          },
-          {
             "id": 12479,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 41261,
+            "name": "Sale"
           },
           {
             "id": 31255,
