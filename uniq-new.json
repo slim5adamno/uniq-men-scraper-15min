@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "U Wide Fit Pleated Chino Shorts",
+  "price": 390,
+  "basePrice": 2990,
+  "discount": 87,
+  "link": "https://www.uniqlo.com/in/en/products/E457970-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1490,
@@ -175,6 +191,22 @@
   }
 }
 {
+  "name": "Corduroy Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455531-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Stretch Slim Fit Printed Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -203,6 +235,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "U Wide Fit Pleated Chino Trousers",
+  "price": 990,
+  "basePrice": 3990,
+  "discount": 75,
+  "link": "https://www.uniqlo.com/in/en/products/E457967-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
@@ -303,6 +351,22 @@
   }
 }
 {
+  "name": "Madras Checked Half Placket Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448400-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Madras Checked Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -312,6 +376,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Madras Checked Half Placket Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448398-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
