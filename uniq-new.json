@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "Madras Checked Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448399-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry-EX Printed Shorts",
   "price": 990,
   "basePrice": 1990,
