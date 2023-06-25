@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "Lakwena UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E459599-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Cali Dewitt UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
