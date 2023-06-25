@@ -223,22 +223,6 @@
   }
 }
 {
-  "name": "U Wide Fit Pleated Chino Trousers",
-  "price": 990,
-  "basePrice": 3990,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E457967-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Cotton Relaxed Ankle Pants (Hickory)",
   "price": 990,
   "basePrice": 1990,
