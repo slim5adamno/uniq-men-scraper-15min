@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "U Wide Fit Pleated Chino Shorts",
-  "price": 390,
-  "basePrice": 2990,
-  "discount": 87,
-  "link": "https://www.uniqlo.com/in/en/products/E457970-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1490,
