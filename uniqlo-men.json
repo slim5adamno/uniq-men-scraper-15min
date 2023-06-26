@@ -2486,9 +2486,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459338/sub/ingoods_459338_sub9.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459338/sub/goods_459338_sub11.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459338/sub/goods_459338_sub14.jpg"
             },
             {
@@ -3102,9 +3099,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459303/sub/ingoods_459303_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459303/sub/goods_459303_sub11.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459303/sub/goods_459303_sub14.jpg"
@@ -4453,9 +4447,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459599/sub/ingoods_459599_sub9.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459599/sub/goods_459599_sub11.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459599/sub/goods_459599_sub14.jpg"
             },
             {
@@ -4839,9 +4830,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459595/sub/ingoods_459595_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459595/sub/goods_459595_sub11.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459595/sub/goods_459595_sub14.jpg"
@@ -5841,9 +5829,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/456935/sub/ingoods_456935_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456935/sub/goods_456935_sub11.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456935/sub/goods_456935_sub14.jpg"
@@ -9940,15 +9925,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
