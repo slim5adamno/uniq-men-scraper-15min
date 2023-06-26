@@ -670,19 +670,3 @@
     }
   }
 }
-{
-  "name": "Ultra Light Down Hooded Coat",
-  "price": 4990,
-  "basePrice": 8990,
-  "discount": 44,
-  "link": "https://www.uniqlo.com/in/en/products/E449895-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
