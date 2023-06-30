@@ -47,22 +47,6 @@
   }
 }
 {
-  "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E457984-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Cali Dewitt UT (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1490,
@@ -399,22 +383,6 @@
   }
 }
 {
-  "name": "AIRism Cotton Set (Short Sleeve)",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E451333-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Chino Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -680,22 +648,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E450535-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
