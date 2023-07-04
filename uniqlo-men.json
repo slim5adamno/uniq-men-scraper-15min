@@ -704,10 +704,6 @@
         ],
         "subcategories": [
           {
-            "id": 23625,
-            "name": "UNIQLO＋"
-          },
-          {
             "id": 22391,
             "name": "Jackets"
           },
@@ -716,16 +712,16 @@
             "name": "Others"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
+            "id": 23625,
+            "name": "UNIQLO＋"
           },
           {
             "id": 22390,
             "name": "Hoodies"
           },
           {
-            "id": 22417,
-            "name": "AIRism"
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 22402,
@@ -736,28 +732,28 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 22434,
-            "name": "Sunglasses"
-          },
-          {
-            "id": 22420,
-            "name": "Underwear"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
-          },
-          {
-            "id": 22404,
-            "name": "Polo Shirts"
+            "id": 22417,
+            "name": "AIRism"
           },
           {
             "id": 34286,
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22425,
-            "name": "Room Shoes"
+            "id": 22404,
+            "name": "Polo Shirts"
+          },
+          {
+            "id": 22420,
+            "name": "Underwear"
+          },
+          {
+            "id": 22434,
+            "name": "Sunglasses"
+          },
+          {
+            "id": 23627,
+            "name": "Tops"
           },
           {
             "id": 22405,
@@ -768,48 +764,52 @@
             "name": "Shorts"
           },
           {
-            "id": 22427,
-            "name": "Others"
+            "id": 22425,
+            "name": "Room Shoes"
           },
           {
             "id": 22416,
             "name": "HEATTECH"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
-            "id": 22408,
-            "name": "Jeans"
+            "id": 22427,
+            "name": "Others"
           },
           {
             "id": 23628,
             "name": "Parka"
           },
           {
-            "id": 23626,
-            "name": "Outer"
+            "id": 22408,
+            "name": "Jeans"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 22414,
             "name": "Shorts"
           },
           {
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 23626,
+            "name": "Outer"
+          },
+          {
             "id": 22438,
             "name": "Shoes & Boots"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -848,12 +848,12 @@
             "name": "Slim Fit"
           },
           {
-            "id": 12588,
-            "name": "Extra Stretch"
-          },
-          {
             "id": 13121,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12588,
+            "name": "Extra Stretch"
           },
           {
             "id": 12589,
@@ -864,12 +864,12 @@
             "name": "Regular fit"
           },
           {
-            "id": 12507,
-            "name": "Jersey"
-          },
-          {
             "id": 23271,
             "name": "Sweat"
+          },
+          {
+            "id": 12507,
+            "name": "Jersey"
           },
           {
             "id": 13222,
@@ -928,20 +928,20 @@
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 12620,
-            "name": "Denim"
-          },
-          {
             "id": 13124,
             "name": "Uniqlo U"
           },
           {
-            "id": 12621,
-            "name": "Easy"
+            "id": 12620,
+            "name": "Denim"
           },
           {
             "id": 12110,
             "name": "Broadcloth"
+          },
+          {
+            "id": 12621,
+            "name": "Easy"
           },
           {
             "id": 12118,
@@ -1068,12 +1068,12 @@
             "name": "Sale"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
-          },
-          {
             "id": 23612,
             "name": "Sunglasses"
+          },
+          {
+            "id": 12480,
+            "name": "Pullover"
           },
           {
             "id": 23613,
