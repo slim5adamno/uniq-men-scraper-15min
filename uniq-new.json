@@ -255,6 +255,22 @@
   }
 }
 {
+  "name": "Painter Pants",
+  "price": 790,
+  "basePrice": 2990,
+  "discount": 74,
+  "link": "https://www.uniqlo.com/in/en/products/E457928-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Boston Museum UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
