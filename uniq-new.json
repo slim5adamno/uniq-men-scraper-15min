@@ -291,6 +291,22 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E457397-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Boston Museum UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E457396-000",
   "sizes": {
     "code": "SMA003",
@@ -740,6 +756,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455389-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E453628-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
