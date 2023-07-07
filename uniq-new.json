@@ -735,22 +735,6 @@
   }
 }
 {
-  "name": "Sweat Long Sleeve Pullover Hoodie",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E453613-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
   "price": 1490,
   "basePrice": 2990,
