@@ -575,6 +575,22 @@
   }
 }
 {
+  "name": "U V Neck Long Sleeve Sweater",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E458950-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Fine Cotton Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -671,6 +687,38 @@
   }
 }
 {
+  "name": "Madras Checked Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448399-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Madras Checked Half Placket Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E448398-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry-EX Printed Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -708,6 +756,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E446935-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Linen Blend Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446828-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
