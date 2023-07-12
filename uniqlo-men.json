@@ -653,10 +653,6 @@
         ],
         "subcategories": [
           {
-            "id": 22391,
-            "name": "Jackets"
-          },
-          {
             "id": 22423,
             "name": "Others"
           },
@@ -665,16 +661,24 @@
             "name": "Dry Ex"
           },
           {
+            "id": 22391,
+            "name": "Jackets"
+          },
+          {
             "id": 22390,
             "name": "Hoodies"
+          },
+          {
+            "id": 23625,
+            "name": "UNIQLO＋"
           },
           {
             "id": 22418,
             "name": "Inner Tops"
           },
           {
-            "id": 23625,
-            "name": "UNIQLO＋"
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22411,
@@ -685,8 +689,12 @@
             "name": "AIRism"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
+            "id": 22434,
+            "name": "Sunglasses"
+          },
+          {
+            "id": 23627,
+            "name": "Tops"
           },
           {
             "id": 34286,
@@ -695,18 +703,6 @@
           {
             "id": 22404,
             "name": "Polo Shirts"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
-          },
-          {
-            "id": 22434,
-            "name": "Sunglasses"
-          },
-          {
-            "id": 22425,
-            "name": "Room Shoes"
           },
           {
             "id": 22405,
@@ -721,12 +717,20 @@
             "name": "Shorts"
           },
           {
-            "id": 22427,
-            "name": "Others"
+            "id": 22425,
+            "name": "Room Shoes"
           },
           {
             "id": 22416,
             "name": "HEATTECH"
+          },
+          {
+            "id": 22427,
+            "name": "Others"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 23628,
@@ -735,10 +739,6 @@
           {
             "id": 22408,
             "name": "Jeans"
-          },
-          {
-            "id": 22406,
-            "name": "Formal Shirts"
           },
           {
             "id": 23626,
@@ -773,20 +773,20 @@
             "name": "Others"
           },
           {
-            "id": 22439,
-            "name": "Others"
-          },
-          {
             "id": 23629,
             "name": "Bottoms"
           },
           {
-            "id": 22428,
-            "name": "AIRism Masks"
+            "id": 22439,
+            "name": "Others"
           },
           {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 22428,
+            "name": "AIRism Masks"
           },
           {
             "id": 23631,
@@ -821,12 +821,12 @@
             "name": "Regular fit"
           },
           {
-            "id": 12507,
-            "name": "Jersey"
-          },
-          {
             "id": 23271,
             "name": "Sweat"
+          },
+          {
+            "id": 12507,
+            "name": "Jersey"
           },
           {
             "id": 13222,
@@ -845,11 +845,11 @@
             "name": "Regular Warm"
           },
           {
-            "id": 42338,
+            "id": 33618,
             "name": "Sale"
           },
           {
-            "id": 33618,
+            "id": 42338,
             "name": "Sale"
           },
           {
@@ -857,24 +857,24 @@
             "name": "DRY-EX"
           },
           {
-            "id": 23599,
-            "name": "AIRism Mask"
-          },
-          {
             "id": 12648,
             "name": "Room Shoes"
+          },
+          {
+            "id": 23599,
+            "name": "AIRism Mask"
           },
           {
             "id": 12111,
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 12620,
-            "name": "Denim"
-          },
-          {
             "id": 13124,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12620,
+            "name": "Denim"
           },
           {
             "id": 28176,
@@ -885,12 +885,12 @@
             "name": "Slim Fit"
           },
           {
-            "id": 12621,
-            "name": "Easy"
-          },
-          {
             "id": 12110,
             "name": "Broadcloth"
+          },
+          {
+            "id": 12621,
+            "name": "Easy"
           },
           {
             "id": 12118,
@@ -925,12 +925,12 @@
             "name": "Dry Non Iron Jersey"
           },
           {
-            "id": 12475,
-            "name": "Oxford"
-          },
-          {
             "id": 41250,
             "name": "Sale"
+          },
+          {
+            "id": 12475,
+            "name": "Oxford"
           },
           {
             "id": 12477,
@@ -950,7 +950,7 @@
           },
           {
             "id": 39395,
-            "name": "UT ARCHIVE Andy Warhol Keith Haring Jean-Michel Basquiat"
+            "name": "UT ARCHIVE Andy Warhol / Keith Haring / Jean-Michel Basquiat"
           },
           {
             "id": 43768,
@@ -1013,12 +1013,12 @@
             "name": "Sale"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
-          },
-          {
             "id": 23612,
             "name": "Sunglasses"
+          },
+          {
+            "id": 12480,
+            "name": "Pullover"
           },
           {
             "id": 23613,
