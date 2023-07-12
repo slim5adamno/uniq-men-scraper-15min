@@ -575,6 +575,22 @@
   }
 }
 {
+  "name": "U V Neck Long Sleeve Sweater",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E458950-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Fine Cotton Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
