@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "Splatoon 3 UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457984-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Shinpei Ueno Half Sleeve UT",
   "price": 790,
   "basePrice": 1490,
@@ -495,6 +511,22 @@
   }
 }
 {
+  "name": "Active Utility Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E458939-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "JWA Short Sleeve Pocket T-Shirt",
   "price": 990,
   "basePrice": 2990,
@@ -527,6 +559,22 @@
   }
 }
 {
+  "name": "Cotton Relaxed Ankle Pants (Hickory)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455896-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Madras Checked Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -548,6 +596,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E447984-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Linen Blend Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446828-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -744,6 +808,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455401-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
