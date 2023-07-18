@@ -495,6 +495,22 @@
   }
 }
 {
+  "name": "Cotton Relaxed Ankle Pants (Hickory)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455896-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry-EX Printed Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -511,6 +527,22 @@
   }
 }
 {
+  "name": "AIRism Cotton Set (Short Sleeve)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E446928-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Linen Blend Shorts",
   "price": 990,
   "basePrice": 1990,
@@ -532,6 +564,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E446828-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch Active Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E445330-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -596,22 +644,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E444601-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Stretch Dry Sweat Pants",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455407-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -680,22 +712,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
-  "price": 1990,
-  "basePrice": 3490,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
