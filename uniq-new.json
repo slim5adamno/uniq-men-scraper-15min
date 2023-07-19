@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "Keith Haring Ut Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E459307-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Shinpei Ueno Half Sleeve UT",
   "price": 790,
   "basePrice": 1490,
@@ -568,6 +584,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455401-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
