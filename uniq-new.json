@@ -319,22 +319,6 @@
   }
 }
 {
-  "name": "Active Utility Shorts",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E458939-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "JWA Short Sleeve Pocket T-Shirt",
   "price": 990,
   "basePrice": 2990,
