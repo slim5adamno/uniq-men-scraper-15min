@@ -671,16 +671,20 @@
             "name": "Sunglasses"
           },
           {
-            "id": 23627,
-            "name": "Tops"
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
+            "id": 23627,
+            "name": "Tops"
+          },
+          {
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 22405,
@@ -693,10 +697,6 @@
           {
             "id": 22425,
             "name": "Room Shoes"
-          },
-          {
-            "id": 26172,
-            "name": "Shorts"
           },
           {
             "id": 22427,
@@ -735,11 +735,15 @@
             "name": "Sweatshirts & Hoodies"
           },
           {
+            "id": 22393,
+            "name": "Others"
+          },
+          {
             "id": 26171,
             "name": "Sweat"
           },
           {
-            "id": 22393,
+            "id": 22439,
             "name": "Others"
           },
           {
@@ -747,24 +751,20 @@
             "name": "Bottoms"
           },
           {
-            "id": 22415,
-            "name": "Others"
-          },
-          {
-            "id": 22439,
-            "name": "Others"
-          },
-          {
             "id": 31562,
             "name": "Fleece"
           },
           {
-            "id": 22407,
+            "id": 22428,
+            "name": "AIRism Masks"
+          },
+          {
+            "id": 22415,
             "name": "Others"
           },
           {
-            "id": 22428,
-            "name": "AIRism Masks"
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 23631,
@@ -791,20 +791,20 @@
             "name": "Slim Fit"
           },
           {
-            "id": 12588,
-            "name": "Extra Stretch"
-          },
-          {
             "id": 13121,
             "name": "Uniqlo U"
           },
           {
-            "id": 12507,
-            "name": "Jersey"
+            "id": 12588,
+            "name": "Extra Stretch"
           },
           {
             "id": 23271,
             "name": "Sweat"
+          },
+          {
+            "id": 12507,
+            "name": "Jersey"
           },
           {
             "id": 13222,
@@ -843,11 +843,11 @@
             "name": "Others"
           },
           {
-            "id": 33618,
+            "id": 42338,
             "name": "Sale"
           },
           {
-            "id": 42338,
+            "id": 33618,
             "name": "Sale"
           },
           {
@@ -855,12 +855,16 @@
             "name": "DRY-EX"
           },
           {
+            "id": 31565,
+            "name": "Sale"
+          },
+          {
             "id": 31362,
             "name": "Sale"
           },
           {
-            "id": 31565,
-            "name": "Sale"
+            "id": 23599,
+            "name": "AIRism Mask"
           },
           {
             "id": 12111,
@@ -869,10 +873,6 @@
           {
             "id": 12648,
             "name": "Room Shoes"
-          },
-          {
-            "id": 23599,
-            "name": "AIRism Mask"
           },
           {
             "id": 12114,
@@ -931,12 +931,12 @@
             "name": "Dry Non Iron Jersey"
           },
           {
-            "id": 41250,
-            "name": "Sale"
-          },
-          {
             "id": 12475,
             "name": "Oxford"
+          },
+          {
+            "id": 41250,
+            "name": "Sale"
           },
           {
             "id": 12477,
@@ -23535,7 +23535,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07511649",
+          "l2Id": "07511650",
           "salesStartDate": "",
           "salesEndDate": ""
         },
