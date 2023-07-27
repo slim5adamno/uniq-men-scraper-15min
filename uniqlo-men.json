@@ -667,12 +667,12 @@
             "name": "Jackets"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
             "id": 23625,
             "name": "UNIQLO＋"
+          },
+          {
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 26178,
@@ -683,14 +683,6 @@
             "name": "T-shirts"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
-            "id": 22434,
-            "name": "Sunglasses"
-          },
-          {
             "id": 34286,
             "name": "Loungewear bottoms"
           },
@@ -699,8 +691,24 @@
             "name": "Tops"
           },
           {
+            "id": 22404,
+            "name": "Polo Shirts"
+          },
+          {
+            "id": 22434,
+            "name": "Sunglasses"
+          },
+          {
             "id": 22405,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 26172,
+            "name": "Shorts"
+          },
+          {
+            "id": 27340,
+            "name": "Fleece"
           },
           {
             "id": 22410,
@@ -711,40 +719,32 @@
             "name": "Room Shoes"
           },
           {
-            "id": 27340,
-            "name": "Fleece"
-          },
-          {
-            "id": 26172,
-            "name": "Shorts"
+            "id": 22416,
+            "name": "HEATTECH"
           },
           {
             "id": 22427,
             "name": "Others"
           },
           {
-            "id": 22416,
-            "name": "HEATTECH"
-          },
-          {
-            "id": 22408,
-            "name": "Jeans"
+            "id": 23628,
+            "name": "Parka"
           },
           {
             "id": 22406,
             "name": "Formal Shirts"
           },
           {
-            "id": 23628,
-            "name": "Parka"
-          },
-          {
-            "id": 23626,
-            "name": "Outer"
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 23626,
+            "name": "Outer"
           },
           {
             "id": 22414,
@@ -759,12 +759,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22439,
@@ -779,12 +779,12 @@
             "name": "Others"
           },
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 22428,
             "name": "AIRism Masks"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 23631,
@@ -799,24 +799,24 @@
             "name": "Sale"
           },
           {
-            "id": 23608,
-            "name": "3way Bag"
-          },
-          {
             "id": 12586,
             "name": "Regular fit"
+          },
+          {
+            "id": 23608,
+            "name": "3way Bag"
           },
           {
             "id": 12582,
             "name": "Slim Fit"
           },
           {
-            "id": 13121,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12588,
             "name": "Extra Stretch"
+          },
+          {
+            "id": 13121,
+            "name": "Uniqlo U"
           },
           {
             "id": 23271,
@@ -863,16 +863,16 @@
             "name": "DRY-EX"
           },
           {
-            "id": 12648,
-            "name": "Room Shoes"
-          },
-          {
             "id": 12111,
             "name": "Extra Fine Cotton"
           },
           {
             "id": 23599,
             "name": "AIRism Mask"
+          },
+          {
+            "id": 12648,
+            "name": "Room Shoes"
           },
           {
             "id": 12114,
@@ -899,12 +899,12 @@
             "name": "Broadcloth"
           },
           {
-            "id": 13137,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 12118,
             "name": "Oxford"
+          },
+          {
+            "id": 13137,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 12115,
