@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "AIRism Mesh Tank Top",
-  "price": 390,
-  "basePrice": 990,
-  "discount": 61,
-  "link": "https://www.uniqlo.com/in/en/products/E449237-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Shinpei Ueno Half Sleeve UT",
   "price": 790,
   "basePrice": 1490,
