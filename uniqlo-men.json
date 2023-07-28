@@ -26782,11 +26782,17 @@
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
+              },
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available late Jul"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "07084242",
+          "l2Id": "07084241",
           "salesStartDate": "",
           "salesEndDate": ""
         },
