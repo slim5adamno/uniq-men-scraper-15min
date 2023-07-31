@@ -15,11 +15,11 @@
   }
 }
 {
-  "name": "Shinpei Ueno Half Sleeve UT",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E459303-000",
+  "name": "Stretch Slim Fit Printed Shorts",
+  "price": 590,
+  "basePrice": 1990,
+  "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E461575-001",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -31,11 +31,11 @@
   }
 }
 {
-  "name": "Shinpei Ueno Half Sleeve UT",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E459303-000",
+  "name": "Stretch Slim Fit Printed Shorts",
+  "price": 590,
+  "basePrice": 1990,
+  "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E461575-001",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -47,11 +47,11 @@
   }
 }
 {
-  "name": "Stretch Slim Fit Printed Shorts",
+  "name": "Shinpei Ueno Half Sleeve UT",
   "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E461575-001",
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E459303-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -63,11 +63,11 @@
   }
 }
 {
-  "name": "Stretch Slim Fit Printed Shorts",
+  "name": "Shinpei Ueno Half Sleeve UT",
   "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E461575-001",
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E459303-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -420,6 +420,38 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457448-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Denim Like Room Shoes (Rubber Sole)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456829-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Room Shoes (Rubber Sole)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E454751-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
