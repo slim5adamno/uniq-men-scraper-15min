@@ -707,20 +707,20 @@
             "name": "T-shirts"
           },
           {
-            "id": 22434,
-            "name": "Sunglasses"
-          },
-          {
-            "id": 22420,
-            "name": "Underwear"
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 34286,
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
+            "id": 22434,
+            "name": "Sunglasses"
+          },
+          {
+            "id": 22420,
+            "name": "Underwear"
           },
           {
             "id": 26172,
@@ -739,28 +739,28 @@
             "name": "Others"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
-            "id": 23628,
-            "name": "Parka"
-          },
-          {
             "id": 24736,
             "name": "Socks"
+          },
+          {
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 22406,
             "name": "Formal Shirts"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
+            "id": 23628,
+            "name": "Parka"
           },
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 22401,
@@ -771,19 +771,19 @@
             "name": "Others"
           },
           {
-            "id": 23629,
-            "name": "Bottoms"
-          },
-          {
             "id": 22439,
             "name": "Others"
           },
           {
-            "id": 22407,
-            "name": "Others"
+            "id": 23629,
+            "name": "Bottoms"
           },
           {
             "id": 22415,
+            "name": "Others"
+          },
+          {
+            "id": 22407,
             "name": "Others"
           },
           {
@@ -847,16 +847,20 @@
             "name": "Pique"
           },
           {
-            "id": 12486,
-            "name": "AIRism"
-          },
-          {
             "id": 12636,
             "name": "Regular Warm"
           },
           {
+            "id": 12486,
+            "name": "AIRism"
+          },
+          {
             "id": 12490,
             "name": "Merino"
+          },
+          {
+            "id": 12488,
+            "name": "Dry Pique"
           },
           {
             "id": 42338,
@@ -867,28 +871,24 @@
             "name": "Sale"
           },
           {
-            "id": 12488,
-            "name": "Dry Pique"
-          },
-          {
             "id": 12487,
             "name": "DRY-EX"
-          },
-          {
-            "id": 12618,
-            "name": "Cargo"
-          },
-          {
-            "id": 12629,
-            "name": "Vests"
           },
           {
             "id": 12648,
             "name": "Room Shoes"
           },
           {
+            "id": 12629,
+            "name": "Vests"
+          },
+          {
             "id": 12111,
             "name": "Extra Fine Cotton"
+          },
+          {
+            "id": 12618,
+            "name": "Cargo"
           },
           {
             "id": 12114,
@@ -903,12 +903,12 @@
             "name": "Easy Cotton"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
-          },
-          {
             "id": 12620,
             "name": "Denim"
+          },
+          {
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 13124,
@@ -959,16 +959,16 @@
             "name": "Dry Non Iron Jersey"
           },
           {
+            "id": 12630,
+            "name": "Brief"
+          },
+          {
             "id": 41250,
             "name": "Sale"
           },
           {
             "id": 12475,
             "name": "Oxford"
-          },
-          {
-            "id": 12630,
-            "name": "Brief"
           },
           {
             "id": 12477,
