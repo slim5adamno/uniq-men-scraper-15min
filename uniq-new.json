@@ -1,20 +1,4 @@
 {
-  "name": "U Wide Fit Easy Shorts",
-  "price": 390,
-  "basePrice": 2990,
-  "discount": 87,
-  "link": "https://www.uniqlo.com/in/en/products/E455539-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Slim Fit Printed Shorts",
   "price": 590,
   "basePrice": 1990,
@@ -227,22 +211,6 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E461332-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Active Utility Shorts",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460620-001",
   "sizes": {
     "code": "SMA003",
@@ -440,22 +408,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Madras Checked Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E448399-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
