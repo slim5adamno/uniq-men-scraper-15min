@@ -465,6 +465,11 @@
           "name": "36inch"
         },
         {
+          "code": "INS040",
+          "displayCode": "040",
+          "name": "40inch"
+        },
+        {
           "code": "MSC025",
           "displayCode": "025",
           "name": "25-27cm"
@@ -711,6 +716,10 @@
             "name": "Loungewear bottoms"
           },
           {
+            "id": 22434,
+            "name": "Sunglasses"
+          },
+          {
             "id": 22404,
             "name": "Polo Shirts"
           },
@@ -719,8 +728,8 @@
             "name": "Underwear"
           },
           {
-            "id": 22434,
-            "name": "Sunglasses"
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 22405,
@@ -731,10 +740,6 @@
             "name": "Room Shoes"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
-          },
-          {
             "id": 22427,
             "name": "Others"
           },
@@ -743,16 +748,16 @@
             "name": "Socks"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
             "id": 23628,
             "name": "Parka"
           },
           {
             "id": 22406,
             "name": "Formal Shirts"
+          },
+          {
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 22414,
@@ -799,12 +804,12 @@
             "name": "Pullover"
           },
           {
-            "id": 12586,
-            "name": "Regular fit"
-          },
-          {
             "id": 23608,
             "name": "3way Bag"
+          },
+          {
+            "id": 12586,
+            "name": "Regular fit"
           },
           {
             "id": 12582,
@@ -823,14 +828,6 @@
             "name": "Hoodies"
           },
           {
-            "id": 33616,
-            "name": "Shorts"
-          },
-          {
-            "id": 12111,
-            "name": "Extra Fine Cotton"
-          },
-          {
             "id": 12629,
             "name": "Vests"
           },
@@ -839,16 +836,24 @@
             "name": "Flannel"
           },
           {
+            "id": 33616,
+            "name": "Shorts"
+          },
+          {
+            "id": 12111,
+            "name": "Extra Fine Cotton"
+          },
+          {
             "id": 12625,
             "name": "Crew Neck"
           },
           {
-            "id": 13121,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12627,
             "name": "AIRism"
+          },
+          {
+            "id": 13121,
+            "name": "Uniqlo U"
           },
           {
             "id": 33618,
@@ -859,12 +864,12 @@
             "name": "Sale"
           },
           {
-            "id": 12096,
-            "name": "Fleece"
-          },
-          {
             "id": 12110,
             "name": "Broadcloth"
+          },
+          {
+            "id": 12096,
+            "name": "Fleece"
           },
           {
             "id": 12118,
@@ -32514,6 +32519,15 @@
             "code": "INS036",
             "displayCode": "036",
             "name": "36inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS040",
+            "displayCode": "040",
+            "name": "40inch",
             "display": {
               "showFlag": true,
               "chipType": 1
