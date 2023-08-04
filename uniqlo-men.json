@@ -682,10 +682,6 @@
             "name": "Dry Ex"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
             "id": 22424,
             "name": "Loungewear & Pajamas"
           },
@@ -694,92 +690,96 @@
             "name": "T-shirts"
           },
           {
-            "id": 22434,
-            "name": "Sunglasses"
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
-            "id": 22420,
-            "name": "Underwear"
-          },
-          {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
             "id": 22405,
             "name": "Casual Shirts"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
-          },
-          {
-            "id": 22425,
-            "name": "Room Shoes"
-          },
-          {
-            "id": 22427,
-            "name": "Others"
-          },
-          {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
-            "id": 23628,
-            "name": "Parka"
-          },
-          {
-            "id": 24736,
-            "name": "Socks"
-          },
-          {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
+            "id": 22434,
+            "name": "Sunglasses"
           },
           {
             "id": 49394,
             "name": "Fleece"
           },
           {
-            "id": 23629,
-            "name": "Bottoms"
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 49395,
             "name": "Easy Pants"
           },
           {
-            "id": 22439,
+            "id": 22406,
+            "name": "Formal Shirts"
+          },
+          {
+            "id": 23628,
+            "name": "Parka"
+          },
+          {
+            "id": 34286,
+            "name": "Loungewear bottoms"
+          },
+          {
+            "id": 24736,
+            "name": "Socks"
+          },
+          {
+            "id": 22408,
+            "name": "Jeans"
+          },
+          {
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
+          },
+          {
+            "id": 22425,
+            "name": "Room Shoes"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
+          },
+          {
+            "id": 22427,
             "name": "Others"
+          },
+          {
+            "id": 23629,
+            "name": "Bottoms"
           },
           {
             "id": 22415,
             "name": "Others"
           },
           {
-            "id": 22407,
+            "id": 22420,
+            "name": "Underwear"
+          },
+          {
+            "id": 49343,
+            "name": "Short Sleeve"
+          },
+          {
+            "id": 22439,
             "name": "Others"
+          },
+          {
+            "id": 49344,
+            "name": "Long Sleeve"
+          },
+          {
+            "id": 49345,
+            "name": "Hoodie"
           },
           {
             "id": 49362,
@@ -798,16 +798,16 @@
             "name": "Sale"
           },
           {
-            "id": 49343,
-            "name": "Short Sleeve"
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 49344,
-            "name": "Long Sleeve"
+            "id": 22393,
+            "name": "Others"
           },
           {
-            "id": 49345,
-            "name": "Hoodie"
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 49404,
@@ -850,20 +850,8 @@
             "name": "Flannel"
           },
           {
-            "id": 33616,
-            "name": "Shorts"
-          },
-          {
             "id": 12111,
             "name": "Extra Fine Cotton"
-          },
-          {
-            "id": 33618,
-            "name": "Sale"
-          },
-          {
-            "id": 42338,
-            "name": "Sale"
           },
           {
             "id": 49397,
@@ -872,6 +860,18 @@
           {
             "id": 49398,
             "name": "Sweat"
+          },
+          {
+            "id": 42338,
+            "name": "Sale"
+          },
+          {
+            "id": 33616,
+            "name": "Shorts"
+          },
+          {
+            "id": 33618,
+            "name": "Sale"
           },
           {
             "id": 12096,
