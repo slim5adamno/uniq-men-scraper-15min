@@ -678,20 +678,20 @@
         ],
         "subcategories": [
           {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
             "id": 22424,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
+            "id": 26170,
+            "name": "Dry Ex"
           },
           {
             "id": 22390,
             "name": "Hoodies"
+          },
+          {
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22404,
@@ -746,20 +746,24 @@
             "name": "Room Shoes"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
+            "id": 49362,
+            "name": "Slim Fit"
           },
           {
             "id": 22427,
             "name": "Others"
           },
           {
-            "id": 23629,
-            "name": "Bottoms"
+            "id": 49363,
+            "name": "Cotton"
           },
           {
-            "id": 22415,
-            "name": "Others"
+            "id": 22414,
+            "name": "Shorts"
+          },
+          {
+            "id": 23629,
+            "name": "Bottoms"
           },
           {
             "id": 22420,
@@ -770,36 +774,28 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 22439,
-            "name": "Others"
-          },
-          {
             "id": 49344,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 22439,
+            "name": "Others"
           },
           {
             "id": 49345,
             "name": "Hoodie"
           },
           {
-            "id": 49362,
-            "name": "Slim Fit"
-          },
-          {
-            "id": 23631,
-            "name": "Accessories"
-          },
-          {
-            "id": 49363,
-            "name": "Cotton"
-          },
-          {
-            "id": 31240,
-            "name": "Sale"
-          },
-          {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 49404,
+            "name": "Short Sleeve T-shirt"
+          },
+          {
+            "id": 22415,
+            "name": "Others"
           },
           {
             "id": 22393,
@@ -810,8 +806,12 @@
             "name": "Others"
           },
           {
-            "id": 49404,
-            "name": "Short Sleeve T-shirt"
+            "id": 23631,
+            "name": "Accessories"
+          },
+          {
+            "id": 31240,
+            "name": "Sale"
           },
           {
             "id": 12480,
@@ -838,12 +838,12 @@
             "name": "Hoodies"
           },
           {
-            "id": 23611,
-            "name": "Others"
-          },
-          {
             "id": 49354,
             "name": "Pile Lined"
+          },
+          {
+            "id": 23611,
+            "name": "Others"
           },
           {
             "id": 12114,
@@ -862,12 +862,12 @@
             "name": "Sweat"
           },
           {
-            "id": 42338,
-            "name": "Sale"
-          },
-          {
             "id": 33616,
             "name": "Shorts"
+          },
+          {
+            "id": 42338,
+            "name": "Sale"
           },
           {
             "id": 33618,
@@ -898,12 +898,12 @@
             "name": "Sale"
           },
           {
-            "id": 12648,
-            "name": "Room Shoes"
-          },
-          {
             "id": 12476,
             "name": "Easy Care"
+          },
+          {
+            "id": 12648,
+            "name": "Room Shoes"
           },
           {
             "id": 27796,
@@ -978,12 +978,12 @@
             "name": "Cotton"
           },
           {
-            "id": 31255,
-            "name": "Sale"
-          },
-          {
             "id": 24340,
             "name": "Polo"
+          },
+          {
+            "id": 31255,
+            "name": "Sale"
           },
           {
             "id": 12486,
