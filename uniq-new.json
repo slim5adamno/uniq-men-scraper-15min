@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "Stretch Slim Fit Printed Shorts",
-  "price": 590,
-  "basePrice": 1990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E461575-001",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AirSense Trousers (Ultra Light Trousers) (Cotton-Like)",
   "price": 590,
   "basePrice": 2990,
