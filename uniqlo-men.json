@@ -692,28 +692,28 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
+          },
+          {
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
+            "id": 22434,
+            "name": "Sunglasses"
           },
           {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 22434,
-            "name": "Sunglasses"
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 49394,
@@ -724,12 +724,12 @@
             "name": "Shorts"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 49395,
             "name": "Easy Pants"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 23628,
@@ -740,24 +740,24 @@
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 22425,
-            "name": "Room Shoes"
+            "id": 22408,
+            "name": "Jeans"
+          },
+          {
+            "id": 49382,
+            "name": "Cotton"
           },
           {
             "id": 49362,
             "name": "Slim Fit"
           },
           {
-            "id": 49382,
-            "name": "Cotton"
+            "id": 22425,
+            "name": "Room Shoes"
           },
           {
             "id": 49363,
@@ -768,12 +768,12 @@
             "name": "Others"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 23629,
             "name": "Bottoms"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 22420,
@@ -892,12 +892,12 @@
             "name": "Sale"
           },
           {
-            "id": 12476,
-            "name": "Easy Care"
-          },
-          {
             "id": 12648,
             "name": "Room Shoes"
+          },
+          {
+            "id": 12476,
+            "name": "Easy Care"
           },
           {
             "id": 27796,
