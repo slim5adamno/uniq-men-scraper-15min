@@ -4339,7 +4339,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 54,
+          "total": 100,
           "count": 0,
           "items": []
         },
@@ -20744,7 +20744,7 @@
             }
           ]
         },
-        "l1Id": "450179",
+        "l1Id": "460319",
         "longDescription": "- Specially processed to improve fabric shrinkage after washing. <br>- Now wider in the shoulders and body for a more comfortable fit.",
         "name": "Soft Touch Crew Neck Long Sleeve T-Shirt",
         "prices": {
@@ -20782,15 +20782,15 @@
           }
         ],
         "rating": {
-          "average": 4.419354838709677,
-          "count": 31,
-          "fit": 3,
+          "average": null,
+          "count": 0,
+          "fit": null,
           "rateCount": {
-            "one": 3,
-            "two": 1,
-            "three": 1,
-            "four": 1,
-            "five": 25
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
           }
         },
         "representative": {
@@ -20827,7 +20827,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 100,
+          "total": 54,
           "count": 0,
           "items": []
         },
