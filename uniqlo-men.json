@@ -673,24 +673,24 @@
             "name": "Polo Shirts"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 22434,
             "name": "Sunglasses"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 49394,
-            "name": "Fleece"
-          },
-          {
             "id": 26172,
             "name": "Shorts"
+          },
+          {
+            "id": 49394,
+            "name": "Fleece"
           },
           {
             "id": 22406,
@@ -705,10 +705,6 @@
             "name": "Parka"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
-          },
-          {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
           },
@@ -717,12 +713,16 @@
             "name": "Loungewear bottoms"
           },
           {
-            "id": 49362,
-            "name": "Slim Fit"
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 49382,
             "name": "Cotton"
+          },
+          {
+            "id": 49362,
+            "name": "Slim Fit"
           },
           {
             "id": 49363,
@@ -733,28 +733,28 @@
             "name": "Others"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 23629,
             "name": "Bottoms"
           },
           {
-            "id": 22420,
-            "name": "Underwear"
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 49343,
             "name": "Short Sleeve"
           },
           {
-            "id": 49344,
-            "name": "Long Sleeve"
+            "id": 22420,
+            "name": "Underwear"
           },
           {
             "id": 22439,
             "name": "Others"
+          },
+          {
+            "id": 49344,
+            "name": "Long Sleeve"
           },
           {
             "id": 49345,
@@ -905,12 +905,12 @@
             "name": "Trunks"
           },
           {
-            "id": 12107,
-            "name": "Lambswool"
-          },
-          {
             "id": 23612,
             "name": "Sunglasses"
+          },
+          {
+            "id": 12107,
+            "name": "Lambswool"
           },
           {
             "id": 23613,
