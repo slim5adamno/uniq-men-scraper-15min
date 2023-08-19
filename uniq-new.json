@@ -1,9 +1,9 @@
 {
-  "name": "Stretch Easy Shorts",
-  "price": 590,
-  "basePrice": 1290,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E458404-000",
+  "name": "EZY Extra Stretch Jeans",
+  "price": 390,
+  "basePrice": 2990,
+  "discount": 87,
+  "link": "https://www.uniqlo.com/in/en/products/E439178-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -15,11 +15,11 @@
   }
 }
 {
-  "name": "Stretch Slim Fit Printed Shorts",
+  "name": "Stretch Easy Shorts",
   "price": 590,
-  "basePrice": 1990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E461575-001",
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E458404-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -479,6 +479,22 @@
   }
 }
 {
+  "name": "Oversized Striped Half Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455414-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Oxford Slim Fit Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -488,6 +504,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oxford Slim Fit Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455971-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
