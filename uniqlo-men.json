@@ -1487,7 +1487,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -3677,7 +3677,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -3839,7 +3839,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -4364,7 +4364,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -4529,7 +4529,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -4541,207 +4541,6 @@
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL23",
-            "displayCode": "23",
-            "name": "ORANGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/item/goods_23_458754.jpg",
-              "colorCode": "23"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/chip/goods_23_458754_chip.jpg",
-              "colorCode": "23"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub15.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458754/sub/goods_458754_sub21.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458754/sub/ingoods_458754_sub26.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458754/sub/ingoods_458754_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "458754",
-        "longDescription": "RETRO PEANUTS<br><br>This collection is inspired by vintage Peanuts T-shirts. The artwork, selected from retro comic strips, showcases Snoopy and his friends outside, having fun, moving free and hard at play. The designs feature vintage-inspired colors and the warm, gentle humor that can only be found in Peanuts.<br><br>©2023 Peanuts Worldwide LLC",
-        "name": "Retro Peanuts UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
-          }
-        },
-        "productId": "E458754-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 3,
-          "count": 2,
-          "fit": 3,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL23",
-            "displayCode": "23",
-            "name": "ORANGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07492940",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 67,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "This collection is inspired by vintage Peanuts T-shirts.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/458754_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -4895,7 +4694,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -5078,7 +4877,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -5249,7 +5048,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -5423,7 +5222,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -5588,7 +5387,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -5756,7 +5555,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -5915,7 +5714,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -6092,7 +5891,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 99,
           "count": 0,
           "items": []
         },
@@ -8686,7 +8485,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -9116,7 +8915,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -9299,7 +9098,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -9500,7 +9299,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -9686,192 +9485,12 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
         "shortDescription": "History of Dragon Ball. Looking back now, the history of Goku and his friends' adventures and fierce battles.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/463101_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/item/ingoods_67_463100.jpg",
-              "colorCode": "67"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/chip/goods_67_463100_chip.jpg",
-              "colorCode": "67"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub1.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub2.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub7.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub15.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463100/sub/goods_463100_sub21.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub26.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub27.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/463100/sub/ingoods_463100_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "463100",
-        "longDescription": "Saiyan Arc<br><br>This is a piece from the episode in which Son Goku fights the Saiyan prince Vegeta. The front of the T-shirt features the Dragon Ball Z anime title logo, while the back features the first scene in which Son Goku and Vegeta square off against each other. This is a special print featuring Goku at the end of the battle, trying to use a Genki-dama to defeat Vegeta, who has transformed into a Great Ape. The blue body color of the T-shirt is inspired by Vegeta’s battle clothes. The same design is also available in the kids’ product lineup. Have fun coordinating parent-child paired looks!<br><br>DRAGON BALL<br><br>Relive the epic battles and thrilling adventures of Goku and friends with our limited edition Dragon Ball T-shirt collection. From the iconic \"Son Goku Boy Arc\" to the unforgettable \"Majin Buu Arc\", our designs capture the essence of the series, paying homage to its rich history. Don't miss out on the chance to own a piece of this legendary anime forever.<br><br>©️BIRD STUDIO/SHUEISHA, TOEI ANIMATION",
-        "name": "Dragon Ball UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E463100-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07707060",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 67,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "History of Dragon Ball. Looking back now, the history of Goku and his friends' adventures and fierce battles.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/463100_size.html",
         "sizeInformation": "",
         "sizes": [
           {
@@ -10043,7 +9662,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -10235,7 +9854,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -10403,7 +10022,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -10583,7 +10202,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -10751,7 +10370,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -10919,7 +10538,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -11111,7 +10730,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -11297,7 +10916,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -11459,7 +11078,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -11682,7 +11301,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -11888,7 +11507,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -12089,7 +11708,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -12347,7 +11966,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -13611,7 +13230,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -13772,7 +13391,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -13792,171 +13411,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Do not wash, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "SHAHI EXPORTS PVT.LTD., Industrial Plot No. 1, near Metro Station, Sector 28, Faridabad, Haryana 121008<br>- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/item/goods_00_457247.jpg",
-              "colorCode": "00"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/chip/goods_00_457247_chip.jpg",
-              "colorCode": "00"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457247/sub/ingoods_457247_sub1.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/sub/goods_457247_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/sub/goods_457247_sub15.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/sub/goods_457247_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/sub/goods_457247_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/sub/goods_457247_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457247/sub/goods_457247_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457247/sub/ingoods_457247_sub26.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457247/sub/ingoods_457247_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "457247",
-        "longDescription": "Logo created for the business card and letterhead of Anthony Hyde, a photographer who worked at that time rented desk space at Herb Lubalin's studio. The design combines Hyde's agent Li-Lian Oh and Anthony Hyde's name (initials).<br><br>Legends of Graphics<br><br>This collection focuses on the roots of logos and typography, featuring legendary corporate logos and works by two American graphic designers. Enjoy the sophisticated designs of Paul Rand, a master of \"logo design,\" and Herb Lubalin, a pioneer of \"typography\".<br><br>Herb Lubalin<br>Renowned American graphic designer and typographer fascinated by the look and sound of words. He pioneered conceptual typography which he called \"Graphic Expressionism,\" and created expressive \"Word Pictures.\"<br><br>©️Herb Lubalin",
-        "name": "Log/Herb Lubalin UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E457247-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07532605",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 99,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Introducing graphic T-shirts featuring design trends from the 1960s and 1970s!",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/457247_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
         "careInstruction": "<br>",
@@ -14538,7 +13992,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -14730,7 +14184,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -14913,7 +14367,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -15096,7 +14550,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -15426,7 +14880,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -15621,7 +15075,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -15783,7 +15237,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -15945,7 +15399,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -16122,7 +15576,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -16338,7 +15792,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -16515,7 +15969,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -16697,7 +16151,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -16877,7 +16331,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -17066,7 +16520,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -17261,7 +16715,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -17456,7 +16910,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -17637,7 +17091,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -17811,7 +17265,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -17973,7 +17427,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -18144,7 +17598,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -18327,7 +17781,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -18489,7 +17943,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -18678,7 +18132,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -18840,7 +18294,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -19038,7 +18492,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -19215,7 +18669,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -19235,174 +18689,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "SHAHI EXPORTS PVT.LTD., Industrial Plot No. 1, near Metro Station, Sector 28, Faridabad, Haryana 121008",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459306/item/ingoods_09_459306.jpg",
-              "colorCode": "09"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/chip/goods_09_459306_chip.jpg",
-              "colorCode": "09"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459306/sub/ingoods_459306_sub7.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459306/sub/ingoods_459306_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/sub/goods_459306_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/sub/goods_459306_sub15.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/sub/goods_459306_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/sub/goods_459306_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/sub/goods_459306_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459306/sub/goods_459306_sub20.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459306/sub/ingoods_459306_sub26.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459306/sub/ingoods_459306_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "459306",
-        "longDescription": "UT ARCHIVE Andy Warhol / Keith Haring / Jean-Michel Basquiat<br><br>“UT Archive” is a project that revives carefully selected T-shirts which have been sold in the past. From the UT collection that has been on sale for about 20 years, popular patterns by Andy Warhol, Basquiat, and Keith Haring will be re-released.<br><br>Andy Warhol<br>As the preeminent American artist of the 20th Century, Andy Warhol challenged the world to see art differently. This product is produced under a license from The Andy Warhol Foundation for the Visual Arts, Inc., a New York not-for-profit corporation which promotes the visual arts.<br><br>Keith Haring<br>A key figure in New York’s East Village scene in the late 1970s and 80s, American artist Keith Haring’s artwork populated not only art galleries, but also the city’s subways, streets, and sidewalks. His work often combined an iconographic vocabulary, including hearts, flying saucers, winged figures, and a crawling “radiant baby,”with abstract marks and patterning.<br><br>Jean-Michel Basquiat<br>An icon of New York in the 1980s, Jean-Michel Basquiat became renowned during his short career for works inspired by his early street art and a distinctive iconography often connected to art history. His paintings, drawings, and prints drew on a diverse range of sources, from African, Aztec, and Greek cultures to Americana in the form of jazz, baseball, and social and political events.<br><br>©/®/™ The Andy Warhol Foundation for the Visual Arts, Inc.<br>© Keith Haring Foundation. Licensed by Artestar, New York.<br>© Estate of Jean-Michel Basquiat. Licensed by Artestar, New York.",
-        "name": "Keith Haring Ut Archive UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E459306-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07520774",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 67,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Forever timeless. Selected pieces from UT sold in the past will be revived.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459306_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -19548,7 +18834,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -19710,7 +18996,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -19890,7 +19176,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -20052,7 +19338,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -20217,7 +19503,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -20397,7 +19683,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -24466,7 +23752,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -32389,7 +31675,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -34241,7 +33527,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 67,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -34300,9 +33586,9 @@
       }
     ],
     "pagination": {
-      "count": 171,
+      "count": 167,
       "total": 171,
-      "offset": 1000
+      "offset": 1004
     }
   }
 }
