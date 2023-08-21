@@ -25947,9 +25947,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25967,7 +25967,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07462895",
+          "l2Id": "07462896",
           "salesStartDate": "",
           "salesEndDate": ""
         },
