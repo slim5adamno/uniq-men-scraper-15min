@@ -1,20 +1,4 @@
 {
-  "name": "EZY Extra Stretch Jeans",
-  "price": 390,
-  "basePrice": 2990,
-  "discount": 87,
-  "link": "https://www.uniqlo.com/in/en/products/E439178-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Retro Peanuts UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
