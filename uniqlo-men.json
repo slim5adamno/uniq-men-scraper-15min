@@ -676,12 +676,12 @@
             "name": "T-shirts"
           },
           {
-            "id": 22434,
-            "name": "Sunglasses"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
+          },
+          {
+            "id": 22434,
+            "name": "Sunglasses"
           },
           {
             "id": 23627,
@@ -692,16 +692,16 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
-          },
-          {
             "id": 49394,
             "name": "Fleece"
           },
           {
             "id": 26172,
             "name": "Shorts"
+          },
+          {
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 26177,
@@ -732,11 +732,11 @@
             "name": "Cotton"
           },
           {
-            "id": 22427,
+            "id": 22423,
             "name": "Others"
           },
           {
-            "id": 22423,
+            "id": 22427,
             "name": "Others"
           },
           {
@@ -748,6 +748,10 @@
             "name": "Inner Tops"
           },
           {
+            "id": 23630,
+            "name": "Innerwear"
+          },
+          {
             "id": 22417,
             "name": "AIRism"
           },
@@ -756,16 +760,12 @@
             "name": "Shorts"
           },
           {
-            "id": 23630,
-            "name": "Innerwear"
+            "id": 22420,
+            "name": "Underwear"
           },
           {
             "id": 49343,
             "name": "Short Sleeve"
-          },
-          {
-            "id": 22420,
-            "name": "Underwear"
           },
           {
             "id": 49344,
@@ -776,24 +776,24 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 41242,
-            "name": "Joggers & Sweatpants"
-          },
-          {
             "id": 49404,
             "name": "Short Sleeve T-shirt"
+          },
+          {
+            "id": 41242,
+            "name": "Joggers & Sweatpants"
           },
           {
             "id": 22415,
             "name": "Others"
           },
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 49408,
             "name": "Joggers"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 23631,
@@ -824,11 +824,11 @@
             "name": "Washed Jersey"
           },
           {
-            "id": 49397,
+            "id": 12096,
             "name": "Fleece"
           },
           {
-            "id": 12096,
+            "id": 49397,
             "name": "Fleece"
           },
           {
@@ -856,12 +856,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 12475,
-            "name": "Oxford"
-          },
-          {
             "id": 29256,
             "name": "Mesh"
+          },
+          {
+            "id": 12475,
+            "name": "Oxford"
           },
           {
             "id": 12476,
