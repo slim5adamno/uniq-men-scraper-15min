@@ -668,28 +668,28 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22402,
-            "name": "T-shirts"
-          },
-          {
             "id": 26170,
             "name": "Dry Ex"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
+            "id": 22402,
+            "name": "T-shirts"
           },
           {
             "id": 22434,
             "name": "Sunglasses"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 23627,
             "name": "Tops"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22410,
@@ -704,10 +704,6 @@
             "name": "Shorts"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 26177,
             "name": "Tank Tops"
           },
@@ -716,16 +712,24 @@
             "name": "Easy Pants"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 34286,
             "name": "Loungewear bottoms"
           },
           {
+            "id": 22408,
+            "name": "Jeans"
+          },
+          {
             "id": 49362,
             "name": "Slim Fit"
+          },
+          {
+            "id": 49363,
+            "name": "Cotton"
           },
           {
             "id": 22427,
@@ -736,10 +740,6 @@
             "name": "Others"
           },
           {
-            "id": 49363,
-            "name": "Cotton"
-          },
-          {
             "id": 23629,
             "name": "Bottoms"
           },
@@ -748,12 +748,12 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 22417,
             "name": "AIRism"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 23630,
@@ -788,12 +788,12 @@
             "name": "Others"
           },
           {
-            "id": 49408,
-            "name": "Joggers"
-          },
-          {
             "id": 22407,
             "name": "Others"
+          },
+          {
+            "id": 49408,
+            "name": "Joggers"
           },
           {
             "id": 23631,
@@ -820,15 +820,15 @@
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 12096,
-            "name": "Fleece"
-          },
-          {
             "id": 33614,
             "name": "Washed Jersey"
           },
           {
             "id": 49397,
+            "name": "Fleece"
+          },
+          {
+            "id": 12096,
             "name": "Fleece"
           },
           {
@@ -856,12 +856,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 29256,
-            "name": "Mesh"
-          },
-          {
             "id": 12475,
             "name": "Oxford"
+          },
+          {
+            "id": 29256,
+            "name": "Mesh"
           },
           {
             "id": 12476,
@@ -11772,15 +11772,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -31701,6 +31692,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/451329_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA005",
             "displayCode": "005",
