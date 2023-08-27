@@ -19,22 +19,6 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E458755-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Retro Peanuts UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E458754-000",
   "sizes": {
     "code": "SMA004",
@@ -216,6 +200,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry-EX Shorts",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E445175-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -511,11 +511,11 @@
   }
 }
 {
-  "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+  "name": "Extra Fine Cotton Broadcloth Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E453628-000",
+  "link": "https://www.uniqlo.com/in/en/products/E456650-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -527,11 +527,11 @@
   }
 }
 {
-  "name": "Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
-  "price": 1990,
-  "basePrice": 3990,
+  "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1490,
+  "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455401-000",
+  "link": "https://www.uniqlo.com/in/en/products/E453628-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
