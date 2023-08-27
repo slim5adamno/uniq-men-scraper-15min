@@ -6858,19 +6858,13 @@
         "longDescription": "- 100% cotton brushed fabric. <br>- Finely-brushed surface for extra warmth.  <br>- Crew neck. <br>- Ribbed cuffs make the sleeves easy to roll up. <br>- Basic cut is easy to mix and match.",
         "name": "Soft Touch Crew Neck Long Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E450179-000",
@@ -6905,34 +6899,33 @@
         },
         "representative": {
           "color": {
-            "code": "COL17",
-            "displayCode": "17",
-            "name": "RED",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
+              },
+              {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "07091919",
+          "l2Id": "07599812",
           "salesStartDate": "",
           "salesEndDate": ""
         },
