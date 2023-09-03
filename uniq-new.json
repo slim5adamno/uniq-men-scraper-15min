@@ -478,3 +478,35 @@
     }
   }
 }
+{
+  "name": "Cashmere Crew Neck Long Sleeve Sweater",
+  "price": 6990,
+  "basePrice": 12900,
+  "discount": 46,
+  "link": "https://www.uniqlo.com/in/en/products/E450543-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cashmere Crew Neck Long Sleeve Sweater",
+  "price": 6990,
+  "basePrice": 12900,
+  "discount": 46,
+  "link": "https://www.uniqlo.com/in/en/products/E450543-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
