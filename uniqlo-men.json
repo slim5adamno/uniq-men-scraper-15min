@@ -1374,15 +1374,15 @@
           }
         ],
         "rating": {
-          "average": 4.666666666666667,
-          "count": 3,
-          "fit": 3,
+          "average": 4.75,
+          "count": 4,
+          "fit": 2.5,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -35190,15 +35190,15 @@
           }
         ],
         "rating": {
-          "average": 4.636363636363637,
-          "count": 22,
-          "fit": 3.3636363636363638,
+          "average": 4.6521739130434785,
+          "count": 23,
+          "fit": 3.347826086956522,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 20
+            "five": 21
           }
         },
         "representative": {
