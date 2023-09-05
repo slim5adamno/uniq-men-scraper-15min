@@ -51,22 +51,6 @@
   "price": 590,
   "basePrice": 1490,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E457872-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1490,
-  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447182-000",
   "sizes": {
     "code": "SMA003",
