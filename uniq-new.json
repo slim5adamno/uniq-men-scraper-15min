@@ -19,22 +19,6 @@
   "price": 590,
   "basePrice": 1490,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E458600-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1490,
-  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E447182-000",
   "sizes": {
     "code": "SMA003",
@@ -324,22 +308,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455414-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Relax Fitted V Neck Short Sleeve T-Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455364-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
