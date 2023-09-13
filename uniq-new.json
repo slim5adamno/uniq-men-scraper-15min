@@ -1,20 +1,4 @@
 {
-  "name": "Cotton Striped Boxer Briefs",
-  "price": 190,
-  "basePrice": 490,
-  "discount": 61,
-  "link": "https://www.uniqlo.com/in/en/products/E456498-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 190,
   "basePrice": 790,
@@ -276,22 +260,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457930-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oversized Striped Half Sleeve T-Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455414-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
