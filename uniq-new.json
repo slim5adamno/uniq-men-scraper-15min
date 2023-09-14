@@ -1,4 +1,20 @@
 {
+  "name": "Briefs",
+  "price": 190,
+  "basePrice": 490,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E456516-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "AIRism Face Mask (Pack of 3)",
   "price": 190,
   "basePrice": 790,
