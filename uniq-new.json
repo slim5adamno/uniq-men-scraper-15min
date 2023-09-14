@@ -3,7 +3,39 @@
   "price": 190,
   "basePrice": 490,
   "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E458201-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Briefs",
+  "price": 190,
+  "basePrice": 490,
+  "discount": 61,
   "link": "https://www.uniqlo.com/in/en/products/E456516-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Striped Boxer Briefs",
+  "price": 190,
+  "basePrice": 490,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E456498-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -408,22 +440,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oxford Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452811-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
