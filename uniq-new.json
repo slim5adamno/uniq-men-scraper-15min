@@ -175,22 +175,6 @@
   }
 }
 {
-  "name": "Extra Stretch Dry-EX Tapered Trousers",
-  "price": 790,
-  "basePrice": 2990,
-  "discount": 74,
-  "link": "https://www.uniqlo.com/in/en/products/E456787-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "UTGP 2023:MFA UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
