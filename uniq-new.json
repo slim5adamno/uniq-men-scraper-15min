@@ -127,6 +127,22 @@
   }
 }
 {
+  "name": "The Mario Movie UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E456421-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "UTGP 2023:MFA UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
@@ -164,6 +180,22 @@
   "basePrice": 1990,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E445175-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Striped Half Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457931-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
