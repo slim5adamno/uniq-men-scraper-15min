@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "UTGP 2023:MFA UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E456308-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Active Utility Shorts",
   "price": 790,
   "basePrice": 1990,
@@ -95,6 +111,22 @@
   }
 }
 {
+  "name": "Oxford Slim Fit Short Sleeve Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E455971-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Corduroy Shorts",
   "price": 790,
   "basePrice": 1990,
@@ -127,11 +159,11 @@
   }
 }
 {
-  "name": "UTGP 2023:MFA UT (Short Sleeve Graphic T-Shirt)",
+  "name": "Oxford Short Sleeve Shirt",
   "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E456308-000",
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E452811-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -271,15 +303,31 @@
   }
 }
 {
-  "name": "Oxford Slim Fit Short Sleeve Shirt",
+  "name": "AIRism Cotton Striped Crew Neck Oversized T-Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455971-000",
+  "link": "https://www.uniqlo.com/in/en/products/E461914-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Cotton Striped Crew Neck Oversized T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461914-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -431,11 +479,11 @@
   }
 }
 {
-  "name": "Oxford Short Sleeve Shirt",
+  "name": "Dry Waffle Oversized Henley Neck T-Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E452811-000",
+  "link": "https://www.uniqlo.com/in/en/products/E452353-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
