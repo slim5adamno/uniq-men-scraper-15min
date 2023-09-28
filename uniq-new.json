@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "Pokemon UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590,
-  "basePrice": 1490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E462033-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Active Utility Shorts",
   "price": 790,
   "basePrice": 1990,
