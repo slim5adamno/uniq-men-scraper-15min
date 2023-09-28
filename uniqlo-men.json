@@ -621,8 +621,8 @@
             "name": "Tops"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
+            "id": 49395,
+            "name": "Easy Pants"
           },
           {
             "id": 22406,
@@ -633,8 +633,8 @@
             "name": "Casual Pants"
           },
           {
-            "id": 49395,
-            "name": "Easy Pants"
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 26177,
@@ -669,12 +669,12 @@
             "name": "Others"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
-          },
-          {
             "id": 49363,
             "name": "Cotton"
+          },
+          {
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 22417,
@@ -683,10 +683,6 @@
           {
             "id": 23629,
             "name": "Bottoms"
-          },
-          {
-            "id": 23630,
-            "name": "Innerwear"
           },
           {
             "id": 22420,
@@ -701,16 +697,20 @@
             "name": "Short Sleeve"
           },
           {
+            "id": 23630,
+            "name": "Innerwear"
+          },
+          {
             "id": 49344,
             "name": "Long Sleeve"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 49404,
             "name": "Short Sleeve T-shirt"
+          },
+          {
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 41242,
@@ -741,20 +741,20 @@
             "name": "Fleece"
           },
           {
-            "id": 12097,
-            "name": "Pocketable Parkas"
-          },
-          {
             "id": 12478,
             "name": "Hoodies"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
+            "id": 12097,
+            "name": "Pocketable Parkas"
           },
           {
             "id": 33616,
             "name": "Shorts"
+          },
+          {
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 12479,
@@ -769,24 +769,24 @@
             "name": "Sale"
           },
           {
-            "id": 12111,
-            "name": "Extra Fine Cotton"
-          },
-          {
             "id": 29256,
             "name": "Mesh"
+          },
+          {
+            "id": 12111,
+            "name": "Extra Fine Cotton"
           },
           {
             "id": 41249,
             "name": "Others"
           },
           {
-            "id": 29258,
-            "name": "Tank top"
-          },
-          {
             "id": 12113,
             "name": "Linen"
+          },
+          {
+            "id": 29258,
+            "name": "Tank top"
           },
           {
             "id": 12634,
@@ -817,12 +817,12 @@
             "name": "Others"
           },
           {
-            "id": 12632,
-            "name": "Trunks"
-          },
-          {
             "id": 49352,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 12632,
+            "name": "Trunks"
           },
           {
             "id": 12598,
