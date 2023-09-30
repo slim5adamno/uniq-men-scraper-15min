@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "Pokemon UT (Short Sleeve Graphic T-Shirt)",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E462033-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Active Utility Shorts",
   "price": 790,
   "basePrice": 1990,
@@ -259,11 +275,43 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457898-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Rugger Striped Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457897-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Rugger Striped Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457897-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -340,6 +388,38 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E445174-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry-EX Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E445174-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E453628-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
