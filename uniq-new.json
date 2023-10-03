@@ -99,6 +99,22 @@
   "price": 590,
   "basePrice": 1990,
   "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E461332-001",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Active Utility Shorts",
+  "price": 590,
+  "basePrice": 1990,
+  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E461332-000",
   "sizes": {
     "code": "SMA003",
@@ -275,11 +291,43 @@
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457898-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Rugger Striped Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457897-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Rugger Striped Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E457897-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -472,6 +520,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Waffle Oversized Henley Neck T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E452353-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
