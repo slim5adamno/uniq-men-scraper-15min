@@ -1119,19 +1119,13 @@
         "longDescription": "- With deodorizing feature. <br>- Flat knit for a smooth feel. <br>- Regular length. <br>- Double-layered cuffs for a gentle, unrestrictive fit. <br>- Contoured heel design for a snug, secure fit. <br>- Color block design suits smart casual styles. <br>- Suitable for business and casual wear.",
         "name": "Striped Socks",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "190.0000"
           }
         },
         "productId": "E457284-000",
@@ -1166,23 +1160,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "limitedStore",
@@ -1193,7 +1180,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07341630",
+          "l2Id": "07341373",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30508,19 +30495,13 @@
         "longDescription": "- Premium broadcloth fabric made from 100% fine-count, double-ply, ultra-long fiber cotton. <br>- Wrinkle-resistant for easy care. *Shape to dry after washing. <br>- The white shirt is made from thicker fabric to ensure it stays opaque. <br>- Collar design looks great with or without a tie. <br>- Interlined collar. <br>- Details including the collar shape, collar band, sleeve vent, and cuffs perfectly complement the regular collar design. <br>- Shoulders designed for easy arm movement. <br>- With a slightly looser cut around the shoulders, the fabric drapes elegantly to create a sleek look at the waist. <br>- Conveniently sized pocket can hold ID cards or a passport. <br>- Buttons stitched using a high-end shirt technique. <br>- Buttons attached at a slight angle for easy fastening. <br>- The perfect shirt for any occasion.",
         "name": "Easy Care Regular Fit Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E455950-000",
@@ -30555,23 +30536,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -30582,7 +30556,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07375832",
+          "l2Id": "07375823",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30879,19 +30853,13 @@
         "longDescription": "- Ultra Stretch satin fabric. <br>- Finer threads create a glossy, brushed texture. <br>- Comfortable slim fit. <br>- Elastic waistband with a sleek look. <br>- Drawstring waist can be worn without a belt.<br>- BLUE CYCLE JEANS technology reduces the volume of water* used in the finishing process. Water savings may vary between products.<br><br>*Up to 99%. Data is based on a comparison between Men's Regular Fit Jeans 2017 and 2018 using technology developed in 2018 by our Jeans Innovation Center.",
         "name": "Extra Stretch Colour Jeans",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E455471-000",
@@ -30926,23 +30894,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -30953,7 +30914,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07659179",
+          "l2Id": "07659107",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -31153,19 +31114,13 @@
         "longDescription": "- Premium fabric made from yarns specially selected to achieve a durable yet supple feel. <br>- A crisp and comfortable Oxford shirt. <br>- Added gussets reinforce the hem. <br>- Relaxed, regular fit based on classic Oxford shirt designs. <br>- Side and sleeve stitching designed to create a stress-free fit. <br>- A versatile wardrobe essential. <br>- Button shape carefully designed for easy fastening. <br>- This versatile shirt easily tucks in or styles as a light outer layer.",
         "name": "Oxford Striped Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E452298-000",
@@ -31200,23 +31155,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL15",
-            "displayCode": "15",
-            "name": "RED",
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -31227,7 +31175,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07652913",
+          "l2Id": "07093079",
           "salesStartDate": "",
           "salesEndDate": ""
         },
