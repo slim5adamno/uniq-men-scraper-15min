@@ -479,22 +479,6 @@
   }
 }
 {
-  "name": "Cotton Relaxed Ankle Pants (Denim)",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455895-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Slim Fit Shorts",
   "price": 990,
   "basePrice": 1990,
