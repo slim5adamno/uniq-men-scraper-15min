@@ -639,22 +639,6 @@
   }
 }
 {
-  "name": "Pile Lined Sweat Long Sleeve Full-Zip Hoodie",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E453628-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Pocketable UV Protection Parka (3D Cut)",
   "price": 1990,
   "basePrice": 3990,
