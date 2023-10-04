@@ -99,22 +99,6 @@
   "price": 590,
   "basePrice": 1990,
   "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E461332-001",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Active Utility Shorts",
-  "price": 590,
-  "basePrice": 1990,
-  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E461332-000",
   "sizes": {
     "code": "SMA003",
