@@ -619,20 +619,20 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 49394,
-            "name": "Fleece"
-          },
-          {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
+            "id": 49394,
+            "name": "Fleece"
           },
           {
             "id": 49395,
             "name": "Easy Pants"
+          },
+          {
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 22406,
@@ -643,8 +643,8 @@
             "name": "Trousers"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 26177,
@@ -655,19 +655,19 @@
             "name": "Loungewear bottoms"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 23628,
             "name": "Parka"
           },
           {
-            "id": 22423,
+            "id": 22427,
             "name": "Others"
           },
           {
-            "id": 22427,
+            "id": 22423,
             "name": "Others"
           },
           {
@@ -691,12 +691,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 23630,
-            "name": "Innerwear"
-          },
-          {
             "id": 49343,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 23630,
+            "name": "Innerwear"
           },
           {
             "id": 49344,
@@ -707,16 +707,16 @@
             "name": "Shorts"
           },
           {
+            "id": 49404,
+            "name": "Short Sleeve T-shirt"
+          },
+          {
             "id": 41242,
             "name": "Joggers & Sweatpants"
           },
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
-          },
-          {
-            "id": 49404,
-            "name": "Short Sleeve T-shirt"
           },
           {
             "id": 22407,
@@ -751,20 +751,20 @@
             "name": "Pocketable Parkas"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
-          },
-          {
             "id": 33616,
             "name": "Shorts"
           },
           {
-            "id": 12100,
-            "name": "UV Protection"
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 33618,
             "name": "Sale"
+          },
+          {
+            "id": 12100,
+            "name": "UV Protection"
           },
           {
             "id": 49383,
@@ -779,12 +779,12 @@
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 49385,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 41249,
             "name": "Others"
+          },
+          {
+            "id": 49385,
+            "name": "Short Sleeve"
           },
           {
             "id": 12113,
@@ -815,12 +815,12 @@
             "name": "Linen"
           },
           {
-            "id": 11709,
-            "name": "Others"
-          },
-          {
             "id": 12592,
             "name": "Relaxed Pants"
+          },
+          {
+            "id": 11709,
+            "name": "Others"
           },
           {
             "id": 12597,
