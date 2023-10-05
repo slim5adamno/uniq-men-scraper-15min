@@ -607,67 +607,67 @@
             "name": "T-shirts"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 26170,
             "name": "Dry Ex"
+          },
+          {
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
           },
           {
-            "id": 23627,
-            "name": "Tops"
-          },
-          {
             "id": 49394,
             "name": "Fleece"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
-          },
-          {
-            "id": 22412,
-            "name": "Trousers"
+            "id": 23627,
+            "name": "Tops"
           },
           {
             "id": 22406,
             "name": "Formal Shirts"
           },
           {
+            "id": 26172,
+            "name": "Shorts"
+          },
+          {
             "id": 49395,
             "name": "Easy Pants"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
-            "id": 26177,
-            "name": "Tank Tops"
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
           },
           {
+            "id": 34286,
+            "name": "Loungewear bottoms"
+          },
+          {
             "id": 22410,
             "name": "Casual Pants"
+          },
+          {
+            "id": 26177,
+            "name": "Tank Tops"
           },
           {
             "id": 23628,
             "name": "Parka"
           },
           {
-            "id": 22423,
+            "id": 22427,
             "name": "Others"
           },
           {
-            "id": 22427,
+            "id": 22423,
             "name": "Others"
           },
           {
@@ -679,6 +679,10 @@
             "name": "Slim Fit"
           },
           {
+            "id": 49363,
+            "name": "Cotton"
+          },
+          {
             "id": 23629,
             "name": "Bottoms"
           },
@@ -687,16 +691,12 @@
             "name": "AIRism"
           },
           {
-            "id": 49363,
-            "name": "Cotton"
+            "id": 23630,
+            "name": "Innerwear"
           },
           {
             "id": 49343,
             "name": "Short Sleeve"
-          },
-          {
-            "id": 23630,
-            "name": "Innerwear"
           },
           {
             "id": 49344,
@@ -707,12 +707,12 @@
             "name": "Shorts"
           },
           {
-            "id": 41242,
-            "name": "Joggers & Sweatpants"
-          },
-          {
             "id": 49404,
             "name": "Short Sleeve T-shirt"
+          },
+          {
+            "id": 41242,
+            "name": "Joggers & Sweatpants"
           },
           {
             "id": 22403,
@@ -747,12 +747,12 @@
             "name": "Hoodies"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
-          },
-          {
             "id": 33616,
             "name": "Shorts"
+          },
+          {
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 12479,
@@ -771,20 +771,20 @@
             "name": "Crew Neck"
           },
           {
-            "id": 29256,
-            "name": "Mesh"
-          },
-          {
             "id": 12111,
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 41249,
-            "name": "Others"
+            "id": 29256,
+            "name": "Mesh"
           },
           {
             "id": 49385,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 41249,
+            "name": "Others"
           },
           {
             "id": 12113,
@@ -815,12 +815,12 @@
             "name": "Linen"
           },
           {
-            "id": 12592,
-            "name": "Relaxed Pants"
-          },
-          {
             "id": 11709,
             "name": "Others"
+          },
+          {
+            "id": 12592,
+            "name": "Relaxed Pants"
           },
           {
             "id": 12597,
