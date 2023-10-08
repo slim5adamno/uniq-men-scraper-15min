@@ -1,20 +1,4 @@
 {
-  "name": "AIRism Face Mask (Pack of 3)",
-  "price": 190,
-  "basePrice": 790,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E437779-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry V Neck Short Sleeve Colour T-Shirt",
   "price": 390,
   "basePrice": 690,
