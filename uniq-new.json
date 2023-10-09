@@ -96,14 +96,78 @@
 }
 {
   "name": "Oxford Slim Fit Short Sleeve Shirt",
-  "price": 790,
+  "price": 590,
   "basePrice": 1990,
-  "discount": 60,
+  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E455971-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oxford Short Sleeve Shirt",
+  "price": 590,
+  "basePrice": 1990,
+  "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E452811-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Striped Half Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457930-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Striped Half Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457930-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "My Hero Academia UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E464493-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -127,15 +191,15 @@
   }
 }
 {
-  "name": "Oxford Short Sleeve Shirt",
+  "name": "Stretch Slim Fit Printed Shorts",
   "price": 790,
   "basePrice": 1990,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E452811-000",
+  "link": "https://www.uniqlo.com/in/en/products/E457685-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -175,11 +239,11 @@
   }
 }
 {
-  "name": "Oversized Striped Half Sleeve T-Shirt",
+  "name": "Open Collar Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457930-000",
+  "link": "https://www.uniqlo.com/in/en/products/E458066-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -191,15 +255,15 @@
   }
 }
 {
-  "name": "Oversized Striped Half Sleeve T-Shirt",
+  "name": "Open Collar Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457930-000",
+  "link": "https://www.uniqlo.com/in/en/products/E458065-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -244,22 +308,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457897-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Stretch Slim Fit Printed Shorts",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457685-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
