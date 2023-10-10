@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "Chino Shorts (Without Drawstring)",
-  "price": 590,
-  "basePrice": 1990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E444601-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Oversized Striped Half Sleeve T-Shirt",
   "price": 790,
   "basePrice": 1990,
@@ -372,22 +356,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455970-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cargo Jogger Pants",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E455496-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
