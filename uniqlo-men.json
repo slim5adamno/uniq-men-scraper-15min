@@ -22852,9 +22852,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
+            "code": "COL15",
+            "displayCode": "15",
+            "name": "RED",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22885,7 +22885,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07642160",
+          "l2Id": "07642151",
           "salesStartDate": "",
           "salesEndDate": ""
         },
