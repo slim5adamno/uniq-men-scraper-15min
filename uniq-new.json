@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "Oversized Striped Half Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E457930-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Slim Fit Printed Shorts",
   "price": 790,
   "basePrice": 1990,
