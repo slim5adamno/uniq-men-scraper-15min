@@ -104,11 +104,6 @@
           "name": "BROWN"
         },
         {
-          "code": "COL36",
-          "displayCode": "36",
-          "name": "BROWN"
-        },
-        {
           "code": "COL37",
           "displayCode": "37",
           "name": "BROWN"
@@ -23542,15 +23537,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL56",
             "displayCode": "56",
             "name": "OLIVE",
@@ -23706,15 +23692,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459707_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA008",
             "displayCode": "008",
