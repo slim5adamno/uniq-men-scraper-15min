@@ -63,22 +63,6 @@
   }
 }
 {
-  "name": "Oxford Slim Fit Short Sleeve Shirt",
-  "price": 590,
-  "basePrice": 1990,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E455971-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Slim Fit Printed Shorts",
   "price": 790,
   "basePrice": 1990,
