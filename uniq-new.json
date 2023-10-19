@@ -63,22 +63,6 @@
   }
 }
 {
-  "name": "Oversized Striped Half Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E457930-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "My Hero Academia UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
@@ -116,22 +100,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457935-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Geared Shorts",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E455505-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -228,22 +196,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E457449-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457446-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
