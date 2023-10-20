@@ -1,36 +1,4 @@
 {
-  "name": "Stretch Slim Fit Shorts",
-  "price": 390,
-  "basePrice": 1990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E444614-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Roger Federer RF Dry-EX Polo Shirt",
-  "price": 390,
-  "basePrice": 2490,
-  "discount": 84,
-  "link": "https://www.uniqlo.com/in/en/products/E438268-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Active Utility Shorts",
   "price": 590,
   "basePrice": 1990,
@@ -79,11 +47,11 @@
   }
 }
 {
-  "name": "AIRism Cotton UV Protection Crew Neck T-Shirt",
+  "name": "Oxford Short Sleeve Shirt",
   "price": 590,
   "basePrice": 1990,
   "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E433037-000",
+  "link": "https://www.uniqlo.com/in/en/products/E452811-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -344,38 +312,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Washed Jersey Ankle Pants",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E456930-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Fine Cotton Broadcloth Long Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E456641-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
