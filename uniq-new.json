@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "JWA Printed Open Collar Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E460658-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Pique Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -395,22 +379,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Classic Cut Jeans (Helmut Lang)",
-  "price": 2990,
-  "basePrice": 7990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E456745-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
