@@ -250,7 +250,7 @@
         {
           "from": 0,
           "to": 300,
-          "count": 1
+          "count": 2
         },
         {
           "from": 300,
@@ -260,12 +260,12 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 90
+          "count": 180
         },
         {
           "from": 1000,
           "to": 2000,
-          "count": 20
+          "count": 40
         },
         {
           "from": 2000,
@@ -280,64 +280,64 @@
         {
           "from": 4000,
           "to": 0,
-          "count": 1
+          "count": 2
         }
       ],
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 112,
-          "count": 40
+          "accumulated": 224,
+          "count": 80
         },
         {
           "rating": 0.5,
-          "accumulated": 72,
+          "accumulated": 144,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 72,
+          "accumulated": 144,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 72,
+          "accumulated": 144,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 72,
+          "accumulated": 144,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 72,
+          "accumulated": 144,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 72,
-          "count": 1
+          "accumulated": 144,
+          "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 71,
-          "count": 3
+          "accumulated": 142,
+          "count": 6
         },
         {
           "rating": 4,
-          "accumulated": 68,
-          "count": 13
+          "accumulated": 136,
+          "count": 26
         },
         {
           "rating": 4.5,
-          "accumulated": 55,
-          "count": 20
+          "accumulated": 110,
+          "count": 40
         },
         {
           "rating": 5,
-          "accumulated": 35,
-          "count": 35
+          "accumulated": 70,
+          "count": 70
         }
       ],
       "sizes": [
@@ -21685,7 +21685,7 @@
     ],
     "pagination": {
       "count": 112,
-      "total": 112,
+      "total": 224,
       "offset": 1000
     }
   }
