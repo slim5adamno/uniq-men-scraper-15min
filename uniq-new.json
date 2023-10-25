@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "Oxford Slim Fit Short Sleeve Shirt",
+  "price": 590,
+  "basePrice": 1990,
+  "discount": 70,
+  "link": "https://www.uniqlo.com/in/en/products/E455971-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "My Hero Academia UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
@@ -296,6 +312,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Broadcloth Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462375-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
