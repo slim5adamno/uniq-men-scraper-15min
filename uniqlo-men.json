@@ -627,16 +627,16 @@
             "name": "T-shirts"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
             "id": 26170,
             "name": "Dry Ex"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22405,
@@ -647,24 +647,24 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
             "id": 23627,
             "name": "Tops"
+          },
+          {
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 26172,
             "name": "Shorts"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 49380,
             "name": "Crew Neck"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 26177,
@@ -695,12 +695,12 @@
             "name": "Jeans"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
-          },
-          {
             "id": 49362,
             "name": "Slim Fit"
+          },
+          {
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 22417,
@@ -711,28 +711,28 @@
             "name": "Bottoms"
           },
           {
-            "id": 23630,
-            "name": "Innerwear"
-          },
-          {
             "id": 49343,
             "name": "Short Sleeve"
           },
           {
-            "id": 49344,
-            "name": "Long Sleeve"
+            "id": 23630,
+            "name": "Innerwear"
           },
           {
             "id": 22414,
             "name": "Shorts"
           },
           {
-            "id": 49404,
-            "name": "Short Sleeve T-shirt"
+            "id": 49344,
+            "name": "Long Sleeve"
           },
           {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 49404,
+            "name": "Short Sleeve T-shirt"
           },
           {
             "id": 49324,
@@ -787,10 +787,6 @@
             "name": "Fleece"
           },
           {
-            "id": 49398,
-            "name": "Sweat"
-          },
-          {
             "id": 12626,
             "name": "V Neck"
           },
@@ -799,12 +795,16 @@
             "name": "Pocketable Parkas"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
+            "id": 49398,
+            "name": "Sweat"
           },
           {
             "id": 33616,
             "name": "Shorts"
+          },
+          {
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 12628,
@@ -23521,6 +23521,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459693/sub/goods_459693_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459693/sub/goods_459693_sub13.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459693/sub/goods_459693_sub14.jpg"
