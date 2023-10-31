@@ -280,12 +280,12 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 76
+          "count": 77
         },
         {
           "from": 1000,
           "to": 2000,
-          "count": 28
+          "count": 27
         },
         {
           "from": 2000,
@@ -626,6 +626,10 @@
             "name": "T-shirts"
           },
           {
+            "id": 26170,
+            "name": "Dry Ex"
+          },
+          {
             "id": 22404,
             "name": "Polo Shirts"
           },
@@ -634,16 +638,12 @@
             "name": "Others"
           },
           {
-            "id": 26170,
-            "name": "Dry Ex"
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
-          },
-          {
-            "id": 22391,
-            "name": "Jackets"
           },
           {
             "id": 23627,
@@ -654,20 +654,24 @@
             "name": "Hoodies"
           },
           {
-            "id": 22412,
-            "name": "Trousers"
-          },
-          {
             "id": 26172,
             "name": "Shorts"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
+          },
+          {
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 22389,
             "name": "Coats"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 26177,
@@ -676,10 +680,6 @@
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
-          },
-          {
-            "id": 22410,
-            "name": "Casual Pants"
           },
           {
             "id": 22409,
@@ -730,12 +730,12 @@
             "name": "Shorts"
           },
           {
-            "id": 49404,
-            "name": "Short Sleeve T-shirt"
-          },
-          {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 49404,
+            "name": "Short Sleeve T-shirt"
           },
           {
             "id": 49324,
@@ -778,16 +778,16 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 12096,
-            "name": "Fleece"
-          },
-          {
             "id": 20095,
             "name": "Uniqlo U"
           },
           {
             "id": 12625,
             "name": "Crew Neck"
+          },
+          {
+            "id": 12096,
+            "name": "Fleece"
           },
           {
             "id": 12097,
@@ -886,12 +886,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 13115,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12507,
             "name": "Jersey"
+          },
+          {
+            "id": 13115,
+            "name": "Uniqlo U"
           },
           {
             "id": 12498,
@@ -7586,6 +7586,177 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Leather",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Men",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/item/goods_09_456815.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/item/goods_34_456815.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/item/goods_38_456815.jpg",
+              "colorCode": "38"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/chip/goods_09_456815_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/chip/goods_34_456815_chip.jpg",
+              "colorCode": "34"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/chip/goods_38_456815_chip.jpg",
+              "colorCode": "38"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/sub/goods_456815_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/sub/goods_456815_sub18.jpg"
+            }
+          ]
+        },
+        "l1Id": "459741",
+        "longDescription": "- Mesh belt woven from fine strips of leather. <br>- Distinctive hand-woven design. <br>- Special processing to loosen the fibers for a supple texture. <br>- A vintage look with a soft, well-worn feel. <br>- Vintage look for a casual style. <br>- Vintage-look buckle suits casual styles. <br>- Freely adjustable. <br>- Perfect for casual styling.",
+        "name": "Leather Mesh Belt",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "790.0000"
+          }
+        },
+        "productId": "E456815-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "displayOrder": 1,
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3,
+          "count": 3,
+          "fit": 2.6666666666666665,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 1,
+            "four": 0,
+            "five": 1
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "07653872",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 99,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Carefully selected materials and manufacturing process for an authentic finish. Special processing gives the material a supple texture and well-worn look.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/456815_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "-"
       },
       {
         "careInstruction": "<br>",
@@ -15080,177 +15251,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Leather",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/item/goods_09_456815.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/item/goods_34_456815.jpg",
-              "colorCode": "34"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/item/goods_38_456815.jpg",
-              "colorCode": "38"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/chip/goods_09_456815_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/chip/goods_34_456815_chip.jpg",
-              "colorCode": "34"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/chip/goods_38_456815_chip.jpg",
-              "colorCode": "38"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/sub/goods_456815_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456815/sub/goods_456815_sub18.jpg"
-            }
-          ]
-        },
-        "l1Id": "459741",
-        "longDescription": "- Mesh belt woven from fine strips of leather. <br>- Distinctive hand-woven design. <br>- Special processing to loosen the fibers for a supple texture. <br>- A vintage look with a soft, well-worn feel. <br>- Vintage look for a casual style. <br>- Vintage-look buckle suits casual styles. <br>- Freely adjustable. <br>- Perfect for casual styling.",
-        "name": "Leather Mesh Belt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
-          }
-        },
-        "productId": "E456815-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 3,
-          "count": 3,
-          "fit": 2.6666666666666665,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 1
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "07653872",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 99,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Carefully selected materials and manufacturing process for an authentic finish. Special processing gives the material a supple texture and well-worn look.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/456815_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "-"
       },
       {
         "careInstruction": "<br>",
