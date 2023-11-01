@@ -628,52 +628,52 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 22412,
-            "name": "Trousers"
-          },
-          {
-            "id": 22389,
-            "name": "Coats"
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 26172,
             "name": "Shorts"
           },
           {
-            "id": 26177,
-            "name": "Tank Tops"
+            "id": 22389,
+            "name": "Coats"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
+            "id": 22412,
+            "name": "Trousers"
+          },
+          {
+            "id": 26177,
+            "name": "Tank Tops"
           },
           {
             "id": 22410,
             "name": "Casual Pants"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 22423,
             "name": "Others"
           },
           {
-            "id": 31254,
-            "name": "Down Jackets & Coats"
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 49362,
             "name": "Slim Fit"
+          },
+          {
+            "id": 31254,
+            "name": "Down Jackets & Coats"
           },
           {
             "id": 22418,
@@ -708,12 +708,12 @@
             "name": "Short Sleeve T-shirt"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 41242,
             "name": "Joggers & Sweatpants"
+          },
+          {
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 49324,
@@ -772,16 +772,16 @@
             "name": "Fleece"
           },
           {
-            "id": 12097,
-            "name": "Pocketable Parkas"
+            "id": 12626,
+            "name": "V Neck"
           },
           {
             "id": 49398,
             "name": "Sweat"
           },
           {
-            "id": 12626,
-            "name": "V Neck"
+            "id": 12097,
+            "name": "Pocketable Parkas"
           },
           {
             "id": 12627,
@@ -796,12 +796,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 29256,
-            "name": "Mesh"
-          },
-          {
             "id": 12111,
             "name": "Extra Fine Cotton"
+          },
+          {
+            "id": 29256,
+            "name": "Mesh"
           },
           {
             "id": 13124,
