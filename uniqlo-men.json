@@ -14704,7 +14704,7 @@
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
-        "careInstruction": "-",
+        "careInstruction": "<br>",
         "colors": [
           {
             "code": "COL69",
@@ -14716,7 +14716,7 @@
             }
           }
         ],
-        "composition": "[00] 57% Cotton, 43% Nylon [09, 61, 69] 51% Cotton, 49% Nylon",
+        "composition": "436181: [00 WHITE] 57% Cotton, 43% Nylon [Other Colors] 51% Cotton, 49% Nylon<br>447607:457935: [00 WHITE] 57% Cotton, 43% Polyamide [Other Colors] 51% Cotton, 49% Polyamide",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
@@ -14907,7 +14907,7 @@
           }
         ],
         "unisexFlag": 0,
-        "washingInformation": "Machine wash cold"
+        "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
