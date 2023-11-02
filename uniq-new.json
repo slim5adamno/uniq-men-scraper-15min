@@ -1,20 +1,4 @@
 {
-  "name": "Dry V Neck Short Sleeve Colour T-Shirt",
-  "price": 390,
-  "basePrice": 690,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E427916-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Active Utility Shorts",
   "price": 590,
   "basePrice": 1990,
