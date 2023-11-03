@@ -656,36 +656,40 @@
             "name": "Tops"
           },
           {
-            "id": 26172,
-            "name": "Shorts"
+            "id": 49380,
+            "name": "Crew Neck"
           },
           {
             "id": 22412,
             "name": "Trousers"
           },
           {
-            "id": 49380,
-            "name": "Crew Neck"
-          },
-          {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
+            "id": 26172,
+            "name": "Shorts"
           },
           {
             "id": 22410,
             "name": "Casual Pants"
           },
           {
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
+          },
+          {
             "id": 26177,
             "name": "Tank Tops"
+          },
+          {
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 22423,
             "name": "Others"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
+            "id": 49362,
+            "name": "Slim Fit"
           },
           {
             "id": 31254,
@@ -694,10 +698,6 @@
           {
             "id": 22418,
             "name": "Inner Tops"
-          },
-          {
-            "id": 49362,
-            "name": "Slim Fit"
           },
           {
             "id": 23629,
@@ -716,12 +716,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 49344,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 22414,
             "name": "Shorts"
+          },
+          {
+            "id": 49344,
+            "name": "Long Sleeve"
           },
           {
             "id": 49404,
@@ -776,16 +776,20 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 20095,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12625,
             "name": "Crew Neck"
           },
           {
+            "id": 20095,
+            "name": "Uniqlo U"
+          },
+          {
             "id": 12096,
             "name": "Fleece"
+          },
+          {
+            "id": 12097,
+            "name": "Pocketable Parkas"
           },
           {
             "id": 49398,
@@ -794,10 +798,6 @@
           {
             "id": 12626,
             "name": "V Neck"
-          },
-          {
-            "id": 12097,
-            "name": "Pocketable Parkas"
           },
           {
             "id": 12627,
@@ -840,12 +840,12 @@
             "name": "Linen"
           },
           {
-            "id": 12634,
-            "name": "AIRism"
-          },
-          {
             "id": 49350,
             "name": "Oversized"
+          },
+          {
+            "id": 12634,
+            "name": "AIRism"
           },
           {
             "id": 12115,
@@ -19948,15 +19948,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
