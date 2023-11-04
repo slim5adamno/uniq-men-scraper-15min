@@ -1,20 +1,4 @@
 {
-  "name": "Dry V Neck Short Sleeve Colour T-Shirt",
-  "price": 390,
-  "basePrice": 690,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E427916-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Active Utility Shorts",
   "price": 590,
   "basePrice": 1990,
@@ -292,22 +276,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E445174-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Easy Care Striped Regular Fit Long Sleeve Shirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462271-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
