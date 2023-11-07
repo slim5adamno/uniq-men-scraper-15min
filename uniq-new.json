@@ -1,20 +1,4 @@
 {
-  "name": "AIRism Face Mask (Pack of 3)",
-  "price": 190,
-  "basePrice": 790,
-  "discount": 76,
-  "link": "https://www.uniqlo.com/in/en/products/E437779-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Active Utility Shorts",
   "price": 590,
   "basePrice": 1990,
@@ -324,22 +308,6 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E455966-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Twill Oversized Long Sleeve Shirt",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E465732-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
