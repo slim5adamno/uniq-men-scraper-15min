@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "HEATTECH Pile Lined Sweat Full-Zip Hoodie",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E451674-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Twill Oversized Long Sleeve Shirt",
   "price": 1990,
   "basePrice": 3990,
