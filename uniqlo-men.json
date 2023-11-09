@@ -593,12 +593,12 @@
         ],
         "subcategories": [
           {
-            "id": 26171,
-            "name": "Sweat"
-          },
-          {
             "id": 27341,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 26171,
+            "name": "Sweat"
           },
           {
             "id": 22402,
@@ -609,16 +609,16 @@
             "name": "Dry Stretch"
           },
           {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
             "id": 22393,
             "name": "Others"
+          },
+          {
+            "id": 26170,
+            "name": "Dry Ex"
           },
           {
             "id": 22405,
@@ -693,12 +693,12 @@
             "name": "Shorts"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 49404,
             "name": "Short Sleeve T-shirt"
+          },
+          {
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 26176,
@@ -721,20 +721,20 @@
             "name": "Ultra Light Down Jacket"
           },
           {
-            "id": 21287,
-            "name": "Ultra Light Down Vest"
-          },
-          {
             "id": 12586,
             "name": "Regular fit"
           },
           {
-            "id": 12589,
-            "name": "Tapered"
+            "id": 21287,
+            "name": "Ultra Light Down Vest"
           },
           {
             "id": 21286,
             "name": "Ultra Light Down Coat"
+          },
+          {
+            "id": 12589,
+            "name": "Tapered"
           },
           {
             "id": 21288,
@@ -749,12 +749,12 @@
             "name": "Hoodies"
           },
           {
-            "id": 11697,
-            "name": "Others"
-          },
-          {
             "id": 12479,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 11697,
+            "name": "Others"
           },
           {
             "id": 27572,
@@ -765,12 +765,12 @@
             "name": "Fleece"
           },
           {
-            "id": 12625,
-            "name": "Crew Neck"
-          },
-          {
             "id": 20095,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12625,
+            "name": "Crew Neck"
           },
           {
             "id": 12626,
@@ -781,12 +781,12 @@
             "name": "Pocketable Parkas"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
-          },
-          {
             "id": 19831,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 12100,
@@ -813,20 +813,20 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 12113,
-            "name": "Linen"
-          },
-          {
             "id": 12088,
             "name": "Ultra Light Down"
           },
           {
-            "id": 49350,
-            "name": "Oversized"
+            "id": 12113,
+            "name": "Linen"
           },
           {
             "id": 12634,
             "name": "AIRism"
+          },
+          {
+            "id": 49350,
+            "name": "Oversized"
           },
           {
             "id": 12115,
