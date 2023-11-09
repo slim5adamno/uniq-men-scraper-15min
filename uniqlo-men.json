@@ -609,16 +609,16 @@
             "name": "Dry Stretch"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 26170,
             "name": "Dry Ex"
           },
           {
             "id": 22404,
             "name": "Polo Shirts"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22405,
@@ -637,12 +637,12 @@
             "name": "Shorts"
           },
           {
-            "id": 26177,
-            "name": "Tank Tops"
-          },
-          {
             "id": 22410,
             "name": "Casual Pants"
+          },
+          {
+            "id": 26177,
+            "name": "Tank Tops"
           },
           {
             "id": 22401,
@@ -661,28 +661,28 @@
             "name": "Inner Tops"
           },
           {
-            "id": 49362,
-            "name": "Slim Fit"
-          },
-          {
             "id": 31254,
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 23629,
-            "name": "Bottoms"
+            "id": 49362,
+            "name": "Slim Fit"
           },
           {
             "id": 22417,
             "name": "AIRism"
           },
           {
-            "id": 23630,
-            "name": "Innerwear"
+            "id": 23629,
+            "name": "Bottoms"
           },
           {
             "id": 49343,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 23630,
+            "name": "Innerwear"
           },
           {
             "id": 49344,
@@ -693,12 +693,12 @@
             "name": "Shorts"
           },
           {
-            "id": 49404,
-            "name": "Short Sleeve T-shirt"
-          },
-          {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 49404,
+            "name": "Short Sleeve T-shirt"
           },
           {
             "id": 26176,
@@ -765,12 +765,12 @@
             "name": "Fleece"
           },
           {
-            "id": 20095,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12625,
             "name": "Crew Neck"
+          },
+          {
+            "id": 20095,
+            "name": "Uniqlo U"
           },
           {
             "id": 12626,
@@ -781,12 +781,12 @@
             "name": "Pocketable Parkas"
           },
           {
-            "id": 19831,
-            "name": "Sweat Pants"
-          },
-          {
             "id": 12627,
             "name": "AIRism"
+          },
+          {
+            "id": 19831,
+            "name": "Sweat Pants"
           },
           {
             "id": 12100,
@@ -821,12 +821,12 @@
             "name": "Ultra Light Down"
           },
           {
-            "id": 12634,
-            "name": "AIRism"
-          },
-          {
             "id": 49350,
             "name": "Oversized"
+          },
+          {
+            "id": 12634,
+            "name": "AIRism"
           },
           {
             "id": 12115,
@@ -861,10 +861,6 @@
             "name": "Pullover & Hoodie"
           },
           {
-            "id": 12072,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 12512,
             "name": "Long Sleeve T-Shirts"
           },
@@ -873,12 +869,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 12507,
-            "name": "Jersey"
+            "id": 12072,
+            "name": "Ultra Light Down"
           },
           {
-            "id": 13115,
-            "name": "Uniqlo U"
+            "id": 12507,
+            "name": "Jersey"
           },
           {
             "id": 12498,
@@ -887,6 +883,10 @@
           {
             "id": 13222,
             "name": "Short Sleeve T-Shirts"
+          },
+          {
+            "id": 13115,
+            "name": "Uniqlo U"
           },
           {
             "id": 49332,
