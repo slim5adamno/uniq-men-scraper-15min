@@ -597,12 +597,12 @@
         ],
         "subcategories": [
           {
-            "id": 27341,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 26171,
             "name": "Sweat"
+          },
+          {
+            "id": 27341,
+            "name": "Ultra Light Down"
           },
           {
             "id": 49402,
@@ -613,12 +613,12 @@
             "name": "T-shirts"
           },
           {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
             "id": 22393,
             "name": "Others"
+          },
+          {
+            "id": 26170,
+            "name": "Dry Ex"
           },
           {
             "id": 22404,
@@ -649,24 +649,24 @@
             "name": "Trousers"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22410,
             "name": "Casual Pants"
+          },
+          {
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 22408,
             "name": "Jeans"
           },
           {
-            "id": 31254,
-            "name": "Down Jackets & Coats"
-          },
-          {
             "id": 49362,
             "name": "Slim Fit"
+          },
+          {
+            "id": 31254,
+            "name": "Down Jackets & Coats"
           },
           {
             "id": 23629,
@@ -773,12 +773,12 @@
             "name": "V Neck"
           },
           {
-            "id": 12627,
-            "name": "AIRism"
-          },
-          {
             "id": 19831,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 12627,
+            "name": "AIRism"
           },
           {
             "id": 12100,
@@ -809,12 +809,12 @@
             "name": "Linen"
           },
           {
-            "id": 12634,
-            "name": "AIRism"
-          },
-          {
             "id": 49350,
             "name": "Oversized"
+          },
+          {
+            "id": 12634,
+            "name": "AIRism"
           },
           {
             "id": 12110,
@@ -857,12 +857,12 @@
             "name": "Smart"
           },
           {
-            "id": 12512,
-            "name": "Long Sleeve T-Shirts"
-          },
-          {
             "id": 12576,
             "name": "Slim Fit"
+          },
+          {
+            "id": 12512,
+            "name": "Long Sleeve T-Shirts"
           },
           {
             "id": 12501,
@@ -881,24 +881,24 @@
             "name": "DRY-EX"
           },
           {
-            "id": 13222,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 13115,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 13222,
+            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 49332,
             "name": "Ultra Light Down"
           },
           {
-            "id": 50369,
-            "name": "Smart"
-          },
-          {
             "id": 49333,
             "name": "Jacket"
+          },
+          {
+            "id": 50369,
+            "name": "Smart"
           },
           {
             "id": 12486,
