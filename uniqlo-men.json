@@ -255,7 +255,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 66
+          "count": 65
         },
         {
           "from": 1000,
@@ -281,53 +281,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 112,
+          "accumulated": 111,
           "count": 47
         },
         {
           "rating": 0.5,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 63,
+          "accumulated": 62,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 62,
+          "accumulated": 61,
           "count": 7
         },
         {
           "rating": 4.5,
-          "accumulated": 55,
-          "count": 13
+          "accumulated": 54,
+          "count": 12
         },
         {
           "rating": 5,
@@ -462,10 +462,6 @@
             "name": "SPORT UTILITY WEAR"
           },
           {
-            "id": 11679,
-            "name": "INNERWEAR"
-          },
-          {
             "id": 11680,
             "name": "LOUNGEWEAR"
           }
@@ -562,10 +558,6 @@
           {
             "id": 23472,
             "name": "Sport Utility Wear"
-          },
-          {
-            "id": 11723,
-            "name": "AIRism Innerwear"
           },
           {
             "id": 33610,
@@ -2299,314 +2291,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Body: 73% Cotton, 27% Polyester/ Rib: 65% Cotton, 35% Polyester",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_00_433037.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_06_433037.jpg",
-              "colorCode": "06"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_07_433037.jpg",
-              "colorCode": "07"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_08_433037.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_09_433037.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_11_433037.jpg",
-              "colorCode": "11"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_13_433037.jpg",
-              "colorCode": "13"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_27_433037.jpg",
-              "colorCode": "27"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_30_433037.jpg",
-              "colorCode": "30"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_31_433037.jpg",
-              "colorCode": "31"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_32_433037.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_52_433037.jpg",
-              "colorCode": "52"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_53_433037.jpg",
-              "colorCode": "53"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_54_433037.jpg",
-              "colorCode": "54"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_59_433037.jpg",
-              "colorCode": "59"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_63_433037.jpg",
-              "colorCode": "63"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_66_433037.jpg",
-              "colorCode": "66"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_67_433037.jpg",
-              "colorCode": "67"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_69_433037.jpg",
-              "colorCode": "69"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/item/goods_75_433037.jpg",
-              "colorCode": "75"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_00_433037_chip.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_06_433037_chip.jpg",
-              "colorCode": "06"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_07_433037_chip.jpg",
-              "colorCode": "07"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_08_433037_chip.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_09_433037_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_11_433037_chip.jpg",
-              "colorCode": "11"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_13_433037_chip.jpg",
-              "colorCode": "13"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_27_433037_chip.jpg",
-              "colorCode": "27"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_30_433037_chip.jpg",
-              "colorCode": "30"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_31_433037_chip.jpg",
-              "colorCode": "31"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_32_433037_chip.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_52_433037_chip.jpg",
-              "colorCode": "52"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_53_433037_chip.jpg",
-              "colorCode": "53"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_54_433037_chip.jpg",
-              "colorCode": "54"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_59_433037_chip.jpg",
-              "colorCode": "59"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_63_433037_chip.jpg",
-              "colorCode": "63"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_66_433037_chip.jpg",
-              "colorCode": "66"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_67_433037_chip.jpg",
-              "colorCode": "67"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_69_433037_chip.jpg",
-              "colorCode": "69"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/chip/goods_75_433037_chip.jpg",
-              "colorCode": "75"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/sub/goods_433037_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/sub/goods_433037_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/sub/goods_433037_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/sub/goods_433037_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/sub/goods_433037_sub23.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433037/sub/goods_433037_sub24.jpg"
-            }
-          ]
-        },
-        "l1Id": "455403",
-        "longDescription": "- Smooth 'AIRism' fabric with the look of cotton. <br>- High-performance fabric with Cool Touch function and UV protection. <br>- Moderately crisp feel and a sleek fit. <br>- Simple design and basic cut work with a wide variety of styles. <br>- Ribbed cuffs create a streamlined look and make the sleeves easy to roll up.",
-        "name": "AIRism Cotton UV Protection Crew Neck T-Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
-          }
-        },
-        "productId": "E433037-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.75,
-          "count": 24,
-          "fit": 3.125,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 21
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07083627",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 100,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Smooth 'AIRism' with the look of cotton. A high-performance T-shirt with added UV protection.UPF15.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/433037_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle"
       },
       {
         "careInstruction": "<br>",
@@ -8407,7 +8091,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -8618,7 +8302,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -12896,7 +12580,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -13064,7 +12748,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 100,
           "count": 0,
           "items": []
         },
@@ -15580,7 +15264,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -15789,7 +15473,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -16010,7 +15694,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -16218,7 +15902,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -16444,7 +16128,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -16650,7 +16334,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -16850,7 +16534,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -17042,7 +16726,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -22348,8 +22032,8 @@
       }
     ],
     "pagination": {
-      "count": 112,
-      "total": 112,
+      "count": 111,
+      "total": 111,
       "offset": 1000
     }
   }
