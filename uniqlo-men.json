@@ -265,7 +265,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 6
+          "count": 5
         },
         {
           "from": 3000,
@@ -281,58 +281,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 112,
+          "accumulated": 111,
           "count": 47
         },
         {
           "rating": 0.5,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 65,
+          "accumulated": 64,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 63,
+          "accumulated": 62,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 62,
+          "accumulated": 61,
           "count": 9
         },
         {
           "rating": 4.5,
-          "accumulated": 53,
+          "accumulated": 52,
           "count": 11
         },
         {
           "rating": 5,
-          "accumulated": 42,
-          "count": 42
+          "accumulated": 41,
+          "count": 41
         }
       ],
       "sizes": [
@@ -730,6 +730,10 @@
             "name": "Others"
           },
           {
+            "id": 23567,
+            "name": "Wide"
+          },
+          {
             "id": 27572,
             "name": "UNIQLO and JW ANDERSON"
           },
@@ -876,10 +880,6 @@
           {
             "id": 14070,
             "name": "UNIQLO and JW ANDERSON"
-          },
-          {
-            "id": 50375,
-            "name": "Others"
           },
           {
             "id": 12489,
@@ -21896,8 +21896,8 @@
     ],
     "pagination": {
       "count": 111,
-      "total": 112,
-      "offset": 1001
+      "total": 111,
+      "offset": 1000
     }
   }
 }
