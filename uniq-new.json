@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "AIRism Anti Odor Mesh Crew Neck Short Sleeve T-Shirt",
+  "price": 390,
+  "basePrice": 990,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E454317-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Active Utility Shorts",
   "price": 590,
   "basePrice": 1990,
