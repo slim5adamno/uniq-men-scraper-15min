@@ -545,12 +545,12 @@
         ],
         "subcategories": [
           {
-            "id": 27341,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 26171,
             "name": "Sweat"
+          },
+          {
+            "id": 27341,
+            "name": "Ultra Light Down"
           },
           {
             "id": 22402,
@@ -561,16 +561,16 @@
             "name": "Dry Stretch"
           },
           {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
             "id": 22393,
             "name": "Others"
+          },
+          {
+            "id": 26170,
+            "name": "Dry Ex"
           },
           {
             "id": 22391,
@@ -593,16 +593,16 @@
             "name": "Hoodies"
           },
           {
+            "id": 26172,
+            "name": "Shorts"
+          },
+          {
             "id": 22389,
             "name": "Coats"
           },
           {
             "id": 22412,
             "name": "Trousers"
-          },
-          {
-            "id": 26172,
-            "name": "Shorts"
           },
           {
             "id": 22410,
@@ -621,12 +621,12 @@
             "name": "Jeans"
           },
           {
-            "id": 49362,
-            "name": "Slim Fit"
-          },
-          {
             "id": 31254,
             "name": "Down Jackets & Coats"
+          },
+          {
+            "id": 49362,
+            "name": "Slim Fit"
           },
           {
             "id": 23629,
@@ -637,12 +637,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 49344,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 22414,
             "name": "Shorts"
+          },
+          {
+            "id": 49344,
+            "name": "Long Sleeve"
           },
           {
             "id": 22403,
@@ -753,12 +753,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 19831,
-            "name": "Sweat Pants"
-          },
-          {
             "id": 23570,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 19831,
+            "name": "Sweat Pants"
           },
           {
             "id": 20094,
