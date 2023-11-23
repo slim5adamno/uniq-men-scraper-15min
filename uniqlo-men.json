@@ -19002,9 +19002,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -19029,7 +19029,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07764330",
+          "l2Id": "07836312",
           "salesStartDate": "",
           "salesEndDate": ""
         },
