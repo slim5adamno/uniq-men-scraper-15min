@@ -223,22 +223,6 @@
   }
 }
 {
-  "name": "Wide Fit Chino Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462842-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Twill Oversized Long Sleeve Shirt",
   "price": 1990,
   "basePrice": 3990,
