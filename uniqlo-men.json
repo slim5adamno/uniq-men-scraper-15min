@@ -557,16 +557,16 @@
         ],
         "subcategories": [
           {
+            "id": 27341,
+            "name": "Ultra Light Down"
+          },
+          {
             "id": 27571,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 26171,
             "name": "Sweat"
-          },
-          {
-            "id": 27341,
-            "name": "Ultra Light Down"
           },
           {
             "id": 22402,
@@ -581,20 +581,20 @@
             "name": "Others"
           },
           {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
             "id": 22404,
             "name": "Polo Shirts"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
+            "id": 26170,
+            "name": "Dry Ex"
           },
           {
             "id": 22391,
             "name": "Jackets"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22411,
@@ -613,12 +613,12 @@
             "name": "Coats"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22410,
             "name": "Casual Pants"
+          },
+          {
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 22409,
@@ -657,12 +657,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 49404,
-            "name": "Short Sleeve T-shirt"
-          },
-          {
             "id": 22403,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 49404,
+            "name": "Short Sleeve T-shirt"
           },
           {
             "id": 41242,
@@ -713,12 +713,12 @@
             "name": "Regular Warm"
           },
           {
-            "id": 12107,
-            "name": "Lambswool"
-          },
-          {
             "id": 49398,
             "name": "Sweat"
+          },
+          {
+            "id": 12107,
+            "name": "Lambswool"
           },
           {
             "id": 12625,
@@ -733,12 +733,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 20395,
-            "name": "UNIQLO and White Mountaineering"
-          },
-          {
             "id": 12108,
             "name": "Cardigans"
+          },
+          {
+            "id": 20395,
+            "name": "UNIQLO and White Mountaineering"
           },
           {
             "id": 13126,
@@ -869,12 +869,12 @@
             "name": "Jacket"
           },
           {
-            "id": 12572,
-            "name": "Smart"
-          },
-          {
             "id": 12487,
             "name": "DRY-EX"
+          },
+          {
+            "id": 12572,
+            "name": "Smart"
           },
           {
             "id": 14070,
