@@ -79,6 +79,22 @@
   }
 }
 {
+  "name": "Regular Fit Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450244-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Brushed Jersey Pants",
   "price": 1990,
   "basePrice": 3990,
