@@ -1,9 +1,9 @@
 {
-  "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "name": "AIRism Anti Odor Mesh V Neck T-Shirt",
+  "price": 390,
+  "basePrice": 990,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E456549-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -15,15 +15,15 @@
   }
 }
 {
-  "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
+  "name": "AIRism Short Sleeve Polo Shirt",
   "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E458186-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -84,6 +84,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E461529-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Linen Cotton Stand Collar Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E455966-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
