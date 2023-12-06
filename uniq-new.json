@@ -1,4 +1,36 @@
 {
+  "name": "AIRism Anti Odor Mesh V Neck T-Shirt",
+  "price": 390,
+  "basePrice": 990,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E456549-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E458186-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Fine Cotton Short Sleeve Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -107,22 +139,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Twill Oversized Long Sleeve Shirt",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462141-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
