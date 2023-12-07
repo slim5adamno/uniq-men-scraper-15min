@@ -696,6 +696,10 @@
         ],
         "subcategories": [
           {
+            "id": 22431,
+            "name": "Bags"
+          },
+          {
             "id": 49366,
             "name": "HEATTECH"
           },
@@ -704,20 +708,16 @@
             "name": "Ultra Light Down"
           },
           {
-            "id": 22431,
-            "name": "Bags"
-          },
-          {
             "id": 27571,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 49545,
-            "name": "Warm Pants"
-          },
-          {
             "id": 49410,
             "name": "HEATTECH"
+          },
+          {
+            "id": 49545,
+            "name": "Warm Pants"
           },
           {
             "id": 49394,
@@ -740,10 +740,6 @@
             "name": "Hoodies"
           },
           {
-            "id": 22412,
-            "name": "Trousers"
-          },
-          {
             "id": 22389,
             "name": "Coats"
           },
@@ -756,12 +752,16 @@
             "name": "Crew Neck"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
+          },
+          {
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 22409,
@@ -776,12 +776,12 @@
             "name": "Inner Tops"
           },
           {
-            "id": 31254,
-            "name": "Down Jackets & Coats"
-          },
-          {
             "id": 49362,
             "name": "Slim Fit"
+          },
+          {
+            "id": 31254,
+            "name": "Down Jackets & Coats"
           },
           {
             "id": 23629,
@@ -832,12 +832,12 @@
             "name": "Others"
           },
           {
-            "id": 12636,
-            "name": "Regular Warm"
-          },
-          {
             "id": 23605,
             "name": "Shoulder Bags"
+          },
+          {
+            "id": 12636,
+            "name": "Regular Warm"
           },
           {
             "id": 49359,
@@ -868,12 +868,12 @@
             "name": "Souffle Yarn"
           },
           {
-            "id": 12107,
-            "name": "Lambswool"
-          },
-          {
             "id": 11697,
             "name": "Others"
+          },
+          {
+            "id": 12107,
+            "name": "Lambswool"
           },
           {
             "id": 12106,
@@ -896,12 +896,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 13126,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 12100,
             "name": "UV Protection"
+          },
+          {
+            "id": 13126,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 12095,
@@ -1028,12 +1028,12 @@
             "name": "Others"
           },
           {
-            "id": 54163,
-            "name": "Attack On Titan"
-          },
-          {
             "id": 50373,
             "name": "Warm Lined"
+          },
+          {
+            "id": 54163,
+            "name": "Attack On Titan"
           },
           {
             "id": 50270,
