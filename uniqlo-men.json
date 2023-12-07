@@ -700,16 +700,16 @@
             "name": "Bags"
           },
           {
+            "id": 49366,
+            "name": "HEATTECH"
+          },
+          {
             "id": 27571,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 27341,
             "name": "Ultra Light Down"
-          },
-          {
-            "id": 49366,
-            "name": "HEATTECH"
           },
           {
             "id": 49410,
@@ -740,16 +740,16 @@
             "name": "Hoodies"
           },
           {
-            "id": 22412,
-            "name": "Trousers"
-          },
-          {
             "id": 22389,
             "name": "Coats"
           },
           {
             "id": 26172,
             "name": "Shorts"
+          },
+          {
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 49380,
@@ -776,12 +776,12 @@
             "name": "Slim Fit"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
-          },
-          {
             "id": 31254,
             "name": "Down Jackets & Coats"
+          },
+          {
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 23629,
@@ -832,16 +832,16 @@
             "name": "Others"
           },
           {
+            "id": 49359,
+            "name": "Pullover & Hoodie"
+          },
+          {
             "id": 23605,
             "name": "Shoulder Bags"
           },
           {
             "id": 12636,
             "name": "Regular Warm"
-          },
-          {
-            "id": 49359,
-            "name": "Pullover & Hoodie"
           },
           {
             "id": 49386,
@@ -856,6 +856,10 @@
             "name": "Warm Padded"
           },
           {
+            "id": 12105,
+            "name": "Merino"
+          },
+          {
             "id": 11699,
             "name": "Others"
           },
@@ -864,16 +868,16 @@
             "name": "Souffle Yarn"
           },
           {
+            "id": 12107,
+            "name": "Lambswool"
+          },
+          {
             "id": 11697,
             "name": "Others"
           },
           {
-            "id": 12105,
-            "name": "Merino"
-          },
-          {
-            "id": 12107,
-            "name": "Lambswool"
+            "id": 12106,
+            "name": "Cashmere"
           },
           {
             "id": 49390,
@@ -884,10 +888,6 @@
             "name": "Crew Neck"
           },
           {
-            "id": 12106,
-            "name": "Cashmere"
-          },
-          {
             "id": 12097,
             "name": "Pocketable Parkas"
           },
@@ -896,12 +896,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 12100,
-            "name": "UV Protection"
-          },
-          {
             "id": 13126,
             "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 12100,
+            "name": "UV Protection"
           },
           {
             "id": 12095,
@@ -928,12 +928,12 @@
             "name": "Denim"
           },
           {
-            "id": 20095,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 23569,
             "name": "Shorts"
+          },
+          {
+            "id": 20095,
+            "name": "Uniqlo U"
           },
           {
             "id": 20094,
@@ -22889,15 +22889,6 @@
             "code": "CMD073",
             "displayCode": "073",
             "name": "73cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD076",
-            "displayCode": "076",
-            "name": "76cm",
             "display": {
               "showFlag": true,
               "chipType": 1
