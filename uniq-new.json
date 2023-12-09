@@ -1,20 +1,4 @@
 {
-  "name": "AIRism Anti Odor Mesh V Neck T-Shirt",
-  "price": 390,
-  "basePrice": 990,
-  "discount": 61,
-  "link": "https://www.uniqlo.com/in/en/products/E456549-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Broadcloth Oversized Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
