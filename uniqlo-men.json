@@ -20420,9 +20420,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20437,10 +20437,17 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07763910",
+          "l2Id": "07763934",
           "salesStartDate": "",
           "salesEndDate": ""
         },
