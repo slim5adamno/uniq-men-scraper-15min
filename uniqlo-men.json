@@ -20295,6 +20295,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "Body: 90% Cotton, 10% Polyester/ Rib: 86% Cotton, 14% Polyester/ Pocket Lining: Outer Layer: 100% Cotton/ Inner Layer: 90% Cotton, 10% Polyester/ Tape: 100% Polyester",
