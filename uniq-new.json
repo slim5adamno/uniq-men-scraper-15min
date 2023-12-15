@@ -1,13 +1,13 @@
 {
-  "name": "Dry V Neck Short Sleeve Colour T-Shirt",
+  "name": "AIRism Anti Odor Mesh V Neck T-Shirt",
   "price": 390,
-  "basePrice": 690,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E427916-000",
+  "basePrice": 990,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E456549-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -15,11 +15,11 @@
   }
 }
 {
-  "name": "AIRism Anti Odor Mesh V Neck T-Shirt",
-  "price": 390,
-  "basePrice": 990,
-  "discount": 61,
-  "link": "https://www.uniqlo.com/in/en/products/E456549-000",
+  "name": "AIRism Pique Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E457937-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
