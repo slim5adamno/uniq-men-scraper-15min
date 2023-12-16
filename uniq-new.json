@@ -35,22 +35,6 @@
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462057-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Rugger Long Sleeve Polo Shirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E462024-000",
   "sizes": {
     "code": "SMA003",
