@@ -19268,9 +19268,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -19301,7 +19301,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07789317",
+          "l2Id": "07789293",
           "salesStartDate": "",
           "salesEndDate": ""
         },
