@@ -79,6 +79,22 @@
   }
 }
 {
+  "name": "Premium Lambswool Long Sleeve Crew Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E465889-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Wide Fit Chino Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -152,6 +168,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Padded Single Breasted Coat",
+  "price": 6990,
+  "basePrice": 12900,
+  "discount": 46,
+  "link": "https://www.uniqlo.com/in/en/products/E462853-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
