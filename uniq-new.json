@@ -191,22 +191,6 @@
   }
 }
 {
-  "name": "Sweat Long Sleeve Shirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E466847-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Wide Fit Chino Trousers",
   "price": 1490,
   "basePrice": 3990,
@@ -308,38 +292,6 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E461040-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Premium Lambswool Long Sleeve Crew Neck Sweater",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E465889-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fleece Full-Zip Long Sleeve Hoodie",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E463350-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -523,6 +475,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Mock Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461070-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
