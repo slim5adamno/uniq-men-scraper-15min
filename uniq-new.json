@@ -590,19 +590,3 @@
     }
   }
 }
-{
-  "name": "Padded Single Breasted Coat",
-  "price": 5990,
-  "basePrice": 12900,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E462853-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
