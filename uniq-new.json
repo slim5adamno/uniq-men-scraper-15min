@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "AIRism Front Open Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E457834-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Italian Leather Smooth Stitched Belt",
   "price": 990,
   "basePrice": 1990,
@@ -596,22 +580,6 @@
   "basePrice": 6990,
   "discount": 57,
   "link": "https://www.uniqlo.com/in/en/products/E453055-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Reversible Stand Jacket",
-  "price": 3990,
-  "basePrice": 7990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462770-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
