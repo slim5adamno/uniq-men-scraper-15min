@@ -319,6 +319,22 @@
   }
 }
 {
+  "name": "Fleece Full-Zip Long Sleeve Hoodie",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463350-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fleece Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -491,22 +507,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Souffle Yarn Mock Neck Sweater",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E461070-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
