@@ -17934,19 +17934,13 @@
         "longDescription": "- 'HEATTECH Extra Warm' is 1.5 times warmer than our regular 'HEATTECH'. *Based on CLO values, which indicate the thermal insulation of clothing. Comparison with standard 'HEATTECH'. <br>- 100% SUPIMA® cotton lining is gentle on the skin. *The outer material is made with standard cotton, acrylic, and other textiles. <br>- With Heat of Absorption, HEAT RETENTION, deodorizing, moisture-wicking, soft texture, and shape-retaining features. <br>- Ultra Stretch for freedom of movement and easy layering. <br>- Cozy brushed fabric. <br>- Versatile crew neck design. <br>- Stays hidden under outer layers.",
         "name": "HEATTECH Cotton Thermal Crew Neck T-Shirt (Extra Warm)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E450529-000",
@@ -17981,27 +17975,27 @@
         },
         "representative": {
           "color": {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
+            "priceFlags": [],
+            "productFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
               }
-            ],
-            "productFlags": []
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07666203",
+          "l2Id": "07020660",
           "salesStartDate": "",
           "salesEndDate": ""
         },
