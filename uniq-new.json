@@ -1,4 +1,84 @@
 {
+  "name": "AIRism Mesh Tank Top",
+  "price": 100,
+  "basePrice": 990,
+  "discount": 90,
+  "link": "https://www.uniqlo.com/in/en/products/E449237-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dragon Ball UT (Short Sleeve Graphic T-Shirt)",
+  "price": 390,
+  "basePrice": 1490,
+  "discount": 74,
+  "link": "https://www.uniqlo.com/in/en/products/E463104-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Cotton Set (Short Sleeve)",
+  "price": 390,
+  "basePrice": 1990,
+  "discount": 80,
+  "link": "https://www.uniqlo.com/in/en/products/E446928-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Supima Cotton Crew Neck Short Sleeve T-Shirt",
+  "price": 390,
+  "basePrice": 990,
+  "discount": 61,
+  "link": "https://www.uniqlo.com/in/en/products/E422990-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Pique Short Sleeve Polo Shirt",
+  "price": 790,
+  "basePrice": 1990,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E436181-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Cotton Turtleneck T (Extra Warm)",
   "price": 990,
   "basePrice": 1990,
