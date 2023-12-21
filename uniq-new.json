@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "AIRism Cotton Set (Short Sleeve)",
-  "price": 390,
-  "basePrice": 1990,
-  "discount": 80,
-  "link": "https://www.uniqlo.com/in/en/products/E446928-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Supima Cotton Crew Neck Short Sleeve T-Shirt",
   "price": 390,
   "basePrice": 990,
@@ -287,22 +271,6 @@
   }
 }
 {
-  "name": "Fleece Full-Zip Long Sleeve Hoodie",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E463350-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Fleece Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -516,22 +484,6 @@
   "basePrice": 6990,
   "discount": 57,
   "link": "https://www.uniqlo.com/in/en/products/E453055-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Padded Single Breasted Coat",
-  "price": 5990,
-  "basePrice": 12900,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E462853-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
