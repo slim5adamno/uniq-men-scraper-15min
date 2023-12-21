@@ -15,11 +15,11 @@
   }
 }
 {
-  "name": "Dragon Ball UT (Short Sleeve Graphic T-Shirt)",
-  "price": 390,
-  "basePrice": 1490,
-  "discount": 74,
-  "link": "https://www.uniqlo.com/in/en/products/E463104-000",
+  "name": "DRY-EX Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E465862-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -228,6 +228,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E461040-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Fleece Jersey Trousers",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E464300-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
