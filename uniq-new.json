@@ -1,20 +1,4 @@
 {
-  "name": "AIRism Mesh Tank Top",
-  "price": 100,
-  "basePrice": 990,
-  "discount": 90,
-  "link": "https://www.uniqlo.com/in/en/products/E449237-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "DRY-EX Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 2490,
@@ -363,22 +347,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Brushed Jersey Pants",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E461548-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
