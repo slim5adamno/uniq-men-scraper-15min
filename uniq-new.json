@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "Supima Cotton Crew Neck Short Sleeve T-Shirt",
-  "price": 390,
-  "basePrice": 990,
-  "discount": 61,
-  "link": "https://www.uniqlo.com/in/en/products/E422990-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "AIRism Pique Short Sleeve Polo Shirt",
   "price": 790,
   "basePrice": 1990,
@@ -260,6 +244,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E461040-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Fleece Full-Zip Long Sleeve Hoodie",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463350-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
