@@ -526,19 +526,3 @@
     }
   }
 }
-{
-  "name": "Reversible Stand Jacket",
-  "price": 3990,
-  "basePrice": 7990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462770-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
