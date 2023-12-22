@@ -2804,8 +2804,7 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display",
-              "sale"
+              "display"
             ],
             "display": {
               "showFlag": false,
@@ -2844,7 +2843,14 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available early Jan"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "07059423",
@@ -5148,9 +5154,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL41",
+            "displayCode": "41",
+            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5175,7 +5181,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07334312",
+          "l2Id": "07334375",
           "salesStartDate": "",
           "salesEndDate": ""
         },
