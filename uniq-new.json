@@ -255,22 +255,6 @@
   }
 }
 {
-  "name": "Fleece Pullover Long Sleeve Hoodie",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462935-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Wide Fit Chino Trousers",
   "price": 1990,
   "basePrice": 3990,
