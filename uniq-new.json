@@ -179,6 +179,22 @@
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E466007-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E462143-000",
   "sizes": {
     "code": "SMA003",
@@ -223,6 +239,22 @@
   }
 }
 {
+  "name": "Premium Lambswool Long Sleeve Crew Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E465889-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fleece Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -315,6 +347,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Twill Oversized Long Sleeve Shirt",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462141-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
@@ -395,6 +443,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Recycled Down Jacket",
+  "price": 2990,
+  "basePrice": 6990,
+  "discount": 57,
+  "link": "https://www.uniqlo.com/in/en/products/E453055-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
