@@ -63,6 +63,22 @@
   }
 }
 {
+  "name": "Italian Leather Smooth Stitched Belt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463628-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Cotton Turtleneck T (Extra Warm)",
   "price": 990,
   "basePrice": 1990,
@@ -255,6 +271,54 @@
   }
 }
 {
+  "name": "Premium Lambswool Long Sleeve Crew Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E465889-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Fleece Full-Zip Long Sleeve Hoodie",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463350-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Fleece Full-Zip Long Sleeve Hoodie",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463350-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fleece Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -328,22 +392,6 @@
     "code": "CMD073",
     "displayCode": "073",
     "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "HEATTECH Smart Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462551-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
     "display": {
       "showFlag": true,
       "chipType": 1
@@ -367,6 +415,38 @@
   }
 }
 {
+  "name": "Brushed Jersey Pants",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461548-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Mock Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461070-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Souffle Yarn Cable Long Sleeve Crew Neck Sweater",
   "price": 1990,
   "basePrice": 3990,
@@ -427,6 +507,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Relaxed Fit Jeans",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E459693-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
