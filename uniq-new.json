@@ -239,6 +239,38 @@
   }
 }
 {
+  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
+  "price": 990,
+  "basePrice": 3490,
+  "discount": 72,
+  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
+  "price": 990,
+  "basePrice": 3490,
+  "discount": 72,
+  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Checked Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
