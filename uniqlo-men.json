@@ -10270,14 +10270,14 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3490.0000"
+            "value": "3990.0000"
           },
           "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "990.0000"
+            "value": "2990.0000"
           }
         },
         "productId": "E450542-000",
@@ -10339,7 +10339,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06981819",
+          "l2Id": "07630708",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11283,9 +11283,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11310,7 +11310,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07789843",
+          "l2Id": "07789877",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15749,9 +15749,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL06",
-            "displayCode": "06",
-            "name": "GRAY",
+            "code": "COL35",
+            "displayCode": "35",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15776,7 +15776,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07836312",
+          "l2Id": "07764330",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20457,8 +20457,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL66",
-            "displayCode": "66",
+            "code": "COL64",
+            "displayCode": "64",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -20477,7 +20477,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07702233",
+          "l2Id": "07685592",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -22960,7 +22960,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3990.0000"
+            "value": "9990.0000"
           }
         },
         "productId": "E450543-000",
@@ -23011,7 +23011,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07064355",
+          "l2Id": "07630780",
           "salesStartDate": "",
           "salesEndDate": ""
         },
