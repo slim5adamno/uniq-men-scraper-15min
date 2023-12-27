@@ -495,6 +495,22 @@
   }
 }
 {
+  "name": "HEATTECH Smart Pants",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461590-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Brushed Jersey Pants",
   "price": 1990,
   "basePrice": 3990,
