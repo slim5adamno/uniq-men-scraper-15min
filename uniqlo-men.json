@@ -282,7 +282,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 46
+          "count": 45
         },
         {
           "from": 1000,
@@ -308,58 +308,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 111,
+          "accumulated": 110,
           "count": 32
         },
         {
           "rating": 0.5,
-          "accumulated": 79,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 79,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 79,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 79,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 79,
+          "accumulated": 78,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 79,
+          "accumulated": 78,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 73,
+          "accumulated": 72,
           "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 63,
+          "accumulated": 62,
           "count": 22
         },
         {
           "rating": 5,
-          "accumulated": 41,
-          "count": 41
+          "accumulated": 40,
+          "count": 40
         }
       ],
       "sizes": [
@@ -923,6 +923,10 @@
             "name": "Oversized"
           },
           {
+            "id": 12597,
+            "name": "Chino"
+          },
+          {
             "id": 12604,
             "name": "Wide Fit"
           },
@@ -1037,10 +1041,6 @@
           {
             "id": 42944,
             "name": "Attack on titan"
-          },
-          {
-            "id": 40106,
-            "name": "UT ARCHIVE ONEPIECE / NARUTO"
           },
           {
             "id": 12616,
@@ -23627,8 +23627,8 @@
     ],
     "pagination": {
       "count": 110,
-      "total": 111,
-      "offset": 1001
+      "total": 110,
+      "offset": 1000
     }
   }
 }
