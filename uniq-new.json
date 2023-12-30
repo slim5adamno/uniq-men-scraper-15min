@@ -367,22 +367,6 @@
   }
 }
 {
-  "name": "HEATTECH Smart Pants",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E461589-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Souffle Yarn Cable Long Sleeve Crew Neck Sweater",
   "price": 1990,
   "basePrice": 3990,
