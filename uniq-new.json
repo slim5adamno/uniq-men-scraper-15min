@@ -271,6 +271,22 @@
   }
 }
 {
+  "name": "Wide Fit Chino Trousers",
+  "price": 1490,
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E462931-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Flannel Checked Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -351,6 +367,22 @@
   }
 }
 {
+  "name": "Fleece Jersey Trousers",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E464300-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fleece Trousers",
   "price": 1990,
   "basePrice": 3990,
@@ -363,6 +395,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "HEATTECH Smart Trousers",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462551-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
@@ -452,6 +500,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460148-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Recycled Down Jacket",
+  "price": 2990,
+  "basePrice": 6990,
+  "discount": 57,
+  "link": "https://www.uniqlo.com/in/en/products/E453055-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
