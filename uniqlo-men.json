@@ -277,7 +277,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 40
+          "count": 39
         },
         {
           "from": 1000,
@@ -303,53 +303,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 101,
+          "accumulated": 100,
           "count": 28
         },
         {
           "rating": 0.5,
-          "accumulated": 73,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 73,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 73,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 73,
+          "accumulated": 72,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 72,
+          "accumulated": 71,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 72,
+          "accumulated": 71,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 70,
+          "accumulated": 69,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 67,
+          "accumulated": 66,
           "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 57,
-          "count": 18
+          "accumulated": 56,
+          "count": 17
         },
         {
           "rating": 5,
@@ -942,6 +942,10 @@
             "name": "HEATTECH Socks"
           },
           {
+            "id": 12661,
+            "name": "Half"
+          },
+          {
             "id": 12512,
             "name": "Long Sleeve T-Shirts"
           },
@@ -1024,10 +1028,6 @@
           {
             "id": 48223,
             "name": "L.A. EATS"
-          },
-          {
-            "id": 30174,
-            "name": "Ukiyo-e"
           },
           {
             "id": 43768,
@@ -3222,45 +3222,9 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
-          "count": 2,
-          "items": [
-            {
-              "id": "1148352300",
-              "ageRange": 11,
-              "gender": {
-                "code": 0,
-                "name": "Male"
-              },
-              "comment": "Superb quality,style,fitness esp for plus size ,usually buying plus size online is always a disappointment . Tried uniqlo for the first time for my husband….and am really happy for the choices,colour range and esp fitness.thanks once again Uniqlo.",
-              "createDate": 1697884974,
-              "fit": 3,
-              "location": "Rajasthan",
-              "rate": 5,
-              "title": "Awesome",
-              "name": "Susha",
-              "heightRange": "181 - 185cm",
-              "weightRange": "91kg or over",
-              "shoeSize": "EU40",
-              "purchasedSize": "3XL"
-            },
-            {
-              "id": "1146092839",
-              "ageRange": null,
-              "gender": {
-                "code": 0,
-                "name": "Male"
-              },
-              "comment": "Looks great and feels great. The fit is perfect.  We tried several tshirt brands and finally found this one with a great.",
-              "createDate": 1694523911,
-              "fit": 3,
-              "location": "Chandigarh",
-              "rate": 5,
-              "title": "Looks great and feels great. The fit is perfect.",
-              "name": "Balli",
-              "purchasedSize": "M"
-            }
-          ]
+          "total": 98,
+          "count": 0,
+          "items": []
         },
         "shortDescription": "Ukiyo-e UTs with classic designs by Hokusai, Hiroshige, and Kuniyoshi are back.",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/452670_size.html",
@@ -3498,179 +3462,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Do not wash, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452671/item/goods_66_452671.jpg",
-              "colorCode": "66"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452671/chip/goods_66_452671_chip.jpg",
-              "colorCode": "66"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452671/sub/goods_452671_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452671/sub/goods_452671_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452671/sub/goods_452671_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452671/sub/ingoods_452671_sub26.jpg"
-            }
-          ]
-        },
-        "l1Id": "459321",
-        "longDescription": "Ukiyo-e<br><br>We are proud to present a distinctive collection that brings the vibrant tones and bold lines of Ukiyo-e prints to everyday wear.  Don’t miss this opportunity to sport iconic Ukiyo-e works from Hokusai, Hiroshige, and Kuniyoshi, three of Japan’s greatest Ukiyo-e masters.",
-        "name": "Ukiyoe Archive UT (Short Sleeve Graphic T-Shirt)",
-        "prices": {
-          "promo": null,
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E452671-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3.4,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07511273",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 98,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Ukiyo-e UTs with classic designs by Hokusai, Hiroshige, and Kuniyoshi are back.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/452671_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold"
       },
       {
         "careInstruction": "<br>",
@@ -21460,8 +21251,8 @@
       }
     ],
     "pagination": {
-      "count": 101,
-      "total": 101,
+      "count": 100,
+      "total": 100,
       "offset": 1000
     }
   }
