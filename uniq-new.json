@@ -478,19 +478,3 @@
     }
   }
 }
-{
-  "name": "Recycled Down Jacket",
-  "price": 2990,
-  "basePrice": 6990,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E453055-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
