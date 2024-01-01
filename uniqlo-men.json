@@ -364,11 +364,6 @@
           "name": "82cm"
         },
         {
-          "code": "CMD085",
-          "displayCode": "085",
-          "name": "85cm"
-        },
-        {
           "code": "CMD095",
           "displayCode": "095",
           "name": "95cm"
@@ -13142,15 +13137,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -13312,15 +13298,6 @@
             "code": "CMD073",
             "displayCode": "073",
             "name": "73cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD085",
-            "displayCode": "085",
-            "name": "85cm",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -19911,15 +19888,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
