@@ -435,22 +435,6 @@
   "price": 1990,
   "basePrice": 3990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E460270-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460269-000",
   "sizes": {
     "code": "SMA003",
