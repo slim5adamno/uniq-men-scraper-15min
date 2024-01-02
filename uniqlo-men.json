@@ -670,20 +670,16 @@
             "name": "Flannel"
           },
           {
+            "id": 27341,
+            "name": "Ultra Light Down"
+          },
+          {
             "id": 49366,
             "name": "HEATTECH"
           },
           {
             "id": 27571,
             "name": "UNIQLO and JW ANDERSON"
-          },
-          {
-            "id": 27341,
-            "name": "Ultra Light Down"
-          },
-          {
-            "id": 49545,
-            "name": "Warm Pants"
           },
           {
             "id": 49410,
@@ -694,8 +690,8 @@
             "name": "Extra"
           },
           {
-            "id": 22393,
-            "name": "Others"
+            "id": 49545,
+            "name": "Warm Pants"
           },
           {
             "id": 49394,
@@ -706,12 +702,16 @@
             "name": "Polo Shirts"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 49395,
             "name": "Easy Pants"
+          },
+          {
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 22405,
@@ -722,24 +722,24 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
             "id": 22430,
             "name": "Scarves & Stoles"
+          },
+          {
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22412,
             "name": "Trousers"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22435,
             "name": "Gloves"
+          },
+          {
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 22401,
@@ -866,12 +866,12 @@
             "name": "Others"
           },
           {
-            "id": 12106,
-            "name": "Cashmere"
-          },
-          {
             "id": 49389,
             "name": "Extra Warm"
+          },
+          {
+            "id": 12106,
+            "name": "Cashmere"
           },
           {
             "id": 12628,
@@ -982,12 +982,12 @@
             "name": "Ultra Light Down"
           },
           {
-            "id": 12486,
-            "name": "AIRism"
-          },
-          {
             "id": 49334,
             "name": "Parka"
+          },
+          {
+            "id": 12486,
+            "name": "AIRism"
           },
           {
             "id": 12572,
@@ -998,12 +998,12 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 49337,
-            "name": "3D Cut"
-          },
-          {
             "id": 12576,
             "name": "Slim Fit"
+          },
+          {
+            "id": 49337,
+            "name": "3D Cut"
           },
           {
             "id": 49338,
