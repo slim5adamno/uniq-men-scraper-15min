@@ -1070,15 +1070,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[462238]48% Acrylic, 16% Cotton, 15% Viscose, 12% Polyamide, 8% Polyester, 1% Elastane<br>[452048]48% Acrylic, 17% Viscose, 16% Cotton, 11% Polyamide, 7% Polyester, 1% Elastane",
@@ -15733,15 +15724,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[01 OFF WHITE] Body: 100% Polyester ( 100% Uses Recycled Polyester Fiber )/ Pocket Lining: 100% Polyester ( 100% Uses Recycled Polyester Fiber )/ Rib: 84% Cotton, 16% Polyester [06 GRAY, 11 PINK] Body: 100% Polyester ( 54% Uses Recycled Polyester Fiber )/ Pocket Lining: 100% Polyester ( 100% Uses Recycled Polyester Fiber )/ Rib: 84% Cotton, 16% Polyester",
@@ -15906,15 +15888,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
