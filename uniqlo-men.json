@@ -17237,7 +17237,7 @@
           ]
         },
         "l1Id": "460329",
-        "longDescription": "- Lightweight and cozy fleece. <br>- Voluminous feel. <br>- Versatile basic cut. <br>- Fasteners are easy to operate while wearing gloves. <br>- Machine-washable for easy care. <br>- We support the reduction of waste and of oil consumption. Clothing made using recycled polyester is part of this effort. <br>Ratios of recycled polyester vary by item. Please check “Materials” for details.",
+        "longDescription": "- Lightweight and cozy fleece. <br>- Voluminous feel. <br>- Versatile basic cut. <br>- Fasteners are easy to operate while wearing gloves. <br>- Machine-washable for easy care.",
         "name": "Fluffy Yarn Fleece Full-Zip Jacket",
         "prices": {
           "base": {
@@ -17310,12 +17310,6 @@
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
               }
             ]
           },
