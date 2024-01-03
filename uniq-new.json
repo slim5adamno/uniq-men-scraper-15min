@@ -143,18 +143,18 @@
   }
 }
 {
-  "name": "Flannel Checked Long Sleeve Shirt",
+  "name": "Wide Fit Chino Trousers",
   "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462396-000",
+  "basePrice": 3990,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E462931-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
     "display": {
       "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
@@ -168,6 +168,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Broadcloth Oversized Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E461765-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
