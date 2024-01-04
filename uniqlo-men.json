@@ -10737,7 +10737,7 @@
             }
           ]
         },
-        "l1Id": "460616",
+        "l1Id": "463866",
         "longDescription": "- Now in heavier-weight twill fabric. <br>- Sleek cut looks sharp while staying casual. <br>- Meticulous design details including a seamed waist, thick belt loops, coin pockets, and a drawstring.",
         "name": "Chino Shorts",
         "prices": {
@@ -10775,15 +10775,15 @@
           }
         ],
         "rating": {
-          "average": 4.555555555555555,
-          "count": 9,
-          "fit": 3.2222222222222223,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
-            "two": 1,
+            "two": 0,
             "three": 0,
-            "four": 1,
-            "five": 7
+            "four": 0,
+            "five": 1
           }
         },
         "representative": {
@@ -10815,7 +10815,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07710277",
+          "l2Id": "07710281",
           "salesStartDate": "",
           "salesEndDate": ""
         },
