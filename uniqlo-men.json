@@ -622,11 +622,15 @@
             "name": "Flannel"
           },
           {
+            "id": 49366,
+            "name": "HEATTECH"
+          },
+          {
             "id": 27571,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 49366,
+            "id": 49410,
             "name": "HEATTECH"
           },
           {
@@ -634,8 +638,8 @@
             "name": "Warm Pants"
           },
           {
-            "id": 49410,
-            "name": "HEATTECH"
+            "id": 49394,
+            "name": "Fleece"
           },
           {
             "id": 22404,
@@ -646,20 +650,20 @@
             "name": "Others"
           },
           {
-            "id": 49394,
-            "name": "Fleece"
-          },
-          {
-            "id": 49395,
-            "name": "Easy Pants"
-          },
-          {
             "id": 22391,
             "name": "Jackets"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 49395,
+            "name": "Easy Pants"
+          },
+          {
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22430,
@@ -670,24 +674,16 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
-          },
-          {
-            "id": 22412,
-            "name": "Trousers"
           },
           {
             "id": 22389,
             "name": "Coats"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 22435,
@@ -696,6 +692,10 @@
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
+          },
+          {
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 22436,
@@ -734,12 +734,12 @@
             "name": "AIRism"
           },
           {
-            "id": 22420,
-            "name": "Underwear"
-          },
-          {
             "id": 49343,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 22420,
+            "name": "Underwear"
           },
           {
             "id": 22414,
@@ -810,6 +810,10 @@
             "name": "Flannel Pants"
           },
           {
+            "id": 12588,
+            "name": "Extra Stretch"
+          },
+          {
             "id": 31589,
             "name": "HEATTECH"
           },
@@ -818,20 +822,16 @@
             "name": "Others"
           },
           {
-            "id": 12588,
-            "name": "Extra Stretch"
-          },
-          {
             "id": 23551,
             "name": "Souffle Yarn"
           },
           {
-            "id": 11697,
-            "name": "Others"
-          },
-          {
             "id": 12107,
             "name": "Lambswool"
+          },
+          {
+            "id": 11697,
+            "name": "Others"
           },
           {
             "id": 49389,
@@ -882,16 +882,16 @@
             "name": "Sweat Shirt"
           },
           {
+            "id": 12088,
+            "name": "Ultra Light Down"
+          },
+          {
             "id": 23569,
             "name": "Shorts"
           },
           {
             "id": 20095,
             "name": "Uniqlo U"
-          },
-          {
-            "id": 12088,
-            "name": "Ultra Light Down"
           },
           {
             "id": 12087,
