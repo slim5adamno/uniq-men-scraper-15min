@@ -620,16 +620,16 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 49410,
-            "name": "HEATTECH"
-          },
-          {
             "id": 49545,
             "name": "Warm Pants"
           },
           {
             "id": 49376,
             "name": "Extra"
+          },
+          {
+            "id": 49410,
+            "name": "HEATTECH"
           },
           {
             "id": 22393,
@@ -640,12 +640,12 @@
             "name": "Easy Pants"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 22391,
             "name": "Jackets"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22430,
@@ -664,44 +664,40 @@
             "name": "Hoodies"
           },
           {
-            "id": 22389,
-            "name": "Coats"
-          },
-          {
             "id": 22412,
             "name": "Trousers"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
+            "id": 22389,
+            "name": "Coats"
           },
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
           },
           {
+            "id": 22410,
+            "name": "Casual Pants"
+          },
+          {
             "id": 22435,
             "name": "Gloves"
-          },
-          {
-            "id": 49382,
-            "name": "Cotton"
-          },
-          {
-            "id": 22436,
-            "name": "Neck Warmer"
           },
           {
             "id": 22409,
             "name": "Chinos"
           },
           {
-            "id": 22408,
-            "name": "Jeans"
+            "id": 22436,
+            "name": "Neck Warmer"
           },
           {
-            "id": 22418,
-            "name": "Inner Tops"
+            "id": 49382,
+            "name": "Cotton"
+          },
+          {
+            "id": 22408,
+            "name": "Jeans"
           },
           {
             "id": 31254,
@@ -710,6 +706,10 @@
           {
             "id": 22439,
             "name": "Others"
+          },
+          {
+            "id": 22418,
+            "name": "Inner Tops"
           },
           {
             "id": 22417,
@@ -792,16 +792,16 @@
             "name": "Flannel Pants"
           },
           {
+            "id": 12105,
+            "name": "Merino"
+          },
+          {
             "id": 12588,
             "name": "Extra Stretch"
           },
           {
             "id": 31589,
             "name": "HEATTECH"
-          },
-          {
-            "id": 12105,
-            "name": "Merino"
           },
           {
             "id": 23551,
@@ -820,12 +820,12 @@
             "name": "Extra Warm"
           },
           {
-            "id": 12626,
-            "name": "V Neck"
-          },
-          {
             "id": 23553,
             "name": "3D Knit"
+          },
+          {
+            "id": 12626,
+            "name": "V Neck"
           },
           {
             "id": 12628,
@@ -844,12 +844,12 @@
             "name": "Others"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
-          },
-          {
             "id": 12480,
             "name": "Pullover"
+          },
+          {
+            "id": 12074,
+            "name": "Tailored"
           },
           {
             "id": 12478,
@@ -864,24 +864,24 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 20095,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12088,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 20095,
+            "name": "Uniqlo U"
           },
           {
             "id": 23569,
             "name": "Shorts"
           },
           {
-            "id": 19831,
-            "name": "Sweat Pants"
-          },
-          {
             "id": 12087,
             "name": "Hybrid Down"
+          },
+          {
+            "id": 19831,
+            "name": "Sweat Pants"
           },
           {
             "id": 12634,
