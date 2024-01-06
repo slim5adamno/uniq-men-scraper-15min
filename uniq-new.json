@@ -67,22 +67,6 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E467423-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Chainsaw Man UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E462908-000",
   "sizes": {
     "code": "SMA003",
