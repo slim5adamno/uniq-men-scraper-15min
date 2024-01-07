@@ -165,6 +165,22 @@
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460950-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Cable Long Sleeve Crew Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460950-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -191,6 +207,22 @@
   }
 }
 {
+  "name": "Extra Fine Merino Turtleneck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460938-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Pile Lined Sweat Full-Zip Hoodie",
   "price": 1990,
   "basePrice": 3990,
@@ -212,22 +244,6 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460327-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Knitted Fleece Set (Long Sleeve)",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E460148-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
