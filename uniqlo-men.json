@@ -6752,19 +6752,13 @@
         "longDescription": "- 1.5 times warmer than our regular 'HEATTECH'. *Based on CLO values, which indicate the thermal insulation of clothing. Comparison with standard 'HEATTECH'. <br>- High-performance fabric with Heat of Absorption, HEAT RETENTION, odor control, shape-retaining, moisture-wicking, and anti-odor* comfort features. *Helps reduce sweaty and other odors. <br>- Soft 100% SUPIMA® cotton lining. *Standard cotton, acrylic, and other textiles on the outside. <br>- Ultra Stretch fabric. <br>- Cropped sleeves stay hidden under outer layers. <br>- The casual feel of the fabric makes this a great layering piece.",
         "name": "HEATTECH Cotton Thermal Crew Neck T-Shirt (Extra Warm)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E451538-000",
@@ -6799,27 +6793,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07685677",
+          "l2Id": "07685684",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11883,9 +11870,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11916,7 +11903,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07647029",
+          "l2Id": "07647083",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14575,9 +14562,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL64",
+            "displayCode": "64",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14602,7 +14589,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07789823",
+          "l2Id": "07789833",
           "salesStartDate": "",
           "salesEndDate": ""
         },
