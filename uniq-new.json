@@ -207,22 +207,6 @@
   }
 }
 {
-  "name": "Knitted Fleece Set (Long Sleeve)",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E460148-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
   "price": 1990,
   "basePrice": 3990,
