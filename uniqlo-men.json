@@ -675,28 +675,28 @@
             "name": "Flannel"
           },
           {
-            "id": 27571,
-            "name": "UNIQLO and JW ANDERSON"
+            "id": 27341,
+            "name": "Ultra Light Down"
           },
           {
             "id": 49366,
             "name": "HEATTECH"
           },
           {
-            "id": 27341,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 26171,
             "name": "Sweat"
           },
           {
-            "id": 49410,
-            "name": "HEATTECH"
+            "id": 27571,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 49545,
             "name": "Warm Pants"
+          },
+          {
+            "id": 49410,
+            "name": "HEATTECH"
           },
           {
             "id": 22393,
@@ -711,6 +711,10 @@
             "name": "Polo Shirts"
           },
           {
+            "id": 49395,
+            "name": "Easy Pants"
+          },
+          {
             "id": 22405,
             "name": "Casual Shirts"
           },
@@ -719,36 +723,28 @@
             "name": "Jackets"
           },
           {
-            "id": 49395,
-            "name": "Easy Pants"
-          },
-          {
-            "id": 22411,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 22390,
             "name": "Hoodies"
-          },
-          {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
-            "id": 22430,
-            "name": "Scarves & Stoles"
           },
           {
             "id": 23627,
             "name": "Tops"
           },
           {
-            "id": 22412,
-            "name": "Trousers"
+            "id": 22430,
+            "name": "Scarves & Stoles"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
+            "id": 34286,
+            "name": "Loungewear bottoms"
+          },
+          {
+            "id": 22411,
+            "name": "Ankle Pants"
+          },
+          {
+            "id": 22412,
+            "name": "Trousers"
           },
           {
             "id": 22401,
@@ -759,6 +755,10 @@
             "name": "Gloves"
           },
           {
+            "id": 22410,
+            "name": "Casual Pants"
+          },
+          {
             "id": 49339,
             "name": "Lambswool"
           },
@@ -767,12 +767,12 @@
             "name": "Chinos"
           },
           {
-            "id": 23626,
-            "name": "Outer"
-          },
-          {
             "id": 22408,
             "name": "Jeans"
+          },
+          {
+            "id": 23626,
+            "name": "Outer"
           },
           {
             "id": 31254,
@@ -883,12 +883,12 @@
             "name": "Cashmere"
           },
           {
-            "id": 12108,
-            "name": "Cardigans"
-          },
-          {
             "id": 12628,
             "name": "HEATTECH"
+          },
+          {
+            "id": 12108,
+            "name": "Cardigans"
           },
           {
             "id": 12095,
@@ -907,16 +907,16 @@
             "name": "Tailored"
           },
           {
+            "id": 23272,
+            "name": "Relaxed"
+          },
+          {
             "id": 12478,
             "name": "Hoodies"
           },
           {
             "id": 42333,
             "name": "Hats"
-          },
-          {
-            "id": 23272,
-            "name": "Relaxed"
           },
           {
             "id": 12479,
@@ -927,12 +927,12 @@
             "name": "Ultra Light Down"
           },
           {
-            "id": 12087,
-            "name": "Hybrid Down"
-          },
-          {
             "id": 19831,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 12087,
+            "name": "Hybrid Down"
           },
           {
             "id": 12075,
@@ -963,12 +963,12 @@
             "name": "Over Shirt"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 49350,
             "name": "Oversized"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12598,
@@ -983,20 +983,20 @@
             "name": "Smart"
           },
           {
-            "id": 12574,
-            "name": "Ankle Pants"
-          },
-          {
             "id": 12513,
             "name": "Fleece"
           },
           {
-            "id": 12576,
-            "name": "Slim Fit"
+            "id": 12574,
+            "name": "Ankle Pants"
           },
           {
             "id": 12512,
             "name": "Long Sleeve T-Shirts"
+          },
+          {
+            "id": 12576,
+            "name": "Slim Fit"
           },
           {
             "id": 12573,
