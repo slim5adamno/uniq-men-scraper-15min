@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "HEATTECH Cotton Turtleneck T (Extra Warm)",
-  "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462734-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "HEATTECH Cotton Thermal Turtleneck T-Shirt (Extra Warm)",
   "price": 990,
   "basePrice": 1990,
@@ -139,22 +123,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Wide Fit Chino Trousers",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E462931-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
