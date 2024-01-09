@@ -6045,15 +6045,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -16259,15 +16250,6 @@
             "code": "COL57",
             "displayCode": "57",
             "name": "OLIVE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
