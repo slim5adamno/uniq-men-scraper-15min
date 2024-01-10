@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "Relaxed Fit Jeans",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E459693-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Ultra Light Down Vest",
   "price": 1990,
   "basePrice": 3990,
