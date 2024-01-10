@@ -127,6 +127,22 @@
   }
 }
 {
+  "name": "HEATTECH Cotton Thermal Turtleneck T-Shirt (Extra Warm)",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E453237-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Checked Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -228,6 +244,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460327-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Fluffy Yarn Fleece Set (Long Sleeve)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460269-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
