@@ -622,24 +622,28 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 26171,
-            "name": "Sweat"
-          },
-          {
             "id": 27341,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 26171,
+            "name": "Sweat"
           },
           {
             "id": 27340,
             "name": "Fleece"
           },
           {
+            "id": 49409,
+            "name": "Hats & Caps"
+          },
+          {
             "id": 22393,
             "name": "Others"
           },
           {
-            "id": 49409,
-            "name": "Hats & Caps"
+            "id": 22391,
+            "name": "Jackets"
           },
           {
             "id": 49395,
@@ -650,8 +654,8 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22411,
@@ -660,10 +664,6 @@
           {
             "id": 22390,
             "name": "Hoodies"
-          },
-          {
-            "id": 34286,
-            "name": "Loungewear bottoms"
           },
           {
             "id": 23627,
@@ -678,6 +678,10 @@
             "name": "Trousers"
           },
           {
+            "id": 22410,
+            "name": "Casual Pants"
+          },
+          {
             "id": 22435,
             "name": "Gloves"
           },
@@ -686,8 +690,8 @@
             "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
+            "id": 49339,
+            "name": "Lambswool"
           },
           {
             "id": 23628,
@@ -696,10 +700,6 @@
           {
             "id": 22409,
             "name": "Chinos"
-          },
-          {
-            "id": 49339,
-            "name": "Lambswool"
           },
           {
             "id": 22408,
@@ -722,12 +722,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 49344,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 22416,
@@ -766,6 +766,10 @@
             "name": "Accessories"
           },
           {
+            "id": 49361,
+            "name": "T-shirt"
+          },
+          {
             "id": 12588,
             "name": "Extra Stretch"
           },
@@ -774,16 +778,12 @@
             "name": "Ultra Light Down Jacket"
           },
           {
-            "id": 49361,
-            "name": "T-shirt"
+            "id": 49359,
+            "name": "Pullover & Hoodie"
           },
           {
             "id": 21287,
             "name": "Ultra Light Down Vest"
-          },
-          {
-            "id": 49359,
-            "name": "Pullover & Hoodie"
           },
           {
             "id": 21285,
@@ -814,12 +814,12 @@
             "name": "Souffle Yarn"
           },
           {
-            "id": 12107,
-            "name": "Lambswool"
-          },
-          {
             "id": 23567,
             "name": "Wide"
+          },
+          {
+            "id": 12107,
+            "name": "Lambswool"
           },
           {
             "id": 12106,
@@ -850,12 +850,20 @@
             "name": "Others"
           },
           {
+            "id": 12480,
+            "name": "Pullover"
+          },
+          {
             "id": 12074,
             "name": "Tailored"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
+            "id": 12479,
+            "name": "Sweat Shirt"
+          },
+          {
+            "id": 12478,
+            "name": "Hoodies"
           },
           {
             "id": 42333,
@@ -866,12 +874,8 @@
             "name": "Relaxed"
           },
           {
-            "id": 12478,
-            "name": "Hoodies"
-          },
-          {
-            "id": 12479,
-            "name": "Sweat Shirt"
+            "id": 19831,
+            "name": "Sweat Pants"
           },
           {
             "id": 12079,
@@ -880,10 +884,6 @@
           {
             "id": 12088,
             "name": "Ultra Light Down"
-          },
-          {
-            "id": 19831,
-            "name": "Sweat Pants"
           },
           {
             "id": 12087,
@@ -918,12 +918,12 @@
             "name": "Over Shirt"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 49350,
             "name": "Oversized"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12598,
@@ -950,12 +950,12 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 12576,
-            "name": "Slim Fit"
-          },
-          {
             "id": 12513,
             "name": "Fleece"
+          },
+          {
+            "id": 12576,
+            "name": "Slim Fit"
           },
           {
             "id": 12073,
@@ -990,12 +990,12 @@
             "name": "Chainsaw Man × Kosuke Kawamura"
           },
           {
-            "id": 11741,
-            "name": "Others"
-          },
-          {
             "id": 53140,
             "name": "Anime JUJUTSU KAISEN Season 2"
+          },
+          {
+            "id": 11741,
+            "name": "Others"
           },
           {
             "id": 29280,
@@ -15737,9 +15737,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15764,7 +15764,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07647142",
+          "l2Id": "07647106",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17692,9 +17692,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17703,16 +17703,16 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "limitedOffer",
-                "id": 10,
-                "name": "Limited Offer",
-                "detail": "Limited Offer Until Jan 18"
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
               }
             ],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07578579",
+          "l2Id": "07642285",
           "salesStartDate": "",
           "salesEndDate": ""
         },
