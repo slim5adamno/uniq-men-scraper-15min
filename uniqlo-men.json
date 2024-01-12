@@ -850,10 +850,6 @@
             "name": "Others"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
-          },
-          {
             "id": 12074,
             "name": "Tailored"
           },
@@ -868,6 +864,10 @@
           {
             "id": 42333,
             "name": "Hats"
+          },
+          {
+            "id": 41246,
+            "name": "Sweat"
           },
           {
             "id": 23272,
