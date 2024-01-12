@@ -159,6 +159,22 @@
   }
 }
 {
+  "name": "Tailored Jacket (Wool Blend)",
+  "price": 4990,
+  "basePrice": 8990,
+  "discount": 44,
+  "link": "https://www.uniqlo.com/in/en/products/E465936-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Tailored Jacket",
   "price": 4990,
   "basePrice": 8990,
