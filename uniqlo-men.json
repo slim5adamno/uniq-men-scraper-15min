@@ -9078,7 +9078,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2490.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E462029-000",
@@ -9113,9 +9113,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9130,17 +9130,10 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07763934",
+          "l2Id": "07763910",
           "salesStartDate": "",
           "salesEndDate": ""
         },
