@@ -63,11 +63,11 @@
   }
 }
 {
-  "name": "HEATTECH Lined Function Gloves",
+  "name": "Sweat Long Sleeve Shirt",
   "price": 990,
-  "basePrice": 1990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E459734-000",
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E461040-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -91,6 +91,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Fluffy Yarn Fleece Full-Zip Jacket",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450198-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
@@ -132,6 +148,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E463244-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Cable Long Sleeve Crew Neck Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460950-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -191,6 +223,22 @@
   }
 }
 {
+  "name": "Ultra Light Down Vest",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E459620-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
   "price": 1990,
   "basePrice": 3990,
@@ -200,6 +248,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Reversible Stand Jacket",
+  "price": 3990,
+  "basePrice": 7990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462770-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
