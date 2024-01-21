@@ -601,40 +601,44 @@
             "name": "Loungewear Sets"
           },
           {
-            "id": 26171,
-            "name": "Sweat"
-          },
-          {
             "id": 27341,
             "name": "Ultra Light Down"
           },
           {
-            "id": 49376,
-            "name": "Extra"
+            "id": 26171,
+            "name": "Sweat"
           },
           {
             "id": 27571,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 49409,
-            "name": "Hats & Caps"
+            "id": 49376,
+            "name": "Extra"
           },
           {
-            "id": 22393,
-            "name": "Others"
+            "id": 49409,
+            "name": "Hats & Caps"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
           },
           {
-            "id": 22391,
-            "name": "Jackets"
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 49395,
             "name": "Easy Pants"
+          },
+          {
+            "id": 22391,
+            "name": "Jackets"
+          },
+          {
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 34286,
@@ -653,24 +657,20 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
-            "id": 49339,
-            "name": "Lambswool"
-          },
-          {
             "id": 22389,
             "name": "Coats"
+          },
+          {
+            "id": 49380,
+            "name": "Crew Neck"
           },
           {
             "id": 22412,
             "name": "Trousers"
           },
           {
-            "id": 49380,
-            "name": "Crew Neck"
+            "id": 49339,
+            "name": "Lambswool"
           },
           {
             "id": 22410,
@@ -685,12 +685,12 @@
             "name": "Cotton"
           },
           {
-            "id": 23626,
-            "name": "Outer"
-          },
-          {
             "id": 22408,
             "name": "Jeans"
+          },
+          {
+            "id": 23626,
+            "name": "Outer"
           },
           {
             "id": 49343,
@@ -741,16 +741,12 @@
             "name": "Over Shirt"
           },
           {
-            "id": 49324,
-            "name": "Down"
-          },
-          {
             "id": 22407,
             "name": "Others"
           },
           {
-            "id": 21284,
-            "name": "Ultra Light Down Jacket"
+            "id": 49324,
+            "name": "Down"
           },
           {
             "id": 49361,
@@ -761,20 +757,24 @@
             "name": "Slim Fit"
           },
           {
+            "id": 21284,
+            "name": "Ultra Light Down Jacket"
+          },
+          {
             "id": 12588,
             "name": "Extra Stretch"
           },
           {
-            "id": 21287,
-            "name": "Ultra Light Down Vest"
+            "id": 12644,
+            "name": "Extra Stretch"
           },
           {
             "id": 49386,
             "name": "Crew Neck"
           },
           {
-            "id": 12644,
-            "name": "Extra Stretch"
+            "id": 21287,
+            "name": "Ultra Light Down Vest"
           },
           {
             "id": 12637,
@@ -809,20 +809,20 @@
             "name": "Merino"
           },
           {
-            "id": 49399,
-            "name": "Jogger"
-          },
-          {
             "id": 23551,
             "name": "Souffle Yarn"
           },
           {
-            "id": 49389,
-            "name": "Extra Warm"
+            "id": 49399,
+            "name": "Jogger"
           },
           {
             "id": 12107,
             "name": "Lambswool"
+          },
+          {
+            "id": 49389,
+            "name": "Extra Warm"
           },
           {
             "id": 12106,
@@ -857,20 +857,20 @@
             "name": "Tailored"
           },
           {
-            "id": 42333,
-            "name": "Hats"
-          },
-          {
             "id": 12478,
             "name": "Hoodies"
           },
           {
-            "id": 41246,
-            "name": "Sweat"
-          },
-          {
             "id": 23272,
             "name": "Relaxed"
+          },
+          {
+            "id": 42333,
+            "name": "Hats"
+          },
+          {
+            "id": 41246,
+            "name": "Sweat"
           },
           {
             "id": 19831,
@@ -897,12 +897,12 @@
             "name": "Linen"
           },
           {
-            "id": 12114,
-            "name": "Flannel"
-          },
-          {
             "id": 12600,
             "name": "Warm Line"
+          },
+          {
+            "id": 12114,
+            "name": "Flannel"
           },
           {
             "id": 20441,
@@ -937,12 +937,12 @@
             "name": "Soft Touch"
           },
           {
-            "id": 12572,
-            "name": "Smart"
-          },
-          {
             "id": 12066,
             "name": "Trench"
+          },
+          {
+            "id": 12572,
+            "name": "Smart"
           },
           {
             "id": 12574,
