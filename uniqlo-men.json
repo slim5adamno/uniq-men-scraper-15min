@@ -3917,15 +3917,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -6001,15 +5992,15 @@
           }
         ],
         "rating": {
-          "average": 4.4,
-          "count": 20,
-          "fit": 3.2,
+          "average": 4.409090909090909,
+          "count": 22,
+          "fit": 3.1818181818181817,
           "rateCount": {
             "one": 2,
             "two": 1,
             "three": 0,
-            "four": 1,
-            "five": 16
+            "four": 2,
+            "five": 17
           }
         },
         "representative": {
