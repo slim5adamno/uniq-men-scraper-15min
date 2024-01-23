@@ -580,12 +580,12 @@
             "name": "Flannel"
           },
           {
-            "id": 34287,
-            "name": "Loungewear Sets"
-          },
-          {
             "id": 27341,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 34287,
+            "name": "Loungewear Sets"
           },
           {
             "id": 26171,
@@ -596,12 +596,12 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 22393,
             "name": "Others"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22391,
@@ -610,6 +610,10 @@
           {
             "id": 49395,
             "name": "Easy Pants"
+          },
+          {
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22411,
@@ -622,10 +626,6 @@
           {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
-          },
-          {
-            "id": 34286,
-            "name": "Loungewear bottoms"
           },
           {
             "id": 22412,
@@ -668,12 +668,12 @@
             "name": "Underwear"
           },
           {
-            "id": 22403,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22416,
             "name": "HEATTECH"
+          },
+          {
+            "id": 22403,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22400,
@@ -684,28 +684,28 @@
             "name": "Joggers & Sweatpants"
           },
           {
-            "id": 31561,
-            "name": "Cardigans"
-          },
-          {
             "id": 26176,
             "name": "Ultra Light Down"
           },
           {
-            "id": 31562,
-            "name": "Fleece"
+            "id": 31561,
+            "name": "Cardigans"
           },
           {
             "id": 49323,
             "name": "Over Shirt"
           },
           {
-            "id": 22407,
-            "name": "Others"
+            "id": 31562,
+            "name": "Fleece"
           },
           {
             "id": 49324,
             "name": "Down"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 12588,
@@ -736,12 +736,12 @@
             "name": "Extra Stretch"
           },
           {
-            "id": 12646,
-            "name": "Sweat"
-          },
-          {
             "id": 21285,
             "name": "Ultra Light Down Parka"
+          },
+          {
+            "id": 12646,
+            "name": "Sweat"
           },
           {
             "id": 12637,
@@ -756,12 +756,12 @@
             "name": "Warm Padded"
           },
           {
-            "id": 33615,
-            "name": "Cotton Relax"
-          },
-          {
             "id": 23552,
             "name": "Washable"
+          },
+          {
+            "id": 33615,
+            "name": "Cotton Relax"
           },
           {
             "id": 33613,
@@ -776,12 +776,12 @@
             "name": "Merino"
           },
           {
-            "id": 23551,
-            "name": "Souffle Yarn"
-          },
-          {
             "id": 49399,
             "name": "Jogger"
+          },
+          {
+            "id": 23551,
+            "name": "Souffle Yarn"
           },
           {
             "id": 12107,
@@ -796,12 +796,12 @@
             "name": "3D Knit"
           },
           {
-            "id": 12108,
-            "name": "Cardigans"
-          },
-          {
             "id": 12628,
             "name": "HEATTECH"
+          },
+          {
+            "id": 12108,
+            "name": "Cardigans"
           },
           {
             "id": 49325,
@@ -868,12 +868,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 12592,
-            "name": "Relaxed Pants"
-          },
-          {
             "id": 13124,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12592,
+            "name": "Relaxed Pants"
           },
           {
             "id": 12595,
