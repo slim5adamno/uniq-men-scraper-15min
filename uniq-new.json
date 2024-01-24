@@ -1,0 +1,256 @@
+{
+  "name": "Soft Brushed Turtleneck Long Sleeve T-Shirt",
+  "price": 590,
+  "basePrice": 1290,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E450180-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Fleece Printed Mock Neck T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E465929-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Fleece Printed Mock Neck T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E465929-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Fleece Mock Neck T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463164-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Stretch Fleece Mock Neck T-Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463164-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460276-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462406-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462405-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462399-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462399-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462398-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E462398-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460690-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450267-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450267-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Padded Single Breasted Coat",
+  "price": 5990,
+  "basePrice": 12900,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E462853-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
