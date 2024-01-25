@@ -602,12 +602,12 @@
             "name": "Flannel"
           },
           {
-            "id": 27341,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 26171,
             "name": "Sweat"
+          },
+          {
+            "id": 27341,
+            "name": "Ultra Light Down"
           },
           {
             "id": 34287,
@@ -618,28 +618,24 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22405,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 22393,
             "name": "Others"
           },
           {
-            "id": 49395,
-            "name": "Easy Pants"
+            "id": 23627,
+            "name": "Tops"
+          },
+          {
+            "id": 22405,
+            "name": "Casual Shirts"
           },
           {
             "id": 22391,
             "name": "Jackets"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
+            "id": 49395,
+            "name": "Easy Pants"
           },
           {
             "id": 22411,
@@ -650,20 +646,32 @@
             "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 22389,
-            "name": "Coats"
-          },
-          {
-            "id": 22412,
-            "name": "Trousers"
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 49339,
             "name": "Lambswool"
           },
           {
+            "id": 22389,
+            "name": "Coats"
+          },
+          {
+            "id": 23628,
+            "name": "Parka"
+          },
+          {
+            "id": 22412,
+            "name": "Trousers"
+          },
+          {
             "id": 22410,
             "name": "Casual Pants"
+          },
+          {
+            "id": 23626,
+            "name": "Outer"
           },
           {
             "id": 49340,
@@ -674,16 +682,8 @@
             "name": "Souffle Yarn"
           },
           {
-            "id": 23628,
-            "name": "Parka"
-          },
-          {
             "id": 22408,
             "name": "Jeans"
-          },
-          {
-            "id": 23626,
-            "name": "Outer"
           },
           {
             "id": 49343,
@@ -710,36 +710,36 @@
             "name": "HEATTECH"
           },
           {
-            "id": 41242,
-            "name": "Joggers & Sweatpants"
+            "id": 26176,
+            "name": "Ultra Light Down"
           },
           {
             "id": 22400,
             "name": "Sweaters"
           },
           {
-            "id": 26176,
-            "name": "Ultra Light Down"
+            "id": 41242,
+            "name": "Joggers & Sweatpants"
           },
           {
             "id": 31561,
             "name": "Cardigans"
           },
           {
-            "id": 31562,
-            "name": "Fleece"
-          },
-          {
             "id": 49323,
             "name": "Over Shirt"
           },
           {
-            "id": 22407,
-            "name": "Others"
+            "id": 31562,
+            "name": "Fleece"
           },
           {
             "id": 49324,
             "name": "Down"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 12588,
@@ -786,12 +786,12 @@
             "name": "Ultra Warm"
           },
           {
-            "id": 23552,
-            "name": "Washable"
-          },
-          {
             "id": 33615,
             "name": "Cotton Relax"
+          },
+          {
+            "id": 23552,
+            "name": "Washable"
           },
           {
             "id": 33613,
@@ -806,12 +806,12 @@
             "name": "Merino"
           },
           {
-            "id": 23551,
-            "name": "Souffle Yarn"
-          },
-          {
             "id": 49399,
             "name": "Jogger"
+          },
+          {
+            "id": 23551,
+            "name": "Souffle Yarn"
           },
           {
             "id": 12107,
@@ -834,12 +834,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 49325,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 49357,
             "name": "V neck"
+          },
+          {
+            "id": 49325,
+            "name": "Ultra Light Down"
           },
           {
             "id": 12095,
@@ -854,16 +854,16 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 23272,
-            "name": "Relaxed"
-          },
-          {
             "id": 42333,
             "name": "Hats"
           },
           {
             "id": 41246,
             "name": "Sweat"
+          },
+          {
+            "id": 23272,
+            "name": "Relaxed"
           },
           {
             "id": 19831,
