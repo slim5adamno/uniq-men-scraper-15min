@@ -616,20 +616,16 @@
             "name": "Extra"
           },
           {
+            "id": 22393,
+            "name": "Others"
+          },
+          {
             "id": 23627,
             "name": "Tops"
           },
           {
             "id": 22405,
             "name": "Casual Shirts"
-          },
-          {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
-            "id": 49395,
-            "name": "Easy Pants"
           },
           {
             "id": 27578,
@@ -640,44 +636,48 @@
             "name": "Jackets"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
-            "id": 22390,
-            "name": "Hoodies"
-          },
-          {
-            "id": 22411,
-            "name": "Ankle Pants"
+            "id": 49395,
+            "name": "Easy Pants"
           },
           {
             "id": 34286,
             "name": "Loungewear bottoms"
           },
           {
-            "id": 23628,
-            "name": "Parka"
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
-            "id": 49380,
-            "name": "Crew Neck"
+            "id": 22411,
+            "name": "Ankle Pants"
+          },
+          {
+            "id": 22390,
+            "name": "Hoodies"
           },
           {
             "id": 22412,
             "name": "Trousers"
           },
           {
+            "id": 49380,
+            "name": "Crew Neck"
+          },
+          {
+            "id": 23628,
+            "name": "Parka"
+          },
+          {
             "id": 22389,
             "name": "Coats"
           },
           {
-            "id": 22410,
-            "name": "Casual Pants"
-          },
-          {
             "id": 23626,
             "name": "Outer"
+          },
+          {
+            "id": 22410,
+            "name": "Casual Pants"
           },
           {
             "id": 49382,
@@ -716,24 +716,24 @@
             "name": "Ultra Light Down"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 41242,
             "name": "Joggers & Sweatpants"
+          },
+          {
+            "id": 22400,
+            "name": "Sweaters"
           },
           {
             "id": 31562,
             "name": "Fleece"
           },
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 49324,
             "name": "Down"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 12588,
@@ -748,28 +748,24 @@
             "name": "Ultra Light Down Jacket"
           },
           {
-            "id": 49386,
-            "name": "Crew Neck"
-          },
-          {
             "id": 12644,
             "name": "Extra Stretch"
-          },
-          {
-            "id": 12582,
-            "name": "Slim Fit"
-          },
-          {
-            "id": 49359,
-            "name": "Pullover & Hoodie"
           },
           {
             "id": 21287,
             "name": "Ultra Light Down Vest"
           },
           {
-            "id": 21285,
-            "name": "Ultra Light Down Parka"
+            "id": 49386,
+            "name": "Crew Neck"
+          },
+          {
+            "id": 49359,
+            "name": "Pullover & Hoodie"
+          },
+          {
+            "id": 12582,
+            "name": "Slim Fit"
           },
           {
             "id": 12637,
@@ -778,6 +774,10 @@
           {
             "id": 12646,
             "name": "Sweat"
+          },
+          {
+            "id": 21285,
+            "name": "Ultra Light Down Parka"
           },
           {
             "id": 23552,
@@ -828,12 +828,12 @@
             "name": "3D Knit"
           },
           {
-            "id": 12108,
-            "name": "Cardigans"
-          },
-          {
             "id": 12628,
             "name": "HEATTECH"
+          },
+          {
+            "id": 12108,
+            "name": "Cardigans"
           },
           {
             "id": 12095,
@@ -844,12 +844,16 @@
             "name": "Others"
           },
           {
+            "id": 12074,
+            "name": "Tailored"
+          },
+          {
             "id": 12479,
             "name": "Sweat Shirt"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
+            "id": 23272,
+            "name": "Relaxed"
           },
           {
             "id": 12478,
@@ -860,16 +864,12 @@
             "name": "Sweat"
           },
           {
-            "id": 23272,
-            "name": "Relaxed"
+            "id": 12079,
+            "name": "Denim"
           },
           {
             "id": 19831,
             "name": "Sweat Pants"
-          },
-          {
-            "id": 12079,
-            "name": "Denim"
           },
           {
             "id": 41249,
