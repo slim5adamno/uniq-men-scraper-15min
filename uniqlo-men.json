@@ -99,11 +99,6 @@
           "name": "BEIGE"
         },
         {
-          "code": "COL33",
-          "displayCode": "33",
-          "name": "KHAKI"
-        },
-        {
           "code": "COL34",
           "displayCode": "34",
           "name": "BROWN"
@@ -600,12 +595,12 @@
             "name": "Loungewear Sets"
           },
           {
-            "id": 27341,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 49366,
             "name": "HEATTECH"
+          },
+          {
+            "id": 27341,
+            "name": "Ultra Light Down"
           },
           {
             "id": 27571,
@@ -616,12 +611,12 @@
             "name": "Extra"
           },
           {
-            "id": 22393,
-            "name": "Others"
-          },
-          {
             "id": 23627,
             "name": "Tops"
+          },
+          {
+            "id": 22393,
+            "name": "Others"
           },
           {
             "id": 22405,
@@ -640,16 +635,16 @@
             "name": "Easy Pants"
           },
           {
-            "id": 34286,
-            "name": "Loungewear bottoms"
-          },
-          {
             "id": 22401,
             "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 22411,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 34286,
+            "name": "Loungewear bottoms"
           },
           {
             "id": 22390,
@@ -748,16 +743,16 @@
             "name": "Ultra Light Down Jacket"
           },
           {
-            "id": 12644,
-            "name": "Extra Stretch"
+            "id": 49386,
+            "name": "Crew Neck"
           },
           {
             "id": 21287,
             "name": "Ultra Light Down Vest"
           },
           {
-            "id": 49386,
-            "name": "Crew Neck"
+            "id": 12644,
+            "name": "Extra Stretch"
           },
           {
             "id": 49359,
@@ -768,10 +763,6 @@
             "name": "Slim Fit"
           },
           {
-            "id": 12637,
-            "name": "Extra Warm"
-          },
-          {
             "id": 12646,
             "name": "Sweat"
           },
@@ -780,12 +771,16 @@
             "name": "Ultra Light Down Parka"
           },
           {
-            "id": 23552,
-            "name": "Washable"
+            "id": 12637,
+            "name": "Extra Warm"
           },
           {
             "id": 33615,
             "name": "Cotton Relax"
+          },
+          {
+            "id": 23552,
+            "name": "Washable"
           },
           {
             "id": 33613,
@@ -828,12 +823,12 @@
             "name": "3D Knit"
           },
           {
-            "id": 12628,
-            "name": "HEATTECH"
-          },
-          {
             "id": 12108,
             "name": "Cardigans"
+          },
+          {
+            "id": 12628,
+            "name": "HEATTECH"
           },
           {
             "id": 12095,
@@ -852,24 +847,24 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 23272,
-            "name": "Relaxed"
+            "id": 41246,
+            "name": "Sweat"
           },
           {
             "id": 12478,
             "name": "Hoodies"
           },
           {
-            "id": 41246,
-            "name": "Sweat"
-          },
-          {
-            "id": 12079,
-            "name": "Denim"
+            "id": 23272,
+            "name": "Relaxed"
           },
           {
             "id": 19831,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 12079,
+            "name": "Denim"
           },
           {
             "id": 41249,
@@ -888,12 +883,12 @@
             "name": "Extra Fine Cotton"
           },
           {
-            "id": 12600,
-            "name": "Warm Line"
-          },
-          {
             "id": 12114,
             "name": "Flannel"
+          },
+          {
+            "id": 12600,
+            "name": "Warm Line"
           },
           {
             "id": 12592,
@@ -928,12 +923,12 @@
             "name": "Ankle Pants"
           },
           {
-            "id": 12513,
-            "name": "Fleece"
-          },
-          {
             "id": 12576,
             "name": "Slim Fit"
+          },
+          {
+            "id": 12513,
+            "name": "Fleece"
           },
           {
             "id": 12512,
@@ -8802,15 +8797,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL33",
-            "displayCode": "33",
-            "name": "KHAKI",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 55% Polyester, 19% Acrylic, 14% Viscose, 12% Elastomultiester/ Rib: 58% Cotton, 39% Polyester, 3% Elastane/ Pocket Lining: Outer Layer: 100% Polyester/ Inner Layer: 55% Polyester, 19% Acrylic, 14% Viscose, 12% Elastomultiester",
@@ -9008,15 +8994,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
