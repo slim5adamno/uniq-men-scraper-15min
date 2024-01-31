@@ -7751,9 +7751,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7778,7 +7778,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07606653",
+          "l2Id": "07606599",
           "salesStartDate": "",
           "salesEndDate": ""
         },
