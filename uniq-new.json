@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "Tailored Jacket",
-  "price": 3990,
-  "basePrice": 8990,
-  "discount": 56,
-  "link": "https://www.uniqlo.com/in/en/products/E462067-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Padded Single Breasted Coat",
   "price": 4990,
   "basePrice": 12900,
