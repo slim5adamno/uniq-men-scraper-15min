@@ -991,9 +991,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL58",
+            "displayCode": "58",
+            "name": "DARK GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1018,7 +1018,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07661541",
+          "l2Id": "07661527",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -1102,19 +1102,13 @@
         "longDescription": "- The body is made with soft 100% cotton. <br>- Comfortable elastic waistband. <br>- Front fly design. <br>- Relaxed fit for a light feel.",
         "name": "Woven Checked Boxer Shorts",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E461492-000",
@@ -1149,23 +1143,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL18",
-            "displayCode": "18",
-            "name": "WINE",
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -1176,7 +1163,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07661513",
+          "l2Id": "07661520",
           "salesStartDate": "",
           "salesEndDate": ""
         },
