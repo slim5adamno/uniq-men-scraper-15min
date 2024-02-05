@@ -143,6 +143,22 @@
   }
 }
 {
+  "name": "Flannel Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450267-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Pile Lined Sweat Full-Zip Hoodie",
   "price": 1990,
   "basePrice": 3990,
@@ -159,11 +175,11 @@
   }
 }
 {
-  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
+  "name": "HEATTECH Pile Lined Sweat Full-Zip Hoodie",
   "price": 1990,
   "basePrice": 3990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
+  "link": "https://www.uniqlo.com/in/en/products/E460327-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
