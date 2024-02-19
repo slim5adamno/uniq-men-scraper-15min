@@ -207,11 +207,11 @@
   }
 }
 {
-  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
+  "name": "3D Knit Souffle Yarn Mock Neck Sweater",
   "price": 1990,
   "basePrice": 3990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
+  "link": "https://www.uniqlo.com/in/en/products/E460946-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -223,11 +223,11 @@
   }
 }
 {
-  "name": "3D Knit Souffle Yarn Mock Neck Sweater",
+  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
   "price": 1990,
   "basePrice": 3990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E460946-000",
+  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
