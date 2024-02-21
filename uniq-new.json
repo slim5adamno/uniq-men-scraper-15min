@@ -238,19 +238,3 @@
     }
   }
 }
-{
-  "name": "Classic Cut Jeans (Helmut Lang)",
-  "price": 2490,
-  "basePrice": 7990,
-  "discount": 69,
-  "link": "https://www.uniqlo.com/in/en/products/E456745-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
