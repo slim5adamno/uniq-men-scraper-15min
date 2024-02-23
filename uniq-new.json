@@ -175,15 +175,15 @@
   }
 }
 {
-  "name": "HEATTECH Pile Lined Sweat Pants",
+  "name": "Flannel Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E460335-000",
+  "link": "https://www.uniqlo.com/in/en/products/E460690-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -197,9 +197,9 @@
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460335-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
