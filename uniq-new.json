@@ -159,38 +159,6 @@
   }
 }
 {
-  "name": "Souffle Yarn Stand Collar Cardigan",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E461407-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fleece Button Up Long Sleeve Pullover",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E461128-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Souffle Yarn Mock Neck Sweater",
   "price": 1490,
   "basePrice": 3990,
@@ -408,22 +376,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Ultra Light Down Jacket (3D Cut)",
-  "price": 2990,
-  "basePrice": 5990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E463243-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
