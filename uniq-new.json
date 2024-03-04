@@ -1,8 +1,8 @@
 {
   "name": "Stretch Fleece Mock Neck T-Shirt",
-  "price": 790,
+  "price": 590,
   "basePrice": 1990,
-  "discount": 60,
+  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E463164-000",
   "sizes": {
     "code": "SMA003",
@@ -16,9 +16,9 @@
 }
 {
   "name": "Stretch Fleece Half-Zip T-shirt",
-  "price": 990,
+  "price": 790,
   "basePrice": 1990,
-  "discount": 50,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E463067-000",
   "sizes": {
     "code": "SMA003",
@@ -148,6 +148,22 @@
   "basePrice": 3990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E450542-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Long Sleeve Half-Zip Sweater",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460948-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
