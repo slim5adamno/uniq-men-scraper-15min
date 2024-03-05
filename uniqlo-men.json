@@ -1851,9 +1851,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL59",
-            "displayCode": "59",
-            "name": "DARK GREEN",
+            "code": "COL19",
+            "displayCode": "19",
+            "name": "WINE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1878,7 +1878,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07653362",
+          "l2Id": "07653353",
           "salesStartDate": "",
           "salesEndDate": ""
         },
