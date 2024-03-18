@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "Extra Stretch Jeans",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E461577-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Extra Fine Merino Turtleneck Sweater",
   "price": 1490,
   "basePrice": 3990,
