@@ -15,22 +15,6 @@
   }
 }
 {
-  "name": "Stretch Fleece Half-Zip T-shirt",
-  "price": 790,
-  "basePrice": 1990,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E463067-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Fleece Long Sleeve Full-Zip Jacket",
   "price": 1490,
   "basePrice": 2990,
