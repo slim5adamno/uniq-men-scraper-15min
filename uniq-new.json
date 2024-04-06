@@ -1,4 +1,20 @@
 {
+  "name": "Soft Brushed Turtleneck Long Sleeve T-Shirt",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E450180-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Peanuts Sweat Long Sleeve Shirt",
   "price": 1490,
   "basePrice": 2990,
@@ -20,6 +36,22 @@
   "basePrice": 3990,
   "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E460938-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Fleece Long Sleeve Full-Zip Jacket",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E450195-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
