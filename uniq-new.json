@@ -1,4 +1,20 @@
 {
+  "name": "Soft Brushed Turtleneck Long Sleeve T-Shirt",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E450180-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fighting Game Legends UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
@@ -180,6 +196,22 @@
   "basePrice": 1490,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E467435-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Premium Lambswool V Neck Long Sleeve Cardigan",
+  "price": 990,
+  "basePrice": 3990,
+  "discount": 75,
+  "link": "https://www.uniqlo.com/in/en/products/E450542-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
