@@ -2052,7 +2052,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "This special collection focuses on the \"SUBWAY DRAWINGS\" that brought Keith Haring into the limelight.",
+        "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/469331_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -3411,7 +3411,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "A milestone in “stealth action.” Innovative game series works are reissued as T-shirts.",
+        "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/471295_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -3987,7 +3987,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "A milestone in “stealth action.” Innovative game series works are reissued as T-shirts.",
+        "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/471109_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -4143,7 +4143,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "The masterpiece Hunter x Hunter, a turbulent story brought to life on T-shirt.",
+        "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/470971_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -4659,7 +4659,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "Introducing the first UT collection with Tate, a family of four art galleries in the UK.",
+        "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/470929_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -5193,7 +5193,7 @@
           "count": 0,
           "items": []
         },
-        "shortDescription": "A special collection focused on Andy Warhol's acetate collage work, including his iconic portrait of Mick Jagger.",
+        "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/469868_size.html",
         "sizeInformation": "",
         "sizes": [
@@ -10679,15 +10679,6 @@
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
             "display": {
               "showFlag": true,
               "chipType": 0
