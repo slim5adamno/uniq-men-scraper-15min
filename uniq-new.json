@@ -335,38 +335,6 @@
   }
 }
 {
-  "name": "Airsense Trousers",
-  "price": 1990,
-  "basePrice": 3990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E460624-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Utility Hooded Jacket",
-  "price": 3990,
-  "basePrice": 6990,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E466464-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Utility Hooded Jacket",
   "price": 3990,
   "basePrice": 6990,
