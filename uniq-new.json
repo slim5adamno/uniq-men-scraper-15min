@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "Wide Fit Chino Pants",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E463978-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Wide Fit Colour Jeans",
   "price": 1490,
   "basePrice": 3990,
