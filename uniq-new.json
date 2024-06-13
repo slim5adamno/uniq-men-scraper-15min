@@ -190,19 +190,3 @@
     }
   }
 }
-{
-  "name": "Utility Hooded Jacket",
-  "price": 3990,
-  "basePrice": 6990,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E466464-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
