@@ -174,3 +174,19 @@
     }
   }
 }
+{
+  "name": "AirSense Trousers 2WAY Stretch (Ultra Light Trousers)",
+  "price": 1990,
+  "basePrice": 3990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E447780-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
