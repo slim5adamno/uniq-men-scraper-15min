@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "Knitted Short Sleeve T-Shirt",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E464857-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Wide Fit Colour Jeans",
   "price": 1490,
   "basePrice": 3990,
@@ -155,22 +139,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Washable Milano Ribbed Crew Neck Sweater",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E453754-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
