@@ -497,12 +497,12 @@
             "name": "relaxed"
           },
           {
-            "id": 67726,
-            "name": "sweat"
-          },
-          {
             "id": 49344,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 67726,
+            "name": "sweat"
           },
           {
             "id": 22410,
@@ -513,12 +513,12 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 67730,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 22400,
+            "name": "Sweaters"
           },
           {
             "id": 12584,
@@ -6989,15 +6989,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -7158,15 +7149,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/467845_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
