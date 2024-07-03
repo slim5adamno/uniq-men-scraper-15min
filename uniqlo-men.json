@@ -490,12 +490,12 @@
             "name": "Others"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 67731,
             "name": "Linen"
+          },
+          {
+            "id": 22404,
+            "name": "Polo Shirts"
           },
           {
             "id": 67732,
@@ -562,12 +562,12 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 67730,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 22400,
+            "name": "Sweaters"
           },
           {
             "id": 12584,
