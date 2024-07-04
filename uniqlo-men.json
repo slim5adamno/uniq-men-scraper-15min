@@ -512,20 +512,20 @@
             "name": "sweat"
           },
           {
-            "id": 22401,
-            "name": "Sweatshirts & Hoodies"
-          },
-          {
             "id": 22408,
             "name": "Jeans"
           },
           {
-            "id": 49340,
-            "name": "Merino"
+            "id": 22401,
+            "name": "Sweatshirts & Hoodies"
           },
           {
             "id": 22414,
             "name": "Shorts"
+          },
+          {
+            "id": 49340,
+            "name": "Merino"
           },
           {
             "id": 22412,
@@ -544,12 +544,12 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22400,
-            "name": "Sweaters"
-          },
-          {
             "id": 67730,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 22400,
+            "name": "Sweaters"
           },
           {
             "id": 12584,
