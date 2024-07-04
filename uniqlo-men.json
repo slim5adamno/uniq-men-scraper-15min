@@ -492,12 +492,12 @@
             "name": "T-shirts"
           },
           {
-            "id": 67693,
-            "name": "Others"
-          },
-          {
             "id": 22411,
             "name": "Ankle"
+          },
+          {
+            "id": 67693,
+            "name": "Others"
           },
           {
             "id": 67728,
@@ -520,12 +520,12 @@
             "name": "Jeans"
           },
           {
-            "id": 22414,
-            "name": "Shorts"
-          },
-          {
             "id": 49340,
             "name": "Merino"
+          },
+          {
+            "id": 22414,
+            "name": "Shorts"
           },
           {
             "id": 22412,
@@ -656,12 +656,12 @@
             "name": "Others"
           },
           {
-            "id": 49349,
-            "name": "Over Shirt"
-          },
-          {
             "id": 67742,
             "name": "Cargo"
+          },
+          {
+            "id": 49349,
+            "name": "Over Shirt"
           },
           {
             "id": 41246,
