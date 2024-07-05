@@ -69,22 +69,6 @@
   "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E463915-000",
   "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Wide Fit Colour Jeans",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E463915-000",
-  "sizes": {
     "code": "INS030",
     "displayCode": "030",
     "name": "30inch",
