@@ -95,6 +95,22 @@
   }
 }
 {
+  "name": "Cotton Jacket",
+  "price": 2490,
+  "basePrice": 4990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E467024-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Light Weight Coat",
   "price": 4990,
   "basePrice": 8990,
