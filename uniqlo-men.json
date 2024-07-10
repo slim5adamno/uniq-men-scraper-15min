@@ -16800,9 +16800,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL50",
-            "displayCode": "50",
-            "name": "LIGHT GREEN",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16820,7 +16820,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08123235",
+          "l2Id": "08123241",
           "salesStartDate": "",
           "salesEndDate": ""
         },
