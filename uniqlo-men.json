@@ -673,16 +673,20 @@
             "name": "Others"
           },
           {
-            "id": 22404,
-            "name": "Polo Shirts"
-          },
-          {
             "id": 95925,
             "name": "Short Sleeves"
           },
           {
+            "id": 22404,
+            "name": "Polo Shirts"
+          },
+          {
             "id": 22402,
             "name": "T-shirts"
+          },
+          {
+            "id": 95929,
+            "name": "Others"
           },
           {
             "id": 95915,
@@ -690,10 +694,6 @@
           },
           {
             "id": 67693,
-            "name": "Others"
-          },
-          {
-            "id": 95929,
             "name": "Others"
           },
           {
@@ -709,12 +709,12 @@
             "name": "Casual Shirts"
           },
           {
-            "id": 22406,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 67726,
             "name": "sweat"
+          },
+          {
+            "id": 22406,
+            "name": "Formal Shirts"
           },
           {
             "id": 22408,
@@ -729,12 +729,12 @@
             "name": "Others"
           },
           {
-            "id": 79746,
-            "name": "Sunglasses"
-          },
-          {
             "id": 49344,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 79746,
+            "name": "Sunglasses"
           },
           {
             "id": 22410,
@@ -757,12 +757,12 @@
             "name": "Long Sleeves"
           },
           {
-            "id": 12588,
-            "name": "Extra Stretch"
-          },
-          {
             "id": 95932,
             "name": "Flannel"
+          },
+          {
+            "id": 12588,
+            "name": "Extra Stretch"
           },
           {
             "id": 12498,
@@ -2824,7 +2824,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08164784",
+          "l2Id": "08164785",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3022,7 +3022,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08164775",
+          "l2Id": "08164776",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3223,7 +3223,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08171339",
+          "l2Id": "08171340",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3421,7 +3421,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08164757",
+          "l2Id": "08164758",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3625,7 +3625,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08164748",
+          "l2Id": "08164749",
           "salesStartDate": "",
           "salesEndDate": ""
         },
