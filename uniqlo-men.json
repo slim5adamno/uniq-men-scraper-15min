@@ -677,12 +677,12 @@
         ],
         "subcategories": [
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 79732,
             "name": "Parka"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 22404,
@@ -693,12 +693,12 @@
             "name": "T-shirts"
           },
           {
-            "id": 67693,
-            "name": "Others"
-          },
-          {
             "id": 95915,
             "name": "Crew Neck"
+          },
+          {
+            "id": 67693,
+            "name": "Others"
           },
           {
             "id": 67728,
