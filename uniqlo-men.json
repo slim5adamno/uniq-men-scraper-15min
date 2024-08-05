@@ -317,57 +317,57 @@
         {
           "rating": 0,
           "accumulated": 131,
-          "count": 43
+          "count": 41
         },
         {
           "rating": 0.5,
-          "accumulated": 88,
+          "accumulated": 90,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 88,
+          "accumulated": 90,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 87,
+          "accumulated": 89,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 86,
+          "accumulated": 88,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 85,
+          "accumulated": 87,
           "count": 0
         },
         {
           "rating": 3,
+          "accumulated": 87,
+          "count": 2
+        },
+        {
+          "rating": 3.5,
           "accumulated": 85,
           "count": 3
         },
         {
-          "rating": 3.5,
-          "accumulated": 82,
-          "count": 2
-        },
-        {
           "rating": 4,
-          "accumulated": 80,
-          "count": 10
+          "accumulated": 82,
+          "count": 11
         },
         {
           "rating": 4.5,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 26
         },
         {
           "rating": 5,
-          "accumulated": 44,
-          "count": 44
+          "accumulated": 45,
+          "count": 45
         }
       ],
       "sizes": [
@@ -8314,15 +8314,15 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
@@ -17988,15 +17988,15 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
@@ -21478,15 +21478,15 @@
           }
         ],
         "rating": {
-          "average": 3.4,
-          "count": 5,
-          "fit": 3.4,
+          "average": 3.6666666666666665,
+          "count": 6,
+          "fit": 3.3333333333333335,
           "rateCount": {
             "one": 1,
             "two": 1,
             "three": 0,
             "four": 1,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -21571,15 +21571,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
