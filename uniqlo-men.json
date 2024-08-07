@@ -696,12 +696,12 @@
         ],
         "subcategories": [
           {
-            "id": 22407,
-            "name": "Others"
-          },
-          {
             "id": 79732,
             "name": "Parka"
+          },
+          {
+            "id": 22407,
+            "name": "Others"
           },
           {
             "id": 22404,
@@ -732,12 +732,12 @@
             "name": "relaxed"
           },
           {
-            "id": 67726,
-            "name": "sweat"
-          },
-          {
             "id": 22406,
             "name": "Formal Shirts"
+          },
+          {
+            "id": 67726,
+            "name": "sweat"
           },
           {
             "id": 22408,
@@ -752,12 +752,12 @@
             "name": "Trousers"
           },
           {
-            "id": 79746,
-            "name": "Sunglasses"
-          },
-          {
             "id": 49344,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 79746,
+            "name": "Sunglasses"
           },
           {
             "id": 22410,
@@ -784,20 +784,20 @@
             "name": "Efc Broadcloth"
           },
           {
-            "id": 95931,
-            "name": "Long Sleeves"
-          },
-          {
             "id": 12588,
             "name": "Extra Stretch"
           },
           {
-            "id": 95930,
-            "name": "Short Sleeves"
+            "id": 95931,
+            "name": "Long Sleeves"
           },
           {
             "id": 12498,
             "name": "DRY-EX"
+          },
+          {
+            "id": 95930,
+            "name": "Short Sleeves"
           },
           {
             "id": 67716,
@@ -1253,15 +1253,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL03",
             "displayCode": "03",
@@ -22250,15 +22241,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
