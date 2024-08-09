@@ -20140,19 +20140,13 @@
         "longDescription": "- Hand woven from fine strips of leather for a distinctive look that cannot be replicated by machine.<br>- Mesh design fastens at any position.<br>- Vegetable tanned, so the feel and appearance of the leather improves over time. <br>- Processed for a distinctive vintage style.",
         "name": "Leather Wide Mesh Belt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E442224-000",
@@ -20196,18 +20190,11 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07355114",
+          "l2Id": "07355113",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30976,20 +30963,8 @@
         "longDescription": "- 100% extra-fine Merino wool for a glossy sheen and smooth feel. <br>- Anti-pilling processing. <br>- Machine-washable for easy care. *We recommend washing this item inside out in a mesh laundry bag. *Shape to dry after washing.   <br>- Updated with a finer knit to create the perfect texture and thickness. <br>- Versatile ribbed collar. <br>- Variable ribbed knit at the sleeves and hem.",
         "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
         "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
+          "promo": null,
+          "base": {}
         },
         "productId": "E450535-000",
         "plds": [
@@ -31012,29 +30987,28 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
+              },
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available Mid-Aug"
               },
               {
                 "code": "limitedStore",
@@ -31045,7 +31019,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07629389",
+          "l2Id": "06980949",
           "salesStartDate": "",
           "salesEndDate": ""
         },
