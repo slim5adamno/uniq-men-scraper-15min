@@ -30988,7 +30988,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E450535-000",
@@ -31012,9 +31012,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -31045,7 +31045,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07629470",
+          "l2Id": "07629389",
           "salesStartDate": "",
           "salesEndDate": ""
         },
