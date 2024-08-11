@@ -322,57 +322,57 @@
         {
           "rating": 0,
           "accumulated": 165,
-          "count": 68
+          "count": 67
         },
         {
           "rating": 0.5,
-          "accumulated": 97,
+          "accumulated": 98,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 97,
+          "accumulated": 98,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 96,
+          "accumulated": 97,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 95,
+          "accumulated": 96,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 94,
+          "accumulated": 95,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 94,
+          "accumulated": 95,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 91,
+          "accumulated": 92,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 88,
+          "accumulated": 89,
           "count": 9
         },
         {
           "rating": 4.5,
-          "accumulated": 79,
+          "accumulated": 80,
           "count": 28
         },
         {
           "rating": 5,
-          "accumulated": 51,
-          "count": 51
+          "accumulated": 52,
+          "count": 52
         }
       ],
       "sizes": [
@@ -6355,15 +6355,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 87% Polyamide, 13% Elastane/ Waist: Back: 71% Polyamide, 29% Elastane",
@@ -6671,15 +6662,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17065,15 +17047,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "73% Cotton, 27% Elastomultiester",
@@ -17242,15 +17215,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
