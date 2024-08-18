@@ -51,22 +51,6 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E473121-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "OSHI NO KO (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E473120-000",
   "sizes": {
     "code": "SMA003",
@@ -159,11 +143,11 @@
   }
 }
 {
-  "name": "KAWS UT (Short Sleeve Graphic T-Shirt)",
+  "name": "Hokusai UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E467775-000",
+  "link": "https://www.uniqlo.com/in/en/products/E468897-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -179,7 +163,7 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E467774-000",
+  "link": "https://www.uniqlo.com/in/en/products/E467775-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
