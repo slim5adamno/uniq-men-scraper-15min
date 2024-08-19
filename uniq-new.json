@@ -127,6 +127,38 @@
   }
 }
 {
+  "name": "AIRism Cotton Oversize V Neck Half Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E469361-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Cotton Oversize V Neck Half Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E469361-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Hokusai UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
@@ -152,6 +184,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Cotton Relaxed Fit Half Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E467134-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -228,54 +276,6 @@
   "basePrice": 1490,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E465719-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism Cotton Oversize V Neck Half Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E469361-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism Cotton Oversize V Neck Half Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E469361-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism Cotton Relaxed Fit Half Sleeve T-Shirt",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E467134-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
