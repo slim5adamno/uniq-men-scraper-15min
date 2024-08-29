@@ -337,12 +337,12 @@
         {
           "rating": 4.5,
           "accumulated": 68,
-          "count": 23
+          "count": 22
         },
         {
           "rating": 5,
-          "accumulated": 45,
-          "count": 45
+          "accumulated": 46,
+          "count": 46
         }
       ],
       "sizes": [
@@ -17211,15 +17211,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
