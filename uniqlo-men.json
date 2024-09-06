@@ -14299,14 +14299,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "07763885",
@@ -16544,14 +16537,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "07997645",
@@ -18059,9 +18045,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18086,7 +18072,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08071098",
+          "l2Id": "08071119",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20960,14 +20946,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "07578539",
