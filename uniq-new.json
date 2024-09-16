@@ -271,6 +271,38 @@
   }
 }
 {
+  "name": "Dry Stretch Easy Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E454780-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Stretch Easy Shorts",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E454780-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Sweatshirt",
   "price": 1490,
   "basePrice": 2990,
@@ -303,11 +335,59 @@
   }
 }
 {
+  "name": "Wide Fit Parachute Cargo Pants",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460268-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Fit Parachute Cargo Pants",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E460268-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Miracle Air Jacket (AirSense) (Ultra Light Jacket)",
   "price": 2990,
   "basePrice": 5990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E444557-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Miracle Air Jacket (Wool Like)",
+  "price": 2990,
+  "basePrice": 5990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E468671-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
