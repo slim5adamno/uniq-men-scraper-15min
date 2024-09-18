@@ -1,20 +1,4 @@
 {
-  "name": "NY POP ART Archive UT (Short Sleeve Graphic T-Shirt) (Andy Warhol)",
-  "price": 390,
-  "basePrice": 1490,
-  "discount": 74,
-  "link": "https://www.uniqlo.com/in/en/products/E469255-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Louvre x UTGP UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
