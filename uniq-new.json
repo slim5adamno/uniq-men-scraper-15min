@@ -69,6 +69,22 @@
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E472677-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "The Legend of Zelda UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E472677-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -111,6 +127,22 @@
   }
 }
 {
+  "name": "AIRism Cotton Oversize V Neck Half Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E469361-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "DRY-EX Short Sleeve T-Shirt (Light)",
   "price": 790,
   "basePrice": 1490,
@@ -132,6 +164,22 @@
   "basePrice": 1490,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E467544-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "DRY-EX Short Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E467145-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -436,6 +484,22 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E454780-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Parachute Pants",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463991-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
