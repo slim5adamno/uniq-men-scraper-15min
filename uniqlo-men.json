@@ -374,10 +374,6 @@
         ],
         "classes": [
           {
-            "id": 11682,
-            "name": "SPORT UTILITY WEAR"
-          },
-          {
             "id": 79707,
             "name": "UV Protection"
           },
@@ -406,6 +402,10 @@
             "name": "BOTTOMS"
           },
           {
+            "id": 11682,
+            "name": "SPORT UTILITY WEAR"
+          },
+          {
             "id": 11679,
             "name": "INNERWEAR"
           },
@@ -419,30 +419,6 @@
           }
         ],
         "categories": [
-          {
-            "id": 23472,
-            "name": "Sport Utility Wear"
-          },
-          {
-            "id": 67534,
-            "name": "Outerwear"
-          },
-          {
-            "id": 67535,
-            "name": "Tops"
-          },
-          {
-            "id": 67536,
-            "name": "Bottoms"
-          },
-          {
-            "id": 67537,
-            "name": "Innerwear"
-          },
-          {
-            "id": 67538,
-            "name": "Accessories"
-          },
           {
             "id": 79708,
             "name": "UV Protection"
@@ -508,10 +484,6 @@
             "name": "Dress Shirts"
           },
           {
-            "id": 11720,
-            "name": "Shorts"
-          },
-          {
             "id": 22328,
             "name": "All Pants"
           },
@@ -534,6 +506,34 @@
           {
             "id": 11715,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 11720,
+            "name": "Shorts"
+          },
+          {
+            "id": 23472,
+            "name": "Sport Utility Wear"
+          },
+          {
+            "id": 67534,
+            "name": "Outerwear"
+          },
+          {
+            "id": 67535,
+            "name": "Tops"
+          },
+          {
+            "id": 67536,
+            "name": "Bottoms"
+          },
+          {
+            "id": 67537,
+            "name": "Innerwear"
+          },
+          {
+            "id": 67538,
+            "name": "Accessories"
           },
           {
             "id": 22329,
@@ -576,62 +576,6 @@
           {
             "id": 79746,
             "name": "Sunglasses"
-          },
-          {
-            "id": 12621,
-            "name": "Easy"
-          },
-          {
-            "id": 12613,
-            "name": "Dry Stretch"
-          },
-          {
-            "id": 12619,
-            "name": "Slim Fit"
-          },
-          {
-            "id": 23627,
-            "name": "Tops"
-          },
-          {
-            "id": 26170,
-            "name": "Dry Ex"
-          },
-          {
-            "id": 26177,
-            "name": "Tank Tops"
-          },
-          {
-            "id": 23629,
-            "name": "Bottoms"
-          },
-          {
-            "id": 49402,
-            "name": "Dry Stretch"
-          },
-          {
-            "id": 23628,
-            "name": "Parka"
-          },
-          {
-            "id": 23626,
-            "name": "Outer"
-          },
-          {
-            "id": 23630,
-            "name": "Innerwear"
-          },
-          {
-            "id": 26176,
-            "name": "Ultra Light Down"
-          },
-          {
-            "id": 23631,
-            "name": "Accessories"
-          },
-          {
-            "id": 67778,
-            "name": "Dry Ex"
           },
           {
             "id": 27341,
@@ -908,6 +852,62 @@
           {
             "id": 67742,
             "name": "Cargo"
+          },
+          {
+            "id": 12621,
+            "name": "Easy"
+          },
+          {
+            "id": 12613,
+            "name": "Dry Stretch"
+          },
+          {
+            "id": 12619,
+            "name": "Slim Fit"
+          },
+          {
+            "id": 49402,
+            "name": "Dry Stretch"
+          },
+          {
+            "id": 26170,
+            "name": "Dry Ex"
+          },
+          {
+            "id": 23627,
+            "name": "Tops"
+          },
+          {
+            "id": 26177,
+            "name": "Tank Tops"
+          },
+          {
+            "id": 23628,
+            "name": "Parka"
+          },
+          {
+            "id": 23626,
+            "name": "Outer"
+          },
+          {
+            "id": 23629,
+            "name": "Bottoms"
+          },
+          {
+            "id": 23630,
+            "name": "Innerwear"
+          },
+          {
+            "id": 26176,
+            "name": "Ultra Light Down"
+          },
+          {
+            "id": 23631,
+            "name": "Accessories"
+          },
+          {
+            "id": 67778,
+            "name": "Dry Ex"
           },
           {
             "id": 49380,
