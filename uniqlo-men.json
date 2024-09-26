@@ -13172,19 +13172,13 @@
         "longDescription": "- Comfortable, stretchy twill fabric. <br>- Garment-washed for a soft, casual feel. <br>- With quick-drying DRY technology. <br>- Front fly design with a slide fastener closure. <br>- Elastic waistband with drawstring for size adjustment. <br>- Versatile design suitable for wearing indoors or out.",
         "name": "Dry Stretch Easy Shorts",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E454780-000",
@@ -13219,27 +13213,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL34",
-            "displayCode": "34",
-            "name": "BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08201679",
+          "l2Id": "07918600",
           "salesStartDate": "",
           "salesEndDate": ""
         },
