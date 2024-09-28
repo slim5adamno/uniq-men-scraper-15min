@@ -255,57 +255,57 @@
         {
           "rating": 0,
           "accumulated": 102,
-          "count": 30
+          "count": 29
         },
         {
           "rating": 0.5,
-          "accumulated": 72,
+          "accumulated": 73,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 72,
+          "accumulated": 73,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 71,
+          "accumulated": 72,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 69,
+          "accumulated": 70,
           "count": 1
         },
         {
           "rating": 3,
-          "accumulated": 68,
+          "accumulated": 69,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 66,
+          "accumulated": 67,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 64,
+          "accumulated": 65,
           "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 54,
+          "accumulated": 55,
           "count": 18
         },
         {
           "rating": 5,
-          "accumulated": 36,
-          "count": 36
+          "accumulated": 37,
+          "count": 37
         }
       ],
       "sizes": [
@@ -333,11 +333,6 @@
           "code": "KVI140",
           "displayCode": "140",
           "name": "10-11Y(140)"
-        },
-        {
-          "code": "KVI160",
-          "displayCode": "160",
-          "name": "14Y(160)"
         },
         {
           "code": "SIZ999",
@@ -2441,15 +2436,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
@@ -2955,15 +2941,6 @@
             "code": "KVI140",
             "displayCode": "140",
             "name": "10-11Y(140)",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "KVI160",
-            "displayCode": "160",
-            "name": "14Y(160)",
             "display": {
               "showFlag": true,
               "chipType": 1
