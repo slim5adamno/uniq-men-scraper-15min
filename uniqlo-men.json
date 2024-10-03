@@ -238,7 +238,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 71
+          "count": 70
         },
         {
           "from": 1000,
@@ -264,53 +264,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 114,
+          "accumulated": 113,
           "count": 34
         },
         {
           "rating": 0.5,
-          "accumulated": 80,
+          "accumulated": 79,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 80,
-          "count": 1
-        },
-        {
-          "rating": 1.5,
           "accumulated": 79,
           "count": 1
         },
         {
-          "rating": 2,
+          "rating": 1.5,
           "accumulated": 78,
+          "count": 1
+        },
+        {
+          "rating": 2,
+          "accumulated": 77,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 78,
+          "accumulated": 77,
           "count": 2
         },
         {
           "rating": 3,
-          "accumulated": 76,
+          "accumulated": 75,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 73,
+          "accumulated": 72,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 72,
+          "accumulated": 71,
           "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 62,
-          "count": 26
+          "accumulated": 61,
+          "count": 25
         },
         {
           "rating": 5,
@@ -626,6 +626,10 @@
             "name": "Pocketable"
           },
           {
+            "id": 33001,
+            "name": "Dry Stretch"
+          },
+          {
             "id": 12100,
             "name": "UV Protection"
           },
@@ -812,10 +816,6 @@
           {
             "id": 95932,
             "name": "Flannel"
-          },
-          {
-            "id": 95935,
-            "name": "Efc Broadcloth"
           },
           {
             "id": 95931,
@@ -1135,7 +1135,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -1287,7 +1287,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -1433,7 +1433,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -1600,7 +1600,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -5546,7 +5546,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -5728,7 +5728,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -5910,7 +5910,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -6098,7 +6098,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -6286,7 +6286,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -6477,7 +6477,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -6671,7 +6671,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -12765,165 +12765,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "SHAHI EXPORTS PVT.LTD., Industrial Plot No. 1, near Metro Station, Sector 28, Faridabad, Haryana 121008",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/item/goods_00_457450.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/item/goods_18_457450.jpg",
-              "colorCode": "18"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/item/goods_69_457450.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/chip/goods_00_457450_chip.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/chip/goods_18_457450_chip.jpg",
-              "colorCode": "18"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/chip/goods_69_457450_chip.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/sub/goods_457450_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/sub/goods_457450_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/sub/goods_457450_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457450/sub/goods_457450_sub23.jpg"
-            }
-          ]
-        },
-        "l1Id": "468916",
-        "longDescription": "- Made of 100% ultra-long cotton fibers for a supple texture. <br>- The wash and finish are carefully selected to achieve a luxuriously soft feel and a tastefully casual look. <br>- Designed for ease of movement in the arms, with a longer hem at the back. <br>- Versatile dot print.",
-        "name": "Extra Fine Cotton Short Sleeve Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E457450-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "07997627",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 93,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/457450_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           },
           {
             "code": "COL32",
@@ -14386,7 +14227,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -14599,7 +14440,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -19531,7 +19372,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -22074,8 +21915,8 @@
       }
     ],
     "pagination": {
-      "count": 114,
-      "total": 114,
+      "count": 113,
+      "total": 113,
       "offset": 1000
     }
   }
