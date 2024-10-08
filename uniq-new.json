@@ -271,22 +271,6 @@
   }
 }
 {
-  "name": "Extra Fine Cotton Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E464941-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Stretch Slim Fit Shorts (Printed)",
   "price": 990,
   "basePrice": 2490,
@@ -315,22 +299,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Stretch Jeans",
-  "price": 1490,
-  "basePrice": 2990,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E463905-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
