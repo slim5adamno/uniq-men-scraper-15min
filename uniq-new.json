@@ -355,22 +355,6 @@
   "price": 990,
   "basePrice": 2490,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E472942-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Unsodo Open Collar Shirt Short Sleeve",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E472941-000",
   "sizes": {
     "code": "SMA003",
@@ -452,22 +436,6 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E466821-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Dry Non Iron Jersey Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E455967-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
