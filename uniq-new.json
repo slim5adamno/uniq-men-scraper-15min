@@ -207,6 +207,22 @@
   }
 }
 {
+  "name": "Kaiju No.8 UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E472113-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "DRY-EX Short Sleeve T-Shirt (Light)",
   "price": 790,
   "basePrice": 1490,
@@ -303,6 +319,22 @@
   }
 }
 {
+  "name": "Dry Pique Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E473162-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Unsodo Open Collar Shirt Short Sleeve",
   "price": 990,
   "basePrice": 2490,
@@ -344,6 +376,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Cotton Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E468917-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
