@@ -303,22 +303,6 @@
   }
 }
 {
-  "name": "Nylon Jogger Pants",
-  "price": 1490,
-  "basePrice": 3990,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E467216-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Wide Fit Parachute Cargo Pants",
   "price": 1490,
   "basePrice": 2990,
