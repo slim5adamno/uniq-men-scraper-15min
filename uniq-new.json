@@ -175,6 +175,22 @@
   }
 }
 {
+  "name": "DRY-EX Half-Zip Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E475281-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -251,6 +267,38 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch DRY-EX Full-Zip Hoodie",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E467763-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch Jeans",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463905-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
