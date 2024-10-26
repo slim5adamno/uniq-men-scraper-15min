@@ -159,6 +159,22 @@
   }
 }
 {
+  "name": "Stretch Slim Fit Shorts",
+  "price": 790,
+  "basePrice": 2490,
+  "discount": 68,
+  "link": "https://www.uniqlo.com/in/en/products/E455533-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "DRY-EX Half-Zip Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -168,6 +184,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Unsodo Open Collar Shirt Short Sleeve",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E472941-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
