@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "Stretch Slim Fit Shorts",
-  "price": 790,
-  "basePrice": 2490,
-  "discount": 68,
-  "link": "https://www.uniqlo.com/in/en/products/E455533-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "DRY-EX Half-Zip Polo Shirt",
   "price": 990,
   "basePrice": 1990,
