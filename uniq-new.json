@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "Unsodo Open Collar Shirt Short Sleeve",
-  "price": 790,
-  "basePrice": 2490,
-  "discount": 68,
-  "link": "https://www.uniqlo.com/in/en/products/E472941-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Kaiju No.8 UT (Short Sleeve Graphic T-Shirt)",
   "price": 790,
   "basePrice": 1490,
