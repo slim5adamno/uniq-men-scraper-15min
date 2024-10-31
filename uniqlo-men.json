@@ -16530,6 +16530,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "Body: 66% Cotton, 34% Polyamide/ Pocket Lining: 65% Polyester, 35% Cotton",
@@ -16826,6 +16835,12 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475109/sub/ingoods_475109_sub30.jpg"
+            }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475109/feature/ingoods_475109_feature5.jpg",
+              "text": "UNIQLO : C"
             }
           ]
         },
@@ -20149,6 +20164,24 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470543/sub/ingoods_470543_sub30.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470543/feature/ingoods_470543_feature1.jpg",
+              "text": "The cotton slub twill is a sturdy fabric that gives it a casual look. Garment-dyed finish creates a washed-out effect."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470543/feature/ingoods_470543_feature2.jpg",
+              "text": "Authentic five-pocket design."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470543/feature/ingoods_470543_feature3.jpg",
+              "text": "With just the right amount of room for a wide, straight cut."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470543/feature/ingoods_470543_feature5.jpg",
+              "text": "Uniqlo U"
+            }
           ]
         },
         "l1Id": "470543",
@@ -20533,6 +20566,28 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470239/sub/ingoods_470239_sub28.jpg"
+            }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470239/feature/ingoods_470239_feature1.jpg",
+              "text": "Smooth, premium 100% cotton made from extra-fine double-ply thread."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470239/feature/ingoods_470239_feature2.jpg",
+              "text": "Elegant collar design."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470239/feature/ingoods_470239_feature3.jpg",
+              "text": "Classic cuff width and body design."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470239/feature/ingoods_470239_feature4.jpg",
+              "text": "Special button stitching allows buttons to fasten with one hand."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470239/feature/ingoods_470239_feature5.jpg",
+              "text": "Practical chest pocket designed to fit ID cards and passports."
             }
           ]
         },
@@ -23556,6 +23611,24 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471784/sub/ingoods_471784_sub30.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471784/feature/ingoods_471784_feature1.jpg",
+              "text": "Lined overshirt with a smooth cotton-poplin outer and a brushed cotton-rayon lining."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471784/feature/ingoods_471784_feature2.jpg",
+              "text": "Roomy, relaxed silhouette inspired by classic workwear."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471784/feature/ingoods_471784_feature3.jpg",
+              "text": "Workwear-style double pockets and double stitching create a casual look."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471784/feature/ingoods_471784_feature5.jpg",
+              "text": "Uniqlo U"
+            }
           ]
         },
         "l1Id": "471784",
@@ -24864,6 +24937,12 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472462001/sub/ingoods_472462001_sub28.jpg"
+            }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472462001/feature/ingoods_472462001_feature1.jpg",
+              "text": "Lightweight and contouring jersey fabric for comfort."
             }
           ]
         },
