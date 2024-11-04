@@ -11810,6 +11810,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -17126,6 +17135,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -19932,6 +19950,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "[01 OFF WHITE] Body: 99% Cotton, 1% Elastane/ Side Pocket Fabric: 65% Polyester, 35% Cotton [08 DARK GRAY] Body: 95% Cotton, 4% Polyester, 1% Elastane/ Side Pocket Fabric: 65% Polyester, 35% Cotton [68 BLUE] Body: 88% Cotton, 11% Polyester, 1% Elastane/ Side Pocket Fabric: 65% Polyester, 35% Cotton",
@@ -20956,6 +20983,15 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
