@@ -320,12 +320,12 @@
         {
           "rating": 4.5,
           "accumulated": 54,
-          "count": 23
+          "count": 24
         },
         {
           "rating": 5,
-          "accumulated": 31,
-          "count": 31
+          "accumulated": 30,
+          "count": 30
         }
       ],
       "sizes": [
@@ -17605,7 +17605,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08300788",
+          "l2Id": "08300789",
           "salesStartDate": "",
           "salesEndDate": ""
         },
