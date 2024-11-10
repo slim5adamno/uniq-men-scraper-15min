@@ -51,6 +51,22 @@
   "price": 790,
   "basePrice": 1490,
   "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E472114-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Kaiju No.8 UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E472113-000",
   "sizes": {
     "code": "SMA003",
@@ -139,6 +155,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Stretch Jeans",
+  "price": 990,
+  "basePrice": 2990,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E463905-000",
+  "sizes": {
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
