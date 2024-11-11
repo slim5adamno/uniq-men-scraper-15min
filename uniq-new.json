@@ -127,22 +127,6 @@
   }
 }
 {
-  "name": "Extra Stretch Jeans",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E463905-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Italian Oiled Leather Belt",
   "price": 990,
   "basePrice": 1990,
