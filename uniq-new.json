@@ -239,6 +239,22 @@
   }
 }
 {
+  "name": "Linen Cotton Stand Collar Long Sleeve Shirt",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E464933-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Wide Fit Parachute Cargo Pants",
   "price": 1490,
   "basePrice": 2990,
@@ -248,6 +264,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "PUFFTECH Parka (Warm Padded)",
+  "price": 3990,
+  "basePrice": 6990,
+  "discount": 43,
+  "link": "https://www.uniqlo.com/in/en/products/E464021-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
