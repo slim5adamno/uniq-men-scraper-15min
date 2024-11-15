@@ -571,10 +571,6 @@
             "name": "AIRism Innerwear"
           },
           {
-            "id": 11733,
-            "name": "Pajama Sets"
-          },
-          {
             "id": 33610,
             "name": "Lounge Bottoms"
           },
@@ -717,6 +713,14 @@
             "name": "Parka"
           },
           {
+            "id": 49328,
+            "name": "Over Shirt"
+          },
+          {
+            "id": 12079,
+            "name": "Denim"
+          },
+          {
             "id": 49329,
             "name": "Fleece"
           },
@@ -735,14 +739,6 @@
           {
             "id": 12074,
             "name": "Tailored"
-          },
-          {
-            "id": 12079,
-            "name": "Denim"
-          },
-          {
-            "id": 49328,
-            "name": "Over Shirt"
           },
           {
             "id": 12066,
@@ -847,6 +843,10 @@
           {
             "id": 80863,
             "name": "Kaiju No.8"
+          },
+          {
+            "id": 51688,
+            "name": "KAWS"
           },
           {
             "id": 39395,
@@ -998,10 +998,6 @@
           },
           {
             "id": 11729,
-            "name": "Others"
-          },
-          {
-            "id": 101970,
             "name": "Others"
           },
           {
