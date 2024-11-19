@@ -398,19 +398,3 @@
     }
   }
 }
-{
-  "name": "Ultra Light Down Parka (3D Cut)",
-  "price": 3990,
-  "basePrice": 6990,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E449722-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
