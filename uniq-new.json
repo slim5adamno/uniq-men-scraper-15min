@@ -1,4 +1,20 @@
 {
+  "name": "DRY-EX Short Sleeve T-Shirt (Light)",
+  "price": 590,
+  "basePrice": 1490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E467544-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "OSHI NO KO (Short Sleeve Graphic T-Shirt)",
   "price": 590,
   "basePrice": 1490,
@@ -376,6 +392,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "PUFFTECH Parka (Warm Padded)",
+  "price": 3990,
+  "basePrice": 6990,
+  "discount": 43,
+  "link": "https://www.uniqlo.com/in/en/products/E464021-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
