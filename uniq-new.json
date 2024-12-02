@@ -1,24 +1,8 @@
 {
-  "name": "Kaiju No.8 UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E472114-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 790,
+  "price": 590,
   "basePrice": 1990,
-  "discount": 60,
+  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E466816-000",
   "sizes": {
     "code": "SMA003",
@@ -32,10 +16,26 @@
 }
 {
   "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 790,
+  "price": 590,
   "basePrice": 1990,
-  "discount": 60,
+  "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E465195-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Kaiju No.8 UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E472114-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -100,6 +100,38 @@
   "basePrice": 1990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E465197-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Pique Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469052-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Pique Short Sleeve Polo Shirt",
+  "price": 990,
+  "basePrice": 1990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469052-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
