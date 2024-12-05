@@ -320,12 +320,12 @@
         {
           "rating": 4,
           "accumulated": 70,
-          "count": 11
+          "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 59,
-          "count": 24
+          "accumulated": 60,
+          "count": 25
         },
         {
           "rating": 5,
@@ -15990,15 +15990,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
