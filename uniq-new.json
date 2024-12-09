@@ -95,6 +95,22 @@
   }
 }
 {
+  "name": "DRY-EX Short Sleeve T-Shirt",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E471585-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -176,9 +192,9 @@
 }
 {
   "name": "Twill Oversized Shirt Long Sleeve",
-  "price": 1490,
+  "price": 990,
   "basePrice": 2990,
-  "discount": 50,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E472871-000",
   "sizes": {
     "code": "SMA003",
@@ -192,9 +208,9 @@
 }
 {
   "name": "Twill Oversized Shirt Long Sleeve",
-  "price": 1490,
+  "price": 990,
   "basePrice": 2990,
-  "discount": 50,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E472871-000",
   "sizes": {
     "code": "SMA004",
