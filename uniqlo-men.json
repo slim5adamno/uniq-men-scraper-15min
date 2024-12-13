@@ -297,37 +297,37 @@
         {
           "rating": 0,
           "accumulated": 125,
-          "count": 34
+          "count": 33
         },
         {
           "rating": 0.5,
-          "accumulated": 91,
+          "accumulated": 92,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 91,
+          "accumulated": 92,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 91,
+          "accumulated": 92,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 90,
+          "accumulated": 91,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 90,
+          "accumulated": 91,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 90,
-          "count": 3
+          "accumulated": 91,
+          "count": 4
         },
         {
           "rating": 3.5,
@@ -337,17 +337,17 @@
         {
           "rating": 4,
           "accumulated": 86,
-          "count": 9
+          "count": 8
         },
         {
           "rating": 4.5,
-          "accumulated": 77,
+          "accumulated": 78,
           "count": 30
         },
         {
           "rating": 5,
-          "accumulated": 47,
-          "count": 47
+          "accumulated": 48,
+          "count": 48
         }
       ],
       "sizes": [
@@ -11585,6 +11585,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -13974,15 +13983,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
