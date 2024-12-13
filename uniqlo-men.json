@@ -4744,19 +4744,13 @@
         "longDescription": "- The soft finish of the leather goes well with relaxed styles. <br>- Dyed for a premium feel and color that ages over time.",
         "name": "Italian Oiled Leather Belt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
           }
         },
         "productId": "E463730-000",
@@ -4789,18 +4783,11 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07926444",
+          "l2Id": "08371232",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11196,9 +11183,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
+            "code": "COL33",
+            "displayCode": "33",
+            "name": "KHAKI",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11216,7 +11203,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08034351",
+          "l2Id": "08073327",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15439,9 +15426,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15466,7 +15453,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08270011",
+          "l2Id": "08269995",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20927,7 +20914,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07928694",
+          "l2Id": "08182981",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21699,7 +21686,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07933427",
+          "l2Id": "08135457",
           "salesStartDate": "",
           "salesEndDate": ""
         },
