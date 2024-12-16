@@ -1,4 +1,68 @@
 {
+  "name": "Woven Boxer Shorts",
+  "price": 290,
+  "basePrice": 490,
+  "discount": 41,
+  "link": "https://www.uniqlo.com/in/en/products/E472632-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Woven Boxer Shorts",
+  "price": 290,
+  "basePrice": 490,
+  "discount": 41,
+  "link": "https://www.uniqlo.com/in/en/products/E471515-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Boxer Briefs",
+  "price": 290,
+  "basePrice": 490,
+  "discount": 41,
+  "link": "https://www.uniqlo.com/in/en/products/E471506-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Boxer Briefs",
+  "price": 290,
+  "basePrice": 490,
+  "discount": 41,
+  "link": "https://www.uniqlo.com/in/en/products/E464311-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 590,
   "basePrice": 1990,
@@ -95,6 +159,22 @@
   }
 }
 {
+  "name": "Modal Cotton Stand Collar Short Sleeve Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E468914-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry-EX Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -120,22 +200,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Modal Cotton Stand Collar Short Sleeve Shirt",
-  "price": 990,
-  "basePrice": 2490,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E468914-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
