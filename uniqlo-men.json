@@ -124,11 +124,6 @@
           "name": "YELLOW"
         },
         {
-          "code": "COL49",
-          "displayCode": "49",
-          "name": "MUSTARD"
-        },
-        {
           "code": "COL53",
           "displayCode": "53",
           "name": "GREEN"
@@ -5072,15 +5067,6 @@
             "code": "COL31",
             "displayCode": "31",
             "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL49",
-            "displayCode": "49",
-            "name": "MUSTARD",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10431,15 +10417,6 @@
             }
           },
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -10889,15 +10866,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
