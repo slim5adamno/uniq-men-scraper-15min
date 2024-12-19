@@ -47,22 +47,6 @@
   }
 }
 {
-  "name": "AIRism Cotton Oversized Striped T-Shirt (Half Sleeve)",
-  "price": 790,
-  "basePrice": 1490,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E461914-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Twill Oversized Shirt Long Sleeve",
   "price": 990,
   "basePrice": 2990,
