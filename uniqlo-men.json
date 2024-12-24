@@ -2982,7 +2982,7 @@
           ]
         },
         "l1Id": "470013",
-        "longDescription": "- Instant UV protection.<br>- Size adjuster on the inside.<br>- The denim material has been pre-washed to give it a casual yet sophisticated look. Enjoy the change in texture as you wear them.<br>- Folds up compactly for easy carrying.",
+        "longDescription": "- Folds up compactly for easy carrying.<br>- UPF50+ / JIS L 1925 : 2019",
         "name": "UV Protection Denim Bucket Hat",
         "prices": {
           "base": {
@@ -10939,7 +10939,7 @@
           ]
         },
         "l1Id": "471143",
-        "longDescription": "- Instant UV protection.<br>- Cozy wool blend fabric with a premium look.<br>- Adjuster with elastic for a comfortable fit.<br>- Revised design for an improved fit.<br>- UPF50+.",
+        "longDescription": "- Revised design for an improved fit.<br>- UPF50+ / JIS L 1925 : 2019",
         "name": "UV Protection Cap",
         "prices": {
           "base": {
@@ -14146,15 +14146,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
