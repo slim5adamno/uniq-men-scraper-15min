@@ -127,22 +127,6 @@
   }
 }
 {
-  "name": "Twill Oversized Shirt Long Sleeve",
-  "price": 990,
-  "basePrice": 2990,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E472871-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Brushed Lined Mock Neck Long Sleeve T-Shirt",
   "price": 990,
   "basePrice": 2490,
