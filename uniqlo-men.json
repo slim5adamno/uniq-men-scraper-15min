@@ -1463,19 +1463,13 @@
         "longDescription": "- Pilling-resistant fabric for a premium look and a smooth feel. With deodorizing and odor control features.<br>- Contouring fabric for easy movement and a comfortable fit.<br>- Front fly design. Regular waist for a secure fit.",
         "name": "Cotton Boxer Briefs",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E464311-000",
@@ -1499,27 +1493,20 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL19",
-            "displayCode": "19",
-            "name": "WINE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08171721",
+          "l2Id": "08294836",
           "salesStartDate": "",
           "salesEndDate": ""
         },
