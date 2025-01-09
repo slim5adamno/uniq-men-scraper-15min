@@ -1,7 +1,7 @@
 {
   "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 590,
-  "basePrice": 1990,
+  "price": 590.0000,
+  "basePrice": 1990.0000,
   "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E466816-000",
   "sizes": {
@@ -16,8 +16,8 @@
 }
 {
   "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 590,
-  "basePrice": 1990,
+  "price": 590.0000,
+  "basePrice": 1990.0000,
   "discount": 70,
   "link": "https://www.uniqlo.com/in/en/products/E465195-000",
   "sizes": {
@@ -32,8 +32,8 @@
 }
 {
   "name": "The SAKE Collection UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
+  "price": 790.0000,
+  "basePrice": 1490.0000,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E477042-000",
   "sizes": {
@@ -48,8 +48,8 @@
 }
 {
   "name": "GODZILLA UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790,
-  "basePrice": 1490,
+  "price": 790.0000,
+  "basePrice": 1490.0000,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E476663-000",
   "sizes": {
@@ -64,8 +64,8 @@
 }
 {
   "name": "Italian Leather Stitched Belt",
-  "price": 790,
-  "basePrice": 1990,
+  "price": 790.0000,
+  "basePrice": 1990.0000,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E463729-000",
   "sizes": {
@@ -80,8 +80,8 @@
 }
 {
   "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
+  "price": 990.0000,
+  "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E469052-000",
   "sizes": {
@@ -96,8 +96,8 @@
 }
 {
   "name": "Dry-EX Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
+  "price": 990.0000,
+  "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E465197-000",
   "sizes": {
@@ -112,8 +112,8 @@
 }
 {
   "name": "Dry-EX Short Sleeve Polo Shirt",
-  "price": 990,
-  "basePrice": 1990,
+  "price": 990.0000,
+  "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E465197-000",
   "sizes": {
@@ -128,8 +128,8 @@
 }
 {
   "name": "Wide Parachute Pants",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E472852-000",
   "sizes": {
@@ -144,8 +144,8 @@
 }
 {
   "name": "Wide Parachute Pants",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E472852-000",
   "sizes": {
@@ -160,8 +160,8 @@
 }
 {
   "name": "Wide Parachute Pants",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E471183-000",
   "sizes": {
@@ -176,8 +176,8 @@
 }
 {
   "name": "Wide Parachute Pants",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E471183-000",
   "sizes": {
@@ -192,8 +192,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470192-000",
   "sizes": {
@@ -208,8 +208,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470192-000",
   "sizes": {
@@ -224,8 +224,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470191-000",
   "sizes": {
@@ -240,8 +240,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470188-003",
   "sizes": {
@@ -256,8 +256,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470188-003",
   "sizes": {
@@ -272,8 +272,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470188-002",
   "sizes": {
@@ -288,8 +288,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470188-002",
   "sizes": {
@@ -304,8 +304,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470188-001",
   "sizes": {
@@ -320,8 +320,8 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470188-001",
   "sizes": {
@@ -336,8 +336,8 @@
 }
 {
   "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470186-000",
   "sizes": {
@@ -352,8 +352,8 @@
 }
 {
   "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470186-000",
   "sizes": {
@@ -368,8 +368,8 @@
 }
 {
   "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470184-000",
   "sizes": {
@@ -384,8 +384,8 @@
 }
 {
   "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490,
-  "basePrice": 2990,
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470184-000",
   "sizes": {
@@ -400,8 +400,8 @@
 }
 {
   "name": "Wide Tapered Pants",
-  "price": 1990,
-  "basePrice": 3990,
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E471934-000",
   "sizes": {
