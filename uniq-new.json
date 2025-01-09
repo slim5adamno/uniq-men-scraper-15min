@@ -79,6 +79,22 @@
   }
 }
 {
+  "name": "UKIYO-E Dark Fantasy Short Sleeve UT",
+  "price": 790,
+  "basePrice": 1490,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E473151-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Italian Leather Stitched Belt",
   "price": 790,
   "basePrice": 1990,
