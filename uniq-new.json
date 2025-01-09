@@ -95,6 +95,22 @@
   }
 }
 {
+  "name": "Brushed Lined Mock Neck Long Sleeve T-Shirt",
+  "price": 990,
+  "basePrice": 2490,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471806-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 990,
   "basePrice": 1990,
@@ -228,6 +244,22 @@
   "basePrice": 2990,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E470192-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 1490,
+  "basePrice": 2990,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470191-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
