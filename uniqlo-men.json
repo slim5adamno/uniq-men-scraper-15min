@@ -6015,15 +6015,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 72% Cotton, 28% Polyester ( 28% Uses Recycled Polyester Fiber )/ Rib: 73% Polyester, 27% Cotton",
@@ -6174,15 +6165,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/469052_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA008",
             "displayCode": "008",
@@ -9462,15 +9444,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/470193_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
