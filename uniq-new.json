@@ -191,6 +191,22 @@
   }
 }
 {
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470193-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Shirt Long Sleeve",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -411,6 +427,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Comfort Jacket",
+  "price": 2990.0000,
+  "basePrice": 5990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E449621-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
