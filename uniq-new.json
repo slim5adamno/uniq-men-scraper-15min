@@ -99,22 +99,6 @@
   "price": 990.0000,
   "basePrice": 2990.0000,
   "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E472852-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Wide Parachute Pants",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E471183-000",
   "sizes": {
     "code": "SMA004",
@@ -731,22 +715,6 @@
     "display": {
       "showFlag": true,
       "chipType": 1
-    }
-  }
-}
-{
-  "name": "Ultra Light Down Jacket (3D Cut)",
-  "price": 2990.0000,
-  "basePrice": 5990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E459619-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
     }
   }
 }
