@@ -565,22 +565,6 @@
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E472897-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Corduroy Over Shirt Long Sleeve",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E472897-000",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -632,22 +616,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Knitted Fleece Set Long Sleeve",
-  "price": 1990.0000,
-  "basePrice": 3490.0000,
-  "discount": 43,
-  "link": "https://www.uniqlo.com/in/en/products/E470672-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
