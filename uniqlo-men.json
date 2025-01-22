@@ -6764,15 +6764,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL67",
             "displayCode": "67",
             "name": "BLUE",
@@ -16549,7 +16540,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08417713",
+          "l2Id": "08417714",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16723,7 +16714,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08417704",
+          "l2Id": "08417705",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16900,7 +16891,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08417686",
+          "l2Id": "08417687",
           "salesStartDate": "",
           "salesEndDate": ""
         },
