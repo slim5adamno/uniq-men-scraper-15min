@@ -14596,6 +14596,24 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456576/sub/goods_456576_sub14_3x4.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/456576/feature/ingoods_456576_feature6.jpg",
+              "text": "Smooth, premium fabric made from 100-count extra-fine, double-ply thread."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/456576/feature/ingoods_456576_feature7.jpg",
+              "text": "Wrinkle-resistant for easy care. *Shape to dry after washing."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/456576/feature/ingoods_456576_feature8.jpg",
+              "text": "Classic dress shirt with a meticulous collar design, cuff width, and body design for an elegant look."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/456576/feature/ingoods_456576_feature9.jpg",
+              "text": "Special button stitching allows buttons to be fastened with one hand."
+            }
           ]
         },
         "l1Id": "470216",
