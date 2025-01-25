@@ -367,22 +367,6 @@
   }
 }
 {
-  "name": "Corduroy Over Shirt Long Sleeve",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E472897-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Fluffy Yarn Fleece Set Long Sleeve (Cardigan)",
   "price": 1990.0000,
   "basePrice": 3490.0000,
