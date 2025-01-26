@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "The SAKE Collection UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E471692-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Italian Leather Stitched Belt",
   "price": 790.0000,
   "basePrice": 1990.0000,
@@ -63,11 +79,75 @@
   }
 }
 {
+  "name": "Wide Parachute Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E472852-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Parachute Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Parachute Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Soft Knitted Fleece Mock Neck T-Shirt",
   "price": 990.0000,
   "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E469949-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry-EX Short Sleeve Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E465197-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -287,6 +367,22 @@
   }
 }
 {
+  "name": "Fine Cloth Easy Care Checked Regular Fit Long Sleeve Shirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E456583-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fine Cloth Easy Care Oxford Regular Fit Long Sleeve Shirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -324,6 +420,22 @@
   "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E444966-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Corduroy Over Shirt Long Sleeve",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E472897-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
