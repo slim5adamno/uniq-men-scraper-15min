@@ -32,9 +32,9 @@
 }
 {
   "name": "The Louvre x Camille Henrot UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E476851-000",
   "sizes": {
     "code": "SMA003",
@@ -63,10 +63,26 @@
   }
 }
 {
+  "name": "NY POP ART Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E473108-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry-EX Short Sleeve Polo Shirt",
-  "price": 990.0000,
+  "price": 790.0000,
   "basePrice": 1990.0000,
-  "discount": 50,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E465197-000",
   "sizes": {
     "code": "SMA003",
@@ -80,14 +96,142 @@
 }
 {
   "name": "Dry-EX Short Sleeve Polo Shirt",
-  "price": 990.0000,
+  "price": 790.0000,
   "basePrice": 1990.0000,
-  "discount": 50,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E465197-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "DRY-EX Crew Neck Short Sleeve T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E465191-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "DRY-EX Crew Neck Short Sleeve T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E465191-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471277-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471277-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471276-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471275-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471275-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Easy Ankle Pants",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E470201-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -335,10 +479,122 @@
   }
 }
 {
-  "name": "AirSense Pants",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E478977-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E478977-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Broadcloth Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E473265-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Broadcloth Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470306-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cargo Jogger Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E468739-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AirSense Pants",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E463823-000",
   "sizes": {
     "code": "CMD073",
@@ -347,6 +603,38 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Cardigan",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469467-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Cardigan",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469467-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
