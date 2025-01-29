@@ -1,4 +1,20 @@
 {
+  "name": "ONE PIECE Anime 25th Short Sleeve UT",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E473493-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Short Sleeve Polo Shirt",
   "price": 590.0000,
   "basePrice": 1990.0000,
@@ -79,6 +95,22 @@
   }
 }
 {
+  "name": "Twill Oversized Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E472871-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Easy Ankle Pants",
   "price": 990.0000,
   "basePrice": 2490.0000,
@@ -132,6 +164,54 @@
   "basePrice": 2490.0000,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E471275-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Parachute Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Knitted Fleece Mock Neck T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469949-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Knitted Fleece Mock Neck T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469949-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -367,6 +447,22 @@
   }
 }
 {
+  "name": "Sweat Long Sleeve Full-Zip Hoodie",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E460324-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Fine Cloth Easy Care Checked Regular Fit Long Sleeve Shirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -463,15 +559,15 @@
   }
 }
 {
-  "name": "Ultra Light Down Parka (3D Cut)",
-  "price": 2990.0000,
-  "basePrice": 6990.0000,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E449722-000",
+  "name": "Comfort Jacket",
+  "price": 2490.0000,
+  "basePrice": 5990.0000,
+  "discount": 58,
+  "link": "https://www.uniqlo.com/in/en/products/E449621-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
