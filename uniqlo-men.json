@@ -4477,15 +4477,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -5806,15 +5797,15 @@
           }
         ],
         "rating": {
-          "average": 4.67,
-          "count": 9,
-          "fit": 2.89,
+          "average": 4.7,
+          "count": 10,
+          "fit": 2.9,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 1,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -5844,7 +5835,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 10,
           "count": 0,
           "items": []
         },
@@ -5986,15 +5977,15 @@
           }
         ],
         "rating": {
-          "average": 4.69,
-          "count": 13,
+          "average": 4.71,
+          "count": 14,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
             "four": 1,
-            "five": 11
+            "five": 12
           }
         },
         "representative": {
@@ -6024,7 +6015,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 14,
           "count": 0,
           "items": []
         },
@@ -13369,15 +13360,15 @@
           }
         ],
         "rating": {
-          "average": 4.78,
-          "count": 55,
+          "average": 4.79,
+          "count": 56,
           "fit": 3.13,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 2,
             "four": 4,
-            "five": 48
+            "five": 49
           }
         },
         "representative": {
@@ -13407,7 +13398,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 55,
+          "total": 56,
           "count": 0,
           "items": []
         },
