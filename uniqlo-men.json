@@ -16040,19 +16040,13 @@
         "longDescription": "- Relaxed, oversized silhouette.",
         "name": "Broadcloth Oversized Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E471799-000",
@@ -16087,27 +16081,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL52",
-            "displayCode": "52",
-            "name": "GREEN",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08167104",
+          "l2Id": "08167113",
           "salesStartDate": "",
           "salesEndDate": ""
         },
