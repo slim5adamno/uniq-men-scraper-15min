@@ -558,19 +558,3 @@
     }
   }
 }
-{
-  "name": "Comfort Jacket",
-  "price": 2490.0000,
-  "basePrice": 5990.0000,
-  "discount": 58,
-  "link": "https://www.uniqlo.com/in/en/products/E449621-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
