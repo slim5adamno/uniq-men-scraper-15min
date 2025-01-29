@@ -3292,19 +3292,13 @@
         "longDescription": "- The soft finish of the leather goes well with relaxed styles.",
         "name": "Italian Leather Stitched Belt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
           }
         },
         "productId": "E463729-000",
@@ -3348,18 +3342,11 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07926432",
+          "l2Id": "08371256",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -13567,7 +13554,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07928602",
+          "l2Id": "08170279",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -22166,9 +22153,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22193,7 +22180,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08153721",
+          "l2Id": "08153784",
           "salesStartDate": "",
           "salesEndDate": ""
         },
