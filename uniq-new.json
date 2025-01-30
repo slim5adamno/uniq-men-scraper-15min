@@ -127,22 +127,6 @@
   }
 }
 {
-  "name": "Wide Parachute Pants",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Soft Knitted Fleece Mock Neck T-Shirt",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -212,22 +196,6 @@
   "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E472464-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fleece Half-Zip Oversized Pullover",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E471233-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
