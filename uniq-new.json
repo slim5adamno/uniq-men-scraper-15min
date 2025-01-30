@@ -143,6 +143,38 @@
   }
 }
 {
+  "name": "Soft Knitted Fleece Mock Neck T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469949-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Knitted Fleece Mock Neck T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469949-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Shirt Long Sleeve",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -152,6 +184,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Sweatshirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E472464-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -399,6 +447,22 @@
   }
 }
 {
+  "name": "Sweat Shirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E444966-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Knitted Fleece Set Long Sleeve",
   "price": 1990.0000,
   "basePrice": 3490.0000,
@@ -436,6 +500,22 @@
   "basePrice": 3990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E469467-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Hooded Coat",
+  "price": 4990.0000,
+  "basePrice": 9990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E472776-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
