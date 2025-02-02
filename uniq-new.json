@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "NY POP ART Archive UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E473047-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "DRY-EX Short Sleeve T-Shirt (Print)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -133,9 +149,9 @@
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E471275-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -143,15 +159,15 @@
   }
 }
 {
-  "name": "Flannel Easy Ankle Pants",
+  "name": "Wide Parachute Pants",
   "price": 990.0000,
-  "basePrice": 2490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E471275-000",
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -184,6 +200,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470193-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -360,22 +392,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cargo Jogger Pants",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E468739-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
