@@ -1,20 +1,4 @@
 {
-  "name": "The SAKE Collection UT (Short Sleeve Graphic T-Shirt)",
-  "price": 590.0000,
-  "basePrice": 1490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E477043-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "The Louvre x Camille Henrot UT (Short Sleeve Graphic T-Shirt)",
   "price": 590.0000,
   "basePrice": 1490.0000,
@@ -340,22 +324,6 @@
   "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E462273-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fine Cloth Easy Care Checked Regular Fit Long Sleeve Shirt",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E456583-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
