@@ -111,11 +111,11 @@
   }
 }
 {
-  "name": "Wide Parachute Pants",
+  "name": "Flannel Easy Ankle Pants",
   "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E472852-000",
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E471277-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -131,11 +131,11 @@
   "price": 990.0000,
   "basePrice": 2490.0000,
   "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E471277-000",
+  "link": "https://www.uniqlo.com/in/en/products/E471275-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
