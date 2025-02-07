@@ -1,9 +1,9 @@
 {
-  "name": "Dry Pique Short Sleeve Polo Shirt",
-  "price": 590.0000,
-  "basePrice": 1990.0000,
-  "discount": 70,
-  "link": "https://www.uniqlo.com/in/en/products/E465195-000",
+  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E472878-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -15,15 +15,15 @@
   }
 }
 {
-  "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
+  "name": "DRY-EX Short Sleeve T-Shirt (Print)",
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E472878-000",
+  "link": "https://www.uniqlo.com/in/en/products/E467543-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -360,22 +360,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Souffle Yarn Cardigan",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469467-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
