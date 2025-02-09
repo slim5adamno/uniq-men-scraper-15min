@@ -111,22 +111,6 @@
   }
 }
 {
-  "name": "Wide Parachute Pants",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "HEATTECH Ultra Warm Turtleneck T-Shirt",
   "price": 990.0000,
   "basePrice": 2490.0000,
@@ -168,22 +152,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Fine Cloth Easy Care Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470239-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -456,22 +424,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Souffle Yarn Cardigan",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469467-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
