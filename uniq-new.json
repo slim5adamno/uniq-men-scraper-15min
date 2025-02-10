@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "HEATTECH Crew Neck T-Shirt Long Sleeve",
+  "price": 590.0000,
+  "basePrice": 1290.0000,
+  "discount": 54,
+  "link": "https://www.uniqlo.com/in/en/products/E471359-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -68,6 +84,54 @@
   "basePrice": 1490.0000,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E465191-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Knitted Fleece Mock Neck T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1990.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E469949-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Brushed Crew Neck Long Sleeve T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E450179-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Brushed Crew Neck Long Sleeve T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E450179-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -84,22 +148,6 @@
   "basePrice": 2990.0000,
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E472464-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Soft Knitted Fleece Mock Neck T-Shirt",
-  "price": 990.0000,
-  "basePrice": 1990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469949-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -144,9 +192,9 @@
 }
 {
   "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
+  "price": 990.0000,
   "basePrice": 2990.0000,
-  "discount": 50,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E478977-000",
   "sizes": {
     "code": "SMA004",
@@ -160,10 +208,266 @@
 }
 {
   "name": "Corduroy Over Shirt Long Sleeve",
-  "price": 1490.0000,
+  "price": 990.0000,
   "basePrice": 3990.0000,
-  "discount": 63,
+  "discount": 75,
   "link": "https://www.uniqlo.com/in/en/products/E472897-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Knitted Fleece Crew Neck T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470641-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Soft Knitted Fleece Crew Neck T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470641-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470192-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470192-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-003",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-003",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-001",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-001",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470186-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470186-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470184-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470184-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Checked Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -184,230 +488,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470192-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470192-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-003",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-003",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-001",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-001",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470186-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470186-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470184-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470184-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -495,15 +575,111 @@
   }
 }
 {
-  "name": "Souffle Yarn Cardigan",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
+  "name": "Jersey Over Shirt Long Sleeve (Denim)",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470299-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Jersey Over Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470298-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "HEATTECH Pile Lined Sweat Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469966-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "HEATTECH Pile Lined Sweat Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469966-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Cardigan",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E469467-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
+  "price": 1990.0000,
+  "basePrice": 3490.0000,
+  "discount": 43,
+  "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Extra Fine Merino Crew Neck Long Sleeve Sweater",
+  "price": 1990.0000,
+  "basePrice": 3490.0000,
+  "discount": 43,
+  "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
