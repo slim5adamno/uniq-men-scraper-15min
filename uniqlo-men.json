@@ -662,12 +662,12 @@
             "name": "Pullover"
           },
           {
-            "id": 101919,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 110427,
             "name": "Sweatshirts"
+          },
+          {
+            "id": 101919,
+            "name": "Sweat Shirt"
           },
           {
             "id": 11710,
@@ -6370,15 +6370,15 @@
           }
         ],
         "rating": {
-          "average": 4.86,
-          "count": 14,
-          "fit": 3.21,
+          "average": 4.87,
+          "count": 15,
+          "fit": 3.27,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -6408,7 +6408,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 15,
           "count": 0,
           "items": []
         },
