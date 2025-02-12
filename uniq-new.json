@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "DRY-EX Short Sleeve T-Shirt (Print)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E467543-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Dry-EX Short Sleeve Polo Shirt",
   "price": 790.0000,
   "basePrice": 1990.0000,
@@ -264,22 +248,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E470186-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
