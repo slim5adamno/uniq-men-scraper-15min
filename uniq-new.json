@@ -1,20 +1,4 @@
 {
-  "name": "HEATTECH Crew Neck T-Shirt Long Sleeve",
-  "price": 590.0000,
-  "basePrice": 1290.0000,
-  "discount": 54,
-  "link": "https://www.uniqlo.com/in/en/products/E471359-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Mickey Stands UT (Short Sleeve Graphic T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -404,22 +388,6 @@
   "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E469953-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Souffle Yarn Cardigan",
-  "price": 1490.0000,
-  "basePrice": 3990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E469467-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
