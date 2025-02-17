@@ -271,6 +271,38 @@
   }
 }
 {
+  "name": "Pile Lined Fleece Full-Zip Jacket",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pile Lined Fleece Full-Zip Jacket",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "HEATTECH Pile Lined Sweat Pants",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -287,27 +319,11 @@
   }
 }
 {
-  "name": "HEATTECH Pile Lined Sweat Pants",
+  "name": "KAWS + Warhol Sweat Shirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469966-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Pile Lined Fleece Full-Zip Jacket",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
+  "link": "https://www.uniqlo.com/in/en/products/E476119-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -319,15 +335,95 @@
   }
 }
 {
-  "name": "Pile Lined Fleece Full-Zip Jacket",
+  "name": "KAWS + Warhol Sweat Shirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
+  "link": "https://www.uniqlo.com/in/en/products/E476119-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Waffle V Neck Sweater",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E475295-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Waffle V Neck Sweater",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E475295-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "KAWS + Warhol Sweat Shirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E472951-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "KAWS + Warhol Sweat Shirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E472951-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Half-Zip Sweater",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469473-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -356,6 +452,54 @@
   "basePrice": 3490.0000,
   "discount": 43,
   "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Short Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469905-001",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Short Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469905-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Short Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469905-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
