@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "Soft Knitted Fleece Crew Neck T-Shirt",
-  "price": 990.0000,
-  "basePrice": 1990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470641-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Flannel Shirt Long Sleeve",
   "price": 990.0000,
   "basePrice": 2990.0000,
