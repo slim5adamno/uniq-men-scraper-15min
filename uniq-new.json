@@ -95,6 +95,22 @@
   }
 }
 {
+  "name": "Wide Parachute Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E471183-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Shirt Long Sleeve",
   "price": 990.0000,
   "basePrice": 2990.0000,
@@ -207,11 +223,11 @@
   }
 }
 {
-  "name": "Pile Lined Fleece Full-Zip Jacket",
+  "name": "HEATTECH Ultra Warm Turtleneck T-Shirt",
   "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E461012-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -312,6 +328,38 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Souffle Yarn Crew Neck Sweater",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E471229-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Broadcloth Shirt Long Sleeve",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470303-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
