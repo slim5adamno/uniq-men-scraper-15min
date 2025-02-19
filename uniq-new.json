@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "Flannel Easy Ankle Pants",
-  "price": 990.0000,
-  "basePrice": 2490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E471277-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Wide Parachute Pants",
   "price": 990.0000,
   "basePrice": 2990.0000,
@@ -212,22 +196,6 @@
   "basePrice": 2990.0000,
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470183-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "HEATTECH Ultra Warm Turtleneck T-Shirt",
-  "price": 990.0000,
-  "basePrice": 2490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E461012-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
