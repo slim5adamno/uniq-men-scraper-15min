@@ -435,22 +435,6 @@
   "price": 2490.0000,
   "basePrice": 4990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E469905-001",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oversized Short Jacket",
-  "price": 2490.0000,
-  "basePrice": 4990.0000,
-  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E469905-000",
   "sizes": {
     "code": "SMA003",
