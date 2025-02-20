@@ -174,11 +174,6 @@
           "name": "DARK GREEN"
         },
         {
-          "code": "COL60",
-          "displayCode": "60",
-          "name": "LIGHT BLUE"
-        },
-        {
           "code": "COL61",
           "displayCode": "61",
           "name": "BLUE"
@@ -2905,15 +2900,6 @@
             }
           },
           {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -5327,15 +5313,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
@@ -5348,15 +5325,6 @@
             "code": "COL57",
             "displayCode": "57",
             "name": "OLIVE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL60",
-            "displayCode": "60",
-            "name": "LIGHT BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5572,15 +5540,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
