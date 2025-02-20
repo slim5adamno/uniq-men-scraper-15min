@@ -3550,15 +3550,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -8975,14 +8966,14 @@
           }
         ],
         "rating": {
-          "average": 4.67,
-          "count": 3,
-          "fit": 2.67,
+          "average": 4.5,
+          "count": 4,
+          "fit": 2.75,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 1,
+            "four": 2,
             "five": 2
           }
         },
@@ -9013,7 +9004,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 4,
           "count": 0,
           "items": []
         },
