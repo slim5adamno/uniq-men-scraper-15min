@@ -47,22 +47,6 @@
   }
 }
 {
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E478977-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Soft Knitted Fleece Crew Neck T-Shirt",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -148,22 +132,6 @@
   "basePrice": 2990.0000,
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470184-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Checked Shirt Long Sleeve",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E470183-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
