@@ -47,11 +47,11 @@
   }
 }
 {
-  "name": "Twill Oversized Shirt Long Sleeve",
+  "name": "Flannel Shirt Long Sleeve",
   "price": 990.0000,
   "basePrice": 2990.0000,
   "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E472871-000",
+  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -69,9 +69,9 @@
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470188-002",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
