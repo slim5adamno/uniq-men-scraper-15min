@@ -67,22 +67,6 @@
   "price": 990.0000,
   "basePrice": 2990.0000,
   "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470188-001",
   "sizes": {
     "code": "SMA003",
@@ -472,22 +456,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Double Face Chester Long Coat",
-  "price": 4990.0000,
-  "basePrice": 8990.0000,
-  "discount": 44,
-  "link": "https://www.uniqlo.com/in/en/products/E469906-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
