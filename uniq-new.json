@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "Soft Knitted Fleece Crew Neck T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1990.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E470641-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Soft Brushed Crew Neck Long Sleeve T-Shirt",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -84,6 +100,22 @@
   "basePrice": 2990.0000,
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470184-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pile Lined Fleece Full-Zip Jacket",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -388,6 +420,22 @@
   "basePrice": 3490.0000,
   "discount": 57,
   "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Comfort Jacket",
+  "price": 1990.0000,
+  "basePrice": 5990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E449621-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
