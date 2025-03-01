@@ -398,19 +398,3 @@
     }
   }
 }
-{
-  "name": "Double Face Chester Long Coat",
-  "price": 4990.0000,
-  "basePrice": 8990.0000,
-  "discount": 44,
-  "link": "https://www.uniqlo.com/in/en/products/E469906-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
