@@ -99,6 +99,38 @@
   "price": 990.0000,
   "basePrice": 2990.0000,
   "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-002",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470188-001",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Flannel Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470188-001",
   "sizes": {
     "code": "SMA004",
@@ -116,6 +148,22 @@
   "basePrice": 2990.0000,
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470184-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pile Lined Fleece Full-Zip Jacket",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -372,6 +420,22 @@
   "basePrice": 3490.0000,
   "discount": 57,
   "link": "https://www.uniqlo.com/in/en/products/E450535-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Short Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E469905-001",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
