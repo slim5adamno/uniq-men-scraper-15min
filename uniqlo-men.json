@@ -2913,14 +2913,14 @@
         ],
         "rating": {
           "average": 4.45,
-          "count": 147,
+          "count": 148,
           "fit": 3.01,
           "rateCount": {
             "one": 13,
             "two": 1,
             "three": 4,
             "four": 18,
-            "five": 111
+            "five": 112
           }
         },
         "representative": {
