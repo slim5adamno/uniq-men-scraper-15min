@@ -375,7 +375,7 @@
         "classes": [
           {
             "id": 11677,
-            "name": "T-Shirts"
+            "name": "T-Shirts & Sweat"
           },
           {
             "id": 95868,
@@ -698,12 +698,12 @@
             "name": "Ultra Light Down Coat"
           },
           {
-            "id": 23567,
-            "name": "Wide"
-          },
-          {
             "id": 101889,
             "name": "Other Ultra Light Down"
+          },
+          {
+            "id": 23567,
+            "name": "Wide"
           },
           {
             "id": 23569,
@@ -722,12 +722,12 @@
             "name": "Pullover"
           },
           {
-            "id": 101919,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 110427,
             "name": "Sweatshirts"
+          },
+          {
+            "id": 101919,
+            "name": "Sweat Shirt"
           },
           {
             "id": 11710,
@@ -2558,19 +2558,13 @@
         "longDescription": "- Made of 100% high quality approximately 19.5-micron wool to be soft, puffy, and warm.<br>- Fashion marks around the shoulders give it a knit-like appearance.<br>- Hand-washable.",
         "name": "Premium Lambswool Long Sleeve Crew Neck Sweater",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E460940-000",
@@ -2605,27 +2599,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08154608",
+          "l2Id": "08154392",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -5985,19 +5972,13 @@
         "longDescription": "- Shoulder and body widths and rib widths are adjusted for a modern regular fit.",
         "name": "Sweat Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E475377-000",
@@ -6032,27 +6013,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08379986",
+          "l2Id": "08379977",
           "salesStartDate": "",
           "salesEndDate": ""
         },
