@@ -271,22 +271,6 @@
   }
 }
 {
-  "name": "Flannel Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E470190-001",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Middle Gauge Full-Zip Sweater",
   "price": 1990.0000,
   "basePrice": 3990.0000,
