@@ -620,24 +620,24 @@
         ],
         "subcategories": [
           {
-            "id": 95942,
-            "name": "Others"
-          },
-          {
             "id": 106391,
             "name": "Outerwear"
+          },
+          {
+            "id": 95942,
+            "name": "Others"
           },
           {
             "id": 106392,
             "name": "T-Shirts"
           },
           {
-            "id": 95933,
-            "name": "Oxford"
-          },
-          {
             "id": 106393,
             "name": "Shirts"
+          },
+          {
+            "id": 95933,
+            "name": "Oxford"
           },
           {
             "id": 106394,
@@ -648,12 +648,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 95931,
-            "name": "Long Sleeves"
-          },
-          {
             "id": 117252,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 95931,
+            "name": "Long Sleeves"
           },
           {
             "id": 106396,
@@ -684,12 +684,12 @@
             "name": "Coats"
           },
           {
-            "id": 106397,
-            "name": "Outerwear"
-          },
-          {
             "id": 93965,
             "name": "Denim Jeans"
+          },
+          {
+            "id": 106397,
+            "name": "Outerwear"
           },
           {
             "id": 93966,
@@ -704,20 +704,20 @@
             "name": "Waffle"
           },
           {
-            "id": 106401,
-            "name": "Bottoms"
-          },
-          {
             "id": 12512,
             "name": "Long Sleeve"
           },
           {
-            "id": 93968,
-            "name": "Dress Pants"
+            "id": 106401,
+            "name": "Bottoms"
           },
           {
             "id": 12501,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 93968,
+            "name": "Dress Pants"
           },
           {
             "id": 13222,
@@ -772,16 +772,16 @@
             "name": "Wide"
           },
           {
+            "id": 12599,
+            "name": "Cargo & Baker Pants"
+          },
+          {
             "id": 11694,
             "name": "Others"
           },
           {
             "id": 110370,
             "name": "DRY-EX"
-          },
-          {
-            "id": 12599,
-            "name": "Cargo & Baker Pants"
           },
           {
             "id": 93956,
@@ -860,20 +860,20 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 11710,
-            "name": "Others"
-          },
-          {
             "id": 23567,
             "name": "Wide"
           },
           {
-            "id": 101920,
-            "name": "Hoodies"
+            "id": 11710,
+            "name": "Others"
           },
           {
             "id": 110378,
             "name": "Full Zip"
+          },
+          {
+            "id": 101920,
+            "name": "Hoodies"
           },
           {
             "id": 67734,
@@ -1888,7 +1888,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08380591",
+          "l2Id": "08380592",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2107,7 +2107,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08380633",
+          "l2Id": "08380634",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -4554,7 +4554,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08380743",
+          "l2Id": "08380744",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -4769,7 +4769,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08384757",
+          "l2Id": "08384758",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -4956,7 +4956,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08512259",
+          "l2Id": "08512260",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -6860,7 +6860,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08376380",
+          "l2Id": "08376381",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7081,7 +7081,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08380530",
+          "l2Id": "08380531",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7309,7 +7309,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08383101",
+          "l2Id": "08383102",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7500,7 +7500,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08387423",
+          "l2Id": "08387424",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9366,7 +9366,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08376317",
+          "l2Id": "08376318",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9567,7 +9567,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08476269",
+          "l2Id": "08476270",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -10664,7 +10664,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08382444",
+          "l2Id": "08382445",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12058,7 +12058,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08382522",
+          "l2Id": "08382523",
           "salesStartDate": "",
           "salesEndDate": ""
         },
