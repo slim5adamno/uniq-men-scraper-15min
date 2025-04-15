@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "Oversized Striped Rugger Polo Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E477796-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Wide Fit Cargo Half Pants",
   "price": 1490.0000,
   "basePrice": 2990.0000,
