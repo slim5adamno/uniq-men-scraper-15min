@@ -1,20 +1,4 @@
 {
-  "name": "Pile Lined Fleece Full-Zip Jacket",
-  "price": 790.0000,
-  "basePrice": 2990.0000,
-  "discount": 74,
-  "link": "https://www.uniqlo.com/in/en/products/E469953-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Cactus x Sponge Bob Sweat Hoodie",
   "price": 990.0000,
   "basePrice": 2990.0000,
