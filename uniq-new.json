@@ -15,6 +15,70 @@
   }
 }
 {
+  "name": "Crew Neck T-Shirt 3/4 Sleeve",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476216-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Crew Neck T-Shirt 3/4 Sleeve",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476216-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Super Non Iron Regular Fit Long Sleeve Shirt",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E462324-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Super Non Iron Regular Fit Long Sleeve Shirt",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E462324-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Flannel Shirt Long Sleeve",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -111,11 +175,11 @@
   }
 }
 {
-  "name": "Super Non Iron Regular Fit Long Sleeve Shirt",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
+  "name": "Light Weight Stand Blouson",
+  "price": 2990.0000,
+  "basePrice": 5990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462324-000",
+  "link": "https://www.uniqlo.com/in/en/products/E476196-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -127,11 +191,11 @@
   }
 }
 {
-  "name": "Super Non Iron Regular Fit Long Sleeve Shirt",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
+  "name": "Light Weight Stand Blouson",
+  "price": 2990.0000,
+  "basePrice": 5990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E462324-000",
+  "link": "https://www.uniqlo.com/in/en/products/E476196-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -143,11 +207,11 @@
   }
 }
 {
-  "name": "Light Weight Stand Blouson",
+  "name": "Cotton Short Blouson",
   "price": 2990.0000,
   "basePrice": 5990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476196-000",
+  "link": "https://www.uniqlo.com/in/en/products/E475403-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -159,11 +223,11 @@
   }
 }
 {
-  "name": "Light Weight Stand Blouson",
+  "name": "Cotton Short Blouson",
   "price": 2990.0000,
   "basePrice": 5990.0000,
   "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476196-000",
+  "link": "https://www.uniqlo.com/in/en/products/E475403-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
