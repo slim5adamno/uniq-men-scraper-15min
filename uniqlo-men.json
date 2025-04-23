@@ -707,6 +707,10 @@
             "name": "Short Sleeve"
           },
           {
+            "id": 11713,
+            "name": "Others"
+          },
+          {
             "id": 12498,
             "name": "DRY-EX"
           },
@@ -911,10 +915,6 @@
             "name": "Knit Cardigans"
           },
           {
-            "id": 93925,
-            "name": "V Neck"
-          },
-          {
             "id": 50370,
             "name": "Chino"
           },
@@ -1029,15 +1029,6 @@
             "code": "COL03",
             "displayCode": "03",
             "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
