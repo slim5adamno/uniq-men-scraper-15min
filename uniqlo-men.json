@@ -646,12 +646,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 95937,
-            "name": "Oversized Shirts"
-          },
-          {
             "id": 106396,
             "name": "Accessory"
+          },
+          {
+            "id": 95937,
+            "name": "Oversized Shirts"
           },
           {
             "id": 93992,
@@ -670,12 +670,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106398,
-            "name": "Shirts"
-          },
-          {
             "id": 93966,
             "name": "Chino"
+          },
+          {
+            "id": 106398,
+            "name": "Shirts"
           },
           {
             "id": 106399,
@@ -758,16 +758,16 @@
             "name": "Wide"
           },
           {
+            "id": 110370,
+            "name": "DRY-EX"
+          },
+          {
             "id": 12599,
             "name": "Cargo & Baker Pants"
           },
           {
             "id": 11694,
             "name": "Others"
-          },
-          {
-            "id": 110370,
-            "name": "DRY-EX"
           },
           {
             "id": 93956,
@@ -806,12 +806,12 @@
             "name": "Wide"
           },
           {
-            "id": 115632,
-            "name": "Pleated"
-          },
-          {
             "id": 94104,
             "name": "Cotton"
+          },
+          {
+            "id": 115632,
+            "name": "Pleated"
           },
           {
             "id": 115633,
@@ -846,20 +846,20 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 11710,
-            "name": "Others"
-          },
-          {
             "id": 23567,
             "name": "Wide"
           },
           {
-            "id": 110378,
-            "name": "Full Zip"
+            "id": 11710,
+            "name": "Others"
           },
           {
             "id": 101920,
             "name": "Hoodies"
+          },
+          {
+            "id": 110378,
+            "name": "Full Zip"
           },
           {
             "id": 67697,
