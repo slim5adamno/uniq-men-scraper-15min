@@ -1,4 +1,20 @@
 {
+  "name": "Striped T-Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476228-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Crew Neck T-Shirt 3/4 Sleeve",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -219,6 +235,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pleated Wide Chino Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E470603-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
