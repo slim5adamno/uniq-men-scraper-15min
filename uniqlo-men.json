@@ -627,20 +627,24 @@
             "name": "T-Shirts"
           },
           {
-            "id": 106393,
-            "name": "Shirts"
+            "id": 114905,
+            "name": "Others"
           },
           {
             "id": 95933,
             "name": "Oxford"
           },
           {
-            "id": 114905,
-            "name": "Others"
+            "id": 106393,
+            "name": "Shirts"
           },
           {
             "id": 106394,
             "name": "Sweaters"
+          },
+          {
+            "id": 117252,
+            "name": "Long Sleeve"
           },
           {
             "id": 106395,
@@ -649,10 +653,6 @@
           {
             "id": 95931,
             "name": "Long Sleeves"
-          },
-          {
-            "id": 117252,
-            "name": "Long Sleeve"
           },
           {
             "id": 95937,
@@ -739,12 +739,12 @@
             "name": "Wide"
           },
           {
-            "id": 11694,
-            "name": "Others"
-          },
-          {
             "id": 12599,
             "name": "Cargo & Baker Pants"
+          },
+          {
+            "id": 11694,
+            "name": "Others"
           },
           {
             "id": 110370,
@@ -771,12 +771,12 @@
             "name": "Dan Da Dan"
           },
           {
-            "id": 112316,
-            "name": "Curated by Tate Gallery"
-          },
-          {
             "id": 12603,
             "name": "Straight"
+          },
+          {
+            "id": 112316,
+            "name": "Curated by Tate Gallery"
           },
           {
             "id": 13135,
@@ -795,12 +795,12 @@
             "name": "Wide"
           },
           {
-            "id": 94104,
-            "name": "Cotton"
-          },
-          {
             "id": 115632,
             "name": "Pleated"
+          },
+          {
+            "id": 94104,
+            "name": "Cotton"
           },
           {
             "id": 115633,
@@ -839,24 +839,24 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 23567,
-            "name": "Wide"
-          },
-          {
             "id": 11710,
             "name": "Others"
           },
           {
-            "id": 23569,
-            "name": "Shorts"
+            "id": 23567,
+            "name": "Wide"
+          },
+          {
+            "id": 110378,
+            "name": "Full Zip"
           },
           {
             "id": 101920,
             "name": "Hoodies"
           },
           {
-            "id": 110378,
-            "name": "Full Zip"
+            "id": 23569,
+            "name": "Shorts"
           },
           {
             "id": 67734,
