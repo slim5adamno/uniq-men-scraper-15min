@@ -159,11 +159,6 @@
           "name": "DARK GREEN"
         },
         {
-          "code": "COL60",
-          "displayCode": "60",
-          "name": "LIGHT BLUE"
-        },
-        {
           "code": "COL62",
           "displayCode": "62",
           "name": "BLUE"
@@ -248,7 +243,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 19
+          "count": 18
         },
         {
           "from": 1000,
@@ -274,48 +269,48 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 67,
+          "accumulated": 66,
           "count": 36
         },
         {
           "rating": 0.5,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 30,
+          "accumulated": 29,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 30,
-          "count": 2
+          "accumulated": 29,
+          "count": 1
         },
         {
           "rating": 4.5,
@@ -487,10 +482,6 @@
           {
             "id": 95870,
             "name": "Polo Shirts"
-          },
-          {
-            "id": 95872,
-            "name": "Dress Shirts"
           },
           {
             "id": 11717,
@@ -3590,9 +3581,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL15",
+            "displayCode": "15",
+            "name": "RED",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3617,7 +3608,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08416575",
+          "l2Id": "08416581",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -4576,217 +4567,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL60",
-            "displayCode": "60",
-            "name": "LIGHT BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/item/goods_00_462324_3x4.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/item/goods_09_462324_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/item/goods_60_462324_3x4.jpg",
-              "colorCode": "60"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/chip/goods_00_462324_chip.jpg",
-              "colorCode": "00"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/chip/goods_09_462324_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/chip/goods_60_462324_chip.jpg",
-              "colorCode": "60"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/sub/goods_462324_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/sub/goods_462324_sub17_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/sub/goods_462324_sub18_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/sub/goods_462324_sub19_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462324/sub/goods_462324_sub23_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/462324/feature/ingoods_462324_feature1.jpg",
-              "text": "100% cotton made from fine-count, double-ply thread."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/462324/feature/ingoods_462324_feature2.jpg",
-              "text": "Collar band height and collar shape designed to look good with a necktie."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/462324/feature/ingoods_462324_feature3.jpg",
-              "text": "Special button stitching allows buttons to be fastened with one hand."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/462324/feature/ingoods_462324_feature4.jpg",
-              "text": "Practical chest pocket designed to fit ID cards and passports."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/462324/feature/ingoods_462324_feature5.jpg",
-              "text": "A non-iron business shirt with a special wrinkle-resistant finish. *Light ironing may be required, depending on laundering conditions. *Avoid tumble drying."
-            }
-          ]
-        },
-        "l1Id": "470255",
-        "longDescription": "- 100% cotton made from fine-count, double-ply thread.<br>- Collar band height and collar shape designed to look good with a necktie.<br>- Special button stitching allows buttons to be fastened with one hand.<br>- Practical chest pocket designed to fit ID cards and passports.<br>- A non-iron business shirt with a special wrinkle-resistant finish. *Light ironing may be required, depending on laundering conditions. *Avoid tumble drying.",
-        "name": "Super Non Iron Regular Fit Long Sleeve Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E462324-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.47,
-          "count": 17,
-          "fit": 3.06,
-          "rateCount": {
-            "one": 2,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 14
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08169950",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 17,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/462324_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Tumble dry low."
       },
       {
         "careInstruction": "<br>",
@@ -6155,9 +5935,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
+            "code": "COL25",
+            "displayCode": "25",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6182,7 +5962,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08399660",
+          "l2Id": "08399666",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7430,9 +7210,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7450,7 +7230,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08343082",
+          "l2Id": "08343090",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -10451,9 +10231,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
+            "code": "COL35",
+            "displayCode": "35",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10471,7 +10251,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08377728",
+          "l2Id": "08181137",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11090,9 +10870,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL34",
-            "displayCode": "34",
-            "name": "BROWN",
+            "code": "COL19",
+            "displayCode": "19",
+            "name": "WINE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11117,7 +10897,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08396916",
+          "l2Id": "08396907",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11918,9 +11698,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL25",
-            "displayCode": "25",
-            "name": "ORANGE",
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11945,7 +11725,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08396876",
+          "l2Id": "08396883",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12323,9 +12103,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12350,7 +12130,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08399558",
+          "l2Id": "08399546",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12996,19 +12776,13 @@
         "longDescription": "- Adjusted shoulder and rib widths for a modern regular fit.",
         "name": "Sweat Full-Zip Hoodie",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "3490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
           }
         },
         "productId": "E475380-000",
@@ -13032,27 +12806,20 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL62",
-            "displayCode": "62",
-            "name": "BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08380373",
+          "l2Id": "08380301",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -13834,9 +13601,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13861,7 +13628,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08396844",
+          "l2Id": "08396835",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14550,8 +14317,8 @@
       }
     ],
     "pagination": {
-      "count": 67,
-      "total": 67,
+      "count": 66,
+      "total": 66,
       "offset": 1000
     }
   }
