@@ -159,6 +159,22 @@
   }
 }
 {
+  "name": "Knitted Vest",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E476187-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Crew Neck Sweater Short Sleeve",
   "price": 990.0000,
   "basePrice": 2490.0000,
@@ -200,6 +216,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "3D Knit Crew Neck Sweater",
+  "price": 990.0000,
+  "basePrice": 3990.0000,
+  "discount": 75,
+  "link": "https://www.uniqlo.com/in/en/products/E475296-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
