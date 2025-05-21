@@ -239,22 +239,6 @@
   }
 }
 {
-  "name": "Wide Fit Half Pants",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E470635-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Broadcloth Oversized Shirt Long Sleeve",
   "price": 1490.0000,
   "basePrice": 2990.0000,
