@@ -5909,15 +5909,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -11726,14 +11717,14 @@
           }
         ],
         "rating": {
-          "average": 4.57,
-          "count": 28,
-          "fit": 3.46,
+          "average": 4.55,
+          "count": 29,
+          "fit": 3.48,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 1,
-            "four": 7,
+            "four": 8,
             "five": 19
           }
         },
@@ -11764,7 +11755,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -12259,14 +12250,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
+          "average": 4.5,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 1
           }
         },
@@ -12297,7 +12288,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
