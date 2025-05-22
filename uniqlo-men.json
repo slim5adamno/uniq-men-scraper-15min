@@ -290,12 +290,12 @@
         {
           "rating": 4.5,
           "accumulated": 44,
-          "count": 11
+          "count": 12
         },
         {
           "rating": 5,
-          "accumulated": 33,
-          "count": 33
+          "accumulated": 32,
+          "count": 32
         }
       ],
       "sizes": [
