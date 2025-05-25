@@ -127,6 +127,22 @@
   }
 }
 {
+  "name": "AIRism Cotton Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476217-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Wide Fit Cargo Half Pants",
   "price": 990.0000,
   "basePrice": 2990.0000,
@@ -351,6 +367,22 @@
   }
 }
 {
+  "name": "Easy Work Pants",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E475601-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Half-Zip Sweatshirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -463,6 +495,22 @@
   }
 }
 {
+  "name": "AirSense Pleated Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E475602-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Pleated Wide Pants",
   "price": 1990.0000,
   "basePrice": 3990.0000,
@@ -500,6 +548,22 @@
   "basePrice": 3490.0000,
   "discount": 43,
   "link": "https://www.uniqlo.com/in/en/products/E468753-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Cotton Short Blouson",
+  "price": 2490.0000,
+  "basePrice": 5990.0000,
+  "discount": 58,
+  "link": "https://www.uniqlo.com/in/en/products/E475403-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
