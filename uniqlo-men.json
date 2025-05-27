@@ -596,24 +596,24 @@
         ],
         "subcategories": [
           {
-            "id": 106391,
-            "name": "Outerwear"
-          },
-          {
             "id": 117254,
             "name": "Half Sleeve"
+          },
+          {
+            "id": 106391,
+            "name": "Outerwear"
           },
           {
             "id": 106392,
             "name": "T-Shirts"
           },
           {
-            "id": 114905,
-            "name": "Others"
-          },
-          {
             "id": 106393,
             "name": "Shirts"
+          },
+          {
+            "id": 114905,
+            "name": "Others"
           },
           {
             "id": 106394,
@@ -624,20 +624,20 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 106395,
-            "name": "Bottoms"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
           },
           {
-            "id": 95937,
-            "name": "Oversized Shirts"
+            "id": 106395,
+            "name": "Bottoms"
           },
           {
             "id": 106396,
             "name": "Accessory"
+          },
+          {
+            "id": 95937,
+            "name": "Oversized Shirts"
           },
           {
             "id": 93992,
@@ -736,12 +736,12 @@
             "name": "Wide"
           },
           {
-            "id": 11694,
-            "name": "Others"
-          },
-          {
             "id": 12599,
             "name": "Cargo & Baker Pants"
+          },
+          {
+            "id": 11694,
+            "name": "Others"
           },
           {
             "id": 110370,
@@ -780,12 +780,12 @@
             "name": "Jackets"
           },
           {
-            "id": 113541,
-            "name": "MAGNUM PHOTOS"
-          },
-          {
             "id": 12603,
             "name": "Straight"
+          },
+          {
+            "id": 113541,
+            "name": "MAGNUM PHOTOS"
           },
           {
             "id": 13135,
@@ -900,12 +900,12 @@
             "name": "Shorts"
           },
           {
-            "id": 110381,
-            "name": "Sweatpants"
-          },
-          {
             "id": 67734,
             "name": "Chino"
+          },
+          {
+            "id": 110381,
+            "name": "Sweatpants"
           },
           {
             "id": 11693,
@@ -9492,7 +9492,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08649003",
+          "l2Id": "08649004",
           "salesStartDate": "",
           "salesEndDate": ""
         },
