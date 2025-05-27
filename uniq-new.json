@@ -415,22 +415,6 @@
   }
 }
 {
-  "name": "Washable Milano Ribbed Crew Neck Sweater",
-  "price": 1490.0000,
-  "basePrice": 3490.0000,
-  "discount": 57,
-  "link": "https://www.uniqlo.com/in/en/products/E468753-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Windproof Vest",
   "price": 1990.0000,
   "basePrice": 3490.0000,
