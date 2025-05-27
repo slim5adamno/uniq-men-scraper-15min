@@ -280,12 +280,12 @@
         {
           "rating": 3.5,
           "accumulated": 58,
-          "count": 0
+          "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 58,
-          "count": 5
+          "accumulated": 57,
+          "count": 4
         },
         {
           "rating": 4.5,
