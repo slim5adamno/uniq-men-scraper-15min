@@ -69,22 +69,6 @@
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E476216-000",
   "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Crew Neck T-Shirt 3/4 Sleeve",
-  "price": 790.0000,
-  "basePrice": 1990.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E476216-000",
-  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
@@ -148,22 +132,6 @@
   "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E476217-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Knitted Vest",
-  "price": 990.0000,
-  "basePrice": 2490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E476187-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -468,22 +436,6 @@
   "basePrice": 3490.0000,
   "discount": 43,
   "link": "https://www.uniqlo.com/in/en/products/E476521-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cotton Short Blouson",
-  "price": 2490.0000,
-  "basePrice": 5990.0000,
-  "discount": 58,
-  "link": "https://www.uniqlo.com/in/en/products/E475403-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
