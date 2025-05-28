@@ -788,10 +788,6 @@
             "name": "Others"
           },
           {
-            "id": 12621,
-            "name": "Easy"
-          },
-          {
             "id": 12618,
             "name": "Cargo"
           },
@@ -806,10 +802,6 @@
           {
             "id": 12614,
             "name": "Ultra Stretch"
-          },
-          {
-            "id": 12612,
-            "name": "DRY-EX"
           },
           {
             "id": 101941,
@@ -842,10 +834,6 @@
           {
             "id": 93917,
             "name": "Milano Ribbed"
-          },
-          {
-            "id": 50370,
-            "name": "Chino"
           },
           {
             "id": 50375,
@@ -6030,8 +6018,8 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL64",
-            "displayCode": "64",
+            "code": "COL66",
+            "displayCode": "66",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -6050,7 +6038,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08427139",
+          "l2Id": "08583810",
           "salesStartDate": "",
           "salesEndDate": ""
         },
