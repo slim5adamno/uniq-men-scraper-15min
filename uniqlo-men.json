@@ -561,12 +561,12 @@
         ],
         "subcategories": [
           {
-            "id": 117254,
-            "name": "Half Sleeve"
-          },
-          {
             "id": 106391,
             "name": "Outerwear"
+          },
+          {
+            "id": 117254,
+            "name": "Half Sleeve"
           },
           {
             "id": 95930,
@@ -577,16 +577,16 @@
             "name": "T-Shirts"
           },
           {
-            "id": 79734,
-            "name": "T-Shirts"
+            "id": 114905,
+            "name": "Others"
           },
           {
             "id": 106393,
             "name": "Shirts"
           },
           {
-            "id": 114905,
-            "name": "Others"
+            "id": 79734,
+            "name": "T-Shirts"
           },
           {
             "id": 95931,
@@ -597,16 +597,16 @@
             "name": "Sweaters"
           },
           {
-            "id": 106395,
-            "name": "Bottoms"
+            "id": 117252,
+            "name": "Long Sleeve"
           },
           {
             "id": 79736,
             "name": "Dry"
           },
           {
-            "id": 117252,
-            "name": "Long Sleeve"
+            "id": 106395,
+            "name": "Bottoms"
           },
           {
             "id": 106396,
@@ -629,16 +629,16 @@
             "name": "Others"
           },
           {
-            "id": 106397,
-            "name": "Outerwear"
-          },
-          {
             "id": 24342,
             "name": "Oversized"
           },
           {
             "id": 93965,
             "name": "Denim Jeans"
+          },
+          {
+            "id": 106397,
+            "name": "Outerwear"
           },
           {
             "id": 93966,
@@ -649,12 +649,20 @@
             "name": "Shirts"
           },
           {
+            "id": 12607,
+            "name": "Others"
+          },
+          {
             "id": 106401,
             "name": "Bottoms"
           },
           {
             "id": 12498,
             "name": "DRY-EX"
+          },
+          {
+            "id": 12604,
+            "name": "Wide"
           },
           {
             "id": 95929,
@@ -685,6 +693,14 @@
             "name": "Others"
           },
           {
+            "id": 101928,
+            "name": "Smart"
+          },
+          {
+            "id": 13135,
+            "name": "Ultra Stretch"
+          },
+          {
             "id": 110418,
             "name": "Shorts"
           },
@@ -701,14 +717,6 @@
             "name": "Others"
           },
           {
-            "id": 12607,
-            "name": "Others"
-          },
-          {
-            "id": 12604,
-            "name": "Wide"
-          },
-          {
             "id": 110370,
             "name": "DRY-EX"
           },
@@ -717,12 +725,12 @@
             "name": "Others"
           },
           {
-            "id": 93956,
-            "name": "Cotton"
-          },
-          {
             "id": 108613,
             "name": "Disney’s Mickey Faces"
+          },
+          {
+            "id": 93956,
+            "name": "Cotton"
           },
           {
             "id": 93957,
@@ -737,16 +745,8 @@
             "name": "Pablo Picasso"
           },
           {
-            "id": 101928,
-            "name": "Smart"
-          },
-          {
             "id": 110423,
             "name": "Jackets"
-          },
-          {
-            "id": 13135,
-            "name": "Ultra Stretch"
           },
           {
             "id": 113541,
@@ -1248,14 +1248,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -1285,7 +1285,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
@@ -12022,15 +12022,15 @@
           }
         ],
         "rating": {
-          "average": 4.58,
-          "count": 33,
-          "fit": 3.45,
+          "average": 4.59,
+          "count": 34,
+          "fit": 3.44,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 1,
             "four": 9,
-            "five": 22
+            "five": 23
           }
         },
         "representative": {
@@ -12060,7 +12060,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 33,
+          "total": 34,
           "count": 0,
           "items": []
         },
