@@ -3,22 +3,6 @@
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E477533-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "TATE UT(Short Sleeve Graphic T-shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E477530-000",
   "sizes": {
     "code": "SMA003",
@@ -139,22 +123,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Pleated Wide Pants",
-  "price": 1490.0000,
-  "basePrice": 3990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E475596-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
