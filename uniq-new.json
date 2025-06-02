@@ -319,6 +319,22 @@
   }
 }
 {
+  "name": "Pleated Wide Pants",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E475596-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Half-Zip Sweatshirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
