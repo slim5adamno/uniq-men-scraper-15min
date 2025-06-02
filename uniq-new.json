@@ -47,6 +47,70 @@
   }
 }
 {
+  "name": "Coco magnum UT(Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E477909-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Coco magnum UT(Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E477909-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Coco magnum UT(Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E477908-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Coco magnum UT(Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E477908-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "AIRism Cotton Polo Shirt",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -111,6 +175,38 @@
   }
 }
 {
+  "name": "Dry Pique Striped Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E477677-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Dry Pique Striped Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E477677-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Utility Shirt Short Sleeve",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -159,6 +255,38 @@
   }
 }
 {
+  "name": "Wide Fit Cargo Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476193-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Fit Cargo Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476193-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Stretch Jacket",
   "price": 2990.0000,
   "basePrice": 5990.0000,
@@ -176,9 +304,9 @@
 }
 {
   "name": "Oversized Single Breasted Coat",
-  "price": 3990.0000,
+  "price": 2990.0000,
   "basePrice": 7990.0000,
-  "discount": 50,
+  "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E475634-000",
   "sizes": {
     "code": "SMA003",
@@ -192,9 +320,9 @@
 }
 {
   "name": "Oversized Single Breasted Coat",
-  "price": 3990.0000,
+  "price": 2990.0000,
   "basePrice": 7990.0000,
-  "discount": 50,
+  "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E475634-000",
   "sizes": {
     "code": "SMA004",
