@@ -286,19 +286,3 @@
     }
   }
 }
-{
-  "name": "Blocktech Single Breasted Coat",
-  "price": 3990.0000,
-  "basePrice": 8990.0000,
-  "discount": 56,
-  "link": "https://www.uniqlo.com/in/en/products/E475402-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
