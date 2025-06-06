@@ -143,6 +143,38 @@
   }
 }
 {
+  "name": "AirSense Jacket",
+  "price": 2490.0000,
+  "basePrice": 5990.0000,
+  "discount": 58,
+  "link": "https://www.uniqlo.com/in/en/products/E475404-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AirSense Jacket",
+  "price": 2490.0000,
+  "basePrice": 5990.0000,
+  "discount": 58,
+  "link": "https://www.uniqlo.com/in/en/products/E475404-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Oversized Single Breasted Coat",
   "price": 2990.0000,
   "basePrice": 7990.0000,
