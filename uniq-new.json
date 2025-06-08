@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "Wide Fit Cargo Pants",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476193-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Pleated Wide Pants",
   "price": 1490.0000,
   "basePrice": 3990.0000,
