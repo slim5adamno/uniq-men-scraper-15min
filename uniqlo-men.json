@@ -275,12 +275,12 @@
         {
           "rating": 4.5,
           "accumulated": 51,
-          "count": 17
+          "count": 18
         },
         {
           "rating": 5,
-          "accumulated": 34,
-          "count": 34
+          "accumulated": 33,
+          "count": 33
         }
       ],
       "sizes": [
@@ -10467,7 +10467,7 @@
               "colorCode": "01"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/468753/item/ingoods_69_468753_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/468753/item/goods_69_468753_3x4.jpg",
               "colorCode": "69"
             }
           ],
@@ -13674,7 +13674,7 @@
               "colorCode": "57"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464918/item/ingoods_69_464918_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464918/item/goods_69_464918_3x4.jpg",
               "colorCode": "69"
             }
           ],
