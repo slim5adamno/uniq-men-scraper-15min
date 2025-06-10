@@ -577,24 +577,24 @@
             "name": "Shirts"
           },
           {
-            "id": 95931,
-            "name": "Long Sleeves"
-          },
-          {
             "id": 106394,
             "name": "Sweaters"
+          },
+          {
+            "id": 95931,
+            "name": "Long Sleeves"
           },
           {
             "id": 106395,
             "name": "Bottoms"
           },
           {
-            "id": 79736,
-            "name": "Dry"
-          },
-          {
             "id": 117252,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 79736,
+            "name": "Dry"
           },
           {
             "id": 95933,
@@ -617,16 +617,16 @@
             "name": "Others"
           },
           {
+            "id": 93965,
+            "name": "Denim Jeans"
+          },
+          {
             "id": 106397,
             "name": "Outerwear"
           },
           {
             "id": 24342,
             "name": "Oversized"
-          },
-          {
-            "id": 93965,
-            "name": "Denim Jeans"
           },
           {
             "id": 93966,
@@ -641,12 +641,16 @@
             "name": "Others"
           },
           {
+            "id": 12498,
+            "name": "DRY-EX"
+          },
+          {
             "id": 106401,
             "name": "Bottoms"
           },
           {
-            "id": 12498,
-            "name": "DRY-EX"
+            "id": 12604,
+            "name": "Wide"
           },
           {
             "id": 95929,
@@ -655,10 +659,6 @@
           {
             "id": 93968,
             "name": "Dress Pants"
-          },
-          {
-            "id": 12604,
-            "name": "Wide"
           },
           {
             "id": 110365,
@@ -785,12 +785,12 @@
             "name": "Wide"
           },
           {
-            "id": 115632,
-            "name": "Pleated"
-          },
-          {
             "id": 94104,
             "name": "Cotton"
+          },
+          {
+            "id": 115632,
+            "name": "Pleated"
           },
           {
             "id": 115633,
