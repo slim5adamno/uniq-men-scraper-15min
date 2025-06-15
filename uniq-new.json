@@ -63,22 +63,6 @@
   }
 }
 {
-  "name": "AIRism Cotton Striped T-Shirt Long Sleeve",
-  "price": 990.0000,
-  "basePrice": 1990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E477340-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Crew Neck Sweater",
   "price": 990.0000,
   "basePrice": 2990.0000,
@@ -143,22 +127,6 @@
   }
 }
 {
-  "name": "Twill Overshirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476008-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Half-Zip Sweatshirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -203,6 +171,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Blocktech Single Breasted Coat",
+  "price": 3990.0000,
+  "basePrice": 8990.0000,
+  "discount": 56,
+  "link": "https://www.uniqlo.com/in/en/products/E475402-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
