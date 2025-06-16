@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "Twill Overshirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476008-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Half-Zip Sweatshirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
