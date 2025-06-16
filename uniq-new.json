@@ -79,6 +79,22 @@
   }
 }
 {
+  "name": "DRY-EX UV Protection Long Sleeve T",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476223-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Crew Neck Sweater",
   "price": 990.0000,
   "basePrice": 2990.0000,
@@ -171,6 +187,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pleated Wide Pants",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E475596-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
