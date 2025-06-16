@@ -1,4 +1,36 @@
 {
+  "name": "Matisse UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E478911-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "TATE UT(Short Sleeve Graphic T-shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E477530-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Crew Neck T-Shirt 3/4 Sleeve",
   "price": 790.0000,
   "basePrice": 1990.0000,
@@ -100,6 +132,38 @@
   "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E475765-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Long Oversized Shirt",
+  "price": 1490.0000,
+  "basePrice": 3990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E476243-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Fit Cargo Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E476193-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
