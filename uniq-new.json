@@ -63,22 +63,6 @@
   }
 }
 {
-  "name": "Wide Fit Cargo Half Pants",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E476195-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "DRY-EX Polo Shirt(Adam scott)",
   "price": 990.0000,
   "basePrice": 1990.0000,
