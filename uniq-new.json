@@ -239,11 +239,11 @@
   }
 }
 {
-  "name": "Pleated Wide Pants",
+  "name": "Wide Fit Chino Pants",
   "price": 990.0000,
-  "basePrice": 3990.0000,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E475596-000",
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470549-000",
   "sizes": {
     "code": "CMD073",
     "displayCode": "073",
@@ -328,22 +328,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Extra Stretch Active Track Jacket",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476144-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
