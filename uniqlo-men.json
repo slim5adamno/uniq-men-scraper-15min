@@ -89,11 +89,6 @@
           "name": "YELLOW"
         },
         {
-          "code": "COL42",
-          "displayCode": "42",
-          "name": "YELLOW"
-        },
-        {
           "code": "COL53",
           "displayCode": "53",
           "name": "GREEN"
@@ -3237,15 +3232,6 @@
             "code": "COL07",
             "displayCode": "07",
             "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL42",
-            "displayCode": "42",
-            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
