@@ -239,22 +239,6 @@
   }
 }
 {
-  "name": "Pleated Wide Pants",
-  "price": 990.0000,
-  "basePrice": 3990.0000,
-  "discount": 75,
-  "link": "https://www.uniqlo.com/in/en/products/E475596-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Wide Fit Chino Pants",
   "price": 990.0000,
   "basePrice": 2990.0000,
@@ -264,22 +248,6 @@
     "code": "CMD073",
     "displayCode": "073",
     "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Wide Fit Chino Pants",
-  "price": 990.0000,
-  "basePrice": 2990.0000,
-  "discount": 67,
-  "link": "https://www.uniqlo.com/in/en/products/E470549-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
     "display": {
       "showFlag": true,
       "chipType": 1
@@ -328,22 +296,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Wide Fit Cargo Pants",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476193-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
