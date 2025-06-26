@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "Coco magnum UT(Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E477908-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Matisse UT(Short Sleeve T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -356,22 +340,6 @@
   "basePrice": 3990.0000,
   "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E476243-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Broadcloth Oversized Shirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476025-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
