@@ -1,132 +1,4 @@
 {
-  "name": "Universal Movies UT (Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E479728-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Universal Movies UT (Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E479728-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Universal Movies UT (Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E479726-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Universal Movies UT (Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E479726-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oversized Bicolor T-Shirt",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E476430-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oversized Bicolor T-Shirt",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E476430-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Universal Movies UT (Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E474427-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Universal Movies UT (Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E474427-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "GUNDAM UT(Short Sleeve T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -212,6 +84,70 @@
   "basePrice": 1490.0000,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E480142-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Universal Movies UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E479728-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Universal Movies UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E479728-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Universal Movies UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E479726-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Universal Movies UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E479726-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -287,6 +223,38 @@
   }
 }
 {
+  "name": "Oversized Bicolor T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E476430-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Bicolor T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E476430-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "GUNDAM UT(Short Sleeve T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -312,6 +280,38 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Universal Movies UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E474427-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Universal Movies UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E474427-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
