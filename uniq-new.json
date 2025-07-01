@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "DANDADAN UT(Short Sleeve Graphic T-shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E478914-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Mickey Face UT(Short Sleeve Graphic T-shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -456,22 +440,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Oversized Single Breasted Coat",
-  "price": 2990.0000,
-  "basePrice": 7990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E475634-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
