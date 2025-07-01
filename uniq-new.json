@@ -389,9 +389,9 @@
   "discount": 67,
   "link": "https://www.uniqlo.com/in/en/products/E470549-000",
   "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
     "display": {
       "showFlag": true,
       "chipType": 1
