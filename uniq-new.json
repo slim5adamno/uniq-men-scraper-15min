@@ -527,22 +527,6 @@
   }
 }
 {
-  "name": "Oversized Single Breasted Coat",
-  "price": 2990.0000,
-  "basePrice": 7990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E475634-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Stretch Jacket",
   "price": 2990.0000,
   "basePrice": 5990.0000,
