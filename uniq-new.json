@@ -159,22 +159,6 @@
   }
 }
 {
-  "name": "Coco magnum UT(Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E477908-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Museum of Fine Arts Boston Ukiyo-e UT (Short Sleeve Graphic T-shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -392,22 +376,6 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Smart Ankle Pants (Cotton)",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E463933-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
