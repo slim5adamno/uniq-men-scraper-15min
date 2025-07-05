@@ -11466,15 +11466,15 @@
           }
         ],
         "rating": {
-          "average": 4.84,
-          "count": 19,
-          "fit": 3.16,
+          "average": 4.85,
+          "count": 20,
+          "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 16
+            "five": 17
           }
         },
         "representative": {
@@ -11504,7 +11504,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 19,
+          "total": 20,
           "count": 0,
           "items": []
         },
