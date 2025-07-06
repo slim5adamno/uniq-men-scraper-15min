@@ -10289,11 +10289,11 @@
           }
         ],
         "rating": {
-          "average": 4,
-          "count": 2,
+          "average": 3,
+          "count": 3,
           "fit": 3,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 1,
             "four": 0,
@@ -10334,7 +10334,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
