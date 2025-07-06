@@ -287,22 +287,6 @@
   }
 }
 {
-  "name": "DRY-EX Half-Zip UV Protection Long Sleeve T",
-  "price": 990.0000,
-  "basePrice": 1990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E478676-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Disney in Blue Shorts",
   "price": 990.0000,
   "basePrice": 1990.0000,
