@@ -335,22 +335,6 @@
   }
 }
 {
-  "name": "DRY-EX Short Sleeve T-Shirt",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E467145-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Disney in Blue Shorts",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -404,22 +388,6 @@
   "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E460318-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Twill Overshirt Long Sleeve",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E476008-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -436,22 +404,6 @@
   "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E475385-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Half-Zip Sweatshirt",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E475381-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
