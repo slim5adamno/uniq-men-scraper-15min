@@ -383,6 +383,22 @@
   }
 }
 {
+  "name": "Washable Milano Ribbed Crew Neck Sweater",
+  "price": 990.0000,
+  "basePrice": 3490.0000,
+  "discount": 72,
+  "link": "https://www.uniqlo.com/in/en/products/E468753-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Waffle Crew Neck Long Sleeve T-Shirt",
   "price": 990.0000,
   "basePrice": 1990.0000,
