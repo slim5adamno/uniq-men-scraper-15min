@@ -175,22 +175,6 @@
   }
 }
 {
-  "name": "Peanuts Short Sleeve UT",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E477812-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Museum of Fine Arts Boston Ukiyo-e UT (Short Sleeve Graphic T-shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
