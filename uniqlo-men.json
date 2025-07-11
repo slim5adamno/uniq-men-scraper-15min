@@ -290,11 +290,6 @@
       ],
       "sizes": [
         {
-          "code": "CMD079",
-          "displayCode": "079",
-          "name": "79cm"
-        },
-        {
           "code": "CMD082",
           "displayCode": "082",
           "name": "82cm"
@@ -10582,15 +10577,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "CMD079",
-            "displayCode": "079",
-            "name": "79cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "CMD082",
             "displayCode": "082",
             "name": "82cm",
@@ -10878,15 +10864,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
