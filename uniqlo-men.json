@@ -290,11 +290,6 @@
           "name": "76cm"
         },
         {
-          "code": "CMD082",
-          "displayCode": "082",
-          "name": "82cm"
-        },
-        {
           "code": "CMD085",
           "displayCode": "085",
           "name": "85cm"
@@ -3767,14 +3762,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
+          "count": 5,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -3804,7 +3799,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -8835,15 +8830,15 @@
           }
         ],
         "rating": {
-          "average": 4.54,
-          "count": 24,
-          "fit": 3.13,
+          "average": 4.56,
+          "count": 25,
+          "fit": 3.12,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 19
+            "five": 20
           }
         },
         "representative": {
@@ -8873,7 +8868,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 24,
+          "total": 25,
           "count": 0,
           "items": []
         },
@@ -9705,11 +9700,11 @@
           }
         ],
         "rating": {
-          "average": 4.53,
-          "count": 59,
-          "fit": 3.39,
+          "average": 4.47,
+          "count": 60,
+          "fit": 3.42,
           "rateCount": {
-            "one": 1,
+            "one": 2,
             "two": 1,
             "three": 3,
             "four": 15,
@@ -9743,7 +9738,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 59,
+          "total": 60,
           "count": 0,
           "items": []
         },
@@ -9755,15 +9750,6 @@
             "code": "CMD076",
             "displayCode": "076",
             "name": "76cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD082",
-            "displayCode": "082",
-            "name": "82cm",
             "display": {
               "showFlag": true,
               "chipType": 1
