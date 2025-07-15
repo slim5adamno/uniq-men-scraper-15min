@@ -543,24 +543,24 @@
             "name": "Linen"
           },
           {
-            "id": 95931,
-            "name": "Long Sleeves"
-          },
-          {
             "id": 114893,
             "name": "Stand Collar"
           },
           {
-            "id": 114894,
-            "name": "Pattern"
+            "id": 95931,
+            "name": "Long Sleeves"
+          },
+          {
+            "id": 95935,
+            "name": "Efc Broadcloth"
           },
           {
             "id": 106395,
             "name": "Bottoms"
           },
           {
-            "id": 95935,
-            "name": "Efc Broadcloth"
+            "id": 114894,
+            "name": "Pattern"
           },
           {
             "id": 114895,
@@ -579,12 +579,12 @@
             "name": "Oversized"
           },
           {
-            "id": 93966,
-            "name": "Chino"
-          },
-          {
             "id": 95924,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 93966,
+            "name": "Chino"
           },
           {
             "id": 12596,
@@ -623,12 +623,12 @@
             "name": "Ultra Stretch"
           },
           {
-            "id": 110418,
-            "name": "Shorts"
-          },
-          {
             "id": 67743,
             "name": "Ankle"
+          },
+          {
+            "id": 110418,
+            "name": "Shorts"
           },
           {
             "id": 67687,
@@ -667,12 +667,12 @@
             "name": "Jackets"
           },
           {
-            "id": 101893,
-            "name": "Wool"
-          },
-          {
             "id": 108613,
             "name": "Disney’s Mickey Faces"
+          },
+          {
+            "id": 101893,
+            "name": "Wool"
           },
           {
             "id": 110425,
@@ -711,12 +711,12 @@
             "name": "KAWS + Warhol"
           },
           {
-            "id": 94104,
-            "name": "Cotton"
-          },
-          {
             "id": 115632,
             "name": "Pleated"
+          },
+          {
+            "id": 94104,
+            "name": "Cotton"
           },
           {
             "id": 110371,
