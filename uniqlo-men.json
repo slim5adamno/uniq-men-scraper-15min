@@ -495,20 +495,20 @@
             "name": "Others"
           },
           {
-            "id": 95930,
-            "name": "Short Sleeves"
-          },
-          {
             "id": 114892,
             "name": "Long Sleeve"
           },
           {
-            "id": 114891,
-            "name": "Short Sleeve"
+            "id": 95930,
+            "name": "Short Sleeves"
           },
           {
             "id": 95938,
             "name": "Linen"
+          },
+          {
+            "id": 114891,
+            "name": "Short Sleeve"
           },
           {
             "id": 114893,
@@ -587,12 +587,12 @@
             "name": "Ultra Stretch"
           },
           {
-            "id": 67743,
-            "name": "Ankle"
-          },
-          {
             "id": 110418,
             "name": "Shorts"
+          },
+          {
+            "id": 67743,
+            "name": "Ankle"
           },
           {
             "id": 67687,
@@ -9186,15 +9186,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
