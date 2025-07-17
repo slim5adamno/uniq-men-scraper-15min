@@ -549,12 +549,12 @@
             "name": "Oversized"
           },
           {
-            "id": 95924,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 93966,
             "name": "Chino"
+          },
+          {
+            "id": 95924,
+            "name": "Long Sleeve"
           },
           {
             "id": 12596,
@@ -597,12 +597,12 @@
             "name": "Ultra Stretch"
           },
           {
-            "id": 110418,
-            "name": "Shorts"
-          },
-          {
             "id": 67743,
             "name": "Ankle"
+          },
+          {
+            "id": 110418,
+            "name": "Shorts"
           },
           {
             "id": 67687,
@@ -629,12 +629,12 @@
             "name": "UT ARCHIVE Super Mario"
           },
           {
-            "id": 108613,
-            "name": "Disney’s Mickey Faces"
-          },
-          {
             "id": 101893,
             "name": "Wool"
+          },
+          {
+            "id": 108613,
+            "name": "Disney’s Mickey Faces"
           },
           {
             "id": 110425,
@@ -10982,7 +10982,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Oversized",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -11151,7 +11151,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -11384,7 +11384,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer(Only 00 White is slightly sheer)<br>- Fit: Oversized",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -11575,7 +11575,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
