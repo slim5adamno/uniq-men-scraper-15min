@@ -4620,6 +4620,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "unisexFlag": 0,
@@ -9243,14 +9252,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 25,
-          "fit": 3.16,
+          "count": 26,
+          "fit": 3.15,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 22
+            "five": 23
           }
         },
         "representative": {
@@ -9280,7 +9289,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 26,
           "count": 0,
           "items": []
         },
@@ -12482,6 +12491,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -13283,15 +13301,15 @@
           }
         ],
         "rating": {
-          "average": 4.83,
-          "count": 12,
+          "average": 4.85,
+          "count": 13,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -13328,7 +13346,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 13,
           "count": 0,
           "items": []
         },
