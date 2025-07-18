@@ -2135,15 +2135,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -9026,7 +9017,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07908255",
+          "l2Id": "07908256",
           "salesStartDate": "",
           "salesEndDate": ""
         },
