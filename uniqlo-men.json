@@ -74,11 +74,6 @@
           "name": "BEIGE"
         },
         {
-          "code": "COL35",
-          "displayCode": "35",
-          "name": "BROWN"
-        },
-        {
           "code": "COL37",
           "displayCode": "37",
           "name": "BROWN"
@@ -284,11 +279,6 @@
         }
       ],
       "sizes": [
-        {
-          "code": "CMD076",
-          "displayCode": "076",
-          "name": "76cm"
-        },
         {
           "code": "CMD082",
           "displayCode": "082",
@@ -8655,15 +8645,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 100% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
@@ -8865,15 +8846,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/470549_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "CMD076",
-            "displayCode": "076",
-            "name": "76cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
           {
             "code": "CMD082",
             "displayCode": "082",
@@ -9118,7 +9090,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07908256",
+          "l2Id": "07908255",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9131,15 +9103,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/460318_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
