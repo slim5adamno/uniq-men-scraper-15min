@@ -367,6 +367,22 @@
   }
 }
 {
+  "name": "Wide Fit Chino Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470549-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
   "name": "Extra Stretch Active Track Pants",
   "price": 1490.0000,
   "basePrice": 2990.0000,
