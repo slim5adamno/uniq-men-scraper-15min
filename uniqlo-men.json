@@ -300,11 +300,6 @@
           "name": "73cm"
         },
         {
-          "code": "CMD082",
-          "displayCode": "082",
-          "name": "82cm"
-        },
-        {
           "code": "CMD085",
           "displayCode": "085",
           "name": "85cm"
@@ -11427,15 +11422,6 @@
             "code": "CMD073",
             "displayCode": "073",
             "name": "73cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD082",
-            "displayCode": "082",
-            "name": "82cm",
             "display": {
               "showFlag": true,
               "chipType": 1
