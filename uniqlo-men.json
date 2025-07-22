@@ -4005,15 +4005,6 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -13708,7 +13699,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -13861,7 +13852,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
