@@ -303,22 +303,6 @@
   }
 }
 {
-  "name": "Super Mario Archive UT (Graphic T-shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E474429-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Movie E.T. UT (Graphic T-shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -363,6 +347,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Wide Fit Chino Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E470549-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
