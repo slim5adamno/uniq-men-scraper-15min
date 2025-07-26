@@ -265,12 +265,12 @@
         {
           "rating": 4,
           "accumulated": 60,
-          "count": 4
+          "count": 5
         },
         {
           "rating": 4.5,
-          "accumulated": 56,
-          "count": 22
+          "accumulated": 55,
+          "count": 21
         },
         {
           "rating": 5,
