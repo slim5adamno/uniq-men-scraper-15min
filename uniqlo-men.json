@@ -4549,15 +4549,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 80% Polyester, 20% Polyamide ( 80% Uses Recycled Polyester Fiber )/ Rib: 100% Polyester ( 100% Uses Recycled Polyester Fiber )",
@@ -4704,15 +4695,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/475765_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
@@ -5795,15 +5777,15 @@
           }
         ],
         "rating": {
-          "average": 4,
-          "count": 1,
-          "fit": 2,
+          "average": 4.5,
+          "count": 2,
+          "fit": 2.5,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
@@ -5840,7 +5822,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
