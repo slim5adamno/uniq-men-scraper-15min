@@ -486,12 +486,12 @@
         ],
         "subcategories": [
           {
-            "id": 95939,
-            "name": "Print"
-          },
-          {
             "id": 114896,
             "name": "Others"
+          },
+          {
+            "id": 95939,
+            "name": "Print"
           },
           {
             "id": 114892,
@@ -590,20 +590,20 @@
             "name": "Tapered"
           },
           {
-            "id": 93956,
-            "name": "Cotton"
-          },
-          {
             "id": 114916,
             "name": "SF Anime"
           },
           {
-            "id": 12077,
+            "id": 93956,
             "name": "Cotton"
           },
           {
             "id": 115468,
             "name": "Doraemon meets the Louvre"
+          },
+          {
+            "id": 12077,
+            "name": "Cotton"
           },
           {
             "id": 95951,
@@ -10402,7 +10402,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 14,
           "count": 0,
           "items": []
         },
