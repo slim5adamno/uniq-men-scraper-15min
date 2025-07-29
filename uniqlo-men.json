@@ -536,12 +536,12 @@
         ],
         "subcategories": [
           {
-            "id": 114896,
-            "name": "Others"
-          },
-          {
             "id": 79732,
             "name": "Parka"
+          },
+          {
+            "id": 114896,
+            "name": "Others"
           },
           {
             "id": 114892,
@@ -560,12 +560,12 @@
             "name": "Long Sleeves"
           },
           {
-            "id": 114894,
-            "name": "Pattern"
-          },
-          {
             "id": 79736,
             "name": "Dry"
+          },
+          {
+            "id": 114894,
+            "name": "Pattern"
           },
           {
             "id": 114895,
@@ -584,12 +584,12 @@
             "name": "Others"
           },
           {
-            "id": 93965,
-            "name": "Denim Jeans"
-          },
-          {
             "id": 24342,
             "name": "Oversized"
+          },
+          {
+            "id": 93965,
+            "name": "Denim Jeans"
           },
           {
             "id": 93966,
@@ -660,12 +660,12 @@
             "name": "Tapered"
           },
           {
-            "id": 114916,
-            "name": "SF Anime"
-          },
-          {
             "id": 93956,
             "name": "Cotton"
+          },
+          {
+            "id": 114916,
+            "name": "SF Anime"
           },
           {
             "id": 12077,
