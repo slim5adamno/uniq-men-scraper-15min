@@ -2595,7 +2595,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
@@ -2616,15 +2616,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8318,7 +8309,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 31,
+          "total": 33,
           "count": 0,
           "items": []
         },
@@ -11105,7 +11096,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 4,
           "count": 0,
           "items": []
         },
@@ -11843,7 +11834,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 34,
+          "total": 35,
           "count": 0,
           "items": []
         },
@@ -12308,15 +12299,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13035,7 +13017,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 104,
+          "total": 105,
           "count": 0,
           "items": []
         },
@@ -13068,15 +13050,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL69",
             "displayCode": "69",
@@ -13241,15 +13214,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -13388,7 +13352,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
@@ -14539,7 +14503,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 20,
           "count": 0,
           "items": []
         },
