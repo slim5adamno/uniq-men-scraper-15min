@@ -8254,15 +8254,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 60% Cotton, 40% Polyester/ Rib: 82% Cotton, 18% Polyester",
