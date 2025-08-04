@@ -1,4 +1,100 @@
 {
+  "name": "GUNDAM UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480143-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "GUNDAM UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480143-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "GUNDAM UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480142-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Disney in Blue UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480141-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Disney in Blue UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480141-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Doraemon meets the Louvre UT (Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480136-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Doraemon meets the Louvre UT (Short Sleeve T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -85,9 +181,57 @@
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E476430-000",
   "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Bicolor T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E476430-000",
+  "sizes": {
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Doraemon meets the Louvre UT (Graphic T-shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E474457-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Crew Neck Sweater Short Sleeve",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E476177-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
