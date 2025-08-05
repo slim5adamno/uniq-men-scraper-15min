@@ -2416,15 +2416,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -12967,15 +12958,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -14639,7 +14621,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07928073",
+          "l2Id": "08167264",
           "salesStartDate": "",
           "salesEndDate": ""
         },
