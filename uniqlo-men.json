@@ -562,12 +562,12 @@
             "name": "Wide"
           },
           {
-            "id": 95946,
-            "name": "Dry Comfort"
-          },
-          {
             "id": 115125,
             "name": "Boxer"
+          },
+          {
+            "id": 95946,
+            "name": "Dry Comfort"
           },
           {
             "id": 95947,
@@ -674,12 +674,12 @@
             "name": "Others"
           },
           {
-            "id": 101920,
-            "name": "Hoodies"
-          },
-          {
             "id": 23569,
             "name": "Shorts"
+          },
+          {
+            "id": 101920,
+            "name": "Hoodies"
           },
           {
             "id": 12482,
