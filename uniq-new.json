@@ -51,6 +51,22 @@
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480135-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Doraemon meets the Louvre UT (Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E480134-000",
   "sizes": {
     "code": "SMA003",
@@ -84,6 +100,22 @@
   "basePrice": 1490.0000,
   "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E477298-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Oversized Bicolor T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E476430-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
