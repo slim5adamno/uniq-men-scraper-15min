@@ -547,16 +547,16 @@
             "name": "Print"
           },
           {
-            "id": 114892,
-            "name": "Long Sleeve"
+            "id": 117251,
+            "name": "Short Sleeve"
           },
           {
             "id": 95930,
             "name": "Short Sleeves"
           },
           {
-            "id": 117251,
-            "name": "Short Sleeve"
+            "id": 114892,
+            "name": "Long Sleeve"
           },
           {
             "id": 95938,
@@ -575,12 +575,12 @@
             "name": "Stand Collar"
           },
           {
-            "id": 114894,
-            "name": "Pattern"
-          },
-          {
             "id": 95935,
             "name": "Efc Broadcloth"
+          },
+          {
+            "id": 114894,
+            "name": "Pattern"
           },
           {
             "id": 114895,
@@ -599,12 +599,12 @@
             "name": "Others"
           },
           {
-            "id": 95927,
-            "name": "AIRism"
-          },
-          {
             "id": 24342,
             "name": "Oversized"
+          },
+          {
+            "id": 95927,
+            "name": "AIRism"
           },
           {
             "id": 95925,
