@@ -4059,15 +4059,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -9456,15 +9447,15 @@
           }
         ],
         "rating": {
-          "average": 4.75,
-          "count": 20,
-          "fit": 3.25,
+          "average": 4.76,
+          "count": 21,
+          "fit": 3.24,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 18
+            "five": 19
           }
         },
         "representative": {
@@ -9494,7 +9485,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 20,
+          "total": 21,
           "count": 0,
           "items": []
         },
