@@ -265,12 +265,12 @@
         {
           "rating": 4.5,
           "accumulated": 42,
-          "count": 19
+          "count": 20
         },
         {
           "rating": 5,
-          "accumulated": 23,
-          "count": 23
+          "accumulated": 22,
+          "count": 22
         }
       ],
       "sizes": [
