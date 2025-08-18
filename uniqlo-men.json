@@ -494,20 +494,20 @@
         ],
         "subcategories": [
           {
-            "id": 114896,
-            "name": "Others"
-          },
-          {
             "id": 95939,
             "name": "Print"
           },
           {
-            "id": 117251,
-            "name": "Short Sleeve"
+            "id": 114896,
+            "name": "Others"
           },
           {
             "id": 114892,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 117251,
+            "name": "Short Sleeve"
           },
           {
             "id": 95930,
@@ -530,12 +530,12 @@
             "name": "Stand Collar"
           },
           {
-            "id": 95935,
-            "name": "Efc Broadcloth"
-          },
-          {
             "id": 114894,
             "name": "Pattern"
+          },
+          {
+            "id": 95935,
+            "name": "Efc Broadcloth"
           },
           {
             "id": 114895,
