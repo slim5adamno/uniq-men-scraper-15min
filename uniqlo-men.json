@@ -494,16 +494,12 @@
         ],
         "subcategories": [
           {
-            "id": 95939,
-            "name": "Print"
-          },
-          {
             "id": 114896,
             "name": "Others"
           },
           {
-            "id": 114892,
-            "name": "Long Sleeve"
+            "id": 95939,
+            "name": "Print"
           },
           {
             "id": 117251,
@@ -514,12 +510,16 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 95938,
-            "name": "Linen"
+            "id": 114892,
+            "name": "Long Sleeve"
           },
           {
             "id": 114891,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 95938,
+            "name": "Linen"
           },
           {
             "id": 95931,
