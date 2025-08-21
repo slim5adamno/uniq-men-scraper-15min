@@ -4642,15 +4642,15 @@
           }
         ],
         "rating": {
-          "average": 4.3,
-          "count": 56,
+          "average": 4.32,
+          "count": 57,
           "fit": 2.98,
           "rateCount": {
             "one": 5,
             "two": 3,
             "three": 1,
             "four": 8,
-            "five": 39
+            "five": 40
           }
         },
         "representative": {
@@ -4680,7 +4680,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 57,
           "count": 0,
           "items": []
         },
