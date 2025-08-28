@@ -512,12 +512,12 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 95929,
-            "name": "Others"
-          },
-          {
             "id": 12604,
             "name": "Wide"
+          },
+          {
+            "id": 95929,
+            "name": "Others"
           },
           {
             "id": 12594,
@@ -540,16 +540,16 @@
             "name": "Ultra Light Down"
           },
           {
+            "id": 115125,
+            "name": "Boxer"
+          },
+          {
             "id": 121717,
             "name": "The Brands Nostalgia, Modern Twist"
           },
           {
             "id": 95946,
             "name": "Dry Comfort"
-          },
-          {
-            "id": 115125,
-            "name": "Boxer"
           },
           {
             "id": 123203,
@@ -564,12 +564,12 @@
             "name": "Others"
           },
           {
-            "id": 124228,
-            "name": "ONE PIECE"
-          },
-          {
             "id": 95949,
             "name": "Short Sleeves"
+          },
+          {
+            "id": 124228,
+            "name": "ONE PIECE"
           },
           {
             "id": 120597,
@@ -7705,15 +7705,15 @@
           }
         ],
         "rating": {
-          "average": 4.53,
-          "count": 49,
+          "average": 4.54,
+          "count": 50,
           "fit": 3.18,
           "rateCount": {
             "one": 2,
             "two": 1,
             "three": 1,
             "four": 10,
-            "five": 35
+            "five": 36
           }
         },
         "representative": {
@@ -7743,7 +7743,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 49,
+          "total": 50,
           "count": 0,
           "items": []
         },
@@ -8866,7 +8866,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 100,
+          "total": 101,
           "count": 0,
           "items": []
         },
