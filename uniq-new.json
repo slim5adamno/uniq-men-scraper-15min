@@ -239,22 +239,6 @@
   }
 }
 {
-  "name": "Extra Stretch Shorts",
-  "price": 990.0000,
-  "basePrice": 2490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E470612-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Washable 3D Knit Hoodie",
   "price": 2490.0000,
   "basePrice": 4990.0000,
