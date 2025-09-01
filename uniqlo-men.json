@@ -151,6 +151,13 @@
       ],
       "flags": [
         {
+          "code": "limitedOffer",
+          "name": "Limited Offer",
+          "rank": 5,
+          "id": 10,
+          "lazy": true
+        },
+        {
           "code": "discount",
           "name": "Sale",
           "rank": 7,
@@ -508,12 +515,12 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 95929,
-            "name": "Others"
-          },
-          {
             "id": 12604,
             "name": "Wide"
+          },
+          {
+            "id": 95929,
+            "name": "Others"
           },
           {
             "id": 12594,
@@ -532,16 +539,16 @@
             "name": "Blocktech"
           },
           {
+            "id": 115125,
+            "name": "Boxer"
+          },
+          {
             "id": 121717,
             "name": "The Brands Nostalgia, Modern Twist"
           },
           {
             "id": 95946,
             "name": "Dry Comfort"
-          },
-          {
-            "id": 115125,
-            "name": "Boxer"
           },
           {
             "id": 123203,
@@ -556,12 +563,12 @@
             "name": "Others"
           },
           {
-            "id": 124228,
-            "name": "ONE PIECE"
-          },
-          {
             "id": 95949,
             "name": "Short Sleeves"
+          },
+          {
+            "id": 124228,
+            "name": "ONE PIECE"
           },
           {
             "id": 120597,
