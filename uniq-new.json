@@ -287,22 +287,6 @@
   }
 }
 {
-  "name": "DRY-EX Polo Shirt(Kei Nishikori)",
-  "price": 990.0000,
-  "basePrice": 2490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E475374-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Chino Shorts",
   "price": 990.0000,
   "basePrice": 2490.0000,
