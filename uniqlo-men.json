@@ -546,12 +546,12 @@
             "name": "Others"
           },
           {
-            "id": 12604,
-            "name": "Wide"
-          },
-          {
             "id": 95929,
             "name": "Others"
+          },
+          {
+            "id": 12604,
+            "name": "Wide"
           },
           {
             "id": 12594,
@@ -578,24 +578,20 @@
             "name": "Boxer"
           },
           {
-            "id": 121717,
-            "name": "The Brands Nostalgia, Modern Twist"
-          },
-          {
             "id": 95946,
             "name": "Dry Comfort"
           },
           {
-            "id": 123203,
-            "name": "MAGIC FOR ALL TIMELESS"
+            "id": 121717,
+            "name": "The Brands Nostalgia, Modern Twist"
           },
           {
             "id": 95947,
             "name": "Regular"
           },
           {
-            "id": 122308,
-            "name": "Demon Slayer: Kimetsu no Yaiba"
+            "id": 123203,
+            "name": "MAGIC FOR ALL TIMELESS"
           },
           {
             "id": 95952,
@@ -606,16 +602,20 @@
             "name": "Short Sleeves"
           },
           {
+            "id": 122308,
+            "name": "Demon Slayer: Kimetsu no Yaiba"
+          },
+          {
             "id": 124228,
             "name": "ONE PIECE"
           },
           {
-            "id": 120597,
-            "name": "TOY STORY"
-          },
-          {
             "id": 95951,
             "name": "Uniqlo Custom Order"
+          },
+          {
+            "id": 120597,
+            "name": "TOY STORY"
           },
           {
             "id": 115466,
