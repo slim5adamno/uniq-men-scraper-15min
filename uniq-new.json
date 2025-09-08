@@ -15,42 +15,10 @@
   }
 }
 {
-  "name": "The Brands UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E481670-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "The Brands UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E481670-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "TOY STORY UT(Short Sleeve T-Shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E480933-000",
   "sizes": {
     "code": "SMA004",
@@ -64,14 +32,94 @@
 }
 {
   "name": "TOY STORY UT(Short Sleeve T-Shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E480932-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MANGA curation UT(Short Sleeve T-Shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E479034-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "TOY STORY UT(Short Sleeve T-Shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E474444-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "TOY STORY UT(Short Sleeve T-Shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E474444-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "The Brands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E481670-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "The Brands UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E481670-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -95,22 +143,6 @@
   }
 }
 {
-  "name": "MANGA curation UT(Short Sleeve T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E479034-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "The Brands UT (Short Sleeve Graphic T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -143,11 +175,11 @@
   }
 }
 {
-  "name": "TOY STORY UT(Short Sleeve T-Shirt)",
+  "name": "MAGIC FOR ALL TIMELESS UT (Short Sleeve T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E474444-000",
+  "link": "https://www.uniqlo.com/in/en/products/E481321-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
@@ -159,11 +191,139 @@
   }
 }
 {
-  "name": "TOY STORY UT(Short Sleeve T-Shirt)",
+  "name": "MAGIC FOR ALL TIMELESS UT (Short Sleeve T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E474444-000",
+  "link": "https://www.uniqlo.com/in/en/products/E481321-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MAGIC FOR ALL TIMELESS UT (Graphic T-shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E481319-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MAGIC FOR ALL TIMELESS UT (Graphic T-shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E481319-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pokemon UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480350-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pokemon UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480350-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pokemon UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480349-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pokemon UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480348-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pokemon UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E474426-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pokemon UT(Short Sleeve T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E474426-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
