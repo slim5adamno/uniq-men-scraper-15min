@@ -15,6 +15,38 @@
   }
 }
 {
+  "name": "Mickey Face UT  (Short Sleeve Graphic T-Shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E476083-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Mickey Face UT  (Short Sleeve Graphic T-Shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E476083-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "TOY STORY UT(Short Sleeve T-Shirt)",
   "price": 590.0000,
   "basePrice": 1490.0000,
@@ -40,6 +72,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "DRAGON BALL UT(Short Sleeve Graphic T-Shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E474433-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -136,6 +184,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "MoMA ICONS UT (Short Sleeve Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E479394-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
