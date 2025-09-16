@@ -63,22 +63,6 @@
   }
 }
 {
-  "name": "MoMA ICONS S/S UT (Graphic T-shirt)",
-  "price": 590.0000,
-  "basePrice": 1490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E477758-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "The Brands UT (Short Sleeve Graphic T-Shirt)",
   "price": 590.0000,
   "basePrice": 1490.0000,
