@@ -537,12 +537,12 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 12604,
-            "name": "Wide"
-          },
-          {
             "id": 95929,
             "name": "Others"
+          },
+          {
+            "id": 12604,
+            "name": "Wide"
           },
           {
             "id": 12599,
@@ -581,20 +581,20 @@
             "name": "MANGA curation"
           },
           {
-            "id": 121717,
-            "name": "The Brands Nostalgia, Modern Twist"
-          },
-          {
             "id": 95947,
             "name": "Regular"
           },
           {
-            "id": 123203,
-            "name": "MAGIC FOR ALL TIMELESS"
+            "id": 121717,
+            "name": "The Brands Nostalgia, Modern Twist"
           },
           {
             "id": 95952,
             "name": "Others"
+          },
+          {
+            "id": 123203,
+            "name": "MAGIC FOR ALL TIMELESS"
           },
           {
             "id": 95949,
