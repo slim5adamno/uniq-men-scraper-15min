@@ -493,12 +493,12 @@
             "name": "Others"
           },
           {
-            "id": 114897,
-            "name": "Linen"
-          },
-          {
             "id": 95927,
             "name": "AIRism"
+          },
+          {
+            "id": 114897,
+            "name": "Linen"
           },
           {
             "id": 95924,
@@ -541,12 +541,12 @@
             "name": "MANGA curation"
           },
           {
-            "id": 95947,
-            "name": "Regular"
-          },
-          {
             "id": 121717,
             "name": "The Brands Nostalgia, Modern Twist"
+          },
+          {
+            "id": 95947,
+            "name": "Regular"
           },
           {
             "id": 95952,
@@ -8975,15 +8975,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
