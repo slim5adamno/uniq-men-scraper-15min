@@ -674,6 +674,10 @@
             "name": "Joggers & Sweatpants"
           },
           {
+            "id": 101730,
+            "name": "Warm Pants"
+          },
+          {
             "id": 11733,
             "name": "Shorts"
           },
@@ -1064,6 +1068,10 @@
             "name": "Smart"
           },
           {
+            "id": 101944,
+            "name": "Warm Lined"
+          },
+          {
             "id": 95916,
             "name": "V Neck"
           },
@@ -1134,10 +1142,6 @@
           {
             "id": 101972,
             "name": "Flannel Pants"
-          },
-          {
-            "id": 101971,
-            "name": "Cotton Relax"
           },
           {
             "id": 67840,
