@@ -9581,6 +9581,16 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/484287/sub/goods_484287_sub19_3x4.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/484287/feature/ingoods_484287_feature4.jpg",
+              "text": "A single T-shirt has the power to spread peace."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/484287/feature/ingoods_484287_feature5.jpg",
+              "text": "Tasuku Honjo / Physician-Scientist"
+            }
           ]
         },
         "l1Id": "484287",
@@ -9776,6 +9786,16 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/483732/sub/goods_483732_sub18_3x4.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/483732/feature/ingoods_483732_feature4.jpg",
+              "text": "A single T-shirt has the power to spread peace."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/483732/feature/ingoods_483732_feature5.jpg",
+              "text": "Ryo Ichiriki / Go player"
+            }
           ]
         },
         "l1Id": "483732",
@@ -9970,6 +9990,16 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481931/sub/goods_481931_sub18_3x4.jpg"
+            }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481931/feature/ingoods_481931_feature4.jpg",
+              "text": "A single T-shirt has the power to spread peace."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481931/feature/ingoods_481931_feature5.jpg",
+              "text": "Club for the Future / Non-profit Organization"
             }
           ]
         },
