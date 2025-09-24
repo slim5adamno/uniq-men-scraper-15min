@@ -974,10 +974,6 @@
             "name": "Dry Comfort"
           },
           {
-            "id": 127824,
-            "name": "Others"
-          },
-          {
             "id": 95947,
             "name": "Regular"
           },
@@ -1176,6 +1172,10 @@
           {
             "id": 67840,
             "name": "Jersey"
+          },
+          {
+            "id": 67842,
+            "name": "Easy"
           }
         ]
       }
@@ -39910,13 +39910,13 @@
           }
         ],
         "rating": {
-          "average": 4.59,
-          "count": 116,
-          "fit": 3.02,
+          "average": 4.57,
+          "count": 117,
+          "fit": 3.03,
           "rateCount": {
             "one": 6,
             "two": 0,
-            "three": 1,
+            "three": 2,
             "four": 22,
             "five": 87
           }
@@ -39955,7 +39955,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 107,
+          "total": 108,
           "count": 0,
           "items": []
         },
@@ -50316,14 +50316,14 @@
         ],
         "rating": {
           "average": 4.89,
-          "count": 36,
+          "count": 37,
           "fit": 3.08,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 33
+            "five": 34
           }
         },
         "representative": {
@@ -50360,7 +50360,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 36,
+          "total": 37,
           "count": 0,
           "items": []
         },
@@ -54256,14 +54256,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 89,
+          "count": 90,
           "fit": 3.11,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 11,
-            "five": 78
+            "five": 79
           }
         },
         "representative": {
@@ -54300,7 +54300,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 89,
+          "total": 90,
           "count": 0,
           "items": []
         },
@@ -55609,15 +55609,15 @@
           }
         ],
         "rating": {
-          "average": 4.57,
-          "count": 28,
-          "fit": 3,
+          "average": 4.59,
+          "count": 29,
+          "fit": 3.03,
           "rateCount": {
             "one": 1,
             "two": 1,
             "three": 1,
             "four": 3,
-            "five": 22
+            "five": 23
           }
         },
         "representative": {
@@ -55654,7 +55654,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 23,
           "count": 0,
           "items": []
         },
@@ -58068,14 +58068,14 @@
         ],
         "rating": {
           "average": 4.87,
-          "count": 114,
+          "count": 115,
           "fit": 3.12,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 2,
             "four": 7,
-            "five": 104
+            "five": 105
           }
         },
         "representative": {
@@ -58105,7 +58105,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 114,
+          "total": 115,
           "count": 0,
           "items": []
         },
