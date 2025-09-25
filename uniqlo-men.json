@@ -2684,14 +2684,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 2,
+          "count": 3,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -2728,7 +2728,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
@@ -14988,7 +14988,7 @@
               "colorCode": "18"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479791/item/goods_26_479791_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479791/item/ingoods_26_479791_3x4.jpg",
               "colorCode": "26"
             },
             {
@@ -41288,15 +41288,15 @@
           }
         ],
         "rating": {
-          "average": 4.88,
-          "count": 8,
-          "fit": 2.88,
+          "average": 4.89,
+          "count": 9,
+          "fit": 2.89,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -41326,7 +41326,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 8,
+          "total": 9,
           "count": 0,
           "items": []
         },
