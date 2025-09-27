@@ -7941,6 +7941,15 @@
             }
           },
           {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -56953,15 +56962,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL18",
             "displayCode": "18",
