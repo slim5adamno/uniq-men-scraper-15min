@@ -815,12 +815,16 @@
             "name": "Crew Neck"
           },
           {
+            "id": 105104,
+            "name": "High Neck"
+          },
+          {
             "id": 95935,
             "name": "Efc Broadcloth"
           },
           {
-            "id": 105104,
-            "name": "High Neck"
+            "id": 114895,
+            "name": "Linen Cotton"
           },
           {
             "id": 106396,
@@ -829,10 +833,6 @@
           {
             "id": 95933,
             "name": "Oxford"
-          },
-          {
-            "id": 114895,
-            "name": "Linen Cotton"
           },
           {
             "id": 95942,
@@ -851,24 +851,24 @@
             "name": "AIRism"
           },
           {
-            "id": 105105,
-            "name": "HEATTECH"
-          },
-          {
             "id": 101929,
             "name": "Wool"
+          },
+          {
+            "id": 105105,
+            "name": "HEATTECH"
           },
           {
             "id": 114897,
             "name": "Linen"
           },
           {
-            "id": 101927,
-            "name": "Warm Line"
-          },
-          {
             "id": 101915,
             "name": "U Oversized"
+          },
+          {
+            "id": 101927,
+            "name": "Warm Line"
           },
           {
             "id": 95925,
@@ -879,24 +879,24 @@
             "name": "Supima Cotton"
           },
           {
-            "id": 13222,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 12607,
             "name": "Others"
+          },
+          {
+            "id": 13222,
+            "name": "Short Sleeve"
           },
           {
             "id": 95926,
             "name": "Dry Pique"
           },
           {
-            "id": 49370,
-            "name": "Cotton"
-          },
-          {
             "id": 12498,
             "name": "DRY-EX"
+          },
+          {
+            "id": 49370,
+            "name": "Cotton"
           },
           {
             "id": 12512,
@@ -959,6 +959,10 @@
             "name": "HEATTECH"
           },
           {
+            "id": 127820,
+            "name": "Glove"
+          },
+          {
             "id": 106409,
             "name": "T-Shirts"
           },
@@ -967,8 +971,8 @@
             "name": "Jean-Michel Basquiat"
           },
           {
-            "id": 127820,
-            "name": "Glove"
+            "id": 106410,
+            "name": "Shirts"
           },
           {
             "id": 126372,
@@ -979,8 +983,8 @@
             "name": "Scarf"
           },
           {
-            "id": 106410,
-            "name": "Shirts"
+            "id": 95945,
+            "name": "Fine Cloth"
           },
           {
             "id": 124585,
@@ -991,16 +995,12 @@
             "name": "UV Protection"
           },
           {
-            "id": 95945,
-            "name": "Fine Cloth"
+            "id": 120666,
+            "name": "UTGP2025 x TATE MODERN"
           },
           {
             "id": 101984,
             "name": "Ut Collaboration"
-          },
-          {
-            "id": 120666,
-            "name": "UTGP2025 x TATE MODERN"
           },
           {
             "id": 95946,
@@ -32858,7 +32858,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08829442",
+          "l2Id": "08829443",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -33111,7 +33111,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08829397",
+          "l2Id": "08829398",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -34874,7 +34874,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08677188",
+          "l2Id": "08677189",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -44976,7 +44976,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08654898",
+          "l2Id": "08654899",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45170,7 +45170,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08655042",
+          "l2Id": "08655043",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45364,7 +45364,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08655069",
+          "l2Id": "08655070",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45586,7 +45586,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08654961",
+          "l2Id": "08654962",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45797,7 +45797,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08654943",
+          "l2Id": "08654944",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -51502,7 +51502,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08677276",
+          "l2Id": "08677277",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -51742,7 +51742,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08677204",
+          "l2Id": "08677205",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -59399,7 +59399,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08650528",
+          "l2Id": "08650529",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -59625,7 +59625,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08778164",
+          "l2Id": "08778165",
           "salesStartDate": "",
           "salesEndDate": ""
         },
