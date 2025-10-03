@@ -810,12 +810,12 @@
             "name": "Oxford"
           },
           {
-            "id": 106396,
-            "name": "Accessory"
-          },
-          {
             "id": 114895,
             "name": "Linen Cotton"
+          },
+          {
+            "id": 106396,
+            "name": "Accessory"
           },
           {
             "id": 95942,
@@ -834,20 +834,20 @@
             "name": "Linen"
           },
           {
-            "id": 95927,
-            "name": "AIRism"
-          },
-          {
             "id": 105105,
             "name": "HEATTECH"
           },
           {
-            "id": 101915,
-            "name": "U Oversized"
+            "id": 95927,
+            "name": "AIRism"
           },
           {
             "id": 101927,
             "name": "Warm Line"
+          },
+          {
+            "id": 101915,
+            "name": "U Oversized"
           },
           {
             "id": 95925,
@@ -858,6 +858,10 @@
             "name": "Supima Cotton"
           },
           {
+            "id": 13222,
+            "name": "Short Sleeve"
+          },
+          {
             "id": 12607,
             "name": "Others"
           },
@@ -866,28 +870,24 @@
             "name": "Dry Pique"
           },
           {
-            "id": 13222,
-            "name": "Short Sleeve"
+            "id": 49370,
+            "name": "Cotton"
           },
           {
             "id": 12498,
             "name": "DRY-EX"
           },
           {
-            "id": 49370,
-            "name": "Cotton"
-          },
-          {
             "id": 12604,
             "name": "Wide"
           },
           {
-            "id": 12599,
-            "name": "Cargo & Baker Pants"
-          },
-          {
             "id": 12512,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 12599,
+            "name": "Cargo & Baker Pants"
           },
           {
             "id": 12501,
@@ -934,6 +934,10 @@
             "name": "HEATTECH"
           },
           {
+            "id": 127820,
+            "name": "Glove"
+          },
+          {
             "id": 127588,
             "name": "Jean-Michel Basquiat"
           },
@@ -942,20 +946,20 @@
             "name": "T-Shirts"
           },
           {
-            "id": 127820,
-            "name": "Glove"
-          },
-          {
-            "id": 126372,
-            "name": "Anime Chainsaw Man"
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 106410,
             "name": "Shirts"
           },
           {
-            "id": 127821,
-            "name": "Scarf"
+            "id": 126372,
+            "name": "Anime Chainsaw Man"
+          },
+          {
+            "id": 49412,
+            "name": "UV Protection"
           },
           {
             "id": 124585,
@@ -964,10 +968,6 @@
           {
             "id": 95945,
             "name": "Fine Cloth"
-          },
-          {
-            "id": 49412,
-            "name": "UV Protection"
           },
           {
             "id": 101984,
@@ -1038,12 +1038,12 @@
             "name": "Long Sleeves"
           },
           {
-            "id": 115632,
-            "name": "Pleated"
-          },
-          {
             "id": 125516,
             "name": "Shirt Jacket"
+          },
+          {
+            "id": 115632,
+            "name": "Pleated"
           },
           {
             "id": 49355,
@@ -25035,14 +25035,14 @@
         ],
         "rating": {
           "average": 4.78,
-          "count": 725,
+          "count": 726,
           "fit": 3.11,
           "rateCount": {
             "one": 21,
             "two": 1,
             "three": 8,
             "four": 60,
-            "five": 635
+            "five": 636
           }
         },
         "representative": {
@@ -25085,7 +25085,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 725,
+          "total": 726,
           "count": 0,
           "items": []
         },
@@ -36949,14 +36949,14 @@
         ],
         "rating": {
           "average": 4.81,
-          "count": 26,
-          "fit": 3.12,
+          "count": 27,
+          "fit": 3.11,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 24
+            "five": 25
           }
         },
         "representative": {
@@ -36999,7 +36999,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 26,
+          "total": 27,
           "count": 0,
           "items": []
         },
