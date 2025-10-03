@@ -443,12 +443,12 @@
         {
           "rating": 4,
           "accumulated": 166,
-          "count": 16
+          "count": 17
         },
         {
           "rating": 4.5,
-          "accumulated": 150,
-          "count": 71
+          "accumulated": 149,
+          "count": 70
         },
         {
           "rating": 5,
@@ -52266,15 +52266,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/476445_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
