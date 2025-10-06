@@ -5431,7 +5431,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -5466,7 +5477,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -43062,6 +43073,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480412/sub/goods_480412_sub14_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480412/sub/goods_480412_sub17_3x4.jpg"
             }
           ],
           "features": [
@@ -51162,15 +51176,15 @@
           }
         ],
         "rating": {
-          "average": 4.64,
-          "count": 14,
-          "fit": 3.14,
+          "average": 4.67,
+          "count": 15,
+          "fit": 3.13,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -51207,7 +51221,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 15,
           "count": 0,
           "items": []
         },
