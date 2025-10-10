@@ -37593,14 +37593,14 @@
           }
         ],
         "rating": {
-          "average": 4.36,
-          "count": 50,
+          "average": 4.35,
+          "count": 51,
           "fit": 3,
           "rateCount": {
             "one": 6,
             "two": 0,
             "three": 1,
-            "four": 6,
+            "four": 7,
             "five": 37
           }
         },
@@ -37638,7 +37638,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 50,
+          "total": 51,
           "count": 0,
           "items": []
         },
