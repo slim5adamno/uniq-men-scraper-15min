@@ -306,6 +306,13 @@
       ],
       "flags": [
         {
+          "code": "limitedOffer",
+          "name": "Limited Offer",
+          "rank": 5,
+          "id": 10,
+          "lazy": true
+        },
+        {
           "code": "newPrice",
           "name": "Reduced GST Price",
           "rank": 6,
@@ -22765,6 +22772,9 @@
           ],
           "sub": [
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472517/sub/goods_472517_sub14_3x4.jpg"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472517/sub/goods_472517_sub15_3x4.jpg"
             },
             {
@@ -24647,6 +24657,9 @@
             }
           ],
           "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461325/sub/goods_461325_sub14_3x4.jpg"
+            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461325/sub/goods_461325_sub15_3x4.jpg"
             },
@@ -53813,6 +53826,12 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475377/sub/goods_475377_sub14_3x4.jpg"
+            }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475377/feature/ingoods_475377_feature1.jpg",
+              "text": "Premium fabric with a fine texture on both sides for a smooth feel. The special looped lining prevents pilling and sagging."
             }
           ]
         },
