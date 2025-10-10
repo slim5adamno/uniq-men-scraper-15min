@@ -466,11 +466,6 @@
           "name": "91cm"
         },
         {
-          "code": "CMD095",
-          "displayCode": "095",
-          "name": "95cm"
-        },
-        {
           "code": "SIZ999",
           "displayCode": "999",
           "name": "No Control"
@@ -29460,15 +29455,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 100% Cotton/ Pocket Lining: 100% Cotton",
@@ -29636,15 +29622,6 @@
             "code": "CMD091",
             "displayCode": "091",
             "name": "91cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD095",
-            "displayCode": "095",
-            "name": "95cm",
             "display": {
               "showFlag": true,
               "chipType": 1
