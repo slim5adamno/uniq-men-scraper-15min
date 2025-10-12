@@ -8560,15 +8560,6 @@
             }
           },
           {
-            "code": "COL06",
-            "displayCode": "06",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -40292,7 +40283,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08209852",
+          "l2Id": "08179881",
           "salesStartDate": "",
           "salesEndDate": ""
         },
