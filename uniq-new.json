@@ -255,22 +255,6 @@
   }
 }
 {
-  "name": "ONE PIECE UT (Graphic T-shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E480696-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "UKIYO-E UT (Graphic T-shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
