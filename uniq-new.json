@@ -351,22 +351,6 @@
   }
 }
 {
-  "name": "Oversized Bicolor T-Shirt",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E475366-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "UTGP2025 x TATE MODERN UT (Graphic T-Shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
