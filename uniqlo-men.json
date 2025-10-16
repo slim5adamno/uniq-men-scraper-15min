@@ -485,11 +485,6 @@
           "name": "88cm"
         },
         {
-          "code": "CMD095",
-          "displayCode": "095",
-          "name": "95cm"
-        },
-        {
           "code": "CMD100",
           "displayCode": "100",
           "name": "100cm"
@@ -8410,15 +8405,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 2,
-          "fit": 3.5,
+          "average": 4.67,
+          "count": 3,
+          "fit": 3.33,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -8448,7 +8443,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
@@ -30164,15 +30159,6 @@
             "code": "CMD088",
             "displayCode": "088",
             "name": "88cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD095",
-            "displayCode": "095",
-            "name": "95cm",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -52090,7 +52076,7 @@
           ],
           "sub": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479134/sub/ingoods_479134_sub5_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479134/sub/goods_479134_sub5_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479134/sub/ingoods_479134_sub6_3x4.jpg"
