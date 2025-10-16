@@ -54571,8 +54571,12 @@
           ],
           "features": [
             {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475377/feature/ingoods_475377_feature1.jpg",
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475377/feature/ingoods_475377_feature6.jpg",
               "text": "Premium fabric with a fine texture on both sides for a smooth feel. The special looped lining prevents pilling and sagging."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475377/feature/ingoods_475377_feature7.jpg",
+              "text": "Tape at the neckline helps the collar keep its shape after repeated washing."
             }
           ]
         },
@@ -59164,7 +59168,7 @@
           ]
         },
         "l1Id": "482445",
-        "longDescription": "<br>",
+        "longDescription": "- Basic fit and construction based on the classic Oxford shirt. <br>- Body width and length are designed to look great, whether worn tucked in or untucked.",
         "name": "Oxford Long Sleeve Shirt",
         "prices": {
           "base": {
