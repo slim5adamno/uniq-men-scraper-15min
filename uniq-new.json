@@ -335,6 +335,22 @@
   }
 }
 {
+  "name": "Broadcloth Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E476016-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Cotton Linen Stand Collar Shirt",
   "price": 990.0000,
   "basePrice": 2490.0000,
@@ -427,22 +443,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Straight Chino Pants/ Relaxed Fit",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479424-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
