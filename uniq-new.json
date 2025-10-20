@@ -47,6 +47,22 @@
   }
 }
 {
+  "name": "AIRism Cotton T-Shirt",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E478984-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Mickey Face UT(Short Sleeve Graphic T-shirt)",
   "price": 590.0000,
   "basePrice": 1490.0000,
@@ -411,22 +427,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Straight Chino Pants/ Relaxed Fit",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479424-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
