@@ -22743,7 +22743,7 @@
             }
           ]
         },
-        "l1Id": "479781",
+        "l1Id": "482293",
         "longDescription": "- Oversized cut.",
         "name": "AIRism Cotton Long Sleeve Crew Neck T-Shirt",
         "prices": {
@@ -31180,11 +31180,15 @@
           "features": [
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481441/feature/ingoods_481441_feature1.jpg",
-              "text": "Slightly sheer fabric.Luxuriously smooth and fluffy yarn. *We recommend washing this item in a mesh laundry bag.*9% cashmere blend."
+              "text": "Slightly sheer fabric.Luxuriously smooth and fluffy yarn. *9% cashmere blend. "
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481441/feature/ingoods_481441_feature2.jpg",
               "text": "The fabric features Heat of Absorption functions. Extra Warm ‘HEATTECH’ is thin and lightweight yet approximately 1.5 times* warmer than regular ‘HEATTECH.’ *Based on CLO values, which indicate the thermal insulation of clothing. Compared to standard 'HEATTECH.'"
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481441/feature/ingoods_481441_feature3.jpg",
+              "text": "Washable at home, 'HEATTECH cashmere blend.' *We recommend washing this item inside out in a mesh laundry bag. "
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481441/feature/ingoods_481441_feature5.jpg",
@@ -31193,7 +31197,7 @@
           ]
         },
         "l1Id": "481441",
-        "longDescription": "- Cropped sleeve design makes it perfect for use as an undershirt.",
+        "longDescription": "- Ultra Stretch fabric conforms to the body for a comfortable fit.<br>-Cropped sleeve design makes it perfect for use as an undershirt.",
         "name": "HEATTECH Extra Warm Cashmere Blend T",
         "prices": {
           "base": {
