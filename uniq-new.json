@@ -275,6 +275,22 @@
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E481331-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Disney Art UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E481330-000",
   "sizes": {
     "code": "SMA003",
@@ -575,6 +591,22 @@
   }
 }
 {
+  "name": "Wash Cotton Half Zip Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E477156-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Extra Stretch Active Shorts",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -667,6 +699,22 @@
     "display": {
       "showFlag": true,
       "chipType": 0
+    }
+  }
+}
+{
+  "name": "Straight Chino Pants/ Relaxed Fit",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479424-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
     }
   }
 }
