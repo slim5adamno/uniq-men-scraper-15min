@@ -8388,15 +8388,6 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -53511,7 +53502,7 @@
             }
           }
         ],
-        "composition": "88% Cotton, 12% Polyester",
+        "composition": "This item ships with one of the below options. Note that you cannot specify a preference at this time.<br>451648: 88% Cotton, 12% Polyester<br>482313: Body: 88% Cotton, 12% Polyester/ Rib: 82% Cotton, 18% Polyester/ Pocket Lining: Outer Layer: 100% Cotton/ Pocket Lining: Inner Layer: 88% Cotton, 12% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
