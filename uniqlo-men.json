@@ -946,12 +946,12 @@
             "name": "Others"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 12503,
             "name": "AIRism"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12504,
@@ -994,20 +994,20 @@
             "name": "Others"
           },
           {
-            "id": 95927,
-            "name": "AIRism"
-          },
-          {
             "id": 101319,
             "name": "Jacket"
+          },
+          {
+            "id": 101968,
+            "name": "Flannel"
           },
           {
             "id": 106409,
             "name": "T-Shirts"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
+            "id": 95927,
+            "name": "AIRism"
           },
           {
             "id": 101967,
@@ -1018,16 +1018,16 @@
             "name": "Shirts"
           },
           {
-            "id": 103334,
-            "name": "Lounge Set"
+            "id": 95925,
+            "name": "Short Sleeves"
           },
           {
             "id": 49412,
             "name": "UV Protection"
           },
           {
-            "id": 95925,
-            "name": "Short Sleeves"
+            "id": 103334,
+            "name": "Lounge Set"
           },
           {
             "id": 95926,
@@ -1046,20 +1046,12 @@
             "name": "Others"
           },
           {
-            "id": 127820,
-            "name": "Glove"
-          },
-          {
             "id": 125515,
             "name": "Long Sleeves"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
-          },
-          {
-            "id": 125516,
-            "name": "Shirt Jacket"
+            "id": 127820,
+            "name": "Glove"
           },
           {
             "id": 127821,
@@ -1068,6 +1060,14 @@
           {
             "id": 115632,
             "name": "Pleated"
+          },
+          {
+            "id": 125516,
+            "name": "Shirt Jacket"
+          },
+          {
+            "id": 12480,
+            "name": "Pullover"
           },
           {
             "id": 125517,
@@ -1098,12 +1098,12 @@
             "name": "Anime Chainsaw Man"
           },
           {
-            "id": 129734,
-            "name": "Others"
-          },
-          {
             "id": 124585,
             "name": "Disney Art"
+          },
+          {
+            "id": 129734,
+            "name": "Others"
           },
           {
             "id": 123633,
