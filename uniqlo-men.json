@@ -401,27 +401,27 @@
         {
           "rating": 1,
           "accumulated": 178,
-          "count": 1
+          "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 177,
+          "accumulated": 178,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 177,
+          "accumulated": 178,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 176,
+          "accumulated": 177,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 176,
-          "count": 2
+          "accumulated": 177,
+          "count": 3
         },
         {
           "rating": 3.5,
