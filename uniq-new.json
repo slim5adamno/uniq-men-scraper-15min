@@ -159,42 +159,10 @@
   }
 }
 {
-  "name": "DRY-EX T-Shirt",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E480147-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "DRY-EX T-Shirt",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E480147-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Mickey Face UT (Graphic T-shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E479027-000",
   "sizes": {
     "code": "SMA004",
@@ -208,9 +176,9 @@
 }
 {
   "name": "Mickey Face UT (Graphic T-shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E478107-000",
   "sizes": {
     "code": "SMA004",
@@ -224,9 +192,9 @@
 }
 {
   "name": "NY POP ART Archive UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E477701-000",
   "sizes": {
     "code": "SMA003",
@@ -240,9 +208,9 @@
 }
 {
   "name": "Mickey Face UT (Graphic T-shirt)",
-  "price": 790.0000,
+  "price": 590.0000,
   "basePrice": 1490.0000,
-  "discount": 47,
+  "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E476082-000",
   "sizes": {
     "code": "SMA003",
@@ -256,10 +224,42 @@
 }
 {
   "name": "Mickey Face UT (Graphic T-shirt)",
+  "price": 590.0000,
+  "basePrice": 1490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E476082-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "DRY-EX T-Shirt",
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E476082-000",
+  "link": "https://www.uniqlo.com/in/en/products/E480147-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "DRY-EX T-Shirt",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480147-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -296,6 +296,54 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "UKIYO-E UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480948-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "UKIYO-E UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480947-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "UKIYO-E UT (Graphic T-Shirt)",
+  "price": 790.0000,
+  "basePrice": 1490.0000,
+  "discount": 47,
+  "link": "https://www.uniqlo.com/in/en/products/E480945-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -456,6 +504,38 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Smart Ankle Pants Pleated",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E484898-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Smart Ankle Pants Pleated",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E484898-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
