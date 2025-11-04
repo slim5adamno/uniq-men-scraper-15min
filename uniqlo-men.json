@@ -810,16 +810,16 @@
             "name": "Oxford"
           },
           {
-            "id": 95935,
-            "name": "Efc Broadcloth"
+            "id": 114891,
+            "name": "Short Sleeve"
           },
           {
             "id": 114905,
             "name": "Others"
           },
           {
-            "id": 114891,
-            "name": "Short Sleeve"
+            "id": 95935,
+            "name": "Efc Broadcloth"
           },
           {
             "id": 105103,
@@ -854,12 +854,12 @@
             "name": "Shoulder Bags"
           },
           {
-            "id": 101929,
-            "name": "Wool"
-          },
-          {
             "id": 106391,
             "name": "Outerwear"
+          },
+          {
+            "id": 101929,
+            "name": "Wool"
           },
           {
             "id": 105105,
@@ -870,6 +870,10 @@
             "name": "Linen"
           },
           {
+            "id": 101972,
+            "name": "Flannel Pants"
+          },
+          {
             "id": 101927,
             "name": "Warm Line"
           },
@@ -878,40 +882,28 @@
             "name": "T-Shirts"
           },
           {
-            "id": 101972,
-            "name": "Flannel Pants"
-          },
-          {
-            "id": 95945,
-            "name": "Fine Cloth"
+            "id": 12497,
+            "name": "Supima Cotton"
           },
           {
             "id": 106393,
             "name": "Shirts"
           },
           {
-            "id": 12497,
-            "name": "Supima Cotton"
-          },
-          {
-            "id": 106394,
-            "name": "Sweaters"
+            "id": 95945,
+            "name": "Fine Cloth"
           },
           {
             "id": 95946,
             "name": "Dry Comfort"
           },
           {
+            "id": 106394,
+            "name": "Sweaters"
+          },
+          {
             "id": 13222,
             "name": "Short Sleeve"
-          },
-          {
-            "id": 106395,
-            "name": "Bottoms"
-          },
-          {
-            "id": 101973,
-            "name": "Fleece"
           },
           {
             "id": 49370,
@@ -920,6 +912,14 @@
           {
             "id": 12498,
             "name": "DRY-EX"
+          },
+          {
+            "id": 106395,
+            "name": "Bottoms"
+          },
+          {
+            "id": 101973,
+            "name": "Fleece"
           },
           {
             "id": 106396,
@@ -986,10 +986,6 @@
             "name": "Others"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
-          },
-          {
             "id": 95927,
             "name": "AIRism"
           },
@@ -998,8 +994,16 @@
             "name": "Jacket"
           },
           {
+            "id": 101968,
+            "name": "Flannel"
+          },
+          {
             "id": 101967,
             "name": "Fleece"
+          },
+          {
+            "id": 103334,
+            "name": "Lounge Set"
           },
           {
             "id": 49412,
@@ -1010,16 +1014,12 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 103334,
-            "name": "Lounge Set"
+            "id": 101984,
+            "name": "Ut Collaboration"
           },
           {
             "id": 95926,
             "name": "Dry Pique"
-          },
-          {
-            "id": 101984,
-            "name": "Ut Collaboration"
           },
           {
             "id": 12644,
@@ -1030,44 +1030,44 @@
             "name": "Accessory"
           },
           {
-            "id": 106404,
-            "name": "Bags"
-          },
-          {
             "id": 101970,
             "name": "Others"
+          },
+          {
+            "id": 106404,
+            "name": "Bags"
           },
           {
             "id": 106407,
             "name": "Others"
           },
           {
-            "id": 127820,
-            "name": "Glove"
-          },
-          {
             "id": 125515,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 127820,
+            "name": "Glove"
           },
           {
             "id": 106409,
             "name": "T-Shirts"
           },
           {
-            "id": 127821,
-            "name": "Scarf"
-          },
-          {
-            "id": 106410,
-            "name": "Shirts"
+            "id": 125516,
+            "name": "Shirt Jacket"
           },
           {
             "id": 115632,
             "name": "Pleated"
           },
           {
-            "id": 125516,
-            "name": "Shirt Jacket"
+            "id": 106410,
+            "name": "Shirts"
+          },
+          {
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 12480,
@@ -33004,15 +33004,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
