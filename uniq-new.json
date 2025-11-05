@@ -207,22 +207,6 @@
   }
 }
 {
-  "name": "PEANUTS UT (Short Sleeve T-Shirt)",
-  "price": 590.0000,
-  "basePrice": 1490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E477342-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Pokemon Card UT (Graphic T-shirt)",
   "price": 590.0000,
   "basePrice": 1490.0000,
