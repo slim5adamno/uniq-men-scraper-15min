@@ -35953,6 +35953,10 @@
               "colorCode": "10"
             },
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_11_475367_chip.jpg",
+              "colorCode": "11"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_13_475367_chip.jpg",
               "colorCode": "13"
             },
@@ -35973,8 +35977,16 @@
               "colorCode": "41"
             },
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_42_475367_chip.jpg",
+              "colorCode": "42"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_51_475367_chip.jpg",
               "colorCode": "51"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_53_475367_chip.jpg",
+              "colorCode": "53"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_57_475367_chip.jpg",
@@ -35989,8 +36001,16 @@
               "colorCode": "61"
             },
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_62_475367_chip.jpg",
+              "colorCode": "62"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_67_475367_chip.jpg",
               "colorCode": "67"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_68_475367_chip.jpg",
+              "colorCode": "68"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475367/chip/goods_69_475367_chip.jpg",
@@ -55536,7 +55556,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08347900",
+          "l2Id": "08637540",
           "salesStartDate": "",
           "salesEndDate": ""
         },
