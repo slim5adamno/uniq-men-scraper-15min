@@ -21524,14 +21524,14 @@
         ],
         "rating": {
           "average": 4.78,
-          "count": 761,
+          "count": 762,
           "fit": 3.11,
           "rateCount": {
             "one": 21,
             "two": 1,
             "three": 8,
             "four": 62,
-            "five": 669
+            "five": 670
           }
         },
         "representative": {
@@ -32277,14 +32277,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 7,
-          "fit": 3.14,
+          "count": 8,
+          "fit": 3.13,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -47812,7 +47812,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 2,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 1,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -48053,13 +48064,13 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 7,
-          "fit": 3.29,
+          "average": 4.75,
+          "count": 8,
+          "fit": 3.25,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 0,
             "five": 7
           }
