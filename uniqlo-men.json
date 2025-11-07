@@ -408,17 +408,17 @@
         {
           "rating": 0,
           "accumulated": 260,
-          "count": 82
+          "count": 81
         },
         {
           "rating": 0.5,
-          "accumulated": 178,
+          "accumulated": 179,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 178,
-          "count": 0
+          "accumulated": 179,
+          "count": 1
         },
         {
           "rating": 1.5,
