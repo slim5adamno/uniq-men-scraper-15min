@@ -6247,11 +6247,17 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "extraLargeStoreOnly",
+                "id": 1,
+                "name": "Made with Recycled Materials",
+                "detail": "Made with Recycled Materials"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08650985",
+          "l2Id": "08209048",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -27212,11 +27218,15 @@
           "features": [
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/485258/feature/ingoods_485258_feature1.jpg",
-              "text": "Warm 'HEATTECH' fabric with Heat of Absorption technology."
+              "text": "Touchscreen compatible. *Please note that hand moisture may impede touchscreen response. "
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/485258/feature/ingoods_485258_feature2.jpg",
               "text": "Distinctive design with embroidery on the ribbed cuff section."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/485258/feature/ingoods_485258_feature3.jpg",
+              "text": "Warm 'HEATTECH' fabric with Heat of Absorption technology. "
             }
           ]
         },
