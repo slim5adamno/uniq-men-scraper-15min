@@ -403,37 +403,37 @@
         {
           "rating": 0,
           "accumulated": 268,
-          "count": 84
+          "count": 83
         },
         {
           "rating": 0.5,
-          "accumulated": 184,
+          "accumulated": 185,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 184,
+          "accumulated": 185,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 182,
+          "accumulated": 183,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 182,
+          "accumulated": 183,
           "count": 3
         },
         {
           "rating": 2.5,
-          "accumulated": 179,
+          "accumulated": 180,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 179,
-          "count": 3
+          "accumulated": 180,
+          "count": 4
         },
         {
           "rating": 3.5,
