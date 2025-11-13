@@ -6343,6 +6343,18 @@
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475386/feature/ingoods_475386_feature6.jpg",
               "text": "With quick-drying DRY-EX technology."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475386/feature/ingoods_475386_feature7.jpg",
+              "text": "Ultra Stretch fabric stretches in all directions for easy movement."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475386/feature/ingoods_475386_feature8.jpg",
+              "text": "Made with ultra-fine yarn for a smooth touch."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475386/feature/ingoods_475386_feature9.jpg",
+              "text": "Hip pockets with slide fasteners to keep your belongings safe while you work out."
             }
           ]
         },
@@ -53523,6 +53535,9 @@
             }
           ],
           "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451648/sub/ingoods_451648_sub3_3x4.jpg"
+            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451648/sub/ingoods_451648_sub6_3x4.jpg"
             },
