@@ -6100,15 +6100,6 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -52420,7 +52411,7 @@
           ]
         },
         "l1Id": "482446",
-        "longDescription": "<br>",
+        "longDescription": "- Basic fit and details based on the classic Oxford shirt. <br>- Body width and length are designed to look great, whether worn tucked in or untucked.",
         "name": "Oxford Striped Long Sleeve Shirt",
         "prices": {
           "base": {
