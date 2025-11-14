@@ -143,22 +143,6 @@
   }
 }
 {
-  "name": "Cotton Linen Stand Collar Shirt",
-  "price": 790.0000,
-  "basePrice": 2490.0000,
-  "discount": 68,
-  "link": "https://www.uniqlo.com/in/en/products/E474528-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "DRY-EX Crew Neck Short Sleeve T-Shirt",
   "price": 790.0000,
   "basePrice": 1490.0000,
@@ -292,22 +276,6 @@
   "basePrice": 1990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E467039-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Smart Ankle Pants Pleated",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E484898-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
