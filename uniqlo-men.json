@@ -18600,15 +18600,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -22388,6 +22379,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/455365/sub/ingoods_455365_sub3_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/455365/sub/ingoods_455365_sub5_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455365/sub/goods_455365_sub14_3x4.jpg"
@@ -32210,6 +32204,9 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475367/sub/ingoods_475367_sub3_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475367/sub/ingoods_475367_sub5_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475367/sub/ingoods_475367_sub7_3x4.jpg"
@@ -51163,6 +51160,9 @@
           "sub": [
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451648/sub/ingoods_451648_sub3_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451648/sub/ingoods_451648_sub5_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/451648/sub/ingoods_451648_sub6_3x4.jpg"
