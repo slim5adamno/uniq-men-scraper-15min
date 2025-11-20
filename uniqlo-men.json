@@ -21976,15 +21976,6 @@
             }
           },
           {
-            "code": "COL50",
-            "displayCode": "50",
-            "name": "LIGHT GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL56",
             "displayCode": "56",
             "name": "OLIVE",
