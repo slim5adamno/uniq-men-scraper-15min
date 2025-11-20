@@ -15,43 +15,11 @@
   }
 }
 {
-  "name": "EVANGELION UT(Short Sleeve T-Shirt)",
-  "price": 390.0000,
-  "basePrice": 1490.0000,
-  "discount": 74,
-  "link": "https://www.uniqlo.com/in/en/products/E474435-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "MAGIC FOR ALL TIMELESS UT (Graphic T-shirt)",
   "price": 590.0000,
   "basePrice": 1490.0000,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E481319-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "ONE PIECE UT (Graphic T-shirt)",
-  "price": 590.0000,
-  "basePrice": 1490.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E480696-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
