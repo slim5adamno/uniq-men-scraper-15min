@@ -433,12 +433,12 @@
         {
           "rating": 2.5,
           "accumulated": 176,
-          "count": 0
+          "count": 1
         },
         {
           "rating": 3,
-          "accumulated": 176,
-          "count": 3
+          "accumulated": 175,
+          "count": 2
         },
         {
           "rating": 3.5,
