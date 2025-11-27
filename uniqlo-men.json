@@ -851,24 +851,24 @@
             "name": "Others"
           },
           {
-            "id": 114891,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 95935,
             "name": "Efc Broadcloth"
+          },
+          {
+            "id": 114891,
+            "name": "Short Sleeve"
           },
           {
             "id": 131738,
             "name": "Accessories"
           },
           {
-            "id": 105103,
-            "name": "Crew Neck"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 105103,
+            "name": "Crew Neck"
           },
           {
             "id": 105104,
@@ -887,6 +887,10 @@
             "name": "Shoulder Bags"
           },
           {
+            "id": 106391,
+            "name": "Outerwear"
+          },
+          {
             "id": 101929,
             "name": "Wool"
           },
@@ -895,20 +899,16 @@
             "name": "HEATTECH"
           },
           {
-            "id": 106391,
-            "name": "Outerwear"
-          },
-          {
             "id": 106392,
             "name": "T-Shirts"
           },
           {
-            "id": 101927,
-            "name": "Warm Line"
-          },
-          {
             "id": 101972,
             "name": "Flannel Pants"
+          },
+          {
+            "id": 101927,
+            "name": "Warm Line"
           },
           {
             "id": 95945,
@@ -919,10 +919,6 @@
             "name": "Shirts"
           },
           {
-            "id": 95946,
-            "name": "Dry Comfort"
-          },
-          {
             "id": 13222,
             "name": "Short Sleeve"
           },
@@ -931,16 +927,20 @@
             "name": "Sweaters"
           },
           {
+            "id": 95946,
+            "name": "Dry Comfort"
+          },
+          {
+            "id": 49370,
+            "name": "Cotton"
+          },
+          {
             "id": 101973,
             "name": "Fleece"
           },
           {
             "id": 106395,
             "name": "Bottoms"
-          },
-          {
-            "id": 49370,
-            "name": "Cotton"
           },
           {
             "id": 106396,
@@ -955,20 +955,20 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 12501,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12592,
             "name": "Pull on"
           },
           {
-            "id": 12597,
-            "name": "Chino"
+            "id": 12501,
+            "name": "Uniqlo U"
           },
           {
             "id": 12503,
             "name": "AIRism"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12504,
@@ -999,20 +999,20 @@
             "name": "Others"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
-          },
-          {
-            "id": 101319,
-            "name": "Jacket"
-          },
-          {
             "id": 95927,
             "name": "AIRism"
           },
           {
+            "id": 101968,
+            "name": "Flannel"
+          },
+          {
             "id": 106397,
             "name": "Outerwear"
+          },
+          {
+            "id": 101319,
+            "name": "Jacket"
           },
           {
             "id": 101967,
@@ -1071,10 +1071,6 @@
             "name": "Oversized"
           },
           {
-            "id": 125515,
-            "name": "Long Sleeves"
-          },
-          {
             "id": 106409,
             "name": "T-Shirts"
           },
@@ -1083,24 +1079,28 @@
             "name": "Glove"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
-          },
-          {
-            "id": 115632,
-            "name": "Pleated"
-          },
-          {
-            "id": 106410,
-            "name": "Shirts"
+            "id": 125515,
+            "name": "Long Sleeves"
           },
           {
             "id": 125516,
             "name": "Shirt Jacket"
           },
           {
+            "id": 106410,
+            "name": "Shirts"
+          },
+          {
             "id": 127821,
             "name": "Scarf"
+          },
+          {
+            "id": 115632,
+            "name": "Pleated"
+          },
+          {
+            "id": 12480,
+            "name": "Pullover"
           },
           {
             "id": 125517,
@@ -1115,12 +1115,12 @@
             "name": "Others"
           },
           {
-            "id": 106408,
-            "name": "Outerwear"
-          },
-          {
             "id": 11694,
             "name": "Others"
+          },
+          {
+            "id": 106408,
+            "name": "Outerwear"
           },
           {
             "id": 106414,
@@ -19496,6 +19496,15 @@
             "code": "COL08",
             "displayCode": "08",
             "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -47238,169 +47247,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL17",
-            "displayCode": "17",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/478929/item/ingoods_17_478929_3x4.jpg",
-              "colorCode": "17"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478929/chip/goods_17_478929_chip.jpg",
-              "colorCode": "17"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/478929/sub/ingoods_478929_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478929/sub/goods_478929_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/478929/sub/goods_478929_sub15_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/478929/sub/ingoods_478929_sub23_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/478929/sub/ingoods_478929_sub24_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/478929/feature/ingoods_478929_feature1.jpg",
-              "text": "Fine 100% cotton brushed for a smooth feel on the outside and soft and cozy warmth on the inside."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/478929/feature/ingoods_478929_feature2.jpg",
-              "text": "Rounded buttons for easy fastening."
-            }
-          ]
-        },
-        "l1Id": "478929",
-        "longDescription": "- Fine 100% cotton brushed for a smooth feel on the outside and soft and cozy warmth on the inside.<br>- Rounded buttons for easy fastening.<br>- Styles on its own or as an outer layer.",
-        "name": "Flannel Shirt Long Sleeve",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2290.0000"
-          }
-        },
-        "productId": "E478929-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 3,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 3
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL17",
-            "displayCode": "17",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08513769",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 3,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/478929_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -57972,9 +57818,9 @@
       }
     ],
     "pagination": {
-      "count": 259,
+      "count": 258,
       "total": 259,
-      "offset": 1000
+      "offset": 1001
     }
   }
 }
