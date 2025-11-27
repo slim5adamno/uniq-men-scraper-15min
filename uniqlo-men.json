@@ -22685,7 +22685,7 @@
           }
         ],
         "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean"
+        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
         "careInstruction": "-",
@@ -30128,12 +30128,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433776/sub/goods_433776_sub21_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433776/feature/ingoods_433776_feature1.jpg",
-              "text": "With UV protection technology."
             }
           ]
         },
