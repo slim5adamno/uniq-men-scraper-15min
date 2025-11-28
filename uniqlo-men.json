@@ -309,13 +309,6 @@
           "lazy": false
         },
         {
-          "code": "comingSoon",
-          "name": "Coming Soon",
-          "rank": 11,
-          "id": 13,
-          "lazy": false
-        },
-        {
           "code": "limitedStore",
           "name": "Limited Store",
           "rank": 13,
@@ -33361,7 +33354,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09092033",
+          "l2Id": "09092032",
           "salesStartDate": "",
           "salesEndDate": ""
         },
