@@ -292,6 +292,13 @@
           "lazy": false
         },
         {
+          "code": "newSKU",
+          "name": "New Color",
+          "rank": 10,
+          "id": 7,
+          "lazy": false
+        },
+        {
           "code": "limitedStore",
           "name": "Limited Store",
           "rank": 13,
@@ -27362,6 +27369,15 @@
       {
         "careInstruction": "<br>",
         "colors": [
+          {
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "COL09",
             "displayCode": "09",
