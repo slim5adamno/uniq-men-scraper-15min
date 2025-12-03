@@ -834,16 +834,16 @@
             "name": "Wool"
           },
           {
+            "id": 101972,
+            "name": "Flannel Pants"
+          },
+          {
             "id": 101927,
             "name": "Warm Line"
           },
           {
             "id": 106392,
             "name": "T-Shirts"
-          },
-          {
-            "id": 101972,
-            "name": "Flannel Pants"
           },
           {
             "id": 106393,
@@ -862,40 +862,40 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 12607,
-            "name": "Others"
-          },
-          {
             "id": 106394,
             "name": "Sweaters"
           },
           {
-            "id": 12498,
-            "name": "DRY-EX"
-          },
-          {
-            "id": 49370,
-            "name": "Cotton"
-          },
-          {
-            "id": 101973,
-            "name": "Fleece"
+            "id": 12607,
+            "name": "Others"
           },
           {
             "id": 106395,
             "name": "Bottoms"
           },
           {
-            "id": 12604,
-            "name": "Wide"
+            "id": 49370,
+            "name": "Cotton"
+          },
+          {
+            "id": 12498,
+            "name": "DRY-EX"
+          },
+          {
+            "id": 101973,
+            "name": "Fleece"
+          },
+          {
+            "id": 106396,
+            "name": "Accessory"
           },
           {
             "id": 95947,
             "name": "Regular"
           },
           {
-            "id": 106396,
-            "name": "Accessory"
+            "id": 12604,
+            "name": "Wide"
           },
           {
             "id": 12512,
@@ -946,6 +946,10 @@
             "name": "Others"
           },
           {
+            "id": 101968,
+            "name": "Flannel"
+          },
+          {
             "id": 106397,
             "name": "Outerwear"
           },
@@ -954,24 +958,20 @@
             "name": "Wide"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
-          },
-          {
             "id": 101967,
             "name": "Fleece"
           },
           {
-            "id": 49412,
-            "name": "UV Protection"
+            "id": 95925,
+            "name": "Short Sleeves"
           },
           {
             "id": 103334,
             "name": "Lounge Set"
           },
           {
-            "id": 95925,
-            "name": "Short Sleeves"
+            "id": 49412,
+            "name": "UV Protection"
           },
           {
             "id": 12646,
@@ -1014,16 +1014,16 @@
             "name": "Ultra Light Down"
           },
           {
-            "id": 127820,
-            "name": "Glove"
-          },
-          {
             "id": 106409,
             "name": "T-Shirts"
           },
           {
-            "id": 115632,
-            "name": "Pleated"
+            "id": 127820,
+            "name": "Glove"
+          },
+          {
+            "id": 106410,
+            "name": "Shirts"
           },
           {
             "id": 12480,
@@ -1034,8 +1034,8 @@
             "name": "Scarf"
           },
           {
-            "id": 106410,
-            "name": "Shirts"
+            "id": 115632,
+            "name": "Pleated"
           },
           {
             "id": 101919,
