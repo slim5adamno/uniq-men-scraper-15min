@@ -2753,14 +2753,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 6,
-          "fit": 3.67,
+          "count": 7,
+          "fit": 3.57,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 6
+            "five": 7
           }
         },
         "representative": {
@@ -2797,7 +2797,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 7,
           "count": 0,
           "items": []
         },
@@ -4920,14 +4920,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 80,
-          "fit": 3.08,
+          "count": 82,
+          "fit": 3.07,
           "rateCount": {
             "one": 1,
             "two": 1,
             "three": 1,
             "four": 7,
-            "five": 70
+            "five": 72
           }
         },
         "representative": {
@@ -4976,7 +4976,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 80,
+          "total": 82,
           "count": 0,
           "items": []
         },
@@ -5300,7 +5300,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -5341,7 +5352,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -11151,14 +11162,14 @@
         ],
         "rating": {
           "average": 4.9,
-          "count": 48,
-          "fit": 3.23,
+          "count": 49,
+          "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 44
+            "five": 45
           }
         },
         "representative": {
@@ -11201,7 +11212,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 48,
+          "total": 49,
           "count": 0,
           "items": []
         },
@@ -17710,15 +17721,6 @@
             }
           },
           {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -24109,14 +24111,14 @@
           }
         ],
         "rating": {
-          "average": 4.91,
-          "count": 23,
+          "average": 4.88,
+          "count": 24,
           "fit": 3.04,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 2,
+            "four": 3,
             "five": 21
           }
         },
@@ -24147,7 +24149,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 23,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -42960,14 +42962,14 @@
           }
         ],
         "rating": {
-          "average": 4.78,
-          "count": 91,
+          "average": 4.77,
+          "count": 92,
           "fit": 3.16,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 4,
-            "four": 8,
+            "four": 9,
             "five": 78
           }
         },
@@ -43005,7 +43007,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 92,
           "count": 0,
           "items": []
         },
