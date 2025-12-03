@@ -344,7 +344,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 154
+          "count": 152
         },
         {
           "from": 2000,
@@ -365,58 +365,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 227,
-          "count": 63
+          "accumulated": 225,
+          "count": 62
         },
         {
           "rating": 0.5,
-          "accumulated": 164,
+          "accumulated": 163,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 164,
+          "accumulated": 163,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 162,
+          "accumulated": 161,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 162,
+          "accumulated": 161,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 161,
+          "accumulated": 160,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 161,
+          "accumulated": 160,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 158,
+          "accumulated": 157,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 158,
+          "accumulated": 157,
           "count": 14
         },
         {
           "rating": 4.5,
-          "accumulated": 144,
+          "accumulated": 143,
           "count": 69
         },
         {
           "rating": 5,
-          "accumulated": 75,
-          "count": 75
+          "accumulated": 74,
+          "count": 74
         }
       ],
       "sizes": [
@@ -995,14 +995,6 @@
             "name": "Bottoms"
           },
           {
-            "id": 106402,
-            "name": "Accessory"
-          },
-          {
-            "id": 106404,
-            "name": "Bags"
-          },
-          {
             "id": 101970,
             "name": "Others"
           },
@@ -1079,6 +1071,14 @@
             "name": "Others"
           },
           {
+            "id": 129732,
+            "name": "Crew Neck"
+          },
+          {
+            "id": 129734,
+            "name": "Others"
+          },
+          {
             "id": 132506,
             "name": "NY POP ART"
           },
@@ -1099,10 +1099,6 @@
             "name": "NY POP ART"
           },
           {
-            "id": 113941,
-            "name": "Pokémon"
-          },
-          {
             "id": 109445,
             "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
@@ -1121,6 +1117,10 @@
           {
             "id": 49355,
             "name": "Peace For All"
+          },
+          {
+            "id": 129740,
+            "name": "Others"
           },
           {
             "id": 12621,
@@ -15640,15 +15640,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -23694,15 +23685,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -23933,158 +23915,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Body: 100% Cotton/ Rib: 78% Cotton, 22% Polyester",
-        "designDetail": "- Fit: Regular<br>- Pockets: No Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479779/item/ingoods_02_479779_3x4.jpg",
-              "colorCode": "02"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479779/chip/goods_02_479779_chip.jpg",
-              "colorCode": "02"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479779/sub/ingoods_479779_sub5_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479779/sub/ingoods_479779_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479779/sub/goods_479779_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479779/sub/goods_479779_sub17_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479779/sub/goods_479779_sub18_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479779/sub/goods_479779_sub19_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479779/sub/goods_479779_sub20_3x4.jpg"
-            }
-          ]
-        },
-        "l1Id": "479779",
-        "longDescription": "Pokémon<br><br>The Pokémon Trading Card Game is a strategic two-player game based on the world of Pokémon. The Pokémon Trading Card Game Pocket app allows you to casually collect and battle with beautifully designed Pokémon cards. This UT collection features designs inspired by Pokémon card illustrations, enjoyable for both adults and children alike.<br><br>©2025 Pokémon.<br>©1995-2025 Nintendo/Creatures Inc./GAME FREAK inc.",
-        "name": "Pokemon Graphic Sweatshirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E479779-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 2,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 2
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08827099",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 2,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479779_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
         "careInstruction": "<br>",
@@ -34237,188 +34067,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Shell: 100% Polyester/ Filling: 100% Polyester/ Lining: 100% Polyester/ Shoulder: Tape: 100% Polyester",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/item/goods_09_479880_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/item/goods_58_479880_3x4.jpg",
-              "colorCode": "58"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/item/goods_69_479880_3x4.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/chip/goods_09_479880_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/chip/goods_58_479880_chip.jpg",
-              "colorCode": "58"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/chip/goods_69_479880_chip.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/sub/goods_479880_sub1_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479880/sub/ingoods_479880_sub2_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/sub/goods_479880_sub3_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/sub/goods_479880_sub4_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/sub/goods_479880_sub13_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/sub/goods_479880_sub17_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479880/sub/goods_479880_sub18_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479880/feature/ingoods_479880_feature1.jpg",
-              "text": "Three inside pockets and two outside pockets to keep your belongings organized. Based on customer feedback, there is no longer a gap when it is closed, and it is easier to open."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479880/feature/ingoods_479880_feature2.jpg",
-              "text": "Two-way design with a suitcase strap on the back, suitable for use as a carry-on bag."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479880/feature/ingoods_479880_feature3.jpg",
-              "text": "Water-repellent finish protects against light rain. *The finish is not permanent. The entire body is padded for a soft feel."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479880/feature/ingoods_479880_feature5.jpg",
-              "text": "UNIQLO : C"
-            }
-          ]
-        },
-        "l1Id": "479880",
-        "longDescription": "<br>",
-        "name": "2Way Utility Bag",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          }
-        },
-        "productId": "E479880-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {},
-        "representative": {
-          "color": {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08695243",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 0,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479880_size.html",
-        "sizeInformation": "Width(Bottom): 34cm, Height: 38cm, Depth: 16cm, Shoulder Strap Length: 61cm～114cm, Bag Capacity: 26Liters",
-        "sizes": [
-          {
-            "code": "SIZ999",
-            "displayCode": "999",
-            "name": "No Control",
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Do not wash, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -49872,8 +49520,8 @@
       }
     ],
     "pagination": {
-      "count": 227,
-      "total": 227,
+      "count": 225,
+      "total": 225,
       "offset": 1000
     }
   }
