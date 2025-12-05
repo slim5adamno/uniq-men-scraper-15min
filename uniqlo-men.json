@@ -28626,11 +28626,11 @@
           }
         ],
         "rating": {
-          "average": 4.75,
-          "count": 4,
-          "fit": 3,
+          "average": 4,
+          "count": 5,
+          "fit": 2.6,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 0,
             "four": 1,
@@ -36168,14 +36168,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 11,
-          "fit": 3.18,
+          "count": 12,
+          "fit": 3.17,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 11
+            "five": 12
           }
         },
         "representative": {
@@ -48505,14 +48505,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 118,
+          "count": 119,
           "fit": 3.12,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 14,
-            "five": 104
+            "five": 105
           }
         },
         "representative": {
@@ -51835,14 +51835,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 329,
+          "count": 331,
           "fit": 3.04,
           "rateCount": {
             "one": 8,
             "two": 1,
             "three": 4,
             "four": 22,
-            "five": 294
+            "five": 296
           }
         },
         "representative": {
