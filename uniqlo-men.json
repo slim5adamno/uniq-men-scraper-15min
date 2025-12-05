@@ -18273,7 +18273,7 @@
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465185/item/goods_11_465185_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/item/ingoods_11_465185_3x4.jpg",
               "colorCode": "11"
             },
             {
@@ -18297,7 +18297,7 @@
               "colorCode": "34"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465185/item/goods_35_465185_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/item/ingoods_35_465185_3x4.jpg",
               "colorCode": "35"
             },
             {
@@ -18305,7 +18305,7 @@
               "colorCode": "41"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465185/item/goods_50_465185_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/item/ingoods_50_465185_3x4.jpg",
               "colorCode": "50"
             },
             {
@@ -18325,7 +18325,7 @@
               "colorCode": "57"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465185/item/goods_58_465185_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/item/ingoods_58_465185_3x4.jpg",
               "colorCode": "58"
             },
             {
@@ -18345,7 +18345,7 @@
               "colorCode": "69"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465185/item/goods_70_465185_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/item/ingoods_70_465185_3x4.jpg",
               "colorCode": "70"
             },
             {
@@ -18460,6 +18460,12 @@
             }
           ],
           "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/sub/ingoods_465185_sub3_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465185/sub/ingoods_465185_sub6_3x4.jpg"
+            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465185/sub/goods_465185_sub13_3x4.jpg"
             },
