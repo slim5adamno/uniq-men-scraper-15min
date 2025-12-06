@@ -379,7 +379,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 156
+          "count": 155
         },
         {
           "from": 2000,
@@ -400,43 +400,43 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 253,
+          "accumulated": 252,
           "count": 67
         },
         {
           "rating": 0.5,
-          "accumulated": 186,
+          "accumulated": 185,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 186,
+          "accumulated": 185,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 184,
+          "accumulated": 183,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 184,
+          "accumulated": 183,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 183,
+          "accumulated": 182,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 183,
+          "accumulated": 182,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 180,
-          "count": 1
+          "accumulated": 179,
+          "count": 0
         },
         {
           "rating": 4,
@@ -31163,154 +31163,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL37",
-            "displayCode": "37",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Leather",
-        "designDetail": "",
-        "freeInformation": "PLOT NO. 153, IMT MANESAR, Sector 4, Manesar, Gurugram, Haryana, 122052",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476854/item/goods_09_476854_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476854/item/goods_37_476854_3x4.jpg",
-              "colorCode": "37"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476854/chip/goods_09_476854_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476854/chip/goods_37_476854_chip.jpg",
-              "colorCode": "37"
-            }
-          ],
-          "sub": [],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476854/feature/ingoods_476854_feature6.jpg",
-              "text": "Made of genuine leather expertly tanned in Tuscany, Italy, a region known for its high-quality leather production. *Final product processing is done in China/India. Vegetable-tanned, so the feel and appearance of the leather improves over time."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476854/feature/ingoods_476854_feature8.jpg",
-              "text": "Softer finish pairs well with any bottoms."
-            }
-          ]
-        },
-        "l1Id": "478300",
-        "longDescription": "<br>",
-        "name": "Italian Leather Slide Buckle Belt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1790.0000"
-          }
-        },
-        "productId": "E476854-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 3.71,
-          "count": 7,
-          "fit": 2.43,
-          "rateCount": {
-            "one": 2,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 4
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08404232",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 7,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/476854_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "-"
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -56744,8 +56596,8 @@
       }
     ],
     "pagination": {
-      "count": 253,
-      "total": 253,
+      "count": 252,
+      "total": 252,
       "offset": 1000
     }
   }
