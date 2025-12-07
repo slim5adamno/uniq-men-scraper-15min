@@ -426,12 +426,12 @@
         {
           "rating": 3,
           "accumulated": 181,
-          "count": 4
+          "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 177,
-          "count": 0
+          "accumulated": 178,
+          "count": 1
         },
         {
           "rating": 4,
@@ -33386,7 +33386,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09092033",
+          "l2Id": "09092032",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -49335,15 +49335,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
