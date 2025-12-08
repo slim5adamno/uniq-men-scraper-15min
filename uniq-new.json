@@ -63,6 +63,38 @@
   }
 }
 {
+  "name": "AIRism Cotton Open Collar Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E480121-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "AIRism Cotton Open Collar Polo Shirt",
+  "price": 990.0000,
+  "basePrice": 1990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E480121-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Dry Pique Striped Polo Shirt",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -116,38 +148,6 @@
   "basePrice": 2490.0000,
   "discount": 60,
   "link": "https://www.uniqlo.com/in/en/products/E476997-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism Cotton Open Collar Polo Shirt",
-  "price": 990.0000,
-  "basePrice": 1990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E480121-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "AIRism Cotton Open Collar Polo Shirt",
-  "price": 990.0000,
-  "basePrice": 1990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E480121-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
@@ -315,38 +315,6 @@
     "display": {
       "showFlag": true,
       "chipType": 0
-    }
-  }
-}
-{
-  "name": "Wide Straight Pants",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479823-000",
-  "sizes": {
-    "code": "CMD073",
-    "displayCode": "073",
-    "name": "73cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Wide Straight Pants",
-  "price": 1990.0000,
-  "basePrice": 3990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479823-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
     }
   }
 }
@@ -392,6 +360,38 @@
     "code": "INS030",
     "displayCode": "030",
     "name": "30inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Wide Straight Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479823-000",
+  "sizes": {
+    "code": "CMD073",
+    "displayCode": "073",
+    "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Wide Straight Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479823-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
     "display": {
       "showFlag": true,
       "chipType": 1
