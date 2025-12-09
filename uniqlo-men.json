@@ -8309,15 +8309,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Shell: 100% Polyamide ( 100% Uses Recycled Polyamide Fiber )/ Lining: 100% Polyester/ Filling: 100% Polyester/ Shoulder: 100% Polyester",
@@ -26246,6 +26237,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -39869,15 +39869,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
