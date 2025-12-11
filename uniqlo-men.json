@@ -503,7 +503,7 @@
         {
           "code": "SIZ999",
           "displayCode": "999",
-          "name": "No Control"
+          "name": "One Size"
         },
         {
           "code": "SMA002",
@@ -4216,9 +4216,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -8064,9 +8064,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -8255,9 +8255,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -8525,9 +8525,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -24202,9 +24202,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -24403,9 +24403,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -24591,9 +24591,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -24805,9 +24805,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -27704,9 +27704,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -27849,9 +27849,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -28438,9 +28438,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -28591,9 +28591,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -28738,9 +28738,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -28930,9 +28930,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -29109,9 +29109,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -29314,9 +29314,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -29478,9 +29478,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -29666,9 +29666,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -29861,9 +29861,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -30184,9 +30184,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -35793,9 +35793,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -35967,9 +35967,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -38258,9 +38258,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -38467,9 +38467,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -39107,9 +39107,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -39296,9 +39296,9 @@
           {
             "code": "SIZ999",
             "displayCode": "999",
-            "name": "No Control",
+            "name": "One Size",
             "display": {
-              "showFlag": false,
+              "showFlag": true,
               "chipType": 0
             }
           }
@@ -51885,7 +51885,7 @@
             }
           }
         ],
-        "composition": "Body: Pocket Lining: 100% Polyester ( 100% Uses Recycled Polyester Fiber )",
+        "composition": "100% Polyester ( 100% Uses Recycled Polyester Fiber )",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check “Materials” on th",
         "genderName": "Unisex",
