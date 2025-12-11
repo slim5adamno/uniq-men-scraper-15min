@@ -25272,15 +25272,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL35",
             "displayCode": "35",
             "name": "BROWN",
@@ -25457,15 +25448,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479849_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
@@ -35550,14 +35532,14 @@
         ],
         "rating": {
           "average": 4.65,
-          "count": 145,
+          "count": 146,
           "fit": 3.03,
           "rateCount": {
             "one": 6,
             "two": 0,
             "three": 2,
             "four": 23,
-            "five": 114
+            "five": 115
           }
         },
         "representative": {
@@ -47150,15 +47132,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -49418,13 +49391,13 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 138,
+          "count": 139,
           "fit": 3.11,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 16,
+            "four": 17,
             "five": 122
           }
         },
@@ -53254,15 +53227,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL30",
             "displayCode": "30",
