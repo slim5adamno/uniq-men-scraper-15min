@@ -18497,7 +18497,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 6,
           "count": 0,
           "items": []
         },
@@ -31800,14 +31800,14 @@
         ],
         "rating": {
           "average": 4.86,
-          "count": 28,
-          "fit": 3.04,
+          "count": 29,
+          "fit": 3.1,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 25
+            "five": 26
           }
         },
         "representative": {
@@ -31850,7 +31850,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -44102,7 +44102,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -45518,14 +45518,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -45562,7 +45562,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
@@ -50662,14 +50662,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 139,
+          "count": 141,
           "fit": 3.11,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 17,
-            "five": 122
+            "five": 124
           }
         },
         "representative": {
@@ -50712,7 +50712,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 139,
+          "total": 141,
           "count": 0,
           "items": []
         },
