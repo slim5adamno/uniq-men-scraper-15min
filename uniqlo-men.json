@@ -339,13 +339,6 @@
           "lazy": false
         },
         {
-          "code": "comingSoon",
-          "name": "Coming Soon",
-          "rank": 11,
-          "id": 13,
-          "lazy": false
-        },
-        {
           "code": "limitedStore",
           "name": "Limited Store",
           "rank": 13,
@@ -24089,6 +24082,15 @@
             }
           },
           {
+            "code": "COL04",
+            "displayCode": "04",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL07",
             "displayCode": "07",
             "name": "GRAY",
@@ -24101,6 +24103,15 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL12",
+            "displayCode": "12",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -24125,6 +24136,15 @@
             }
           },
           {
+            "code": "COL51",
+            "displayCode": "51",
+            "name": "GREEN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL58",
             "displayCode": "58",
             "name": "DARK GREEN",
@@ -24134,8 +24154,26 @@
             }
           },
           {
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL65",
             "displayCode": "65",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL68",
+            "displayCode": "68",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -42591,6 +42629,15 @@
             }
           },
           {
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -48840,9 +48887,27 @@
             }
           },
           {
+            "code": "COL11",
+            "displayCode": "11",
+            "name": "PINK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL19",
             "displayCode": "19",
             "name": "WINE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -48858,9 +48923,27 @@
             }
           },
           {
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL41",
             "displayCode": "41",
             "name": "YELLOW",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
