@@ -33784,15 +33784,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -47956,6 +47947,16 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477181/sub/goods_477181_sub15_3x4.jpg"
+            }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477181/feature/ingoods_477181_feature6.jpg",
+              "text": "Combines the softness of cotton and the coolness of linen for comfort."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477181/feature/ingoods_477181_feature7.jpg",
+              "text": "Two-way collar that can be worn open or closed."
             }
           ]
         },
