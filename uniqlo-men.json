@@ -389,7 +389,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 73
+          "count": 70
         },
         {
           "from": 3000,
@@ -405,8 +405,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 273,
-          "count": 87
+          "accumulated": 270,
+          "count": 84
         },
         {
           "rating": 0.5,
@@ -840,6 +840,10 @@
             "name": "Long Sleeves"
           },
           {
+            "id": 117252,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 105104,
             "name": "High Neck"
           },
@@ -850,10 +854,6 @@
           {
             "id": 95937,
             "name": "Oversized Shirts"
-          },
-          {
-            "id": 95940,
-            "name": "Stripe"
           },
           {
             "id": 95930,
@@ -2567,15 +2567,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22889,7 +22880,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08650260",
+          "l2Id": "08650259",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -29399,15 +29390,6 @@
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -47682,15 +47664,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL13",
             "displayCode": "13",
             "name": "RED",
@@ -59672,8 +59645,8 @@
     ],
     "pagination": {
       "count": 270,
-      "total": 273,
-      "offset": 1003
+      "total": 270,
+      "offset": 1000
     }
   }
 }
