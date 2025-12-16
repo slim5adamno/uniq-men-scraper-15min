@@ -35689,15 +35689,15 @@
           }
         ],
         "rating": {
-          "average": 4.86,
-          "count": 14,
-          "fit": 2.86,
+          "average": 4.87,
+          "count": 15,
+          "fit": 2.87,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -49995,7 +49995,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL05",
@@ -57293,14 +57304,14 @@
         ],
         "rating": {
           "average": 4.81,
-          "count": 380,
+          "count": 381,
           "fit": 3.05,
           "rateCount": {
             "one": 9,
             "two": 1,
             "three": 4,
             "four": 26,
-            "five": 340
+            "five": 341
           }
         },
         "representative": {
