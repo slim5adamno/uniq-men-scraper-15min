@@ -47,22 +47,6 @@
   }
 }
 {
-  "name": "NY POP ART Archive UT (Graphic T-shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E477293-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Extra Stretch Active Shorts",
   "price": 790.0000,
   "basePrice": 1990.0000,
@@ -152,6 +136,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Crew Neck T-Shirt Long Sleeve",
+  "price": 990.0000,
+  "basePrice": 2490.0000,
+  "discount": 60,
+  "link": "https://www.uniqlo.com/in/en/products/E479852-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
@@ -447,6 +447,38 @@
   }
 }
 {
+  "name": "Brushed Half-Zip Sweatshirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479849-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Brushed Sweat Wide Pants",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479847-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Soft Twill Stand Collar Long Sleeve Shirt",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -552,6 +584,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Double Face Zip-Up Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E480967-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
