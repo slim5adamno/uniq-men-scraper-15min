@@ -4593,14 +4593,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
-          "fit": 3.5,
+          "count": 5,
+          "fit": 3.4,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -4637,7 +4637,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -18296,14 +18296,14 @@
         ],
         "rating": {
           "average": 4.91,
-          "count": 65,
+          "count": 66,
           "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 4,
-            "five": 60
+            "five": 61
           }
         },
         "representative": {
@@ -18346,7 +18346,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 65,
+          "total": 66,
           "count": 0,
           "items": []
         },
@@ -49601,15 +49601,15 @@
           }
         ],
         "rating": {
-          "average": 3.33,
-          "count": 6,
-          "fit": 3.33,
+          "average": 3.57,
+          "count": 7,
+          "fit": 3.29,
           "rateCount": {
             "one": 1,
             "two": 2,
             "three": 0,
             "four": 0,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
@@ -49658,7 +49658,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 7,
           "count": 0,
           "items": []
         },
@@ -60004,7 +60004,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 1,
+          "count": 1,
+          "fit": 4,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -60039,7 +60050,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
