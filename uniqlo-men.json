@@ -58479,7 +58479,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08161824",
+          "l2Id": "08161825",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -58756,6 +58756,15 @@
             "code": "INS032",
             "displayCode": "032",
             "name": "32inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS034",
+            "displayCode": "034",
+            "name": "34inch",
             "display": {
               "showFlag": true,
               "chipType": 1
