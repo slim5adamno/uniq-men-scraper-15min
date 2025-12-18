@@ -389,7 +389,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 171
+          "count": 167
         },
         {
           "from": 2000,
@@ -410,8 +410,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 276,
-          "count": 85
+          "accumulated": 272,
+          "count": 81
         },
         {
           "rating": 0.5,
@@ -8206,7 +8206,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -8361,7 +8361,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
@@ -8380,7 +8380,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -8538,7 +8538,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
@@ -8557,7 +8557,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -8718,7 +8718,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
@@ -9091,7 +9091,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -9249,7 +9249,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
@@ -58036,15 +58036,6 @@
             }
           },
           {
-            "code": "INS032",
-            "displayCode": "032",
-            "name": "32inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "INS038",
             "displayCode": "038",
             "name": "38inch",
@@ -60118,8 +60109,8 @@
     ],
     "pagination": {
       "count": 272,
-      "total": 276,
-      "offset": 1004
+      "total": 272,
+      "offset": 1000
     }
   }
 }
