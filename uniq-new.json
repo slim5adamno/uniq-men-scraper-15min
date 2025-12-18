@@ -19,22 +19,6 @@
   "price": 790.0000,
   "basePrice": 1490.0000,
   "discount": 47,
-  "link": "https://www.uniqlo.com/in/en/products/E479308-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "NY POP ART Archive UT (Short Sleeve Graphic T-Shirt)",
-  "price": 790.0000,
-  "basePrice": 1490.0000,
-  "discount": 47,
   "link": "https://www.uniqlo.com/in/en/products/E477290-000",
   "sizes": {
     "code": "SMA003",
@@ -372,22 +356,6 @@
   "basePrice": 2990.0000,
   "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E480652-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Brushed Sweat Wide Pants",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479847-000",
   "sizes": {
     "code": "SMA004",
     "displayCode": "004",
