@@ -453,12 +453,12 @@
         {
           "rating": 4,
           "accumulated": 174,
-          "count": 19
+          "count": 18
         },
         {
           "rating": 4.5,
-          "accumulated": 155,
-          "count": 77
+          "accumulated": 156,
+          "count": 78
         },
         {
           "rating": 5,
@@ -57709,24 +57709,6 @@
             "code": "INS029",
             "displayCode": "029",
             "name": "29inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS032",
-            "displayCode": "032",
-            "name": "32inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS034",
-            "displayCode": "034",
-            "name": "34inch",
             "display": {
               "showFlag": true,
               "chipType": 1
