@@ -23202,6 +23202,12 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
@@ -36706,6 +36712,12 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
@@ -56901,7 +56913,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08161824",
+          "l2Id": "08161826",
           "salesStartDate": "",
           "salesEndDate": ""
         },
