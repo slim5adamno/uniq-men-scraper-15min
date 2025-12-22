@@ -985,6 +985,10 @@
             "name": "Pull on"
           },
           {
+            "id": 67842,
+            "name": "Easy"
+          },
+          {
             "id": 12597,
             "name": "Chino"
           },
@@ -1111,10 +1115,6 @@
           {
             "id": 127821,
             "name": "Scarf"
-          },
-          {
-            "id": 12480,
-            "name": "Pullover"
           },
           {
             "id": 106410,
@@ -9193,9 +9193,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL64",
+            "displayCode": "64",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9226,7 +9226,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09083444",
+          "l2Id": "09055425",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -28122,15 +28122,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL39",
             "displayCode": "39",
             "name": "DARK BROWN",
@@ -45453,9 +45444,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -45486,7 +45477,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09108244",
+          "l2Id": "09108253",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45753,9 +45744,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -45786,7 +45777,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09042164",
+          "l2Id": "09042317",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -46090,9 +46081,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL12",
+            "displayCode": "12",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -46123,7 +46114,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08562091",
+          "l2Id": "09042020",
           "salesStartDate": "",
           "salesEndDate": ""
         },
