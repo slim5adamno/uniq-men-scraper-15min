@@ -399,6 +399,22 @@
   }
 }
 {
+  "name": "Blocktech Parka",
+  "price": 4990.0000,
+  "basePrice": 8990.0000,
+  "discount": 44,
+  "link": "https://www.uniqlo.com/in/en/products/E481044-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Blocktech Utility Parka",
   "price": 4990.0000,
   "basePrice": 8990.0000,
