@@ -406,14 +406,14 @@
         {
           "from": 4000,
           "to": 0,
-          "count": 8
+          "count": 7
         }
       ],
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 272,
-          "count": 90
+          "accumulated": 271,
+          "count": 89
         },
         {
           "rating": 0.5,
@@ -11886,14 +11886,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
-          "fit": 3.25,
+          "count": 5,
+          "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -11930,7 +11930,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -17633,15 +17633,15 @@
           }
         ],
         "rating": {
-          "average": 4.91,
-          "count": 68,
-          "fit": 3.22,
+          "average": 4.92,
+          "count": 71,
+          "fit": 3.21,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 4,
-            "five": 63
+            "five": 66
           }
         },
         "representative": {
@@ -17684,7 +17684,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 71,
           "count": 0,
           "items": []
         },
@@ -22946,14 +22946,14 @@
         ],
         "rating": {
           "average": 4.79,
-          "count": 831,
+          "count": 836,
           "fit": 3.11,
           "rateCount": {
             "one": 22,
             "two": 1,
             "three": 8,
-            "four": 68,
-            "five": 732
+            "four": 69,
+            "five": 736
           }
         },
         "representative": {
@@ -22996,7 +22996,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 831,
+          "total": 836,
           "count": 0,
           "items": []
         },
@@ -33503,15 +33503,15 @@
           }
         ],
         "rating": {
-          "average": 4.87,
-          "count": 31,
-          "fit": 3.1,
+          "average": 4.88,
+          "count": 32,
+          "fit": 3.09,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 28
+            "five": 29
           }
         },
         "representative": {
@@ -38093,14 +38093,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 2,
+          "count": 3,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -38137,7 +38137,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
@@ -39139,14 +39139,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 9,
-          "fit": 2.78,
+          "count": 10,
+          "fit": 2.8,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
@@ -39183,7 +39183,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 10,
           "count": 0,
           "items": []
         },
@@ -42425,14 +42425,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 42,
+          "count": 43,
           "fit": 3.07,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 38
+            "five": 39
           }
         },
         "representative": {
@@ -48476,15 +48476,15 @@
           }
         ],
         "rating": {
-          "average": 4.93,
-          "count": 15,
-          "fit": 3.13,
+          "average": 4.94,
+          "count": 17,
+          "fit": 3.24,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 14
+            "five": 16
           }
         },
         "representative": {
@@ -48521,7 +48521,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 16,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -53361,14 +53361,14 @@
         ],
         "rating": {
           "average": 4.87,
-          "count": 52,
+          "count": 53,
           "fit": 3.08,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 7,
-            "five": 45
+            "five": 46
           }
         },
         "representative": {
@@ -53405,7 +53405,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 52,
+          "total": 53,
           "count": 0,
           "items": []
         },
@@ -56540,14 +56540,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 10,
+          "count": 11,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -56577,7 +56577,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 10,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -58095,191 +58095,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          }
-        ],
-        "composition": "100% Polyester ( 53% Uses Recycled Polyester Fiber )",
-        "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/item/ingoods_09_481044_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/item/ingoods_39_481044_3x4.jpg",
-              "colorCode": "39"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/item/ingoods_58_481044_3x4.jpg",
-              "colorCode": "58"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481044/chip/goods_09_481044_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481044/chip/goods_39_481044_chip.jpg",
-              "colorCode": "39"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481044/chip/goods_58_481044_chip.jpg",
-              "colorCode": "58"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/sub/ingoods_481044_sub1_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/sub/ingoods_481044_sub2_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/sub/ingoods_481044_sub3_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/sub/ingoods_481044_sub5_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481044/sub/goods_481044_sub13_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481044/sub/goods_481044_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/feature/ingoods_481044_feature1.jpg",
-              "text": "Windproof and water-repellent fabric. Water-repellent finish protects against light rain.  *The fabric is coated with a water-repellent agent so the effect lasts longer. The finish is not permanent. Designed with a waterproof fastener at the front and hip pockets to keep water out. *The fabric is not completely waterproof."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/feature/ingoods_481044_feature2.jpg",
-              "text": "With a utility pocket at the chest."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/feature/ingoods_481044_feature3.jpg",
-              "text": "Spindle cord drawstring keeps the wind out and lets you adjust the fit."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481044/feature/ingoods_481044_feature5.jpg",
-              "text": "UNIQLO : C"
-            }
-          ]
-        },
-        "l1Id": "481044",
-        "longDescription": "- Moderately roomy, relaxed silhouette.",
-        "name": "Blocktech Parka",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "8990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "4990.0000"
-          }
-        },
-        "productId": "E481044-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {},
-        "representative": {
-          "color": {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              },
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08718334",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 0,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/481044_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Hand wash cold, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           },
           {
             "code": "COL34",
@@ -59766,8 +59581,8 @@
       }
     ],
     "pagination": {
-      "count": 272,
-      "total": 272,
+      "count": 271,
+      "total": 271,
       "offset": 1000
     }
   }
