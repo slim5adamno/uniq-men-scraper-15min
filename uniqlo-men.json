@@ -6976,15 +6976,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -33916,11 +33907,11 @@
           }
         ],
         "rating": {
-          "average": 4.4,
-          "count": 15,
-          "fit": 2.8,
+          "average": 4.19,
+          "count": 16,
+          "fit": 2.88,
           "rateCount": {
-            "one": 1,
+            "one": 2,
             "two": 0,
             "three": 1,
             "four": 3,
@@ -34202,11 +34193,11 @@
           }
         ],
         "rating": {
-          "average": 4.88,
-          "count": 32,
-          "fit": 3.09,
+          "average": 4.76,
+          "count": 33,
+          "fit": 3.03,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 1,
             "four": 2,
@@ -52916,14 +52907,14 @@
         ],
         "rating": {
           "average": 4.87,
-          "count": 53,
-          "fit": 3.08,
+          "count": 54,
+          "fit": 3.07,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 7,
-            "five": 46
+            "five": 47
           }
         },
         "representative": {
