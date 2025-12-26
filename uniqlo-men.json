@@ -889,12 +889,12 @@
             "name": "Efc Broadcloth"
           },
           {
-            "id": 105103,
-            "name": "Crew Neck"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 105103,
+            "name": "Crew Neck"
           },
           {
             "id": 105104,
@@ -913,16 +913,16 @@
             "name": "Shoulder Bags"
           },
           {
-            "id": 101929,
-            "name": "Wool"
-          },
-          {
             "id": 106391,
             "name": "Outerwear"
           },
           {
             "id": 105105,
             "name": "HEATTECH"
+          },
+          {
+            "id": 101929,
+            "name": "Wool"
           },
           {
             "id": 106392,
@@ -945,10 +945,6 @@
             "name": "Shirts"
           },
           {
-            "id": 95946,
-            "name": "Dry Comfort"
-          },
-          {
             "id": 13222,
             "name": "Short Sleeve"
           },
@@ -957,12 +953,8 @@
             "name": "Sweaters"
           },
           {
-            "id": 106395,
-            "name": "Bottoms"
-          },
-          {
-            "id": 12498,
-            "name": "DRY-EX"
+            "id": 95946,
+            "name": "Dry Comfort"
           },
           {
             "id": 101973,
@@ -971,6 +963,14 @@
           {
             "id": 49370,
             "name": "Cotton"
+          },
+          {
+            "id": 106395,
+            "name": "Bottoms"
+          },
+          {
+            "id": 12498,
+            "name": "DRY-EX"
           },
           {
             "id": 95947,
@@ -989,12 +989,12 @@
             "name": "Easy"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 12503,
             "name": "AIRism"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12504,
@@ -1029,16 +1029,16 @@
             "name": "Others"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
-          },
-          {
             "id": 95927,
             "name": "AIRism"
           },
           {
             "id": 106397,
             "name": "Outerwear"
+          },
+          {
+            "id": 101968,
+            "name": "Flannel"
           },
           {
             "id": 101319,
@@ -1061,12 +1061,12 @@
             "name": "UV Protection"
           },
           {
-            "id": 101984,
-            "name": "Ut Collaboration"
-          },
-          {
             "id": 95926,
             "name": "Dry Pique"
+          },
+          {
+            "id": 101984,
+            "name": "Ut Collaboration"
           },
           {
             "id": 12582,
@@ -1101,6 +1101,10 @@
             "name": "Oversized"
           },
           {
+            "id": 127820,
+            "name": "Glove"
+          },
+          {
             "id": 106408,
             "name": "Outerwear"
           },
@@ -1109,16 +1113,12 @@
             "name": "Long Sleeves"
           },
           {
-            "id": 127820,
-            "name": "Glove"
+            "id": 125516,
+            "name": "Shirt Jacket"
           },
           {
             "id": 12480,
             "name": "Pullover"
-          },
-          {
-            "id": 125516,
-            "name": "Shirt Jacket"
           },
           {
             "id": 106409,
@@ -1245,12 +1245,12 @@
             "name": "Dry Ex"
           },
           {
-            "id": 67791,
-            "name": "Ultra Stretch"
-          },
-          {
             "id": 67793,
             "name": "Short"
+          },
+          {
+            "id": 67791,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12638,
@@ -5678,15 +5678,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18699,9 +18690,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18732,7 +18723,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08346554",
+          "l2Id": "08346572",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21547,6 +21538,15 @@
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL52",
+            "displayCode": "52",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -42984,6 +42984,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/485041_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA004",
             "displayCode": "004",
