@@ -453,22 +453,22 @@
         {
           "rating": 3.5,
           "accumulated": 182,
-          "count": 1
+          "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 181,
-          "count": 20
+          "accumulated": 179,
+          "count": 19
         },
         {
           "rating": 4.5,
-          "accumulated": 161,
+          "accumulated": 160,
           "count": 88
         },
         {
           "rating": 5,
-          "accumulated": 73,
-          "count": 73
+          "accumulated": 72,
+          "count": 72
         }
       ],
       "sizes": [
@@ -22189,9 +22189,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL70",
+            "displayCode": "70",
+            "name": "LIGHT PURPLE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22212,17 +22212,11 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
-              },
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08650260",
+          "l2Id": "09093412",
           "salesStartDate": "",
           "salesEndDate": ""
         },
