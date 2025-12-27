@@ -26777,15 +26777,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL13",
-            "displayCode": "13",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
@@ -39955,15 +39946,6 @@
             }
           },
           {
-            "code": "CMD082",
-            "displayCode": "082",
-            "name": "82cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "CMD085",
             "displayCode": "085",
             "name": "85cm",
@@ -48001,15 +47983,6 @@
             }
           },
           {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -48182,15 +48155,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
