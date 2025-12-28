@@ -28458,7 +28458,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -28493,7 +28504,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -58171,14 +58182,14 @@
         ],
         "rating": {
           "average": 4.81,
-          "count": 398,
+          "count": 399,
           "fit": 3.05,
           "rateCount": {
             "one": 9,
             "two": 1,
             "three": 4,
             "four": 30,
-            "five": 354
+            "five": 355
           }
         },
         "representative": {
@@ -58221,7 +58232,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 398,
+          "total": 399,
           "count": 0,
           "items": []
         },
@@ -62112,15 +62123,6 @@
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
             "display": {
               "showFlag": true,
               "chipType": 0
