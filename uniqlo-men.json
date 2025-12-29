@@ -872,16 +872,16 @@
         ],
         "subcategories": [
           {
-            "id": 95932,
-            "name": "Flannel"
-          },
-          {
             "id": 128620,
             "name": "Jacket"
           },
           {
             "id": 105100,
             "name": "HEATTECH"
+          },
+          {
+            "id": 95932,
+            "name": "Flannel"
           },
           {
             "id": 95933,
@@ -892,12 +892,12 @@
             "name": "Efc Broadcloth"
           },
           {
-            "id": 105103,
-            "name": "Crew Neck"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 105103,
+            "name": "Crew Neck"
           },
           {
             "id": 105104,
@@ -916,24 +916,24 @@
             "name": "Shoulder Bags"
           },
           {
-            "id": 101929,
-            "name": "Wool"
+            "id": 106391,
+            "name": "Outerwear"
           },
           {
             "id": 105105,
             "name": "HEATTECH"
           },
           {
-            "id": 106391,
-            "name": "Outerwear"
-          },
-          {
-            "id": 101972,
-            "name": "Flannel Pants"
+            "id": 101929,
+            "name": "Wool"
           },
           {
             "id": 101927,
             "name": "Warm Line"
+          },
+          {
+            "id": 101972,
+            "name": "Flannel Pants"
           },
           {
             "id": 106392,
@@ -948,16 +948,12 @@
             "name": "Fine Cloth"
           },
           {
-            "id": 13222,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 95946,
             "name": "Dry Comfort"
           },
           {
-            "id": 106395,
-            "name": "Bottoms"
+            "id": 13222,
+            "name": "Short Sleeve"
           },
           {
             "id": 12498,
@@ -966,6 +962,10 @@
           {
             "id": 49370,
             "name": "Cotton"
+          },
+          {
+            "id": 106395,
+            "name": "Bottoms"
           },
           {
             "id": 101973,
@@ -980,12 +980,12 @@
             "name": "Jersey"
           },
           {
-            "id": 12599,
-            "name": "Cargo & Baker Pants"
-          },
-          {
             "id": 12512,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 12599,
+            "name": "Cargo & Baker Pants"
           },
           {
             "id": 12592,
@@ -996,12 +996,12 @@
             "name": "Easy"
           },
           {
-            "id": 12597,
-            "name": "Chino"
-          },
-          {
             "id": 12503,
             "name": "AIRism"
+          },
+          {
+            "id": 12597,
+            "name": "Chino"
           },
           {
             "id": 12504,
@@ -1044,12 +1044,12 @@
             "name": "AIRism"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
-          },
-          {
             "id": 101319,
             "name": "Jacket"
+          },
+          {
+            "id": 101968,
+            "name": "Flannel"
           },
           {
             "id": 101967,
@@ -1060,12 +1060,12 @@
             "name": "UV Protection"
           },
           {
-            "id": 95925,
-            "name": "Short Sleeves"
-          },
-          {
             "id": 103334,
             "name": "Lounge Set"
+          },
+          {
+            "id": 95925,
+            "name": "Short Sleeves"
           },
           {
             "id": 101984,
@@ -1076,16 +1076,16 @@
             "name": "Dry Pique"
           },
           {
-            "id": 12582,
-            "name": "Slim"
+            "id": 95928,
+            "name": "Dry Ex"
           },
           {
             "id": 12644,
             "name": "Ultra Stretch"
           },
           {
-            "id": 95928,
-            "name": "Dry Ex"
+            "id": 12582,
+            "name": "Slim"
           },
           {
             "id": 101970,
@@ -1120,20 +1120,20 @@
             "name": "Glove"
           },
           {
-            "id": 12480,
-            "name": "Pullover"
-          },
-          {
-            "id": 127821,
-            "name": "Scarf"
-          },
-          {
             "id": 125516,
             "name": "Shirt Jacket"
           },
           {
+            "id": 12480,
+            "name": "Pullover"
+          },
+          {
             "id": 106409,
             "name": "T-Shirts"
+          },
+          {
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 125517,
@@ -30411,12 +30411,6 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
               }
             ]
           },
@@ -52007,9 +52001,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL05",
-            "displayCode": "05",
-            "name": "GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -52034,7 +52028,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08694500",
+          "l2Id": "08694545",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -62686,15 +62680,6 @@
             "code": "COL31",
             "displayCode": "31",
             "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
