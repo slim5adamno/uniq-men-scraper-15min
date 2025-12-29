@@ -513,11 +513,6 @@
           "name": "32inch"
         },
         {
-          "code": "INS033",
-          "displayCode": "033",
-          "name": "33inch"
-        },
-        {
           "code": "INS034",
           "displayCode": "034",
           "name": "34inch"
@@ -872,16 +867,16 @@
         ],
         "subcategories": [
           {
+            "id": 95932,
+            "name": "Flannel"
+          },
+          {
             "id": 128620,
             "name": "Jacket"
           },
           {
             "id": 105100,
             "name": "HEATTECH"
-          },
-          {
-            "id": 95932,
-            "name": "Flannel"
           },
           {
             "id": 95933,
@@ -1092,10 +1087,6 @@
             "name": "Others"
           },
           {
-            "id": 106407,
-            "name": "Others"
-          },
-          {
             "id": 12098,
             "name": "Blocktech"
           },
@@ -1252,12 +1243,16 @@
             "name": "Dry Ex"
           },
           {
-            "id": 67793,
-            "name": "Short"
+            "id": 67800,
+            "name": "Cargo"
           },
           {
             "id": 67791,
             "name": "Ultra Stretch"
+          },
+          {
+            "id": 67793,
+            "name": "Short"
           },
           {
             "id": 12638,
@@ -30388,9 +30383,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL54",
-            "displayCode": "54",
-            "name": "GREEN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30411,11 +30406,17 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "salesStart",
+                "id": 6,
+                "name": "New Arrivals",
+                "detail": "New Arrivals"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08486761",
+          "l2Id": "08486753",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -61145,15 +61146,6 @@
             "code": "INS030",
             "displayCode": "030",
             "name": "30inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS033",
-            "displayCode": "033",
-            "name": "33inch",
             "display": {
               "showFlag": true,
               "chipType": 1
