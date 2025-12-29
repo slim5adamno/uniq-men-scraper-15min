@@ -42707,9 +42707,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -42735,12 +42735,12 @@
                 "code": "comingSoon",
                 "id": 13,
                 "name": "Coming Soon",
-                "detail": "Available early Jan"
+                "detail": "Available early Sep"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "09060089",
+          "l2Id": "09060098",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -44590,9 +44590,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL54",
+            "displayCode": "54",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -44623,7 +44623,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09143563",
+          "l2Id": "09331274",
           "salesStartDate": "",
           "salesEndDate": ""
         },
