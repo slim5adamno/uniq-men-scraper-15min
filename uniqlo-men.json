@@ -876,6 +876,10 @@
             "name": "Flannel"
           },
           {
+            "id": 128620,
+            "name": "Jacket"
+          },
+          {
             "id": 105100,
             "name": "HEATTECH"
           },
@@ -1114,10 +1118,6 @@
           {
             "id": 127820,
             "name": "Glove"
-          },
-          {
-            "id": 106408,
-            "name": "Outerwear"
           },
           {
             "id": 12480,
@@ -42575,7 +42575,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -42764,7 +42764,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -42783,7 +42783,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -42972,7 +42972,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -42991,7 +42991,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -43180,7 +43180,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -43199,7 +43199,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -43388,7 +43388,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -43407,7 +43407,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -43596,7 +43596,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -43615,7 +43615,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -43801,7 +43801,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -43820,7 +43820,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -44009,7 +44009,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -44028,7 +44028,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Men",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -44217,7 +44217,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
