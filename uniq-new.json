@@ -223,22 +223,6 @@
   }
 }
 {
-  "name": "Wide Fit Color Jeans",
-  "price": 1490.0000,
-  "basePrice": 3990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479824-000",
-  "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Corduroy Utility Pants",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -351,6 +335,22 @@
   }
 }
 {
+  "name": "Lambswool Crew Neck Sweater",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479832-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Wide Straight Pants",
   "price": 1990.0000,
   "basePrice": 3990.0000,
@@ -360,6 +360,22 @@
     "code": "CMD073",
     "displayCode": "073",
     "name": "73cm",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Wide Straight Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479823-000",
+  "sizes": {
+    "code": "CMD076",
+    "displayCode": "076",
+    "name": "76cm",
     "display": {
       "showFlag": true,
       "chipType": 1
