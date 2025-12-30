@@ -271,22 +271,6 @@
   }
 }
 {
-  "name": "Crew Neck Full-Zip Cardigan",
-  "price": 1490.0000,
-  "basePrice": 3990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479731-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "3D Souffle Yarn V Neck Sweater",
   "price": 1490.0000,
   "basePrice": 2990.0000,
