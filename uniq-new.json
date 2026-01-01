@@ -181,22 +181,6 @@
   "discount": 63,
   "link": "https://www.uniqlo.com/in/en/products/E479824-000",
   "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
-  "name": "Wide Fit Color Jeans",
-  "price": 1490.0000,
-  "basePrice": 3990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479824-000",
-  "sizes": {
     "code": "INS030",
     "displayCode": "030",
     "name": "30inch",
@@ -392,6 +376,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Blocktech Parka",
+  "price": 4990.0000,
+  "basePrice": 8990.0000,
+  "discount": 44,
+  "link": "https://www.uniqlo.com/in/en/products/E481044-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
