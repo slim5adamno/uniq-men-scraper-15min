@@ -408,7 +408,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 173
+          "count": 172
         },
         {
           "from": 2000,
@@ -418,7 +418,7 @@
         {
           "from": 3000,
           "to": 4000,
-          "count": 2
+          "count": 1
         },
         {
           "from": 4000,
@@ -429,53 +429,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 284,
+          "accumulated": 282,
           "count": 92
         },
         {
           "rating": 0.5,
-          "accumulated": 192,
+          "accumulated": 190,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 192,
+          "accumulated": 190,
           "count": 3
         },
         {
           "rating": 1.5,
-          "accumulated": 189,
+          "accumulated": 187,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 189,
+          "accumulated": 187,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 188,
+          "accumulated": 186,
           "count": 1
         },
         {
           "rating": 3,
-          "accumulated": 187,
+          "accumulated": 185,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 184,
+          "accumulated": 182,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 181,
-          "count": 20
+          "accumulated": 179,
+          "count": 19
         },
         {
           "rating": 4.5,
-          "accumulated": 161,
-          "count": 87
+          "accumulated": 160,
+          "count": 86
         },
         {
           "rating": 5,
@@ -910,8 +910,16 @@
             "name": "Wool"
           },
           {
+            "id": 105105,
+            "name": "HEATTECH"
+          },
+          {
             "id": 106391,
             "name": "Outerwear"
+          },
+          {
+            "id": 106392,
+            "name": "T-Shirts"
           },
           {
             "id": 101927,
@@ -926,6 +934,10 @@
             "name": "Fine Cloth"
           },
           {
+            "id": 106393,
+            "name": "Shirts"
+          },
+          {
             "id": 95946,
             "name": "Dry Comfort"
           },
@@ -936,10 +948,6 @@
           {
             "id": 12498,
             "name": "DRY-EX"
-          },
-          {
-            "id": 106395,
-            "name": "Bottoms"
           },
           {
             "id": 49370,
@@ -968,10 +976,6 @@
           {
             "id": 12592,
             "name": "Pull on"
-          },
-          {
-            "id": 12595,
-            "name": "Sweat"
           },
           {
             "id": 67842,
@@ -1080,10 +1084,6 @@
           {
             "id": 67686,
             "name": "Oversized"
-          },
-          {
-            "id": 19831,
-            "name": "Sweat Pants"
           },
           {
             "id": 127820,
@@ -2787,12 +2787,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -2948,12 +2942,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -3141,14 +3129,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08747450",
@@ -3291,14 +3272,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08638063",
@@ -3468,14 +3442,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08638045",
@@ -3507,15 +3474,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL31",
             "displayCode": "31",
@@ -3656,12 +3614,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -3806,14 +3758,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08652817",
@@ -3974,14 +3919,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08652808",
@@ -4136,14 +4074,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08596295",
@@ -4287,14 +4218,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08596151",
@@ -4458,14 +4382,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08596142",
@@ -4620,14 +4537,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08397663",
@@ -4770,14 +4680,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08397609",
@@ -4923,14 +4826,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08428285",
@@ -5079,14 +4975,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08428264",
@@ -5269,12 +5158,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
                 "name": "Made with Recycled Materials",
@@ -5435,14 +5318,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08596133",
@@ -5664,12 +5540,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -6156,14 +6026,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08428117",
@@ -6848,12 +6711,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
                 "name": "Made with Recycled Materials",
@@ -7040,12 +6897,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -7320,12 +7171,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -7673,12 +7518,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -7861,20 +7700,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09014324",
@@ -8039,20 +7865,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09014315",
@@ -8220,20 +8033,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09014027",
@@ -8398,20 +8198,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09014018",
@@ -8576,20 +8363,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09014009",
@@ -8789,20 +8563,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09055443",
@@ -9084,20 +8845,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09055425",
@@ -9268,14 +9016,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09025790",
@@ -9440,14 +9181,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09025781",
@@ -9615,14 +9349,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09025772",
@@ -9784,14 +9511,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09025763",
@@ -9959,14 +9679,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047828",
@@ -10137,14 +9850,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047774",
@@ -10312,14 +10018,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09025754",
@@ -10496,14 +10195,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09012985",
@@ -10662,14 +10354,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09046181",
@@ -10854,14 +10539,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09012976",
@@ -11032,14 +10710,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09012967",
@@ -11354,14 +11025,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09086868",
@@ -11527,14 +11191,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08900305",
@@ -11697,12 +11354,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -11932,12 +11583,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
                 "name": "Made with Recycled Materials",
@@ -12099,14 +11744,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08064434",
@@ -12300,14 +11938,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08064426",
@@ -12508,14 +12139,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08064416",
@@ -12699,12 +12323,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -12869,12 +12487,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -13086,12 +12698,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -13240,14 +12846,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09122644",
@@ -13420,14 +13019,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09017275",
@@ -13586,14 +13178,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09017266",
@@ -13764,14 +13349,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047811",
@@ -13939,14 +13517,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047766",
@@ -14125,14 +13696,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047802",
@@ -14303,14 +13867,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047793",
@@ -14478,14 +14035,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047784",
@@ -14662,14 +14212,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09017257",
@@ -14859,14 +14402,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08947395",
@@ -15059,14 +14595,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08925158",
@@ -15246,14 +14775,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047757",
@@ -15443,14 +14965,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08896881",
@@ -15652,14 +15167,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08896049",
@@ -15842,14 +15350,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08742882",
@@ -16017,14 +15518,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08742846",
@@ -16203,14 +15697,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08742837",
@@ -16342,14 +15829,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08742801",
@@ -16528,14 +16008,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08742738",
@@ -16712,14 +16185,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08659833",
@@ -16923,14 +16389,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08659890",
@@ -17270,12 +16729,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
                 "name": "Made with Recycled Materials",
@@ -17474,14 +16927,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08638326",
@@ -17677,14 +17123,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08621236",
@@ -17894,14 +17333,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08600409",
@@ -18081,12 +17513,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -18294,14 +17720,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08301836",
@@ -18488,14 +17907,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08301828",
@@ -18694,14 +18106,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08301818",
@@ -18943,12 +18348,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
                 "name": "Made with Recycled Materials",
@@ -19146,14 +18545,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08280885",
@@ -19336,14 +18728,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08280877",
@@ -19543,14 +18928,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08280856",
@@ -19818,14 +19196,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08645089",
@@ -20016,14 +19387,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08619923",
@@ -20223,14 +19587,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08119828",
@@ -20428,14 +19785,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08119817",
@@ -20618,14 +19968,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08620045",
@@ -20826,14 +20169,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08119812",
@@ -21043,14 +20379,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08619829",
@@ -21254,14 +20583,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08619856",
@@ -21436,12 +20758,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -21625,12 +20941,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -22056,14 +21366,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09093412",
@@ -22363,12 +21666,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -22895,20 +22192,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08994944",
@@ -23113,12 +22397,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -23292,12 +22570,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -23509,12 +22781,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -23722,12 +22988,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -23920,12 +23180,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -24117,12 +23371,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -24334,12 +23582,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -24550,12 +23792,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -24750,12 +23986,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -24957,12 +24187,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -25174,12 +24398,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -25387,12 +24605,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -25561,12 +24773,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -25748,12 +24954,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -25924,12 +25124,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -26447,14 +25641,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09004242",
@@ -26848,14 +26035,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08764408",
@@ -27448,14 +26628,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08764372",
@@ -27649,14 +26822,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08691413",
@@ -27836,14 +27002,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08691373",
@@ -28034,14 +27193,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08691397",
@@ -28079,15 +27231,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -28257,14 +27400,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08691357",
@@ -28455,14 +27591,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08691365",
@@ -28526,196 +27655,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Body: 84% Polyester, 16% Viscose ( 84% Uses Recycled Polyester Fiber )/ Pocket Lining: 60% Cotton, 40% Polyester ( 40% Uses Recycled Polyester Fiber )",
-        "designDetail": "- Sheer: Not Sheer<br>- Fit: Loose<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/item/ingoods_08_479847_3x4.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/item/ingoods_35_479847_3x4.jpg",
-              "colorCode": "35"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/item/ingoods_39_479847_3x4.jpg",
-              "colorCode": "39"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479847/chip/goods_08_479847_chip.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479847/chip/goods_35_479847_chip.jpg",
-              "colorCode": "35"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479847/chip/goods_39_479847_chip.jpg",
-              "colorCode": "39"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/sub/ingoods_479847_sub8_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/sub/ingoods_479847_sub9_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479847/sub/goods_479847_sub13_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479847/sub/goods_479847_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/feature/ingoods_479847_feature1.jpg",
-              "text": "Thick, durable fabric with a soft brushed finish on both sides. Sophisticated, heathered color."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/feature/ingoods_479847_feature2.jpg",
-              "text": "Can be styled by tightening the drawstrings at the hems."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/feature/ingoods_479847_feature3.jpg",
-              "text": "Elastic waist with drawstring for size adjustment. Front-opening design."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479847/feature/ingoods_479847_feature5.jpg",
-              "text": "Uniqlo U"
-            }
-          ]
-        },
-        "l1Id": "479847",
-        "longDescription": "- Wide tapered, curved silhouette. <br>- Suitable for everyday wear. <br>- Back patch pocket with flap.",
-        "name": "Brushed Sweat Wide Pants",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E479847-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.82,
-          "count": 11,
-          "fit": 3.18,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 9
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              },
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08794492",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 11,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479847_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -29051,14 +27990,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08677189",
@@ -29302,14 +28234,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08677167",
@@ -29966,14 +28891,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08676774",
@@ -30188,12 +29106,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "salesStart",
                 "id": 6,
@@ -30459,12 +29371,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "salesStart",
                 "id": 6,
                 "name": "New Arrivals",
@@ -30665,20 +29571,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09188501",
@@ -30843,20 +29736,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09046593",
@@ -31150,20 +30030,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08486753",
@@ -31375,14 +30242,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09108922",
@@ -31520,14 +30380,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09108573",
@@ -31673,14 +30526,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092048",
@@ -31833,14 +30679,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092363",
@@ -31992,14 +30831,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08784703",
@@ -32139,14 +30971,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08747448",
@@ -32313,14 +31138,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08747445",
@@ -32503,14 +31321,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08747444",
@@ -32708,14 +31519,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08747440",
@@ -32872,14 +31676,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08784698",
@@ -33054,14 +31851,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08673251",
@@ -33243,14 +32033,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09108574",
@@ -33562,12 +32345,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -33734,14 +32511,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092032",
@@ -33973,14 +32743,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09004152",
@@ -34153,14 +32916,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092346",
@@ -34384,20 +33140,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09046481",
@@ -34662,12 +33405,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -34949,12 +33686,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -35198,12 +33929,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
                 "name": "Made with Recycled Materials",
@@ -35417,14 +34142,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08785939",
@@ -35605,14 +34323,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08765650",
@@ -35769,14 +34480,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08785945",
@@ -35941,14 +34645,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08673207",
@@ -36139,12 +34836,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -36496,14 +35187,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092212",
@@ -36712,12 +35396,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -36988,14 +35666,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08364630",
@@ -37283,9 +35954,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL19",
+            "displayCode": "19",
+            "name": "WINE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -37302,21 +35973,15 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08346220",
+          "l2Id": "09004998",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -37809,20 +36474,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09004449",
@@ -38036,14 +36688,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092061",
@@ -38317,14 +36962,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "07915358",
@@ -38494,14 +37132,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092045",
@@ -38684,14 +37315,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08364702",
@@ -38983,14 +37607,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08773956",
@@ -39349,14 +37966,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08986167",
@@ -39536,14 +38146,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08986158",
@@ -39694,14 +38297,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08986149",
@@ -39930,12 +38526,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -40138,14 +38728,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654899",
@@ -40343,14 +38926,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08655070",
@@ -40556,14 +39132,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654962",
@@ -40775,14 +39344,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654944",
@@ -40981,14 +39543,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654719",
@@ -41163,14 +39718,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654701",
@@ -41363,14 +39911,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654692",
@@ -41572,14 +40113,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654683",
@@ -41840,12 +40374,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -43070,14 +41598,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08637684",
@@ -43350,14 +41871,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08637657",
@@ -43820,7 +42334,8 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display"
+              "display",
+              "sale"
             ],
             "display": {
               "showFlag": false,
@@ -43850,16 +42365,10 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available early Jan"
+                "code": "salesStart",
+                "id": 6,
+                "name": "New Arrivals",
+                "detail": "New Arrivals"
               }
             ]
           },
@@ -44024,7 +42533,8 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display"
+              "display",
+              "sale"
             ],
             "display": {
               "showFlag": false,
@@ -44035,9 +42545,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -44054,21 +42564,15 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available early Jan"
+                "code": "salesStart",
+                "id": 6,
+                "name": "New Arrivals",
+                "detail": "New Arrivals"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "09060089",
+          "l2Id": "09060098",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -44252,12 +42756,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "salesStart",
                 "id": 6,
@@ -44461,12 +42959,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "salesStart",
                 "id": 6,
                 "name": "New Arrivals",
@@ -44668,12 +43160,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "salesStart",
                 "id": 6,
@@ -44877,12 +43363,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "salesStart",
                 "id": 6,
                 "name": "New Arrivals",
@@ -45085,12 +43565,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "salesStart",
                 "id": 6,
                 "name": "New Arrivals",
@@ -45289,12 +43763,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "salesStart",
                 "id": 6,
@@ -45498,12 +43966,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "salesStart",
                 "id": 6,
                 "name": "New Arrivals",
@@ -45696,12 +44158,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "salesStart",
                 "id": 6,
@@ -45928,12 +44384,6 @@
             ],
             "productFlags": [
               {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
                 "code": "salesStart",
                 "id": 6,
                 "name": "New Arrivals",
@@ -46104,20 +44554,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09015346",
@@ -46276,20 +44713,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09015337",
@@ -46448,20 +44872,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09015328",
@@ -46620,20 +45031,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09015319",
@@ -46864,20 +45262,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09082592",
@@ -47115,20 +45500,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09100800",
@@ -47293,20 +45665,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09015373",
@@ -47488,20 +45847,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09137203",
@@ -47701,20 +46047,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09137241",
@@ -47914,20 +46247,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09136995",
@@ -48141,20 +46461,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09166881",
@@ -48394,20 +46701,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09108253",
@@ -48694,20 +46988,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09042317",
@@ -49004,20 +47285,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09042020",
@@ -49213,14 +47481,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09046305",
@@ -49440,14 +47701,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09086878",
@@ -49637,14 +47891,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09092359",
@@ -49826,14 +48073,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08696468",
@@ -50000,14 +48240,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09047111",
@@ -50230,14 +48463,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09046976",
@@ -50432,14 +48658,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08655025",
@@ -50637,14 +48856,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654998",
@@ -50841,14 +49053,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08743119",
@@ -51152,14 +49357,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09093646",
@@ -51364,14 +49562,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654800",
@@ -51569,14 +49760,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08655043",
@@ -51765,14 +49949,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08655007",
@@ -51989,14 +50166,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654674",
@@ -52224,14 +50394,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08694545",
@@ -52514,14 +50677,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08996828",
@@ -52732,14 +50888,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08592413",
@@ -52900,14 +51049,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08444607",
@@ -53106,12 +51248,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -53464,14 +51600,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09136914",
@@ -53707,12 +51836,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -54080,14 +52203,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08330331",
@@ -54581,14 +52697,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09055344",
@@ -54859,14 +52968,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08477240",
@@ -55113,12 +53215,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              },
               {
                 "code": "extraLargeStoreOnly",
                 "id": 1,
@@ -55386,14 +53482,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08654863",
@@ -55683,14 +53772,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08986140",
@@ -56258,14 +54340,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08413892",
@@ -56500,14 +54575,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09046249",
@@ -56790,14 +54858,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09027896",
@@ -57130,14 +55191,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08650323",
@@ -57361,14 +55415,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "08637648",
@@ -57633,14 +55680,7 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "newPrice",
-                "id": 4,
-                "name": "Reduced GST Price",
-                "detail": "Reduced GST Price"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
           "l2Id": "09027879",
@@ -59997,196 +58037,6 @@
           }
         ],
         "unisexFlag": 0,
-        "washingInformation": "Hand wash cold, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Shell: 100% Cotton/ Filling: 100% Polyester ( 30% Uses Recycled Polyester Fiber )/ Lining: 100% Polyamide/ Inner Pocket Fabric: 100% Polyamide/ Side Pocket Fabric: 65% Polyester, 35% Cotton",
-        "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets(Inside pocket(s))",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/item/ingoods_09_479411_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/item/ingoods_31_479411_3x4.jpg",
-              "colorCode": "31"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/item/ingoods_57_479411_3x4.jpg",
-              "colorCode": "57"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479411/chip/goods_09_479411_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479411/chip/goods_31_479411_chip.jpg",
-              "colorCode": "31"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479411/chip/goods_57_479411_chip.jpg",
-              "colorCode": "57"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/sub/ingoods_479411_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/sub/ingoods_479411_sub9_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/sub/ingoods_479411_sub11_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/sub/ingoods_479411_sub12_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479411/sub/goods_479411_sub13_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479411/sub/goods_479411_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/feature/ingoods_479411_feature1.jpg",
-              "text": "Lightweight, warm, high-performance 'PUFFTECH' padding, made with the latest fiber technology. Water-repellent finish protects against light rain.  *The finish is not permanent."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/feature/ingoods_479411_feature2.jpg",
-              "text": "Features storm flap waist pockets to prevent dropping items and to keep out rain and wind."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/feature/ingoods_479411_feature3.jpg",
-              "text": "Interior pockets for function and design. The nylon lining is made in a way that prevents cotton leakage and feels pleasant against the skin."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479411/feature/ingoods_479411_feature5.jpg",
-              "text": "Uniqlo U"
-            }
-          ]
-        },
-        "l1Id": "479411",
-        "longDescription": "- This casual blouson is based on a flight jacket, but with a seasonal shorter length and voluminous sleeves. <br>- Features a slightly rounded collar and elbow patches. <br>- Elastic sleeves and hem make for a functional and elegant silhouette.",
-        "name": "Pufftech Short Blouson",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "5990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          }
-        },
-        "productId": "E479411-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.33,
-          "count": 3,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 1
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08658730",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 3,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479411_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not Dry Clean, Do not tumble dry."
       },
       {
@@ -62807,8 +60657,8 @@
       }
     ],
     "pagination": {
-      "count": 284,
-      "total": 284,
+      "count": 282,
+      "total": 282,
       "offset": 1000
     }
   }
