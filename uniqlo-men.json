@@ -400,6 +400,11 @@
           "name": "34inch"
         },
         {
+          "code": "INS035",
+          "displayCode": "035",
+          "name": "35inch"
+        },
+        {
           "code": "INS038",
           "displayCode": "038",
           "name": "38inch"
@@ -5547,6 +5552,15 @@
         "sizeInformation": "",
         "sizes": [
           {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -6775,19 +6789,13 @@
         "longDescription": "- Crisp fabric creates a sleek silhouette. <br>- Versatile basic regular fit.",
         "name": "AIRism Cotton Sleeveless T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1190.0000"
           }
         },
         "productId": "E457517-000",
@@ -6831,14 +6839,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "limitedStore",
@@ -12932,6 +12933,15 @@
             "code": "INS030",
             "displayCode": "030",
             "name": "30inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "INS035",
+            "displayCode": "035",
+            "name": "35inch",
             "display": {
               "showFlag": true,
               "chipType": 1
