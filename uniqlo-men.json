@@ -589,7 +589,7 @@
           },
           {
             "id": 11733,
-            "name": "Shorts"
+            "name": "Loungewear"
           },
           {
             "id": 11724,
@@ -658,12 +658,12 @@
         ],
         "subcategories": [
           {
-            "id": 95932,
-            "name": "Flannel"
-          },
-          {
             "id": 128620,
             "name": "Jacket"
+          },
+          {
+            "id": 95932,
+            "name": "Flannel"
           },
           {
             "id": 128621,
@@ -675,15 +675,15 @@
           },
           {
             "id": 95935,
-            "name": "Efc Broadcloth"
-          },
-          {
-            "id": 128623,
-            "name": "Coat"
+            "name": "Cotton"
           },
           {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 128623,
+            "name": "Coat"
           },
           {
             "id": 128624,
@@ -714,20 +714,20 @@
             "name": "Outerwear"
           },
           {
-            "id": 101972,
-            "name": "Flannel Pants"
+            "id": 21284,
+            "name": "Jacket"
           },
           {
             "id": 101927,
             "name": "Warm Line"
           },
           {
-            "id": 21284,
-            "name": "Jacket"
+            "id": 101972,
+            "name": "Flannel Pants"
           },
           {
             "id": 95945,
-            "name": "Fine Cloth"
+            "name": "Oxford"
           },
           {
             "id": 106393,
@@ -738,16 +738,20 @@
             "name": "Parka"
           },
           {
-            "id": 101888,
-            "name": "Ultra Light Down Coat"
+            "id": 95946,
+            "name": "Broadcloth"
           },
           {
             "id": 13222,
             "name": "Short Sleeve"
           },
           {
-            "id": 95946,
-            "name": "Dry Comfort"
+            "id": 101888,
+            "name": "Ultra Light Down Coat"
+          },
+          {
+            "id": 49370,
+            "name": "Cotton"
           },
           {
             "id": 106395,
@@ -756,10 +760,6 @@
           {
             "id": 101889,
             "name": "Other Ultra Light Down"
-          },
-          {
-            "id": 49370,
-            "name": "Cotton"
           },
           {
             "id": 101973,
@@ -838,12 +838,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 95928,
-            "name": "Dry Ex"
-          },
-          {
             "id": 12582,
             "name": "Slim"
+          },
+          {
+            "id": 95928,
+            "name": "Dry Ex"
           },
           {
             "id": 101970,
@@ -866,6 +866,10 @@
             "name": "Down"
           },
           {
+            "id": 19831,
+            "name": "Sweat Pants"
+          },
+          {
             "id": 125515,
             "name": "Long Sleeves"
           },
@@ -874,16 +878,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 19831,
-            "name": "Sweat Pants"
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 12074,
             "name": "Tailored"
-          },
-          {
-            "id": 127821,
-            "name": "Scarf"
           },
           {
             "id": 106410,
