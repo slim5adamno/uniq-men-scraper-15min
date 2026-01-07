@@ -593,11 +593,11 @@
           },
           {
             "id": 11724,
-            "name": "HEATTECH Innerwear"
+            "name": "Heattech"
           },
           {
             "id": 11722,
-            "name": "Briefs & Trunks"
+            "name": "Underwear"
           },
           {
             "id": 101731,
@@ -658,12 +658,12 @@
         ],
         "subcategories": [
           {
-            "id": 128620,
-            "name": "Jacket"
-          },
-          {
             "id": 95932,
             "name": "Flannel"
+          },
+          {
+            "id": 128620,
+            "name": "Jacket"
           },
           {
             "id": 128621,
@@ -738,16 +738,16 @@
             "name": "Parka"
           },
           {
-            "id": 95946,
-            "name": "Broadcloth"
-          },
-          {
             "id": 13222,
             "name": "Short Sleeve"
           },
           {
             "id": 101888,
             "name": "Ultra Light Down Coat"
+          },
+          {
+            "id": 95946,
+            "name": "Broadcloth"
           },
           {
             "id": 49370,
@@ -758,16 +758,16 @@
             "name": "Bottoms"
           },
           {
-            "id": 101889,
-            "name": "Other Ultra Light Down"
-          },
-          {
             "id": 101973,
             "name": "Fleece"
           },
           {
+            "id": 101889,
+            "name": "Other Ultra Light Down"
+          },
+          {
             "id": 12599,
-            "name": "Cargo & Baker Pants"
+            "name": "Cargo"
           },
           {
             "id": 49399,
@@ -806,16 +806,16 @@
             "name": "Others"
           },
           {
+            "id": 106397,
+            "name": "Outerwear"
+          },
+          {
             "id": 101968,
             "name": "Flannel"
           },
           {
             "id": 129730,
             "name": "HEATTECH"
-          },
-          {
-            "id": 106397,
-            "name": "Outerwear"
           },
           {
             "id": 101967,
@@ -838,12 +838,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 12582,
-            "name": "Slim"
-          },
-          {
             "id": 95928,
             "name": "Dry Ex"
+          },
+          {
+            "id": 12582,
+            "name": "Slim"
           },
           {
             "id": 101970,
@@ -870,20 +870,20 @@
             "name": "Sweat Pants"
           },
           {
-            "id": 125515,
-            "name": "Long Sleeves"
-          },
-          {
             "id": 106408,
             "name": "Outerwear"
           },
           {
-            "id": 127821,
-            "name": "Scarf"
+            "id": 125515,
+            "name": "Long Sleeves"
           },
           {
             "id": 12074,
             "name": "Tailored"
+          },
+          {
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 106410,
@@ -894,12 +894,12 @@
             "name": "Others"
           },
           {
-            "id": 23272,
-            "name": "Relaxed"
-          },
-          {
             "id": 106411,
             "name": "Sweaters"
+          },
+          {
+            "id": 23272,
+            "name": "Relaxed"
           },
           {
             "id": 106413,
@@ -14316,6 +14316,12 @@
             }
           ],
           "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/453144/sub/ingoods_453144_sub1_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/453144/sub/ingoods_453144_sub5_3x4.jpg"
+            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453144/sub/goods_453144_sub13_3x4.jpg"
             },
