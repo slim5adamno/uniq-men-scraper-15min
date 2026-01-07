@@ -656,12 +656,12 @@
         ],
         "subcategories": [
           {
-            "id": 95932,
-            "name": "Flannel"
-          },
-          {
             "id": 128620,
             "name": "Jacket"
+          },
+          {
+            "id": 95932,
+            "name": "Flannel"
           },
           {
             "id": 95933,
@@ -676,12 +676,12 @@
             "name": "Efc Broadcloth"
           },
           {
-            "id": 128623,
-            "name": "Coat"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 128623,
+            "name": "Coat"
           },
           {
             "id": 128624,
@@ -700,20 +700,20 @@
             "name": "Tote Bags"
           },
           {
-            "id": 105105,
-            "name": "HEATTECH"
-          },
-          {
-            "id": 114897,
-            "name": "Linen"
-          },
-          {
             "id": 101929,
             "name": "Wool"
           },
           {
             "id": 106391,
             "name": "Outerwear"
+          },
+          {
+            "id": 114897,
+            "name": "Linen"
+          },
+          {
+            "id": 105105,
+            "name": "HEATTECH"
           },
           {
             "id": 101927,
@@ -728,10 +728,6 @@
             "name": "Flannel Pants"
           },
           {
-            "id": 21285,
-            "name": "Parka"
-          },
-          {
             "id": 106393,
             "name": "Shirts"
           },
@@ -740,32 +736,36 @@
             "name": "Fine Cloth"
           },
           {
-            "id": 101888,
-            "name": "Ultra Light Down Coat"
-          },
-          {
-            "id": 95946,
-            "name": "Dry Comfort"
-          },
-          {
-            "id": 13222,
-            "name": "Short Sleeve"
+            "id": 21285,
+            "name": "Parka"
           },
           {
             "id": 106394,
             "name": "Sweaters"
           },
           {
+            "id": 13222,
+            "name": "Short Sleeve"
+          },
+          {
+            "id": 95946,
+            "name": "Dry Comfort"
+          },
+          {
+            "id": 101888,
+            "name": "Ultra Light Down Coat"
+          },
+          {
             "id": 101889,
             "name": "Other Ultra Light Down"
           },
           {
-            "id": 101973,
-            "name": "Fleece"
-          },
-          {
             "id": 106395,
             "name": "Bottoms"
+          },
+          {
+            "id": 101973,
+            "name": "Fleece"
           },
           {
             "id": 12599,
@@ -800,16 +800,16 @@
             "name": "Others"
           },
           {
-            "id": 106397,
-            "name": "Outerwear"
+            "id": 101968,
+            "name": "Flannel"
           },
           {
             "id": 129730,
             "name": "HEATTECH"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
+            "id": 106397,
+            "name": "Outerwear"
           },
           {
             "id": 129731,
@@ -820,10 +820,6 @@
             "name": "Fleece"
           },
           {
-            "id": 103334,
-            "name": "Lounge Set"
-          },
-          {
             "id": 106399,
             "name": "Sweaters"
           },
@@ -832,12 +828,16 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 12582,
-            "name": "Slim"
+            "id": 103334,
+            "name": "Lounge Set"
           },
           {
             "id": 95928,
             "name": "Dry Ex"
+          },
+          {
+            "id": 12582,
+            "name": "Slim"
           },
           {
             "id": 101970,
@@ -872,28 +872,28 @@
             "name": "Outerwear"
           },
           {
-            "id": 127821,
-            "name": "Scarf"
-          },
-          {
             "id": 12074,
             "name": "Tailored"
           },
           {
-            "id": 125517,
-            "name": "Others"
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 106410,
             "name": "Shirts"
           },
           {
-            "id": 23272,
-            "name": "Relaxed"
+            "id": 125517,
+            "name": "Others"
           },
           {
             "id": 106411,
             "name": "Sweaters"
+          },
+          {
+            "id": 23272,
+            "name": "Relaxed"
           },
           {
             "id": 106413,
@@ -2266,15 +2266,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -2741,15 +2732,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL09",
             "displayCode": "09",
@@ -17635,15 +17617,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
