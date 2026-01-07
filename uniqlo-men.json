@@ -350,17 +350,17 @@
         {
           "rating": 4,
           "accumulated": 75,
-          "count": 8
+          "count": 9
         },
         {
           "rating": 4.5,
-          "accumulated": 67,
-          "count": 38
+          "accumulated": 66,
+          "count": 39
         },
         {
           "rating": 5,
-          "accumulated": 29,
-          "count": 29
+          "accumulated": 27,
+          "count": 27
         }
       ],
       "sizes": [
@@ -728,36 +728,32 @@
             "name": "Flannel Pants"
           },
           {
-            "id": 106393,
-            "name": "Shirts"
-          },
-          {
             "id": 95945,
             "name": "Fine Cloth"
+          },
+          {
+            "id": 106393,
+            "name": "Shirts"
           },
           {
             "id": 21285,
             "name": "Parka"
           },
           {
-            "id": 106394,
-            "name": "Sweaters"
-          },
-          {
-            "id": 13222,
-            "name": "Short Sleeve"
+            "id": 101888,
+            "name": "Ultra Light Down Coat"
           },
           {
             "id": 95946,
             "name": "Dry Comfort"
           },
           {
-            "id": 101888,
-            "name": "Ultra Light Down Coat"
+            "id": 13222,
+            "name": "Short Sleeve"
           },
           {
-            "id": 101889,
-            "name": "Other Ultra Light Down"
+            "id": 106394,
+            "name": "Sweaters"
           },
           {
             "id": 106395,
@@ -766,6 +762,10 @@
           {
             "id": 101973,
             "name": "Fleece"
+          },
+          {
+            "id": 101889,
+            "name": "Other Ultra Light Down"
           },
           {
             "id": 12599,
@@ -800,16 +800,16 @@
             "name": "Others"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
+            "id": 106397,
+            "name": "Outerwear"
           },
           {
             "id": 129730,
             "name": "HEATTECH"
           },
           {
-            "id": 106397,
-            "name": "Outerwear"
+            "id": 101968,
+            "name": "Flannel"
           },
           {
             "id": 129731,
@@ -820,24 +820,24 @@
             "name": "Fleece"
           },
           {
-            "id": 106399,
-            "name": "Sweaters"
-          },
-          {
             "id": 95925,
             "name": "Short Sleeves"
+          },
+          {
+            "id": 106399,
+            "name": "Sweaters"
           },
           {
             "id": 103334,
             "name": "Lounge Set"
           },
           {
-            "id": 95928,
-            "name": "Dry Ex"
-          },
-          {
             "id": 12582,
             "name": "Slim"
+          },
+          {
+            "id": 95928,
+            "name": "Dry Ex"
           },
           {
             "id": 101970,
@@ -860,24 +860,24 @@
             "name": "Down"
           },
           {
-            "id": 19831,
-            "name": "Sweat Pants"
-          },
-          {
             "id": 125515,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 19831,
+            "name": "Sweat Pants"
           },
           {
             "id": 106408,
             "name": "Outerwear"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
-          },
-          {
             "id": 127821,
             "name": "Scarf"
+          },
+          {
+            "id": 12074,
+            "name": "Tailored"
           },
           {
             "id": 106410,
