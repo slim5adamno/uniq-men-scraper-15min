@@ -783,6 +783,10 @@
             "name": "Jogger"
           },
           {
+            "id": 13135,
+            "name": "Ultra Stretch"
+          },
+          {
             "id": 67743,
             "name": "Ankle"
           },
@@ -925,10 +929,6 @@
           {
             "id": 129735,
             "name": "Crew Neck"
-          },
-          {
-            "id": 129737,
-            "name": "Others"
           },
           {
             "id": 12066,
@@ -19538,7 +19538,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08126690",
+          "l2Id": "08126689",
           "salesStartDate": "",
           "salesEndDate": ""
         },
