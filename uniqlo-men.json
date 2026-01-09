@@ -360,11 +360,6 @@
           "name": "79cm"
         },
         {
-          "code": "CMD085",
-          "displayCode": "085",
-          "name": "85cm"
-        },
-        {
           "code": "INS028",
           "displayCode": "028",
           "name": "28inch"
@@ -10524,15 +10519,6 @@
             }
           },
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL37",
             "displayCode": "37",
             "name": "BROWN",
@@ -10703,15 +10689,6 @@
             "code": "CMD079",
             "displayCode": "079",
             "name": "79cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD085",
-            "displayCode": "085",
-            "name": "85cm",
             "display": {
               "showFlag": true,
               "chipType": 1
