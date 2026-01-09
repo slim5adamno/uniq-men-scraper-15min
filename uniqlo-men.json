@@ -651,20 +651,20 @@
         ],
         "subcategories": [
           {
-            "id": 128620,
-            "name": "Jacket"
-          },
-          {
             "id": 95932,
             "name": "Flannel"
           },
           {
-            "id": 128621,
-            "name": "Parka"
+            "id": 128620,
+            "name": "Jacket"
           },
           {
             "id": 95933,
             "name": "Oxford"
+          },
+          {
+            "id": 128621,
+            "name": "Parka"
           },
           {
             "id": 95935,
@@ -711,10 +711,6 @@
             "name": "Linen"
           },
           {
-            "id": 101927,
-            "name": "Warm Line"
-          },
-          {
             "id": 21284,
             "name": "Jacket"
           },
@@ -723,16 +719,20 @@
             "name": "Flannel Pants"
           },
           {
+            "id": 101927,
+            "name": "Warm Line"
+          },
+          {
             "id": 95945,
             "name": "Oxford"
           },
           {
-            "id": 21285,
-            "name": "Parka"
-          },
-          {
             "id": 106393,
             "name": "Shirts"
+          },
+          {
+            "id": 21285,
+            "name": "Parka"
           },
           {
             "id": 101888,
@@ -743,20 +743,20 @@
             "name": "Others"
           },
           {
-            "id": 95946,
-            "name": "Broadcloth"
-          },
-          {
             "id": 13222,
             "name": "Short Sleeve"
           },
           {
-            "id": 101973,
-            "name": "Fleece"
+            "id": 95946,
+            "name": "Broadcloth"
           },
           {
             "id": 106395,
             "name": "Bottoms"
+          },
+          {
+            "id": 101973,
+            "name": "Fleece"
           },
           {
             "id": 101889,
@@ -803,20 +803,20 @@
             "name": "Others"
           },
           {
-            "id": 101968,
-            "name": "Flannel"
-          },
-          {
             "id": 106397,
             "name": "Outerwear"
           },
           {
-            "id": 129731,
-            "name": "Others"
+            "id": 101968,
+            "name": "Flannel"
           },
           {
             "id": 101967,
             "name": "Fleece"
+          },
+          {
+            "id": 129731,
+            "name": "Others"
           },
           {
             "id": 95925,
@@ -831,12 +831,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 12582,
-            "name": "Slim"
-          },
-          {
             "id": 95928,
             "name": "Dry Ex"
+          },
+          {
+            "id": 12582,
+            "name": "Slim"
           },
           {
             "id": 101970,
@@ -859,10 +859,6 @@
             "name": "Down"
           },
           {
-            "id": 106408,
-            "name": "Outerwear"
-          },
-          {
             "id": 125515,
             "name": "Long Sleeves"
           },
@@ -871,12 +867,16 @@
             "name": "Sweat Pants"
           },
           {
-            "id": 127821,
-            "name": "Scarf"
+            "id": 106408,
+            "name": "Outerwear"
           },
           {
             "id": 12074,
             "name": "Tailored"
+          },
+          {
+            "id": 127821,
+            "name": "Scarf"
           },
           {
             "id": 106410,
