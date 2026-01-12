@@ -641,24 +641,24 @@
             "name": "Jacket"
           },
           {
-            "id": 95933,
-            "name": "Oxford"
-          },
-          {
             "id": 128621,
             "name": "Parka"
+          },
+          {
+            "id": 95933,
+            "name": "Oxford"
           },
           {
             "id": 95935,
             "name": "Cotton"
           },
           {
-            "id": 128623,
-            "name": "Coat"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 128623,
+            "name": "Coat"
           },
           {
             "id": 128624,
@@ -677,10 +677,6 @@
             "name": "HEATTECH"
           },
           {
-            "id": 106391,
-            "name": "Outerwear"
-          },
-          {
             "id": 101929,
             "name": "Wool"
           },
@@ -689,8 +685,8 @@
             "name": "Linen"
           },
           {
-            "id": 21284,
-            "name": "Jacket"
+            "id": 106391,
+            "name": "Outerwear"
           },
           {
             "id": 101972,
@@ -701,16 +697,16 @@
             "name": "Warm Line"
           },
           {
+            "id": 21284,
+            "name": "Jacket"
+          },
+          {
             "id": 95945,
             "name": "Oxford"
           },
           {
             "id": 106393,
             "name": "Shirts"
-          },
-          {
-            "id": 101888,
-            "name": "Ultra Light Down Coat"
           },
           {
             "id": 12607,
@@ -721,24 +717,28 @@
             "name": "Sweaters"
           },
           {
-            "id": 95946,
-            "name": "Broadcloth"
+            "id": 101888,
+            "name": "Ultra Light Down Coat"
           },
           {
-            "id": 106395,
-            "name": "Bottoms"
+            "id": 95946,
+            "name": "Broadcloth"
           },
           {
             "id": 101973,
             "name": "Fleece"
           },
           {
-            "id": 101889,
-            "name": "Other Ultra Light Down"
+            "id": 106395,
+            "name": "Bottoms"
           },
           {
             "id": 49370,
             "name": "Cotton"
+          },
+          {
+            "id": 101889,
+            "name": "Other Ultra Light Down"
           },
           {
             "id": 12604,
@@ -781,24 +781,20 @@
             "name": "Others"
           },
           {
-            "id": 106397,
-            "name": "Outerwear"
+            "id": 12584,
+            "name": "Wide"
           },
           {
             "id": 101968,
             "name": "Flannel"
           },
           {
-            "id": 12584,
-            "name": "Wide"
+            "id": 106397,
+            "name": "Outerwear"
           },
           {
             "id": 101967,
             "name": "Fleece"
-          },
-          {
-            "id": 95925,
-            "name": "Short Sleeves"
           },
           {
             "id": 103334,
@@ -809,12 +805,16 @@
             "name": "Sweaters"
           },
           {
-            "id": 106401,
-            "name": "Bottoms"
+            "id": 95925,
+            "name": "Short Sleeves"
           },
           {
             "id": 95928,
             "name": "Dry Ex"
+          },
+          {
+            "id": 106401,
+            "name": "Bottoms"
           },
           {
             "id": 12582,
@@ -825,12 +825,12 @@
             "name": "Accessory"
           },
           {
-            "id": 101970,
-            "name": "Others"
-          },
-          {
             "id": 106404,
             "name": "Bags"
+          },
+          {
+            "id": 101970,
+            "name": "Others"
           },
           {
             "id": 13132,
@@ -861,32 +861,32 @@
             "name": "Wide"
           },
           {
-            "id": 19831,
-            "name": "Sweat Pants"
-          },
-          {
             "id": 106408,
             "name": "Outerwear"
+          },
+          {
+            "id": 19831,
+            "name": "Sweat Pants"
           },
           {
             "id": 115632,
             "name": "Pleated"
           },
           {
-            "id": 12074,
-            "name": "Tailored"
-          },
-          {
             "id": 127821,
             "name": "Scarf"
           },
           {
-            "id": 106410,
-            "name": "Shirts"
+            "id": 12074,
+            "name": "Tailored"
           },
           {
             "id": 125517,
             "name": "Others"
+          },
+          {
+            "id": 106410,
+            "name": "Shirts"
           },
           {
             "id": 23272,
@@ -17428,7 +17428,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08126690",
+          "l2Id": "08126689",
           "salesStartDate": "",
           "salesEndDate": ""
         },
