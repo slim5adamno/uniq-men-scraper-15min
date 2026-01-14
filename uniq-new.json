@@ -79,22 +79,6 @@
   }
 }
 {
-  "name": "3D Souffle Yarn V Neck Sweater",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479234-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Slim Fit Jeans",
   "price": 1490.0000,
   "basePrice": 2990.0000,
@@ -152,22 +136,6 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Pufftech Half Coat",
-  "price": 4990.0000,
-  "basePrice": 9990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479813-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
