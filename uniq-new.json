@@ -131,6 +131,22 @@
   "price": 1490.0000,
   "basePrice": 2990.0000,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E463907-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Slim Fit Jeans",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E459688-000",
   "sizes": {
     "code": "INS029",
@@ -139,6 +155,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Combination Quilted Jacket",
+  "price": 2990.0000,
+  "basePrice": 7990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E479419-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
