@@ -239,22 +239,6 @@
   }
 }
 {
-  "name": "Slim Fit Jeans",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E459688-000",
-  "sizes": {
-    "code": "INS029",
-    "displayCode": "029",
-    "name": "29inch",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Lambswool Crew Neck Sweater",
   "price": 1990.0000,
   "basePrice": 3990.0000,
