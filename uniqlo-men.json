@@ -345,6 +345,11 @@
           "name": "76cm"
         },
         {
+          "code": "CMD082",
+          "displayCode": "082",
+          "name": "82cm"
+        },
+        {
           "code": "INS028",
           "displayCode": "028",
           "name": "28inch"
@@ -2312,7 +2317,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08565295",
+          "l2Id": "08786139",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2329,6 +2334,15 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3825,6 +3839,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "62% Cotton, 38% Polyester ( 38% Uses Recycled Polyester Fiber )",
@@ -3979,6 +4002,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/480121_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA007",
             "displayCode": "007",
@@ -5396,6 +5428,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "SMA008",
+            "displayCode": "008",
+            "name": "3XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "unisexFlag": 1,
@@ -5962,7 +6003,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07957115",
+          "l2Id": "08348442",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -6036,6 +6077,15 @@
       {
         "careInstruction": "<br>",
         "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "COL38",
             "displayCode": "38",
@@ -6201,6 +6251,15 @@
             "code": "CMD076",
             "displayCode": "076",
             "name": "76cm",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          },
+          {
+            "code": "CMD082",
+            "displayCode": "082",
+            "name": "82cm",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -6739,6 +6798,15 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -19333,6 +19401,15 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
