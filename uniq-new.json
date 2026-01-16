@@ -3,22 +3,6 @@
   "price": 790.0000,
   "basePrice": 2490.0000,
   "discount": 68,
-  "link": "https://www.uniqlo.com/in/en/products/E474529-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Cotton Linen Stand Collar Shirt",
-  "price": 790.0000,
-  "basePrice": 2490.0000,
-  "discount": 68,
   "link": "https://www.uniqlo.com/in/en/products/E474528-000",
   "sizes": {
     "code": "SMA003",
