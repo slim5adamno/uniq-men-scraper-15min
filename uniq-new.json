@@ -223,38 +223,6 @@
   }
 }
 {
-  "name": "Combination Quilted Jacket",
-  "price": 2990.0000,
-  "basePrice": 7990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479419-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Blocktech Parka",
-  "price": 3990.0000,
-  "basePrice": 8990.0000,
-  "discount": 56,
-  "link": "https://www.uniqlo.com/in/en/products/E481044-000",
-  "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Blocktech Utility Parka",
   "price": 3990.0000,
   "basePrice": 8990.0000,
