@@ -95,22 +95,6 @@
   }
 }
 {
-  "name": "Pleated Straight Pants Denim",
-  "price": 1490.0000,
-  "basePrice": 2990.0000,
-  "discount": 50,
-  "link": "https://www.uniqlo.com/in/en/products/E479821-000",
-  "sizes": {
-    "code": "CMD076",
-    "displayCode": "076",
-    "name": "76cm",
-    "display": {
-      "showFlag": true,
-      "chipType": 1
-    }
-  }
-}
-{
   "name": "Twill Work Oversized Shirt Long Sleeve",
   "price": 1490.0000,
   "basePrice": 2990.0000,
