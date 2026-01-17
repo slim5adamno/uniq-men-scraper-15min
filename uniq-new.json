@@ -143,34 +143,18 @@
   }
 }
 {
-  "name": "Corduroy Work Pants",
+  "name": "Wide Fit Color Jeans",
   "price": 1490.0000,
   "basePrice": 3990.0000,
   "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479817-000",
+  "link": "https://www.uniqlo.com/in/en/products/E479824-000",
   "sizes": {
-    "code": "SMA004",
-    "displayCode": "004",
-    "name": "M",
+    "code": "INS030",
+    "displayCode": "030",
+    "name": "30inch",
     "display": {
       "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
-  "name": "Crew Neck Full-Zip Cardigan",
-  "price": 1490.0000,
-  "basePrice": 3990.0000,
-  "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479731-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
+      "chipType": 1
     }
   }
 }
@@ -187,6 +171,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "3D Souffle Yarn V Neck Sweater",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479234-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
@@ -219,6 +219,22 @@
     "display": {
       "showFlag": true,
       "chipType": 1
+    }
+  }
+}
+{
+  "name": "Blocktech Parka",
+  "price": 3990.0000,
+  "basePrice": 8990.0000,
+  "discount": 56,
+  "link": "https://www.uniqlo.com/in/en/products/E481044-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
     }
   }
 }
