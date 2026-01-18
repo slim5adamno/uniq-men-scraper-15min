@@ -31,6 +31,22 @@
   }
 }
 {
+  "name": "Brushed Half-Zip Sweatshirt",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E479849-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "DRY-EX Polo Shirt (Tipping)",
   "price": 990.0000,
   "basePrice": 1990.0000,
@@ -191,6 +207,22 @@
   }
 }
 {
+  "name": "Combination Quilted Jacket",
+  "price": 2990.0000,
+  "basePrice": 7990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E479419-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Blocktech Utility Parka",
   "price": 3990.0000,
   "basePrice": 8990.0000,
@@ -264,6 +296,22 @@
     "code": "SMA003",
     "displayCode": "003",
     "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pufftech Half Coat",
+  "price": 4990.0000,
+  "basePrice": 9990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479813-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
     "display": {
       "showFlag": true,
       "chipType": 0
