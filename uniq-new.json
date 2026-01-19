@@ -207,6 +207,22 @@
   }
 }
 {
+  "name": "Pufftech Half Coat",
+  "price": 4990.0000,
+  "basePrice": 9990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479813-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Oversized Single Breasted Coat",
   "price": 4990.0000,
   "basePrice": 8990.0000,
