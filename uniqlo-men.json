@@ -616,16 +616,16 @@
         ],
         "subcategories": [
           {
-            "id": 128620,
-            "name": "Jacket"
+            "id": 95932,
+            "name": "Flannel"
           },
           {
             "id": 131734,
             "name": "Sweaters"
           },
           {
-            "id": 95932,
-            "name": "Flannel"
+            "id": 128620,
+            "name": "Jacket"
           },
           {
             "id": 95933,
@@ -636,12 +636,12 @@
             "name": "Cotton"
           },
           {
-            "id": 128623,
-            "name": "Coat"
-          },
-          {
             "id": 95931,
             "name": "Long Sleeves"
+          },
+          {
+            "id": 128623,
+            "name": "Coat"
           },
           {
             "id": 128624,
@@ -656,12 +656,12 @@
             "name": "Short Sleeves"
           },
           {
-            "id": 105105,
-            "name": "HEATTECH"
-          },
-          {
             "id": 106391,
             "name": "Outerwear"
+          },
+          {
+            "id": 105105,
+            "name": "HEATTECH"
           },
           {
             "id": 101929,
@@ -684,28 +684,28 @@
             "name": "Oxford"
           },
           {
-            "id": 101888,
-            "name": "Ultra Light Down Coat"
-          },
-          {
-            "id": 106394,
-            "name": "Sweaters"
+            "id": 95946,
+            "name": "Broadcloth"
           },
           {
             "id": 12607,
             "name": "Others"
           },
           {
-            "id": 95946,
-            "name": "Broadcloth"
+            "id": 106394,
+            "name": "Sweaters"
           },
           {
-            "id": 49370,
-            "name": "Cotton"
+            "id": 101888,
+            "name": "Ultra Light Down Coat"
           },
           {
             "id": 101889,
             "name": "Other Ultra Light Down"
+          },
+          {
+            "id": 49370,
+            "name": "Cotton"
           },
           {
             "id": 101973,
@@ -748,12 +748,12 @@
             "name": "Others"
           },
           {
-            "id": 106397,
-            "name": "Outerwear"
-          },
-          {
             "id": 101968,
             "name": "Flannel"
+          },
+          {
+            "id": 106397,
+            "name": "Outerwear"
           },
           {
             "id": 101319,
@@ -764,16 +764,16 @@
             "name": "Fleece"
           },
           {
-            "id": 103334,
-            "name": "Lounge Set"
+            "id": 106399,
+            "name": "Sweaters"
           },
           {
             "id": 95925,
             "name": "Short Sleeves"
           },
           {
-            "id": 106399,
-            "name": "Sweaters"
+            "id": 103334,
+            "name": "Lounge Set"
           },
           {
             "id": 115125,
@@ -824,16 +824,16 @@
             "name": "Oversized"
           },
           {
+            "id": 127820,
+            "name": "Glove"
+          },
+          {
             "id": 106408,
             "name": "Outerwear"
           },
           {
             "id": 125515,
             "name": "Long Sleeves"
-          },
-          {
-            "id": 127820,
-            "name": "Glove"
           },
           {
             "id": 125516,
@@ -856,12 +856,12 @@
             "name": "Others"
           },
           {
-            "id": 11694,
-            "name": "Others"
-          },
-          {
             "id": 106413,
             "name": "Socks"
+          },
+          {
+            "id": 11694,
+            "name": "Others"
           },
           {
             "id": 12088,
@@ -16938,15 +16938,6 @@
             }
           },
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL38",
             "displayCode": "38",
             "name": "DARK BROWN",
@@ -17136,15 +17127,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
