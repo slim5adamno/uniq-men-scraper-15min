@@ -31,22 +31,6 @@
   }
 }
 {
-  "name": "DRY-EX Polo Shirt (Pattern)",
-  "price": 790.0000,
-  "basePrice": 1990.0000,
-  "discount": 60,
-  "link": "https://www.uniqlo.com/in/en/products/E477221-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Museum of Fine Arts Boston Ukiyo-e UT (Short Sleeve Graphic T-shirt)",
   "price": 790.0000,
   "basePrice": 1490.0000,
