@@ -16715,19 +16715,13 @@
         "longDescription": "<br>",
         "name": "Extra Fine Cotton Broadcloth Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E453144-000",
@@ -16762,27 +16756,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL19",
-            "displayCode": "19",
-            "name": "WINE",
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08637657",
+          "l2Id": "08637675",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21285,9 +21272,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21312,7 +21299,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08658805",
+          "l2Id": "08718751",
           "salesStartDate": "",
           "salesEndDate": ""
         },
