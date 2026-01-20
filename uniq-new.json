@@ -287,22 +287,6 @@
   }
 }
 {
-  "name": "Pufftech Utility Jacket",
-  "price": 4990.0000,
-  "basePrice": 8990.0000,
-  "discount": 44,
-  "link": "https://www.uniqlo.com/in/en/products/E481347-000",
-  "sizes": {
-    "code": "SMA003",
-    "displayCode": "003",
-    "name": "S",
-    "display": {
-      "showFlag": true,
-      "chipType": 0
-    }
-  }
-}
-{
   "name": "Pufftech Half Coat",
   "price": 4990.0000,
   "basePrice": 9990.0000,
