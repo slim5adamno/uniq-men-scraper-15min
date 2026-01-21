@@ -6535,15 +6535,6 @@
             }
           },
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -8099,15 +8090,15 @@
           }
         ],
         "rating": {
-          "average": 4.23,
-          "count": 22,
-          "fit": 3.14,
+          "average": 4.29,
+          "count": 24,
+          "fit": 3.13,
           "rateCount": {
             "one": 2,
             "two": 2,
             "three": 0,
             "four": 3,
-            "five": 15
+            "five": 17
           }
         },
         "representative": {
@@ -8150,7 +8141,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -18785,14 +18776,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 93,
+          "count": 94,
           "fit": 3.03,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 3,
             "four": 9,
-            "five": 80
+            "five": 81
           }
         },
         "representative": {
@@ -18822,7 +18813,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 93,
+          "total": 94,
           "count": 0,
           "items": []
         },
