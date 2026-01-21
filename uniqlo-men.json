@@ -2623,15 +2623,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Face: 100% Polyamide/ Filling: 100% Polyester/ Back: 70% Acrylic, 30% Viscose",
@@ -4180,15 +4171,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8914,15 +8896,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 2,
+          "average": 4.67,
+          "count": 3,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -8952,7 +8934,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
