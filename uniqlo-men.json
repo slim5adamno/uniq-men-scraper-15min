@@ -300,47 +300,47 @@
         {
           "rating": 0,
           "accumulated": 93,
-          "count": 12
+          "count": 11
         },
         {
           "rating": 0.5,
-          "accumulated": 81,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 81,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 81,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 81,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 81,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 81,
+          "accumulated": 82,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 80,
+          "accumulated": 81,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 79,
-          "count": 9
+          "accumulated": 80,
+          "count": 10
         },
         {
           "rating": 4.5,
@@ -3105,15 +3105,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -19546,15 +19537,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
