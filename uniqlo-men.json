@@ -1065,7 +1065,7 @@
         "designDetail": "- Fabric Weight: Heavy<br>- Sock Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -1168,18 +1168,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.75,
-          "count": 4,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL55",
@@ -1207,7 +1196,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -1254,7 +1243,7 @@
         "designDetail": "- Fabric Weight: Normal<br>- Sock Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -1357,18 +1346,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 2.8,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL03",
@@ -1396,7 +1374,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -1443,7 +1421,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -1595,18 +1573,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL57",
@@ -1634,7 +1601,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -1681,7 +1648,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -1756,18 +1723,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 4,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 4
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -1795,7 +1751,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -1842,7 +1798,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -2001,7 +1957,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -2083,18 +2039,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.71,
-          "count": 7,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 6
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -2122,7 +2067,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -2196,7 +2141,7 @@
         "designDetail": "",
         "freeInformation": "Duppituru, Andhra Pradesh, Dupputuru, Visakhapatnam - 531011",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -2342,18 +2287,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.81,
-          "count": 32,
-          "fit": 2.88,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 29
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL38",
@@ -2381,7 +2315,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -2455,7 +2389,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -2543,18 +2477,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 7,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 7
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL68",
@@ -2582,7 +2505,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -2629,7 +2552,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -2801,7 +2724,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -2872,18 +2795,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 3,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL68",
@@ -2918,7 +2830,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -2974,7 +2886,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3040,18 +2952,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL01",
@@ -3079,7 +2980,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -3126,7 +3027,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3270,7 +3171,7 @@
         "designDetail": "- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3333,18 +3234,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 2,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 2
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL00",
@@ -3379,7 +3269,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -3417,7 +3307,7 @@
         "designDetail": "- Fit: Oversized",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3552,7 +3442,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3615,18 +3505,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL62",
@@ -3654,7 +3533,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -3692,7 +3571,7 @@
         "designDetail": "- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3764,18 +3643,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 9,
-          "fit": 3.33,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 9
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -3810,7 +3678,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -3848,7 +3716,7 @@
         "designDetail": "- Fit: Oversized",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -3917,18 +3785,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 3,
-          "fit": 3.33,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL30",
@@ -3956,7 +3813,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -3994,7 +3851,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -4120,18 +3977,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.77,
-          "count": 22,
-          "fit": 3.05,
-          "rateCount": {
-            "one": 0,
-            "two": 1,
-            "three": 0,
-            "four": 2,
-            "five": 19
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -4166,7 +4012,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -4204,7 +4050,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -4273,18 +4119,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.67,
-          "count": 6,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -4312,7 +4147,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -4368,7 +4203,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -4468,18 +4303,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.85,
-          "count": 20,
-          "fit": 3.1,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 3,
-            "five": 17
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -4514,7 +4338,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 20,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -4606,7 +4430,7 @@
         "designDetail": "- Sheer: Not Sheer(Only 00 White is slightly sheer)<br>- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -4713,18 +4537,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.98,
-          "count": 44,
-          "fit": 3.07,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 43
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -4752,7 +4565,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 44,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -4835,7 +4648,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -4919,18 +4732,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.83,
-          "count": 18,
-          "fit": 3.28,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 3,
-            "five": 15
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -4958,7 +4760,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -5041,7 +4843,7 @@
         "designDetail": "- Sheer: Not Sheer(Only 00 White is slightly sheer)<br>- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check “Materials” on th",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -5200,18 +5002,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.58,
-          "count": 59,
-          "fit": 2.97,
-          "rateCount": {
-            "one": 2,
-            "two": 1,
-            "three": 3,
-            "four": 8,
-            "five": 45
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL22",
@@ -5246,7 +5037,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 59,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -5320,7 +5111,7 @@
         "designDetail": "- Sheer: Not Sheer(Only 00 White is slightly sheer)<br>- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -5487,18 +5278,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.96,
-          "count": 27,
-          "fit": 2.93,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 26
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL00",
@@ -5526,7 +5306,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 27,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -5582,7 +5362,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -5658,18 +5438,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL18",
@@ -5697,7 +5466,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -5735,7 +5504,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -5811,18 +5580,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4,
-          "count": 1,
-          "fit": 2,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 0
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL01",
@@ -5850,7 +5608,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -5942,7 +5700,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -6029,18 +5787,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 3.92,
-          "count": 13,
-          "fit": 3.23,
-          "rateCount": {
-            "one": 3,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 9
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -6075,7 +5822,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -6131,7 +5878,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -6220,18 +5967,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 7,
-          "fit": 3.14,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 7
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL31",
@@ -6259,7 +5995,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -6297,7 +6033,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -6373,18 +6109,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.8,
-          "count": 5,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 4
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL58",
@@ -6412,7 +6137,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -6468,7 +6193,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -6552,18 +6277,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.85,
-          "count": 20,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 1,
-            "five": 18
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -6591,7 +6305,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 20,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -6674,7 +6388,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -6868,7 +6582,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -6965,18 +6679,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3.4,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL13",
@@ -7004,7 +6707,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -7078,7 +6781,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -7159,18 +6862,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 3,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL59",
@@ -7198,7 +6890,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -7263,7 +6955,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -7341,18 +7033,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 4,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 4
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL18",
@@ -7380,7 +7061,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -7454,7 +7135,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -7532,18 +7213,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.8,
-          "count": 10,
-          "fit": 3.1,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 8
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -7571,7 +7241,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 10,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -7654,7 +7324,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -7748,18 +7418,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.79,
-          "count": 14,
-          "fit": 3.07,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 1,
-            "five": 12
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -7787,7 +7446,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -7861,7 +7520,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -7939,18 +7598,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3.2,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL30",
@@ -7978,7 +7626,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -8079,7 +7727,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -8190,18 +7838,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.35,
-          "count": 26,
-          "fit": 3.12,
-          "rateCount": {
-            "one": 2,
-            "two": 2,
-            "three": 0,
-            "four": 3,
-            "five": 19
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL04",
@@ -8242,7 +7879,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 26,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -8343,7 +7980,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -8452,18 +8089,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.71,
-          "count": 14,
-          "fit": 3.21,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 13
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL04",
@@ -8498,7 +8124,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -8581,7 +8207,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -8656,18 +8282,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.89,
-          "count": 9,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 8
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -8695,7 +8310,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -8805,7 +8420,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -8900,18 +8515,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.74,
-          "count": 34,
-          "fit": 3,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 1,
-            "four": 3,
-            "five": 29
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -8939,7 +8543,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 34,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -9022,7 +8626,7 @@
         "designDetail": "- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -9092,18 +8696,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.67,
-          "count": 3,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 2
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL62",
@@ -9131,7 +8724,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -9205,7 +8798,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -9301,18 +8894,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.14,
-          "count": 14,
-          "fit": 3.14,
-          "rateCount": {
-            "one": 2,
-            "two": 1,
-            "three": 0,
-            "four": 1,
-            "five": 10
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL11",
@@ -9347,7 +8929,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -9430,7 +9012,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -9516,18 +9098,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -9555,7 +9126,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -9593,7 +9164,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -9675,18 +9246,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -9714,7 +9274,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -9770,7 +9330,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -9874,18 +9434,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.6,
-          "count": 55,
-          "fit": 3.04,
-          "rateCount": {
-            "one": 2,
-            "two": 0,
-            "three": 2,
-            "four": 10,
-            "five": 41
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL53",
@@ -9920,7 +9469,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 55,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -9994,7 +9543,7 @@
         "designDetail": "- Fit: Loose<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -10079,18 +9628,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.85,
-          "count": 13,
-          "fit": 3.15,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 11
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL06",
@@ -10125,7 +9663,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -10199,7 +9737,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -10303,18 +9841,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.74,
-          "count": 35,
-          "fit": 3.03,
-          "rateCount": {
-            "one": 2,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 32
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL00",
@@ -10349,7 +9876,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -10414,7 +9941,7 @@
         "designDetail": "- Fit: Slim<br>- Silhouette: Straight<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -10484,18 +10011,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 11,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 11
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL62",
@@ -10523,7 +10039,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 11,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -10606,7 +10122,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -10728,18 +10244,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.85,
-          "count": 66,
-          "fit": 3.14,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 2,
-            "four": 6,
-            "five": 58
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL01",
@@ -10767,7 +10272,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 66,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -10841,7 +10346,7 @@
         "designDetail": "- Fit: Loose<br>- Pockets: With Pockets",
         "freeInformation": "Plot No.1, Sector 28, HBH Colony, Sector 28. Faridabad, Delhi NCR 121008<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -11076,7 +10581,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br><br>■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -11151,18 +10656,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.15,
-          "count": 13,
-          "fit": 3.15,
-          "rateCount": {
-            "one": 2,
-            "two": 0,
-            "three": 0,
-            "four": 3,
-            "five": 8
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL62",
@@ -11190,7 +10684,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -11264,7 +10758,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Loose<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -11432,18 +10926,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.92,
-          "count": 76,
-          "fit": 3.09,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 6,
-            "five": 70
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL19",
@@ -11471,7 +10954,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 76,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -11527,7 +11010,7 @@
         "designDetail": "",
         "freeInformation": "■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.<br>- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -11645,18 +11128,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.7,
-          "count": 46,
-          "fit": 3.11,
-          "rateCount": {
-            "one": 1,
-            "two": 1,
-            "three": 0,
-            "four": 7,
-            "five": 37
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL65",
@@ -11684,7 +11156,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 38,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -11740,7 +11212,7 @@
         "designDetail": "",
         "freeInformation": "■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.<br>- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -11833,18 +11305,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.45,
-          "count": 113,
-          "fit": 2.89,
-          "rateCount": {
-            "one": 6,
-            "two": 2,
-            "three": 7,
-            "four": 18,
-            "five": 80
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -11872,7 +11333,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 104,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -11919,7 +11380,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -11992,18 +11453,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 8,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 8
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL17",
@@ -12031,7 +11481,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 8,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -12132,7 +11582,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Oversized",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -12232,18 +11682,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 2,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 2
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL30",
@@ -12271,7 +11710,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -12363,7 +11802,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -12455,18 +11894,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.69,
-          "count": 13,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 4,
-            "five": 9
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL05",
@@ -12494,7 +11922,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -12577,7 +12005,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -12653,18 +12081,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.2,
-          "count": 5,
-          "fit": 3.4,
-          "rateCount": {
-            "one": 0,
-            "two": 1,
-            "three": 0,
-            "four": 1,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL45",
@@ -12692,7 +12109,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -12784,7 +12201,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -12865,18 +12282,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.75,
-          "count": 4,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL61",
@@ -12904,7 +12310,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -12987,7 +12393,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -13064,18 +12470,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 13,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 13
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL59",
@@ -13103,7 +12498,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -13141,7 +12536,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -13221,18 +12616,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.83,
-          "count": 6,
-          "fit": 3.33,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL19",
@@ -13260,7 +12644,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -13325,7 +12709,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -13405,18 +12789,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.71,
-          "count": 7,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 6
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -13444,7 +12817,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -13509,7 +12882,7 @@
         "designDetail": "- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -13589,18 +12962,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.86,
-          "count": 7,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 6
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL56",
@@ -13628,7 +12990,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -13711,7 +13073,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Oversized",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -13811,18 +13173,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.67,
-          "count": 12,
-          "fit": 3.33,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 11
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -13850,7 +13201,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -13915,7 +13266,7 @@
         "designDetail": "- Sheer: Slightly Sheer(Only 01 Off White is slightly sheer)<br>- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -14018,18 +13369,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.92,
-          "count": 12,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 11
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -14064,7 +13404,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -14147,7 +13487,7 @@
         "designDetail": "- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -14259,18 +13599,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.88,
-          "count": 32,
-          "fit": 3.22,
-          "rateCount": {
-            "one": 0,
-            "two": 1,
-            "three": 0,
-            "four": 1,
-            "five": 30
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL33",
@@ -14298,7 +13627,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 32,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -14381,7 +13710,7 @@
         "designDetail": "- Fit: Slim<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -14490,18 +13819,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.73,
-          "count": 22,
-          "fit": 3.09,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 19
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -14529,7 +13847,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -14576,7 +13894,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br><br>■Inseam alteration is available for this product<br>- The range of alteration available varies depending on the desired finish. Also, depending on the length of the alteration, a seam ma <br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -14685,18 +14003,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.76,
-          "count": 107,
-          "fit": 3.07,
-          "rateCount": {
-            "one": 3,
-            "two": 0,
-            "three": 3,
-            "four": 8,
-            "five": 93
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL06",
@@ -14731,7 +14038,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 107,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -14796,7 +14103,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -14936,18 +14243,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.6,
-          "count": 43,
-          "fit": 3.07,
-          "rateCount": {
-            "one": 2,
-            "two": 1,
-            "three": 1,
-            "four": 4,
-            "five": 35
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL66",
@@ -14975,7 +14271,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 37,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -15049,7 +14345,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -15158,18 +14454,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3.4,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL08",
@@ -15204,7 +14489,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -15260,7 +14545,7 @@
         "designDetail": "- Fit: Loose<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -15363,18 +14648,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.92,
-          "count": 24,
-          "fit": 3.08,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 22
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL31",
@@ -15402,7 +14676,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 24,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -15494,7 +14768,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -15615,18 +14889,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.56,
-          "count": 101,
-          "fit": 3.01,
-          "rateCount": {
-            "one": 8,
-            "two": 1,
-            "three": 0,
-            "four": 9,
-            "five": 83
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL58",
@@ -15661,7 +14924,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 101,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -15735,7 +14998,7 @@
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Relaxed<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -15854,18 +15117,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.73,
-          "count": 130,
-          "fit": 3.1,
-          "rateCount": {
-            "one": 1,
-            "two": 2,
-            "three": 5,
-            "four": 15,
-            "five": 107
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL31",
@@ -15893,7 +15145,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 130,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -15985,7 +15237,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -16263,18 +15515,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.47,
-          "count": 223,
-          "fit": 3.04,
-          "rateCount": {
-            "one": 21,
-            "two": 1,
-            "three": 5,
-            "four": 22,
-            "five": 174
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL55",
@@ -16302,7 +15543,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 177,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -16421,7 +15662,7 @@
         "designDetail": "",
         "freeInformation": "- Wool is a natural material so it may emit an odor with water or moisture. You may notice a smell especially after washing but there is no problem with quality and it will disappear once it dries. <br>- The images shown may include colours that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -16688,18 +15929,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.66,
-          "count": 53,
-          "fit": 2.96,
-          "rateCount": {
-            "one": 3,
-            "two": 0,
-            "three": 0,
-            "four": 6,
-            "five": 44
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL18",
@@ -16734,7 +15964,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 53,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -16808,7 +16038,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -16921,18 +16151,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.5,
-          "count": 8,
-          "fit": 3.13,
-          "rateCount": {
-            "one": 0,
-            "two": 1,
-            "three": 0,
-            "four": 1,
-            "five": 6
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL44",
@@ -16960,7 +16179,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 8,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -17007,7 +16226,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets<br>- Storage pouch: With a storage pouch",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -17139,18 +16358,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.95,
-          "count": 41,
-          "fit": 3.1,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 39
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -17178,7 +16386,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 41,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -17261,7 +16469,7 @@
         "designDetail": "- Storage pouch: Without a storage pouch",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -17359,18 +16567,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.55,
-          "count": 31,
-          "fit": 3.1,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 2,
-            "four": 6,
-            "five": 22
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -17398,7 +16595,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 31,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -17508,7 +16705,7 @@
         "designDetail": "- Storage pouch: With a storage pouch",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -17630,18 +16827,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.82,
-          "count": 103,
-          "fit": 3.03,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 3,
-            "four": 9,
-            "five": 90
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL57",
@@ -17669,7 +16855,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 103,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -17761,7 +16947,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets(Inside pocket(s))",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -17867,18 +17053,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.5,
-          "count": 4,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 2
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL09",
@@ -17913,7 +17088,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -17969,7 +17144,7 @@
         "designDetail": "- Fit: Regular<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available. <br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -18133,18 +17308,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.77,
-          "count": 30,
-          "fit": 3.13,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 5,
-            "five": 24
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL31",
@@ -18179,7 +17343,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 30,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -18217,7 +17381,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets(Inside pocket(s))",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -18314,18 +17478,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.6,
-          "count": 5,
-          "fit": 3.6,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 3
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL69",
@@ -18360,7 +17513,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -18416,7 +17569,7 @@
         "designDetail": "- Fit: Oversized<br>- Pockets: With Pockets(Inside pocket(s))",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -18644,7 +17797,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets(Inside pocket(s))",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -18787,18 +17940,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.43,
-          "count": 226,
-          "fit": 2.97,
-          "rateCount": {
-            "one": 20,
-            "two": 5,
-            "three": 8,
-            "four": 17,
-            "five": 176
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL57",
@@ -18826,7 +17968,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 226,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -18891,7 +18033,7 @@
         "designDetail": "- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -18986,18 +18128,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.33,
-          "count": 6,
-          "fit": 3.33,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL38",
@@ -19032,7 +18163,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -19097,7 +18228,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets(Inside pocket(s))",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -19279,7 +18410,7 @@
         "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets(Inside pocket(s))",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Men",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -19388,18 +18519,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 4.6,
-          "count": 5,
-          "fit": 3.2,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 1,
-            "four": 0,
-            "five": 4
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL30",
@@ -19427,7 +18547,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 0,
           "count": 0,
           "items": []
         },
@@ -19501,7 +18621,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": false,
+        "hideReview": true,
         "images": {
           "main": [
             {
@@ -19606,18 +18726,7 @@
             }
           }
         ],
-        "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 1
-          }
-        },
+        "rating": {},
         "representative": {
           "color": {
             "code": "COL03",
@@ -19645,7 +18754,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 0,
           "count": 0,
           "items": []
         },
