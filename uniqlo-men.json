@@ -16210,11 +16210,11 @@
           }
         ],
         "rating": {
-          "average": 4.47,
-          "count": 223,
-          "fit": 3.04,
+          "average": 4.45,
+          "count": 224,
+          "fit": 3.03,
           "rateCount": {
-            "one": 21,
+            "one": 22,
             "two": 1,
             "three": 5,
             "four": 22,
