@@ -12254,15 +12254,6 @@
             }
           },
           {
-            "code": "INS029",
-            "displayCode": "029",
-            "name": "29inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "INS038",
             "displayCode": "038",
             "name": "38inch",
@@ -16465,6 +16456,15 @@
             "code": "COL02",
             "displayCode": "02",
             "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
