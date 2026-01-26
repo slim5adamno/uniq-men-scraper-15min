@@ -111,6 +111,38 @@
   }
 }
 {
+  "name": "Brushed Cotton Open Collar Oversized Shirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E480803-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Brushed Cotton Open Collar Oversized Shirt",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E480803-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Warm Lined Pants",
   "price": 1990.0000,
   "basePrice": 3990.0000,
@@ -160,9 +192,9 @@
 }
 {
   "name": "Pufftech Utility Jacket",
-  "price": 4990.0000,
+  "price": 3990.0000,
   "basePrice": 8990.0000,
-  "discount": 44,
+  "discount": 56,
   "link": "https://www.uniqlo.com/in/en/products/E481347-000",
   "sizes": {
     "code": "SMA003",
@@ -176,9 +208,9 @@
 }
 {
   "name": "Oversized Single Breasted Coat",
-  "price": 4990.0000,
+  "price": 3990.0000,
   "basePrice": 8990.0000,
-  "discount": 44,
+  "discount": 56,
   "link": "https://www.uniqlo.com/in/en/products/E479417-000",
   "sizes": {
     "code": "SMA003",
@@ -192,9 +224,9 @@
 }
 {
   "name": "Oversized Single Breasted Coat",
-  "price": 4990.0000,
+  "price": 3990.0000,
   "basePrice": 8990.0000,
-  "discount": 44,
+  "discount": 56,
   "link": "https://www.uniqlo.com/in/en/products/E479417-000",
   "sizes": {
     "code": "SMA004",
