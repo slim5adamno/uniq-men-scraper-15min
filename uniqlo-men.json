@@ -15644,11 +15644,11 @@
           }
         ],
         "rating": {
-          "average": 4.59,
-          "count": 112,
-          "fit": 3.03,
+          "average": 4.56,
+          "count": 113,
+          "fit": 3.04,
           "rateCount": {
-            "one": 8,
+            "one": 9,
             "two": 1,
             "three": 0,
             "four": 11,
@@ -15689,7 +15689,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 112,
+          "total": 113,
           "count": 0,
           "items": []
         },
