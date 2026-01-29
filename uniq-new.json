@@ -1,4 +1,20 @@
 {
+  "name": "Corduroy Utility Pants",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E479822-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Modal Cotton Open Collar Short Sleeve Shirt",
   "price": 990.0000,
   "basePrice": 2490.0000,
@@ -115,6 +131,22 @@
   "price": 1490.0000,
   "basePrice": 2990.0000,
   "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479318-000",
+  "sizes": {
+    "code": "INS029",
+    "displayCode": "029",
+    "name": "29inch",
+    "display": {
+      "showFlag": true,
+      "chipType": 1
+    }
+  }
+}
+{
+  "name": "Slim Fit Jeans",
+  "price": 1490.0000,
+  "basePrice": 2990.0000,
+  "discount": 50,
   "link": "https://www.uniqlo.com/in/en/products/E475547-000",
   "sizes": {
     "code": "INS029",
@@ -159,6 +191,102 @@
   }
 }
 {
+  "name": "Warm Stretch Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479372-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Warm Stretch Pants",
+  "price": 1990.0000,
+  "basePrice": 3990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479372-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Corduroy Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E478249-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Corduroy Jacket",
+  "price": 2490.0000,
+  "basePrice": 4990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E478249-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Combination Quilted Jacket",
+  "price": 2990.0000,
+  "basePrice": 7990.0000,
+  "discount": 63,
+  "link": "https://www.uniqlo.com/in/en/products/E479419-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Blocktech Utility Parka",
+  "price": 2990.0000,
+  "basePrice": 8990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E479412-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Oversized Single Breasted Coat",
   "price": 3990.0000,
   "basePrice": 8990.0000,
@@ -184,6 +312,22 @@
     "code": "SMA004",
     "displayCode": "004",
     "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pufftech Half Coat",
+  "price": 4990.0000,
+  "basePrice": 9990.0000,
+  "discount": 50,
+  "link": "https://www.uniqlo.com/in/en/products/E479813-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
       "chipType": 0
