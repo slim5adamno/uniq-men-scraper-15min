@@ -15,6 +15,22 @@
   }
 }
 {
+  "name": "3D Souffle Yarn V Neck Sweater",
+  "price": 990.0000,
+  "basePrice": 2990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E479234-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
   "name": "Modal Cotton Open Collar Short Sleeve Shirt",
   "price": 990.0000,
   "basePrice": 2490.0000,
@@ -95,18 +111,18 @@
   }
 }
 {
-  "name": "Wide Fit Color Jeans",
+  "name": "Lambswool Crew Neck Sweater",
   "price": 1490.0000,
   "basePrice": 3990.0000,
   "discount": 63,
-  "link": "https://www.uniqlo.com/in/en/products/E479824-000",
+  "link": "https://www.uniqlo.com/in/en/products/E479832-000",
   "sizes": {
-    "code": "INS030",
-    "displayCode": "030",
-    "name": "30inch",
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
     "display": {
       "showFlag": true,
-      "chipType": 1
+      "chipType": 0
     }
   }
 }
@@ -255,11 +271,43 @@
   }
 }
 {
-  "name": "Oversized Single Breasted Coat",
+  "name": "Blocktech Utility Parka",
+  "price": 2990.0000,
+  "basePrice": 8990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E479412-000",
+  "sizes": {
+    "code": "SMA003",
+    "displayCode": "003",
+    "name": "S",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Blocktech Utility Parka",
+  "price": 2990.0000,
+  "basePrice": 8990.0000,
+  "discount": 67,
+  "link": "https://www.uniqlo.com/in/en/products/E479412-000",
+  "sizes": {
+    "code": "SMA004",
+    "displayCode": "004",
+    "name": "M",
+    "display": {
+      "showFlag": true,
+      "chipType": 0
+    }
+  }
+}
+{
+  "name": "Pufftech Utility Jacket",
   "price": 3990.0000,
   "basePrice": 8990.0000,
   "discount": 56,
-  "link": "https://www.uniqlo.com/in/en/products/E479417-000",
+  "link": "https://www.uniqlo.com/in/en/products/E481347-000",
   "sizes": {
     "code": "SMA003",
     "displayCode": "003",
