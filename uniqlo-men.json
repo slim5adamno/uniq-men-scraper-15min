@@ -5108,7 +5108,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07957112",
+          "l2Id": "07957116",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12244,15 +12244,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459688_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "INS028",
-            "displayCode": "028",
-            "name": "28inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
           {
             "code": "INS038",
             "displayCode": "038",
@@ -19407,11 +19398,11 @@
           }
         ],
         "rating": {
-          "average": 4.44,
-          "count": 228,
+          "average": 4.42,
+          "count": 229,
           "fit": 2.97,
           "rateCount": {
-            "one": 20,
+            "one": 21,
             "two": 5,
             "three": 8,
             "four": 17,
@@ -19445,7 +19436,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 228,
+          "total": 229,
           "count": 0,
           "items": []
         },
