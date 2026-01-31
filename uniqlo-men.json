@@ -234,11 +234,6 @@
           "name": "PURPLE"
         },
         {
-          "code": "COL79",
-          "displayCode": "79",
-          "name": "DARK PURPLE"
-        },
-        {
           "code": "COL91",
           "displayCode": "91",
           "name": "91"
@@ -14032,15 +14027,6 @@
             "code": "COL72",
             "displayCode": "72",
             "name": "PURPLE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL79",
-            "displayCode": "79",
-            "name": "DARK PURPLE",
             "display": {
               "showFlag": true,
               "chipType": 0
