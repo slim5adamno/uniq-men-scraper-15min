@@ -12,8 +12,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl --user-agent "Mozilla 5.0/ " "https://www.uniqlo.com/in/api/commerce/v3/en/products?path=9672&flagCodes=discount&sort=2&limit=1000&offset=0" | jq . > uniqlo-men.json
-        cat uniqlo-men.json | jq '.result.items | .[] | select (.prices.promo.value != null) | {sizes:.sizes,price:(.prices.promo.value)|tonumber,basePrice:.prices.base.value|tonumber,discount:((((.prices.base.value|tonumber) - (.prices.promo.value|tonumber))/(.prices.base.value|tonumber) * 100|round)), link:"https://www.uniqlo.com/in/en/products/\(.productId)",name:.name} |  select (.discount > 40)' | jq -s 'sort_by(.price) | .[]' | jq '{name:.name,price:.price,basePrice:.basePrice,discount:.discount,link:.link,sizes:.sizes|.[]|select(.name == "S" or .name == "M" or .name == "73cm" or .name == "76cm" or .name == "29inch" or .name == "30inch")}' > uniq-new.json
+        curl --http1.1 "https://www.uniqlo.com/in/api/commerce/v5/en/products?path=9672,,,&flagCodes=discount,discount&genderId=9672&offset=0&limit=36&imageRatio=3x4&httpFailure=true" -H "x-fr-clientid: uq.in.web-spa" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:140.0) Gecko/20100101 Firefox/140.0"
+        cat uniqlo-men.json | jq '.result.items | .[] | select (.prices.promo.value != null) | {sizes:.sizes,price:(.prices.promo.value|tonumber),basePrice:(.prices.base.value|tonumber),discount:((((.prices.base.value|tonumber) - (.prices.promo.value|tonumber))/(.prices.base.value|tonumber) * 100)|round), link:"https://www.uniqlo.com/in/en/products/\(.productId)",name:.name} | select (.discount > 40)' | jq -s 'sort_by(.price) | .[]' | jq 'select(.sizes | map(.name) | any(. == "S" or . == "M" or . == "73cm" or . == "76cm" or . == "29inch" or . == "30inch")) | {name:.name,price:.price,basePrice:.basePrice,discount:.discount,link:.link,sizes:[.sizes[] | select(.name == "S" or .name == "M" or .name == "73cm" or .name == "76cm" or .name == "29inch" or .name == "30inch") | .name]}' > uniq-new.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
